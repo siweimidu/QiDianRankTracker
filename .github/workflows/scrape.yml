@@ -27,12 +27,12 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v5
+      uses: actions/checkout@v7
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version: '3.11'
         cache: 'pip'
@@ -57,7 +57,7 @@ jobs:
         API_MODEL: ${{ secrets.API_MODEL }}
 
     - name: Commit and Push Changes
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: "[Auto] Update QiDian daily ranks"
         file_pattern: data api
@@ -65,15 +65,13 @@ jobs:
 
     # ---- 内联部署 Pages（绕过 GITHUB_TOKEN 不触发下游 workflow 的限制） ----
     - name: Setup Pages
-      uses: actions/configure-pages@v5
-      with:
-        enablement: true
+      uses: actions/configure-pages@v6
 
     - name: Upload Pages artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v5
       with:
         path: '.'
 
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
