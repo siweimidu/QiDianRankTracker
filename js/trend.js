@@ -105,9 +105,12 @@
       const kws = (s.keyword_heat || []).slice(0, 16);
       const kmax = Math.max(...kws.map(k => k.count), 1);
       $("kwCloud").innerHTML = kws.map((k, i) =>
-        `<span class="kw ${k.count / kmax > 0.6 ? "hi" : ""}"
+        `<a class="kw ${k.count / kmax > 0.6 ? "hi" : ""}"
+           href="index.html?board=${encodeURIComponent(slug)}&kw=${encodeURIComponent(k.keyword)}"
+           title="点击跳转到「${QT.esc(slug)}」榜单并按关键词「${QT.esc(k.keyword)}」筛选"
            style="animation-delay:${i * 40}ms;font-size:${(12 + k.count / kmax * 5).toFixed(1)}px">
-           ${QT.esc(k.keyword)} <b>${k.count}</b></span>`).join("");
+           ${QT.esc(k.keyword)} <b>${k.count}</b></a>`).join("") ||
+        `<div class="state-block"><p>该榜暂无题材热词</p></div>`;
     } catch { /* 静默 */ }
   }
 

@@ -279,11 +279,29 @@
   }
 
   // ---- 工具栏事件 ----
+  $("filterChipIcon").innerHTML = I.tag(13);
+  function syncFilterChip() {
+    const chip = $("filterChip");
+    if (!chip) return;
+    if (state.keyword) {
+      $("filterChipText").textContent = state.keyword;
+      chip.hidden = false;
+    } else { chip.hidden = true; }
+  }
+  $("filterChip").addEventListener("click", () => {
+    state.keyword = "";
+    $("searchInput").value = "";
+    syncFilterChip();
+    QT.setParam("kw", null);
+    renderBooks();
+  });
   let searchTimer;
   $("searchInput").addEventListener("input", (e) => {
     clearTimeout(searchTimer);
     searchTimer = setTimeout(() => {
       state.keyword = e.target.value.trim();
+      QT.setParam("kw", state.keyword || null);
+      syncFilterChip();
       renderBooks();
     }, 180);
   });
@@ -300,6 +318,14 @@
     loadBrief();
     loadRadar();
     loadStatus();
+    // 从题材风向等外部链接带入的关键词筛选（?kw=穿越）
+    const urlKw = QT.getParam("kw");
+    if (urlKw) {
+      state.keyword = urlKw;
+      const input = $("searchInput");
+      if (input) input.value = urlKw;
+    }
+    syncFilterChip();
     try {
       const idx = await QT.fetchJSON("api/boards.json");
       state.boards = idx.boards || [];
