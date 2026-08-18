@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>起点·风向标 | 起点中文网 21 榜单每日追踪看板</title>
+  <meta name="description" content="追踪起点中文网全部排行榜，每日自动抓取各分类 Top 30，AI 趋势分析、黑马雷达、作者势力榜一体化看板。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e6584b'%3E%3Cpath d='M3 8l4.5 4L12 5l4.5 7L21 8l-1.5 11h-15L3 8z'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="bg-glow"></div>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8l4.5 4L12 5l4.5 7L21 8l-1.5 11h-15L3 8z"/></svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-title">起点·风向标</span><br>
+          <span class="brand-sub">QIDIAN RANK TRACKER</span>
+        </span>
+      </a>
+      <nav class="topnav">
+        <a href="index.html" class="active" data-nav="index"></a>
+        <a href="trend.html" data-nav="trend"></a>
+      </nav>
+      <div class="top-status" id="topStatus"></div>
+    </div>
+  </header>
+
+  <div class="layout rail">
+    <aside class="side-panel" id="boardSide">
+      <div class="side-title" id="sideTitle"></div>
+      <div id="boardList"></div>
+    </aside>
+
+    <main class="main">
+      <div class="page-head rise-in">
+        <h1><span class="hicon" id="headIcon"></span><span id="boardTitle">加载中…</span></h1>
+        <div class="page-sub" id="boardSub"></div>
+      </div>
+
+      <section class="glass brief-bar rise-in" style="animation-delay:.08s">
+        <div class="brief-icon" id="briefIcon"></div>
+        <div class="brief-body">
+          <div class="brief-label" id="briefLabel"></div>
+          <div class="brief-text" id="briefText">正在获取 AI 风向日报…</div>
+        </div>
+      </section>
+
+      <div class="cat-tabs rise-in" id="catTabs" style="animation-delay:.14s"></div>
+
+      <div class="toolbar rise-in" style="animation-delay:.18s">
+        <div class="search-box">
+          <span id="searchIcon"></span>
+          <input id="searchInput" type="text" placeholder="搜书名 / 作者 / 题材…">
+        </div>
+        <div class="seg" id="sortSeg">
+          <button data-sort="rank" class="on"></button>
+          <button data-sort="metric"></button>
+          <button data-sort="rise"></button>
+        </div>
+      </div>
+
+      <div class="book-grid" id="bookGrid"></div>
+    </main>
+
+    <aside class="rail">
+      <section class="glass rail-card">
+        <div class="rail-head" id="radarHead"></div>
+        <div id="radarList"></div>
+      </section>
+      <section class="glass rail-card">
+        <div class="rail-head" id="authorHead"></div>
+        <div id="authorList"></div>
+      </section>
+    </aside>
+  </div>
+
+  <footer class="footer">
+    数据来源 <a href="https://www.qidian.com/rank/" target="_blank" rel="noopener">起点中文网排行榜</a> ·
+    每日自动抓取并构建 · GitHub Actions + Pages 全自动运行<br>
+    <a href="https://github.com/siweimidu/QiDianRankTracker" target="_blank" rel="noopener">siweimidu/QiDianRankTracker</a>
+  </footer>
+
+  <script src="js/icons.js"></script>
+  <script src="js/boards.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+name: Force Rebuild Dashboard
+
+# 手动触发：不重新抓取，仅重建趋势分析 / AI 速评 / 静态 API 并重新部署
+# 用途：配置 AI Secrets 后立刻重跑分析，或前端改版后重新部署
+on:
+  workflow_dispatch:
+    inputs:
+      force_ai:
+        description: '强制重新生成 AI 速评（忽略当日缓存）'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Rebuild analysis & API
+      run: python scripts/build_latest.py ${{ inputs.force_ai && '--force' || '' }}
+      env:
+        TZ: Asia/Shanghai
+        API_BASE_URL: ${{ secrets.API_BASE_URL }}
+        API_KEY: ${{ secrets.API_KEY }}
+        API_MODEL: ${{ secrets.API_MODEL }}
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "[Auto] Rebuild QiDian dashboard analysis"
+        file_pattern: data api
+        branch: main
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+      with:
+        enablement: true
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

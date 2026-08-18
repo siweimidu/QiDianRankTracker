@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>风向标 · 趋势分析 | 起点·风向标</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234cc3e8' stroke-width='2'%3E%3Ccircle cx='12' cy='12' r='9'/%3E%3Cpath d='M15.5 8.5l-2 5-5 2 2-5 5-2z'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="bg-glow"></div>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8l4.5 4L12 5l4.5 7L21 8l-1.5 11h-15L3 8z"/></svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-title">起点·风向标</span><br>
+          <span class="brand-sub">QIDIAN RANK TRACKER</span>
+        </span>
+      </a>
+      <nav class="topnav">
+        <a href="index.html" data-nav="index"></a>
+        <a href="trend.html" class="active" data-nav="trend"></a>
+      </nav>
+      <div class="top-status" id="topStatus"></div>
+    </div>
+  </header>
+
+  <div class="layout" style="grid-template-columns:1fr !important">
+    <main class="main">
+      <div class="page-head rise-in">
+        <h1><span class="hicon" id="headIcon"></span>风向标 · 趋势分析</h1>
+        <div class="page-sub">跨榜影响力 / 作者势力 / 分类热度 / 题材风向 / 榜首变迁</div>
+      </div>
+
+      <section class="glass brief-bar rise-in" style="animation-delay:.06s">
+        <div class="brief-icon" id="briefIcon"></div>
+        <div class="brief-body">
+          <div class="brief-label" id="briefLabel"></div>
+          <div class="brief-text" id="briefText"></div>
+        </div>
+      </section>
+
+      <div class="trend-grid">
+        <section class="glass panel span-8 rise-in" style="animation-delay:.12s">
+          <div class="panel-head" id="xbHead"></div>
+          <div class="xb-table" id="xbTable"></div>
+        </section>
+
+        <section class="glass panel span-4 rise-in" style="animation-delay:.18s" id="authorPanel">
+          <div class="panel-head" id="authorHead"></div>
+          <div id="authorList"></div>
+        </section>
+
+        <section class="glass panel span-6 rise-in" style="animation-delay:.22s">
+          <div class="panel-head">
+            <span id="heatIcon"></span><h2>分类热度</h2>
+            <span class="hint" id="heatHint">按指标总量</span>
+          </div>
+          <div id="heatList"></div>
+        </section>
+
+        <section class="glass panel span-6 rise-in" style="animation-delay:.26s">
+          <div class="panel-head">
+            <span id="kwIcon"></span><h2>题材风向</h2>
+            <span class="hint">简介+书名关键词命中</span>
+          </div>
+          <div class="kw-cloud" id="kwCloud"></div>
+        </section>
+
+        <section class="glass panel span-8 rise-in" style="animation-delay:.3s">
+          <div class="panel-head">
+            <span id="tlIcon"></span><h2>榜首变迁</h2>
+            <span class="hint">每日各榜 Top3 演化</span>
+          </div>
+          <div class="tl-list" id="tlList"></div>
+        </section>
+
+        <section class="glass panel span-4 rise-in" style="animation-delay:.34s">
+          <div class="panel-head">
+            <span id="stIcon"></span><h2>运行状态</h2>
+          </div>
+          <div id="statList"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    数据来源 <a href="https://www.qidian.com/rank/" target="_blank" rel="noopener">起点中文网排行榜</a> ·
+    GitHub Actions 每日自动运行 · <a href="https://github.com/siweimidu/QiDianRankTracker" target="_blank" rel="noopener">siweimidu/QiDianRankTracker</a>
+  </footer>
+
+  <script src="js/icons.js"></script>
+  <script src="js/boards.js"></script>
+  <script src="js/trend.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+{
+ "slug": "hotsales",
+ "name": "畅销榜",
+ "date": "2026-08-19",
+ "types": [
+  {
+   "name": "全部",
+   "url": "api/hotsales/latest/全部.json",
+   "count": 30
+  },
+  {
+   "name": "玄幻",
+   "url": "api/hotsales/latest/玄幻.json",
+   "count": 30
+  },
+  {
+   "name": "奇幻",
+   "url": "api/hotsales/latest/奇幻.json",
+   "count": 30
+  },
+  {
+   "name": "武侠",
+   "url": "api/hotsales/latest/武侠.json",
+   "count": 30
+  },
+  {
+   "name": "仙侠",
+   "url": "api/hotsales/latest/仙侠.json",
+   "count": 30
+  },
+  {
+   "name": "都市",
+   "url": "api/hotsales/latest/都市.json",
+   "count": 30
+  },
+  {
+   "name": "现实",
+   "url": "api/hotsales/latest/现实.json",
+   "count": 30
+  },
+  {
+   "name": "军事",
+   "url": "api/hotsales/latest/军事.json",
+   "count": 30
+  },
+  {
+   "name": "历史",
+   "url": "api/hotsales/latest/历史.json",
+   "count": 30
+  },
+  {
+   "name": "游戏",
+   "url": "api/hotsales/latest/游戏.json",
+   "count": 30
+  },
+  {
+   "name": "体育",
+   "url": "api/hotsales/latest/体育.json",
+   "count": 30
+  },
+  {
+   "name": "科幻",
+   "url": "api/hotsales/latest/科幻.json",
+   "count": 30
+  },
+  {
+   "name": "诸天无限",
+   "url": "api/hotsales/latest/诸天无限.json",
+   "count": 30
+  },
+  {
+   "name": "悬疑灵异",
+   "url": "api/hotsales/latest/悬疑灵异.json",
+   "count": 30
+  },
+  {
+   "name": "轻小说",
+   "url": "api/hotsales/latest/轻小说.json",
+   "count": 30
+  }
+ ]
+}

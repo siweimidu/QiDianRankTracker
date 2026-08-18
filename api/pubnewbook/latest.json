@@ -1,0 +1,82 @@
+{
+ "slug": "pubnewbook",
+ "name": "公众作者新书榜",
+ "date": "2026-08-19",
+ "types": [
+  {
+   "name": "全部",
+   "url": "api/pubnewbook/latest/全部.json",
+   "count": 30
+  },
+  {
+   "name": "玄幻",
+   "url": "api/pubnewbook/latest/玄幻.json",
+   "count": 30
+  },
+  {
+   "name": "奇幻",
+   "url": "api/pubnewbook/latest/奇幻.json",
+   "count": 30
+  },
+  {
+   "name": "武侠",
+   "url": "api/pubnewbook/latest/武侠.json",
+   "count": 30
+  },
+  {
+   "name": "仙侠",
+   "url": "api/pubnewbook/latest/仙侠.json",
+   "count": 30
+  },
+  {
+   "name": "都市",
+   "url": "api/pubnewbook/latest/都市.json",
+   "count": 30
+  },
+  {
+   "name": "现实",
+   "url": "api/pubnewbook/latest/现实.json",
+   "count": 30
+  },
+  {
+   "name": "军事",
+   "url": "api/pubnewbook/latest/军事.json",
+   "count": 30
+  },
+  {
+   "name": "历史",
+   "url": "api/pubnewbook/latest/历史.json",
+   "count": 30
+  },
+  {
+   "name": "游戏",
+   "url": "api/pubnewbook/latest/游戏.json",
+   "count": 30
+  },
+  {
+   "name": "体育",
+   "url": "api/pubnewbook/latest/体育.json",
+   "count": 24
+  },
+  {
+   "name": "科幻",
+   "url": "api/pubnewbook/latest/科幻.json",
+   "count": 30
+  },
+  {
+   "name": "诸天无限",
+   "url": "api/pubnewbook/latest/诸天无限.json",
+   "count": 30
+  },
+  {
+   "name": "悬疑灵异",
+   "url": "api/pubnewbook/latest/悬疑灵异.json",
+   "count": 30
+  },
+  {
+   "name": "轻小说",
+   "url": "api/pubnewbook/latest/轻小说.json",
+   "count": 30
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "updated_at": "2026-08-19T00:58:02",
+ "boards": [
+  {
+   "slug": "yuepiao",
+   "name": "月票榜",
+   "channel": "male",
+   "group": "paid",
+   "group_label": "付费价值盘",
+   "metric": "月票",
+   "date": "2026-08-19",
+   "url": "api/yuepiao/latest/all.json"
+  },
+  {
+   "slug": "hotsales",
+   "name": "畅销榜",
+   "channel": "male",
+   "group": "paid",
+   "group_label": "付费价值盘",
+   "metric": "畅销指数",
+   "date": "2026-08-19",
+   "url": "api/hotsales/latest/all.json"
+  },
+  {
+   "slug": "vipcollect",
+   "name": "VIP收藏榜",
+   "channel": "male",
+   "group": "paid",
+   "group_label": "付费价值盘",
+   "metric": "VIP收藏",
+   "date": "2026-08-19",
+   "url": "api/vipcollect/latest/all.json"
+  },
+  {
+   "slug": "vipup",
+   "name": "更新榜",
+   "channel": "male",
+   "group": "paid",
+   "group_label": "付费价值盘",
+   "metric": "更新",
+   "date": "2026-08-19",
+   "url": "api/vipup/latest/all.json"
+  },
+  {
+   "slug": "readindex",
+   "name": "阅读指数榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "阅读指数",
+   "date": "2026-08-19",
+   "url": "api/readindex/latest/all.json"
+  },
+  {
+   "slug": "followreading",
+   "name": "追读榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "追读",
+   "date": "2026-08-19",
+   "url": "api/followreading/latest/all.json"
+  },
+  {
+   "slug": "collect",
+   "name": "收藏榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "收藏",
+   "date": "2026-08-19",
+   "url": "api/collect/latest/all.json"
+  },
+  {
+   "slug": "newfans",
+   "name": "书友榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "书友",
+   "date": "2026-08-19",
+   "url": "api/newfans/latest/all.json"
+  },
+  {
+   "slug": "recom",
+   "name": "推荐榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "推荐票",
+   "date": "2026-08-19",
+   "url": "api/recom/latest/all.json"
+  },
+  {
+   "slug": "retention",
+   "name": "留存榜",
+   "channel": "male",
+   "group": "traffic",
+   "group_label": "流量热度盘",
+   "metric": "留存",
+   "date": "2026-08-19",
+   "url": "api/retention/latest/all.json"
+  },
+  {
+   "slug": "signnewbook",
+   "name": "签约作者新书榜",
+   "channel": "male",
+   "group": "newbook",
+   "group_label": "新书孵化盘",
+   "metric": "月票",
+   "date": "2026-08-19",
+   "url": "api/signnewbook/latest/all.json"
+  },
+  {
+   "slug": "pubnewbook",
+   "name": "公众作者新书榜",
+   "channel": "male",
+   "group": "newbook",
+   "group_label": "新书孵化盘",
+   "metric": "推荐票",
+   "date": "2026-08-19",
+   "url": "api/pubnewbook/latest/all.json"
+  },
+  {
+   "slug": "newsign",
+   "name": "新人签约新书榜",
+   "channel": "male",
+   "group": "newbook",
+   "group_label": "新书孵化盘",
+   "metric": "月票",
+   "date": "2026-08-19",
+   "url": "api/newsign/latest/all.json"
+  },
+  {
+   "slug": "newauthor",
+   "name": "新人作者新书榜",
+   "channel": "male",
+   "group": "newbook",
+   "group_label": "新书孵化盘",
+   "metric": "推荐票",
+   "date": "2026-08-19",
+   "url": "api/newauthor/latest/all.json"
+  },
+  {
+   "slug": "female-yuepiao",
+   "name": "女生月票榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "月票",
+   "date": "2026-08-19",
+   "url": "api/female-yuepiao/latest/all.json"
+  },
+  {
+   "slug": "female-hotsales",
+   "name": "女生畅销榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "畅销指数",
+   "date": "2026-08-19",
+   "url": "api/female-hotsales/latest/all.json"
+  },
+  {
+   "slug": "female-recom",
+   "name": "女生推荐榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "推荐票",
+   "date": "2026-08-19",
+   "url": "api/female-recom/latest/all.json"
+  },
+  {
+   "slug": "female-collect",
+   "name": "女生收藏榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "收藏",
+   "date": "2026-08-19",
+   "url": "api/female-collect/latest/all.json"
+  },
+  {
+   "slug": "female-newfans",
+   "name": "女生书友榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "书友",
+   "date": "2026-08-19",
+   "url": "api/female-newfans/latest/all.json"
+  },
+  {
+   "slug": "female-readindex",
+   "name": "女生阅读指数榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "阅读指数",
+   "date": "2026-08-19",
+   "url": "api/female-readindex/latest/all.json"
+  },
+  {
+   "slug": "female-newsign",
+   "name": "女生签约新书榜",
+   "channel": "female",
+   "group": "female",
+   "group_label": "女生频道",
+   "metric": "月票",
+   "date": "2026-08-19",
+   "url": "api/female-newsign/latest/all.json"
+  }
+ ]
+}

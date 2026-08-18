@@ -1,0 +1,82 @@
+{
+ "slug": "recom",
+ "name": "推荐榜",
+ "date": "2026-08-19",
+ "types": [
+  {
+   "name": "全部",
+   "url": "api/recom/latest/全部.json",
+   "count": 30
+  },
+  {
+   "name": "玄幻",
+   "url": "api/recom/latest/玄幻.json",
+   "count": 30
+  },
+  {
+   "name": "奇幻",
+   "url": "api/recom/latest/奇幻.json",
+   "count": 30
+  },
+  {
+   "name": "武侠",
+   "url": "api/recom/latest/武侠.json",
+   "count": 30
+  },
+  {
+   "name": "仙侠",
+   "url": "api/recom/latest/仙侠.json",
+   "count": 30
+  },
+  {
+   "name": "都市",
+   "url": "api/recom/latest/都市.json",
+   "count": 30
+  },
+  {
+   "name": "现实",
+   "url": "api/recom/latest/现实.json",
+   "count": 30
+  },
+  {
+   "name": "军事",
+   "url": "api/recom/latest/军事.json",
+   "count": 30
+  },
+  {
+   "name": "历史",
+   "url": "api/recom/latest/历史.json",
+   "count": 30
+  },
+  {
+   "name": "游戏",
+   "url": "api/recom/latest/游戏.json",
+   "count": 30
+  },
+  {
+   "name": "体育",
+   "url": "api/recom/latest/体育.json",
+   "count": 30
+  },
+  {
+   "name": "科幻",
+   "url": "api/recom/latest/科幻.json",
+   "count": 30
+  },
+  {
+   "name": "诸天无限",
+   "url": "api/recom/latest/诸天无限.json",
+   "count": 30
+  },
+  {
+   "name": "悬疑灵异",
+   "url": "api/recom/latest/悬疑灵异.json",
+   "count": 30
+  },
+  {
+   "name": "轻小说",
+   "url": "api/recom/latest/轻小说.json",
+   "count": 30
+  }
+ ]
+}
