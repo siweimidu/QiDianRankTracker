@@ -9,7 +9,7 @@
   "group_label": "新书孵化盘",
   "metric": "月票"
  },
- "total_books": 316,
+ "total_books": 255,
  "trends": {
   "全部": {
    "new_books": [],
@@ -50,36 +50,6 @@
    "metric_growth": [],
    "first_day": true,
    "summary": "【新人签约新书榜·武侠】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
-  },
-  "仙侠": {
-   "new_books": [],
-   "new_count": 0,
-   "dropped_books": [],
-   "dropped_count": 0,
-   "top_movers": [],
-   "metric_growth": [],
-   "first_day": true,
-   "summary": "【新人签约新书榜·仙侠】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
-  },
-  "都市": {
-   "new_books": [],
-   "new_count": 0,
-   "dropped_books": [],
-   "dropped_count": 0,
-   "top_movers": [],
-   "metric_growth": [],
-   "first_day": true,
-   "summary": "【新人签约新书榜·都市】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
-  },
-  "现实": {
-   "new_books": [],
-   "new_count": 0,
-   "dropped_books": [],
-   "dropped_count": 0,
-   "top_movers": [],
-   "metric_growth": [],
-   "first_day": true,
-   "summary": "【新人签约新书榜·现实】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
   },
   "军事": {
    "new_books": [],
@@ -182,18 +152,6 @@
    "heat": 3000
   },
   {
-   "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -242,12 +200,6 @@
    "heat": 1000
   },
   {
-   "name": "现实",
-   "count": 7,
-   "metric_total": 0,
-   "heat": 700
-  },
-  {
    "name": "军事",
    "count": 5,
    "metric_total": 0,
@@ -257,19 +209,15 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 121
+   "count": 107
   },
   {
    "keyword": "系统",
-   "count": 44
+   "count": 36
   },
   {
    "keyword": "重生",
-   "count": 34
-  },
-  {
-   "keyword": "修仙",
-   "count": 18
+   "count": 22
   },
   {
    "keyword": "诸天",
@@ -280,19 +228,11 @@
    "count": 7
   },
   {
+   "keyword": "修仙",
+   "count": 5
+  },
+  {
    "keyword": "天才",
-   "count": 6
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
-   "keyword": "经营",
-   "count": 5
-  },
-  {
-   "keyword": "科技",
    "count": 5
   },
   {
@@ -301,6 +241,18 @@
   },
   {
    "keyword": "无敌",
+   "count": 4
+  },
+  {
+   "keyword": "诡异",
+   "count": 4
+  },
+  {
+   "keyword": "大明",
+   "count": 4
+  },
+  {
+   "keyword": "种田",
    "count": 4
   }
  ],
@@ -325,7 +277,7 @@
      "metric": null
     }
    ],
-   "total_books": 346
+   "total_books": 279
   }
  ]
 }

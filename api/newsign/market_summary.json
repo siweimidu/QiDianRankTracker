@@ -20,18 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -80,12 +68,6 @@
    "heat": 1000
   },
   {
-   "name": "现实",
-   "count": 7,
-   "metric_total": 0,
-   "heat": 700
-  },
-  {
    "name": "军事",
    "count": 5,
    "metric_total": 0,
@@ -95,19 +77,15 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 121
+   "count": 107
   },
   {
    "keyword": "系统",
-   "count": 44
+   "count": 36
   },
   {
    "keyword": "重生",
-   "count": 34
-  },
-  {
-   "keyword": "修仙",
-   "count": 18
+   "count": 22
   },
   {
    "keyword": "诸天",
@@ -118,19 +96,11 @@
    "count": 7
   },
   {
+   "keyword": "修仙",
+   "count": 5
+  },
+  {
    "keyword": "天才",
-   "count": 6
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
-   "keyword": "经营",
-   "count": 5
-  },
-  {
-   "keyword": "科技",
    "count": 5
   },
   {
@@ -139,6 +109,18 @@
   },
   {
    "keyword": "无敌",
+   "count": 4
+  },
+  {
+   "keyword": "诡异",
+   "count": 4
+  },
+  {
+   "keyword": "大明",
+   "count": 4
+  },
+  {
+   "keyword": "种田",
    "count": 4
   }
  ],
@@ -163,7 +145,7 @@
      "metric": null
     }
    ],
-   "total_books": 346
+   "total_books": 279
   }
  ]
 }

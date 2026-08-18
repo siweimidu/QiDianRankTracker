@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -33,6 +39,12 @@
   },
   {
    "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -78,44 +90,28 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "武侠",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
-  },
-  {
-   "name": "军事",
-   "count": 21,
-   "metric_total": 0,
-   "heat": 2100
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 156
+   "count": 160
   },
   {
    "keyword": "系统",
-   "count": 66
+   "count": 71
   },
   {
    "keyword": "重生",
-   "count": 30
-  },
-  {
-   "keyword": "诸天",
-   "count": 16
+   "count": 29
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 18
   },
   {
-   "keyword": "历史",
-   "count": 10
+   "keyword": "诸天",
+   "count": 18
   },
   {
    "keyword": "大明",
@@ -123,102 +119,85 @@
   },
   {
    "keyword": "无敌",
-   "count": 7
+   "count": 8
   },
   {
-   "keyword": "直播",
+   "keyword": "天才",
    "count": 7
   },
   {
    "keyword": "诡异",
-   "count": 7
+   "count": 6
   },
   {
    "keyword": "种田",
    "count": 6
   },
   {
-   "keyword": "万界",
+   "keyword": "电竞",
+   "count": 6
+  },
+  {
+   "keyword": "直播",
    "count": 6
   }
  ],
  "author_power": [
   {
-   "author": "咚咚又在偷懒",
-   "books": 3,
+   "author": "哈基米丫南北绿豆",
+   "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
-    "洪荒：阐教首徒，吾以音道证混元",
-    "洪荒：九叶剑草，吾为三清共徒",
-    "让你设计密室，你成后室管理员？"
+    "国运求生：每日一情报，万倍资源",
+    "国运求生：满级钓鱼佬，万倍反馈"
+   ]
+  },
+  {
+   "author": "太太请自重",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "天幕：从赢阴嫚开始万朝现代旅行",
+    "精灵大唐：送长乐九尾，李二急哭"
    ]
   },
   {
    "author": "佚名",
    "books": 2,
-   "top10": 2,
-   "bestRank": 1,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
-    "劫天运",
-    "我一个医学生，你让我当收尸人？"
+    "我只是一个凡人，为什么你们都奉我为圣",
+    "劫天运"
+   ]
+  },
+  {
+   "author": "荔枝冰奶不加糖",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 11,
+   "titles": [
+    "三角洲：女友倒地，我威龙杀疯了",
+    "三角洲：让你考核，你考官杀疯了"
    ]
   },
   {
    "author": "水万竖象",
    "books": 2,
-   "top10": 2,
-   "bestRank": 3,
+   "top10": 0,
+   "bestRank": 18,
    "titles": [
     "洪荒：吾微末崛起，掌因果缔姻缘",
     "洪荒：吾乃东皇太一，天地至高神"
    ]
   },
   {
-   "author": "元文文",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "三角洲：扮演威龙，我帅哭全网",
-    "三角洲：让你护航，你去护职业？"
-   ]
-  },
-  {
-   "author": "黄鱼鸡",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "全球觉醒，我假面骑士被曝光！",
-    "高考前，开局获得崇皇时王表盘"
-   ]
-  },
-  {
-   "author": "嗜睡老乌龟",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 9,
-   "titles": [
-    "斗罗：武魂彩虹龙，刚子嫌我多余",
-    "斗罗：火凤涅槃，开局退出史莱克"
-   ]
-  },
-  {
-   "author": "相逢却不识君",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 3,
-   "titles": [
-    "万朝旅行：开局带嬴阴嫚逛兵马俑",
-    "双穿大唐：开局带着小兕子看电影"
-   ]
-  },
-  {
    "author": "末日番茄炒蛋",
    "books": 2,
    "top10": 0,
-   "bestRank": 14,
+   "bestRank": 18,
    "titles": [
     "全球畸变：从凡人开始无限进化",
     "荒岛基建：谎称系统是多子多福"
@@ -230,22 +209,22 @@
    "date": "2026-08-19",
    "top3": [
     {
-     "title": "都变身了谁当祸水啊",
-     "author": "若叶和酒",
+     "title": "日娱：从破产社长开始逆袭",
+     "author": "下巴丸子",
      "metric": null
     },
     {
-     "title": "斗罗：圣灵教圣子，截胡霍雨浩",
-     "author": "天崖游子",
+     "title": "1978：文豪从被误解开始",
+     "author": "门下三千鸦",
      "metric": null
     },
     {
-     "title": "高达：从棋子到棋手",
-     "author": "反物质引擎",
+     "title": "斗罗：穿越霍雨浩，她们都不对劲",
+     "author": "七某人l",
      "metric": null
     }
    ],
-   "total_books": 439
+   "total_books": 450
   }
  ]
 }
