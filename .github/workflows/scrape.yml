@@ -21,6 +21,7 @@ on:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,6 +54,7 @@ jobs:
       run: python scrape_qidian.py --top 30
       env:
         TZ: Asia/Shanghai
+        SCRAPE_DEADLINE_SEC: "1500"
 
     - name: Build Latest Data with AI Analysis
       run: python scripts/build_latest.py
@@ -69,7 +71,7 @@ jobs:
         file_pattern: data api
         branch: main
 
-    # ---- 内联部署 Pages（绕过 GITHUB_TOKEN 不触发下游 workflow 的限制） ----
+    # ---- 内联部署 Pages（GITHUB_TOKEN 的 push 不会触发下游 pages.yml，故内联部署） ----
     - name: Setup Pages
       uses: actions/configure-pages@v6
 
