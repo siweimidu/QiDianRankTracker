@@ -20,7 +20,8 @@ MIN_INTERVAL = 0.55
 class Fetcher:
     """带 WAF 自愈能力的 HTTP 抓取器。"""
 
-    def __init__(self, min_interval: float = MIN_INTERVAL, verbose: bool = True):
+    def __init__(self, min_interval: float = MIN_INTERVAL, verbose: bool = True,
+                 max_handshakes: int = 4):
         self.min_interval = min_interval
         self.verbose = verbose
         self.session = requests.Session()
@@ -32,10 +33,22 @@ class Fetcher:
             "Connection": "keep-alive",
         })
         self._last_ts = 0.0
-        self._refresh_cookies()
+        # WAF 拦截标记：一旦握手彻底失败/超限，后续请求直接返回 None，
+        # 避免对成百上千个 URL 各重复一次 ~3 分钟的握手而耗尽 6h 超时。
+        self.blocked = False
+        self.handshake_calls = 0
+        self.max_handshakes = max_handshakes
+        try:
+            self._refresh_cookies()
+        except RuntimeError as e:
+            self.blocked = True
+            print(f"  [WAF] 初始化握手失败，标记 WAF 拦截：{e}")
 
     # ------------------------------------------------------------------
     def _refresh_cookies(self):
+        self.handshake_calls += 1
+        if self.handshake_calls > self.max_handshakes:
+            raise RuntimeError("WAF 握手次数过多，疑似被拦截")
         cookies = handshake(verbose=self.verbose)
         self.session.cookies.update(cookies)
 
@@ -60,6 +73,8 @@ class Fetcher:
     # ------------------------------------------------------------------
     def get(self, url: str, retries: int = 3, timeout: int = 20) -> str | None:
         """GET 并返回 HTML 文本；挑战自动重握手重试。"""
+        if self.blocked:
+            return None
         for attempt in range(retries + 1):
             self._throttle()
             try:
@@ -78,9 +93,11 @@ class Fetcher:
             try:
                 self._refresh_cookies()
             except RuntimeError as e:
-                if attempt >= retries:
-                    print(f"    [HTTP] 放弃：{e}")
-                    return None
+                # 握手失败/超限：标记 WAF 拦截并立即返回，避免对每
+                # 个 URL 都重复一次 ~3 分钟的握手，从而耗尽 6h 超时。
+                self.blocked = True
+                print(f"    [HTTP] 重新握手失败，标记 WAF 拦截：{e}")
+                return None
             time.sleep(1.5 + attempt * 2)
         return None
 
