@@ -1,113 +1,113 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-20",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 203912,
-   "heat": 203912
+   "metric_total": 382233,
+   "heat": 382233
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 117897,
-   "heat": 117897
+   "metric_total": 220960,
+   "heat": 220960
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 72983,
-   "heat": 72983
+   "metric_total": 132799,
+   "heat": 132799
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 62152,
-   "heat": 62152
+   "metric_total": 118022,
+   "heat": 118022
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 41990,
-   "heat": 41990
+   "metric_total": 75497,
+   "heat": 75497
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 39789,
-   "heat": 39789
+   "metric_total": 73956,
+   "heat": 73956
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 35130,
-   "heat": 35130
+   "metric_total": 62728,
+   "heat": 62728
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 16629,
-   "heat": 16629
+   "metric_total": 30209,
+   "heat": 30209
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 16600,
-   "heat": 16600
+   "metric_total": 29729,
+   "heat": 29729
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 16382,
-   "heat": 16382
+   "metric_total": 29673,
+   "heat": 29673
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 13984,
-   "heat": 13984
+   "metric_total": 25386,
+   "heat": 25386
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 13644,
-   "heat": 13644
+   "metric_total": 24226,
+   "heat": 24226
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 9461,
-   "heat": 9461
+   "metric_total": 16998,
+   "heat": 16998
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 5769,
-   "heat": 5769
+   "metric_total": 10544,
+   "heat": 10544
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 2130,
-   "heat": 2130
+   "metric_total": 3783,
+   "heat": 3783
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 75
+   "count": 73
   },
   {
    "keyword": "重生",
-   "count": 24
+   "count": 25
   },
   {
    "keyword": "系统",
-   "count": 23
+   "count": 24
   },
   {
    "keyword": "诸天",
-   "count": 12
+   "count": 14
   },
   {
    "keyword": "诡异",
@@ -118,15 +118,19 @@
    "count": 9
   },
   {
-   "keyword": "谍战",
-   "count": 8
-  },
-  {
    "keyword": "修仙",
    "count": 7
   },
   {
+   "keyword": "谍战",
+   "count": 7
+  },
+  {
    "keyword": "工业",
+   "count": 6
+  },
+  {
+   "keyword": "三国",
    "count": 6
   },
   {
@@ -136,17 +140,24 @@
   {
    "keyword": "科技",
    "count": 5
-  },
-  {
-   "keyword": "大明",
-   "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "爱潜水的乌贼",
+   "author": "我会修空调",
    "books": 3,
    "top10": 3,
+   "bestRank": 2,
+   "titles": [
+    "怪谈游戏设计师",
+    "我有一座冒险屋",
+    "我的治愈系游戏"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 2,
    "bestRank": 2,
    "titles": [
     "剑烛大荒",
@@ -155,44 +166,13 @@
    ]
   },
   {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 9,
-   "titles": [
-    "怪谈游戏设计师",
-    "我有一座冒险屋",
-    "我的治愈系游戏"
-   ]
-  },
-  {
-   "author": "猪头七",
+   "author": "我吃西红柿",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 4,
    "titles": [
-    "东方既白",
-    "我的谍战岁月"
-   ]
-  },
-  {
-   "author": "远瞳",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "异度旅社",
-    "黎明之剑"
-   ]
-  },
-  {
-   "author": "柳岸花又明",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "重生高考前99天",
-    "我真没想重生啊"
+    "吞噬星空2起源大陆",
+    "吞噬星空"
    ]
   },
   {
@@ -216,40 +196,50 @@
    ]
   },
   {
-   "author": "蒋根烁713",
+   "author": "猪头七",
    "books": 2,
-   "top10": 2,
-   "bestRank": 8,
+   "top10": 1,
+   "bestRank": 1,
    "titles": [
-    "谍战：红鸾归巢",
-    "大明1498，我的饭馆通两界"
+    "东方既白",
+    "我的谍战岁月"
    ]
   },
   {
-   "author": "我吃西红柿",
+   "author": "柳岸花又明",
    "books": 2,
-   "top10": 2,
-   "bestRank": 8,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
-    "吞噬星空2起源大陆",
-    "吞噬星空"
+    "重生高考前99天",
+    "我真没想重生啊"
    ]
   },
   {
    "author": "三天两觉",
    "books": 2,
    "top10": 1,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "盖世双谐",
     "惊悚乐园"
    ]
   },
   {
+   "author": "远瞳",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "异度旅社",
+    "黎明之剑"
+   ]
+  },
+  {
    "author": "青衫取醉",
    "books": 2,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 7,
    "titles": [
     "神的模仿犯",
     "亏成首富从游戏开始-《年少有为》电视剧原著"
@@ -294,6 +284,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 16954
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-20",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 57967
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": 36322
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 31373
     }
    ],
    "total_books": 450

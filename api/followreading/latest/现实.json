@@ -1,5 +1,5 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-20",
  "board": {
   "slug": "followreading",
   "name": "追读榜",
@@ -33,9 +33,20 @@
   "new_count": 0,
   "dropped_books": [],
   "dropped_count": 0,
-  "top_movers": [],
+  "top_movers": [
+   {
+    "rank": 1,
+    "title": "行商坐医",
+    "author": "山樵守护者",
+    "rankChange": 0,
+    "metric": 0,
+    "metricGrowth": null,
+    "metricLabel": "",
+    "momentum": 0.0
+   }
+  ],
   "metric_growth": [],
-  "first_day": true,
-  "summary": "【追读榜·现实】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  "first_day": false,
+  "summary": "【追读榜·现实】榜单结构稳定，头部固若金汤。"
  }
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-20",
  "category_heat": [
   {
    "name": "全部",
@@ -95,27 +95,31 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 87
-  },
-  {
-   "keyword": "系统",
-   "count": 32
+   "count": 88
   },
   {
    "keyword": "重生",
    "count": 29
   },
   {
-   "keyword": "修仙",
-   "count": 13
-  },
-  {
-   "keyword": "历史",
-   "count": 10
+   "keyword": "系统",
+   "count": 29
   },
   {
    "keyword": "诸天",
-   "count": 9
+   "count": 13
+  },
+  {
+   "keyword": "修仙",
+   "count": 12
+  },
+  {
+   "keyword": "历史",
+   "count": 11
+  },
+  {
+   "keyword": "工业",
+   "count": 7
   },
   {
    "keyword": "诡异",
@@ -126,19 +130,15 @@
    "count": 6
   },
   {
-   "keyword": "工业",
-   "count": 6
-  },
-  {
-   "keyword": "天才",
-   "count": 6
-  },
-  {
    "keyword": "灵异",
    "count": 5
   },
   {
-   "keyword": "末世",
+   "keyword": "种田",
+   "count": 5
+  },
+  {
+   "keyword": "天才",
    "count": 5
   }
  ],
@@ -146,8 +146,8 @@
   {
    "author": "爱潜水的乌贼",
    "books": 4,
-   "top10": 2,
-   "bestRank": 5,
+   "top10": 3,
+   "bestRank": 4,
    "titles": [
     "诡秘之主",
     "剑烛大荒",
@@ -157,7 +157,7 @@
   {
    "author": "远瞳",
    "books": 4,
-   "top10": 1,
+   "top10": 2,
    "bestRank": 4,
    "titles": [
     "异度旅社",
@@ -166,9 +166,75 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
+   "author": "我吃西红柿",
+   "books": 4,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "盘龙",
+    "九鼎记",
+    "吞噬星空"
+   ]
+  },
+  {
+   "author": "我会修空调",
    "books": 3,
    "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "长风",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "秘战无声",
+    "刀尖之上",
+    "抗战：重整山河"
+   ]
+  },
+  {
+   "author": "晨星LL",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "这游戏也太真实了",
+    "学霸的黑科技系统",
+    "魔王大人深不可测"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 7,
+   "titles": [
+    "临圣",
+    "大奉打更人",
+    "灵境行者"
+   ]
+  },
+  {
+   "author": "佚名",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "我的隐婚天后",
+    "铁路往事",
+    "铁血残明"
+   ]
+  },
+  {
+   "author": "纯洁滴小龙",
+   "books": 3,
+   "top10": 1,
    "bestRank": 3,
    "titles": [
     "捞尸人",
@@ -177,43 +243,10 @@
    ]
   },
   {
-   "author": "我吃西红柿",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "盘龙",
-    "吞噬星空",
-    "吞噬星空2起源大陆"
-   ]
-  },
-  {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
-   "author": "卖报小郎君",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "临圣",
-    "大奉打更人",
-    "灵境行者"
-   ]
-  },
-  {
    "author": "榴弹怕水",
    "books": 3,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 9,
    "titles": [
     "廓晋",
     "绍宋",
@@ -221,10 +254,20 @@
    ]
   },
   {
-   "author": "落魄的小纯洁",
+   "author": "猪头七",
    "books": 2,
    "top10": 2,
    "bestRank": 1,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
+   ]
+  },
+  {
+   "author": "落魄的小纯洁",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
     "灭门夜，我易筋经大圆满！",
     "武侠：开局奖励满级神功"
@@ -234,76 +277,57 @@
    "author": "眉师娘",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 2,
    "titles": [
     "万物希声",
     "奔腾年代——向南向北"
    ]
   },
   {
-   "author": "争斤论两花花帽",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "我的1979",
-    "卜筑"
-   ]
-  },
-  {
-   "author": "青衫取醉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "神的模仿犯",
-    "亏成首富从游戏开始-《年少有为》电视剧原著"
-   ]
-  },
-  {
-   "author": "孤独麦客",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "北望江山",
-    "晋末长剑"
-   ]
-  },
-  {
    "author": "黑山老鬼",
    "books": 2,
    "top10": 2,
-   "bestRank": 3,
+   "bestRank": 2,
    "titles": [
     "急急如律令",
     "黄昏分界"
    ]
   },
   {
-   "author": "晨星LL",
+   "author": "山樵守护者",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 3,
    "titles": [
-    "这游戏也太真实了",
-    "魔王大人深不可测"
-   ]
-  },
-  {
-   "author": "宅猪",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "牧神记",
-    "择日飞升"
+    "行商坐医",
+    "数攻"
    ]
   }
  ],
  "timeline": [
   {
    "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-20",
    "top3": [
     {
      "title": "夜无疆",
