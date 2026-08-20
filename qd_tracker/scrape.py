@@ -166,6 +166,7 @@ def scrape_board(fetcher: Fetcher, board: dict, top_n: int,
 # ----------------------------------------------------------------------
 def run_scraper(top_n: int = 30, sleep_sec: float = 0.8,
                 only: list = None) -> list:
+    deadline = int(os.environ.get("SCRAPE_DEADLINE_SEC", "0")) or None
     boards = enabled_boards()
     if only:
         boards = [b for b in boards if b["slug"] in only]
@@ -178,6 +179,9 @@ def run_scraper(top_n: int = 30, sleep_sec: float = 0.8,
     reports = []
     t0 = time.time()
     for board in boards:
+        if deadline and (time.time() - t0) > deadline:
+            print(f"  ⏰ 已达时间预算 {deadline}s，停止后续榜单，保留已抓取数据")
+            break
         try:
             reports.append(scrape_board(fetcher, board, top_n, sleep_sec))
         except Exception as e:  # noqa: BLE001
@@ -199,4 +203,7 @@ def run_scraper(top_n: int = 30, sleep_sec: float = 0.8,
           f"个榜单抓取成功，共 "
           f"{sum(r['books'] for r in reports)} 本书，"
           f"耗时 {time.time() - t0:.0f}s。")
+    if ok == 0:
+        # 全部失败（疑似 WAF 拦截）：抛错让 CI 步骤失败，避免提交/部署空数据。
+        raise RuntimeError("全部榜单抓取失败（疑似被 WAF 拦截），不提交空数据")
     return reports
