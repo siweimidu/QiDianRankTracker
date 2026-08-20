@@ -1,5 +1,5 @@
 {
- "date": "2026-08-20",
+ "date": "2026-08-21",
  "category_heat": [
   {
    "name": "全部",
@@ -32,6 +32,54 @@
    "heat": 3000
   },
   {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 26,
+   "metric_total": 0,
+   "heat": 2600
+  },
+  {
+   "name": "科幻",
+   "count": 24,
+   "metric_total": 0,
+   "heat": 2400
+  },
+  {
+   "name": "体育",
+   "count": 17,
+   "metric_total": 0,
+   "heat": 1700
+  },
+  {
+   "name": "军事",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
    "name": "武侠",
    "count": 8,
    "metric_total": 0,
@@ -47,51 +95,51 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 53
+   "count": 100
   },
   {
    "keyword": "系统",
-   "count": 14
-  },
-  {
-   "keyword": "修仙",
-   "count": 14
+   "count": 30
   },
   {
    "keyword": "重生",
-   "count": 12
+   "count": 29
   },
   {
-   "keyword": "诡异",
-   "count": 4
-  },
-  {
-   "keyword": "历史",
-   "count": 4
+   "keyword": "修仙",
+   "count": 17
   },
   {
    "keyword": "诸天",
-   "count": 4
+   "count": 16
   },
   {
-   "keyword": "异能",
-   "count": 3
+   "keyword": "历史",
+   "count": 10
   },
   {
-   "keyword": "天才",
-   "count": 3
+   "keyword": "诡异",
+   "count": 7
+  },
+  {
+   "keyword": "副本",
+   "count": 6
   },
   {
    "keyword": "科技",
-   "count": 2
+   "count": 5
   },
   {
-   "keyword": "争霸",
-   "count": 2
+   "keyword": "万界",
+   "count": 5
   },
   {
-   "keyword": "种田",
-   "count": 2
+   "keyword": "末世",
+   "count": 5
+  },
+  {
+   "keyword": "天才",
+   "count": 4
   }
  ],
  "author_power": [
@@ -148,6 +196,27 @@
     }
    ],
    "total_books": 159
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 334
   }
  ]
 }

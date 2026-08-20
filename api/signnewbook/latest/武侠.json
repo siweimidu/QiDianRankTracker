@@ -1,5 +1,5 @@
 {
- "date": "2026-08-20",
+ "date": "2026-08-21",
  "board": {
   "slug": "signnewbook",
   "name": "签约作者新书榜",
@@ -46,23 +46,6 @@
   },
   {
    "rank": 3,
-   "bid": "1050244623",
-   "title": "江湖匹夫",
-   "author": "顽固的仓颉",
-   "category": "武侠",
-   "subCategory": "传统武侠",
-   "status": "连载",
-   "intro": "江湖人总说，成大事者，不拘小节。可那些“小节”，也有父母，有名字，也有人在许多年后，仍会从梦里哭醒。大侠救过千万人，碑上...",
-   "latestChapter": "第三十八章 现在可以了",
-   "updateTime": "2026-08-20 16:00",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050244623/150",
-   "bookUrl": "https://www.qidian.com/book/1050244623/",
-   "metricLabel": "",
-   "metric": null,
-   "metricText": ""
-  },
-  {
-   "rank": 4,
    "bid": "1050188749",
    "title": "剑出武当，家妻白发魔女",
    "author": "天顶一粒星",
@@ -79,6 +62,23 @@
    "metricText": ""
   },
   {
+   "rank": 4,
+   "bid": "1050244623",
+   "title": "江湖匹夫",
+   "author": "顽固的仓颉",
+   "category": "武侠",
+   "subCategory": "传统武侠",
+   "status": "连载",
+   "intro": "江湖人总说，成大事者，不拘小节。可那些“小节”，也有父母，有名字，也有人在许多年后，仍会从梦里哭醒。大侠救过千万人，碑上...",
+   "latestChapter": "第三十八章 现在可以了",
+   "updateTime": "2026-08-20 16:00",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050244623/150",
+   "bookUrl": "https://www.qidian.com/book/1050244623/",
+   "metricLabel": "",
+   "metric": null,
+   "metricText": ""
+  },
+  {
    "rank": 5,
    "bid": "1050374199",
    "title": "人在峨眉，开局绑定周芷若",
@@ -87,8 +87,8 @@
    "subCategory": "武侠同人",
    "status": "连载",
    "intro": "陈凡穿越到倚天屠龙记世界。觉醒了绑定系统。奈何系统自动绑定了周芷若。无可奈何之下，陈凡随其一同拜入了峨眉派。【周芷若练剑...",
-   "latestChapter": "第29章 火气很大",
-   "updateTime": "2026-08-19 23:59",
+   "latestChapter": "第31章 黑脸的宋远桥",
+   "updateTime": "2026-08-20 23:59",
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050374199/150",
    "bookUrl": "https://www.qidian.com/book/1050374199/",
    "metricLabel": "",
@@ -150,58 +150,13 @@
  "trend": {
   "new_books": [],
   "new_count": 0,
-  "dropped_books": [
-   {
-    "title": "女侠，我真不是故意的",
-    "subCategory": "武侠幻想"
-   }
-  ],
-  "dropped_count": 1,
+  "dropped_books": [],
+  "dropped_count": 0,
   "top_movers": [
    {
-    "rank": 4,
+    "rank": 3,
     "title": "剑出武当，家妻白发魔女",
     "author": "天顶一粒星",
-    "rankChange": 1,
-    "metric": 0,
-    "metricGrowth": null,
-    "metricLabel": "",
-    "momentum": 2.0
-   },
-   {
-    "rank": 5,
-    "title": "人在峨眉，开局绑定周芷若",
-    "author": "早晚得疯",
-    "rankChange": 1,
-    "metric": 0,
-    "metricGrowth": null,
-    "metricLabel": "",
-    "momentum": 2.0
-   },
-   {
-    "rank": 6,
-    "title": "人在倚天：开局获得九阴真经",
-    "author": "茂森林",
-    "rankChange": 1,
-    "metric": 0,
-    "metricGrowth": null,
-    "metricLabel": "",
-    "momentum": 2.0
-   },
-   {
-    "rank": 7,
-    "title": "穿越焦大：高龄武圣横推四大",
-    "author": "火鹰船长",
-    "rankChange": 1,
-    "metric": 0,
-    "metricGrowth": null,
-    "metricLabel": "",
-    "momentum": 2.0
-   },
-   {
-    "rank": 8,
-    "title": "武侠：每周刷新扮演模板",
-    "author": "湖舟厦边鸾羽",
     "rankChange": 1,
     "metric": 0,
     "metricGrowth": null,
@@ -229,18 +184,58 @@
     "momentum": 0.0
    },
    {
-    "rank": 3,
-    "title": "江湖匹夫",
-    "author": "顽固的仓颉",
+    "rank": 5,
+    "title": "人在峨眉，开局绑定周芷若",
+    "author": "早晚得疯",
     "rankChange": 0,
     "metric": 0,
     "metricGrowth": null,
     "metricLabel": "",
     "momentum": 0.0
+   },
+   {
+    "rank": 6,
+    "title": "人在倚天：开局获得九阴真经",
+    "author": "茂森林",
+    "rankChange": 0,
+    "metric": 0,
+    "metricGrowth": null,
+    "metricLabel": "",
+    "momentum": 0.0
+   },
+   {
+    "rank": 7,
+    "title": "穿越焦大：高龄武圣横推四大",
+    "author": "火鹰船长",
+    "rankChange": 0,
+    "metric": 0,
+    "metricGrowth": null,
+    "metricLabel": "",
+    "momentum": 0.0
+   },
+   {
+    "rank": 8,
+    "title": "武侠：每周刷新扮演模板",
+    "author": "湖舟厦边鸾羽",
+    "rankChange": 0,
+    "metric": 0,
+    "metricGrowth": null,
+    "metricLabel": "",
+    "momentum": 0.0
+   },
+   {
+    "rank": 4,
+    "title": "江湖匹夫",
+    "author": "顽固的仓颉",
+    "rankChange": -1,
+    "metric": 0,
+    "metricGrowth": null,
+    "metricLabel": "",
+    "momentum": -2.0
    }
   ],
   "metric_growth": [],
   "first_day": false,
-  "summary": "【签约作者新书榜·武侠】1 本掉榜；《剑出武当，家妻白发魔女》动能 2.0 分领跑。"
+  "summary": "【签约作者新书榜·武侠】《剑出武当，家妻白发魔女》动能 2.0 分领跑。"
  }
 }

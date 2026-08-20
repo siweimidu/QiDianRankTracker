@@ -1,111 +1,111 @@
 {
- "date": "2026-08-20",
+ "date": "2026-08-21",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 677936,
-   "heat": 677936
+   "metric_total": 684498,
+   "heat": 684498
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 319078,
-   "heat": 319078
+   "metric_total": 322132,
+   "heat": 322132
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 286832,
-   "heat": 286832
+   "metric_total": 289844,
+   "heat": 289844
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 215169,
-   "heat": 215169
+   "metric_total": 217169,
+   "heat": 217169
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 213674,
-   "heat": 213674
+   "metric_total": 215299,
+   "heat": 215299
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 127616,
-   "heat": 127616
+   "metric_total": 128541,
+   "heat": 128541
   },
   {
    "name": "VIP新作",
    "count": 30,
-   "metric_total": 104211,
-   "heat": 104211
+   "metric_total": 104934,
+   "heat": 104934
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 81844,
-   "heat": 81844
+   "metric_total": 82601,
+   "heat": 82601
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 56638,
-   "heat": 56638
+   "metric_total": 57324,
+   "heat": 57324
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 35511,
-   "heat": 35511
+   "metric_total": 35903,
+   "heat": 35903
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 27391,
-   "heat": 27391
+   "metric_total": 27716,
+   "heat": 27716
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 27277,
-   "heat": 27277
+   "metric_total": 27529,
+   "heat": 27529
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 25114,
-   "heat": 25114
+   "metric_total": 25476,
+   "heat": 25476
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 19988,
-   "heat": 19988
+   "metric_total": 20212,
+   "heat": 20212
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 16172,
-   "heat": 16172
+   "metric_total": 16385,
+   "heat": 16385
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 2134,
-   "heat": 2134
+   "metric_total": 2149,
+   "heat": 2149
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 93
+   "count": 94
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 31
   },
   {
    "keyword": "重生",
@@ -152,12 +152,23 @@
   {
    "author": "我会修空调",
    "books": 3,
-   "top10": 2,
-   "bestRank": 1,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
     "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "剑烛大荒",
+    "诡秘之主",
+    "宿命之环"
    ]
   },
   {
@@ -169,17 +180,6 @@
     "异度旅社",
     "黎明之剑",
     "深海余烬"
-   ]
-  },
-  {
-   "author": "爱潜水的乌贼",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 8,
-   "titles": [
-    "剑烛大荒",
-    "诡秘之主",
-    "宿命之环"
    ]
   },
   {
@@ -235,8 +235,8 @@
   {
    "author": "风月",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
     "天启预报",
     "天命之上"
@@ -302,6 +302,27 @@
      "title": "夜无疆",
      "author": "辰东",
      "metric": 43979
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 60607
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 55175
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 44645
     }
    ],
    "total_books": 480

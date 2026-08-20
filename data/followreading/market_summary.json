@@ -1,5 +1,5 @@
 {
- "date": "2026-08-20",
+ "date": "2026-08-21",
  "category_heat": [
   {
    "name": "全部",
@@ -75,9 +75,9 @@
   },
   {
    "name": "悬疑灵异",
-   "count": 16,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1500
   },
   {
    "name": "武侠",
@@ -95,14 +95,14 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 74
-  },
-  {
-   "keyword": "系统",
-   "count": 24
+   "count": 75
   },
   {
    "keyword": "重生",
+   "count": 23
+  },
+  {
+   "keyword": "系统",
    "count": 23
   },
   {
@@ -130,15 +130,15 @@
    "count": 6
   },
   {
+   "keyword": "副本",
+   "count": 5
+  },
+  {
    "keyword": "种田",
    "count": 4
   },
   {
    "keyword": "无敌",
-   "count": 4
-  },
-  {
-   "keyword": "克苏鲁",
    "count": 4
   }
  ],
@@ -185,6 +185,27 @@
     }
    ],
    "total_books": 384
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "青山",
+     "author": "会说话的肘子",
+     "metric": null
+    }
+   ],
+   "total_books": 383
   }
  ]
 }
