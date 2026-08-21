@@ -1,5 +1,5 @@
 {
- "date": "2026-08-21",
+ "date": "2026-08-22",
  "category_heat": [
   {
    "name": "全部",
@@ -51,15 +51,15 @@
   },
   {
    "name": "游戏",
-   "count": 26,
+   "count": 27,
    "metric_total": 0,
-   "heat": 2600
+   "heat": 2700
   },
   {
    "name": "科幻",
-   "count": 24,
+   "count": 25,
    "metric_total": 0,
-   "heat": 2400
+   "heat": 2500
   },
   {
    "name": "体育",
@@ -68,7 +68,7 @@
    "heat": 1700
   },
   {
-   "name": "军事",
+   "name": "武侠",
    "count": 9,
    "metric_total": 0,
    "heat": 900
@@ -80,7 +80,7 @@
    "heat": 900
   },
   {
-   "name": "武侠",
+   "name": "军事",
    "count": 8,
    "metric_total": 0,
    "heat": 800
@@ -95,19 +95,19 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 100
+   "count": 103
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 32
   },
   {
    "keyword": "重生",
-   "count": 29
+   "count": 28
   },
   {
    "keyword": "修仙",
-   "count": 17
+   "count": 18
   },
   {
    "keyword": "诸天",
@@ -115,11 +115,11 @@
   },
   {
    "keyword": "历史",
-   "count": 10
+   "count": 9
   },
   {
    "keyword": "诡异",
-   "count": 7
+   "count": 6
   },
   {
    "keyword": "副本",
@@ -134,8 +134,8 @@
    "count": 5
   },
   {
-   "keyword": "末世",
-   "count": 5
+   "keyword": "御兽",
+   "count": 4
   },
   {
    "keyword": "天才",
@@ -146,8 +146,8 @@
   {
    "author": "顽固的仓颉",
    "books": 2,
-   "top10": 2,
-   "bestRank": 1,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
     "我就收个尸，怎么成魔尊了？",
     "江湖匹夫"
@@ -217,6 +217,27 @@
     }
    ],
    "total_books": 334
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 336
   }
  ]
 }

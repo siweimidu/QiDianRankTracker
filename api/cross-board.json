@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T05:02:49",
+ "updated_at": "2026-08-22T05:38:29",
  "top": [
   {
    "bid": "1038356866",
@@ -14,7 +14,7 @@
      "slug": "yuepiao",
      "category": "悬疑灵异",
      "rank": 1,
-     "metric": 4047,
+     "metric": 4267,
      "metricLabel": "月票"
     },
     {
@@ -42,14 +42,6 @@
      "metricLabel": ""
     },
     {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "悬疑灵异",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
      "board": "书友榜",
      "slug": "newfans",
      "category": "悬疑灵异",
@@ -62,7 +54,7 @@
      "slug": "recom",
      "category": "悬疑灵异",
      "rank": 3,
-     "metric": 2733,
+     "metric": 3392,
      "metricLabel": "推荐"
     },
     {
@@ -73,87 +65,11 @@
      "metric": null,
      "metricLabel": ""
     },
-    {
-     "board": "VIP收藏榜",
-     "slug": "vipcollect",
-     "category": "悬疑灵异",
-     "rank": 17,
-     "metric": 420629,
-     "metricLabel": "收藏"
-    },
-    {
-     "board": "收藏榜",
-     "slug": "collect",
-     "category": "悬疑灵异",
-     "rank": 17,
-     "metric": 420629,
-     "metricLabel": "收藏"
-    }
-   ],
-   "momentum": 77.8,
-   "isNew": true
-  },
-  {
-   "bid": "1024194308",
-   "title": "玩家请上车",
-   "author": "海晏山",
-   "category": "悬疑灵异",
-   "subCategory": "规则怪谈",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1024194308/150",
-   "boards": [
     {
      "board": "更新榜",
      "slug": "vipup",
      "category": "悬疑灵异",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "悬疑灵异",
-     "rank": 2,
-     "metric": 3226,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "悬疑灵异",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "悬疑灵异",
-     "rank": 4,
-     "metric": 1783,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "悬疑灵异",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "悬疑灵异",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "悬疑灵异",
-     "rank": 7,
+     "rank": 16,
      "metric": null,
      "metricLabel": ""
     },
@@ -161,29 +77,21 @@
      "board": "VIP收藏榜",
      "slug": "vipcollect",
      "category": "悬疑灵异",
-     "rank": 12,
-     "metric": 503667,
+     "rank": 17,
+     "metric": 420932,
      "metricLabel": "收藏"
     },
     {
      "board": "收藏榜",
      "slug": "collect",
      "category": "悬疑灵异",
-     "rank": 12,
-     "metric": 503667,
+     "rank": 17,
+     "metric": 420932,
      "metricLabel": "收藏"
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "悬疑灵异",
-     "rank": 12,
-     "metric": null,
-     "metricLabel": ""
     }
    ],
-   "momentum": 74.8,
-   "isNew": true
+   "momentum": 68.5,
+   "isNew": false
   },
   {
    "bid": "1035148756",
@@ -194,14 +102,6 @@
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1035148756/150",
    "boards": [
     {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "现实",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
      "board": "追读榜",
      "slug": "followreading",
      "category": "现实",
@@ -218,8 +118,8 @@
      "metricLabel": ""
     },
     {
-     "board": "畅销榜",
-     "slug": "hotsales",
+     "board": "更新榜",
+     "slug": "vipup",
      "category": "现实",
      "rank": 2,
      "metric": null,
@@ -230,14 +130,22 @@
      "slug": "yuepiao",
      "category": "现实",
      "rank": 3,
-     "metric": 196,
+     "metric": 205,
      "metricLabel": "月票"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "现实",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
     },
     {
      "board": "书友榜",
      "slug": "newfans",
      "category": "现实",
-     "rank": 3,
+     "rank": 4,
      "metric": null,
      "metricLabel": ""
     },
@@ -254,7 +162,7 @@
      "slug": "recom",
      "category": "现实",
      "rank": 8,
-     "metric": 182,
+     "metric": 231,
      "metricLabel": "推荐"
     },
     {
@@ -262,7 +170,7 @@
      "slug": "vipcollect",
      "category": "现实",
      "rank": 20,
-     "metric": 74783,
+     "metric": 74789,
      "metricLabel": "收藏"
     },
     {
@@ -270,11 +178,11 @@
      "slug": "collect",
      "category": "现实",
      "rank": 20,
-     "metric": 74783,
+     "metric": 74789,
      "metricLabel": "收藏"
     }
    ],
-   "momentum": 69.0,
+   "momentum": 68.2,
    "isNew": false
   },
   {
@@ -286,8 +194,8 @@
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1046497842/150",
    "boards": [
     {
-     "board": "追读榜",
-     "slug": "followreading",
+     "board": "更新榜",
+     "slug": "vipup",
      "category": "武侠",
      "rank": 5,
      "metric": null,
@@ -298,104 +206,44 @@
      "slug": "yuepiao",
      "category": "武侠",
      "rank": 6,
-     "metric": 1015,
+     "metric": 1086,
      "metricLabel": "月票"
     },
     {
-     "board": "留存榜",
-     "slug": "retention",
+     "board": "追读榜",
+     "slug": "followreading",
      "category": "武侠",
      "rank": 6,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "武侠",
-     "rank": 8,
-     "metric": 543,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "武侠",
-     "rank": 9,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "VIP收藏榜",
-     "slug": "vipcollect",
-     "category": "武侠",
-     "rank": 10,
-     "metric": 187362,
-     "metricLabel": "收藏"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "武侠",
-     "rank": 10,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "收藏榜",
-     "slug": "collect",
-     "category": "武侠",
-     "rank": 10,
-     "metric": 187362,
-     "metricLabel": "收藏"
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "武侠",
-     "rank": 10,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "武侠",
-     "rank": 20,
-     "metric": null,
-     "metricLabel": ""
-    }
-   ],
-   "momentum": 61.5,
-   "isNew": false
-  },
-  {
-   "bid": "1045445836",
-   "title": "人在峨眉，开局获取金色词条",
-   "author": "黑白大团子",
-   "category": "武侠",
-   "subCategory": "传统武侠",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1045445836/150",
-   "boards": [
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
+     "board": "留存榜",
+     "slug": "retention",
      "category": "武侠",
      "rank": 7,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "更新榜",
-     "slug": "vipup",
+     "board": "阅读指数榜",
+     "slug": "readindex",
      "category": "武侠",
      "rank": 8,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "追读榜",
-     "slug": "followreading",
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "武侠",
+     "rank": 8,
+     "metric": 650,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
      "category": "武侠",
      "rank": 9,
      "metric": null,
@@ -410,55 +258,199 @@
      "metricLabel": ""
     },
     {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "武侠",
-     "rank": 12,
-     "metric": 491,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "武侠",
-     "rank": 13,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "武侠",
-     "rank": 14,
-     "metric": 332,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "武侠",
-     "rank": 14,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
      "board": "VIP收藏榜",
      "slug": "vipcollect",
      "category": "武侠",
-     "rank": 20,
-     "metric": 214986,
+     "rank": 10,
+     "metric": 187588,
      "metricLabel": "收藏"
     },
     {
      "board": "收藏榜",
      "slug": "collect",
      "category": "武侠",
-     "rank": 20,
-     "metric": 214986,
+     "rank": 10,
+     "metric": 187588,
      "metricLabel": "收藏"
     }
    ],
-   "momentum": 59.5,
+   "momentum": 65.5,
+   "isNew": false
+  },
+  {
+   "bid": "1024194308",
+   "title": "玩家请上车",
+   "author": "海晏山",
+   "category": "悬疑灵异",
+   "subCategory": "规则怪谈",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1024194308/150",
+   "boards": [
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "悬疑灵异",
+     "rank": 2,
+     "metric": 4056,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "悬疑灵异",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "悬疑灵异",
+     "rank": 4,
+     "metric": 1896,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "悬疑灵异",
+     "rank": 7,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "悬疑灵异",
+     "rank": 7,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "悬疑灵异",
+     "rank": 8,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "悬疑灵异",
+     "rank": 12,
+     "metric": 503824,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "悬疑灵异",
+     "rank": 12,
+     "metric": 503824,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "悬疑灵异",
+     "rank": 12,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "悬疑灵异",
+     "rank": 18,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 63.8,
+   "isNew": false
+  },
+  {
+   "bid": "1040840487",
+   "title": "我的魔法没有上限！",
+   "author": "瑟瑟发抖梨花猫",
+   "category": "奇幻",
+   "subCategory": "剑与魔法",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1040840487/150",
+   "boards": [
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "奇幻",
+     "rank": 1,
+     "metric": 16881,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "奇幻",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "奇幻",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "奇幻",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "奇幻",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "奇幻",
+     "rank": 2,
+     "metric": 3479,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "奇幻",
+     "rank": 9,
+     "metric": 317790,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "奇幻",
+     "rank": 10,
+     "metric": 317790,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "奇幻",
+     "rank": 10,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 73.2,
    "isNew": true
   },
   {
@@ -474,7 +466,7 @@
      "slug": "yuepiao",
      "category": "仙侠",
      "rank": 1,
-     "metric": 55175,
+     "metric": 57647,
      "metricLabel": "月票"
     },
     {
@@ -490,7 +482,7 @@
      "slug": "vipcollect",
      "category": "仙侠",
      "rank": 1,
-     "metric": 11199358,
+     "metric": 11215674,
      "metricLabel": "收藏"
     },
     {
@@ -514,7 +506,7 @@
      "slug": "collect",
      "category": "仙侠",
      "rank": 1,
-     "metric": 11199358,
+     "metric": 11215674,
      "metricLabel": "收藏"
     },
     {
@@ -530,20 +522,104 @@
      "slug": "recom",
      "category": "仙侠",
      "rank": 1,
-     "metric": 33132,
+     "metric": 41103,
      "metricLabel": "推荐"
     },
     {
      "board": "留存榜",
      "slug": "retention",
      "category": "仙侠",
-     "rank": 13,
+     "rank": 11,
      "metric": null,
      "metricLabel": ""
     }
    ],
-   "momentum": 71.2,
+   "momentum": 71.8,
    "isNew": false
+  },
+  {
+   "bid": "1017371184",
+   "title": "盖世双谐",
+   "author": "三天两觉",
+   "category": "武侠",
+   "subCategory": "武侠幻想",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1017371184/150",
+   "boards": [
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "武侠",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "武侠",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "武侠",
+     "rank": 3,
+     "metric": 3634,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "武侠",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "武侠",
+     "rank": 5,
+     "metric": 1430,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "武侠",
+     "rank": 6,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "武侠",
+     "rank": 8,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "武侠",
+     "rank": 9,
+     "metric": 467040,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "武侠",
+     "rank": 9,
+     "metric": 467040,
+     "metricLabel": "收藏"
+    }
+   ],
+   "momentum": 70.8,
+   "isNew": true
   },
   {
    "bid": "1040765595",
@@ -558,7 +634,7 @@
      "slug": "yuepiao",
      "category": "玄幻",
      "rank": 1,
-     "metric": 44645,
+     "metric": 47570,
      "metricLabel": "月票"
     },
     {
@@ -582,14 +658,14 @@
      "slug": "recom",
      "category": "玄幻",
      "rank": 1,
-     "metric": 62309,
+     "metric": 78475,
      "metricLabel": "推荐"
     },
     {
      "board": "阅读指数榜",
      "slug": "readindex",
      "category": "玄幻",
-     "rank": 2,
+     "rank": 3,
      "metric": null,
      "metricLabel": ""
     },
@@ -597,82 +673,6 @@
      "board": "书友榜",
      "slug": "newfans",
      "category": "玄幻",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "玄幻",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "VIP收藏榜",
-     "slug": "vipcollect",
-     "category": "玄幻",
-     "rank": 9,
-     "metric": 3478693,
-     "metricLabel": "收藏"
-    },
-    {
-     "board": "收藏榜",
-     "slug": "collect",
-     "category": "玄幻",
-     "rank": 9,
-     "metric": 3478693,
-     "metricLabel": "收藏"
-    }
-   ],
-   "momentum": 68.5,
-   "isNew": false
-  },
-  {
-   "bid": "1048625813",
-   "title": "开局相亲女神捕，获独孤九剑",
-   "author": "今日问道",
-   "category": "武侠",
-   "subCategory": "武侠幻想",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1048625813/150",
-   "boards": [
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "武侠",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "武侠",
-     "rank": 2,
-     "metric": 6194,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "武侠",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "武侠",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "武侠",
      "rank": 4,
      "metric": null,
      "metricLabel": ""
@@ -680,6 +680,74 @@
     {
      "board": "留存榜",
      "slug": "retention",
+     "category": "玄幻",
+     "rank": 5,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "玄幻",
+     "rank": 9,
+     "metric": 3482114,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "玄幻",
+     "rank": 9,
+     "metric": 3482114,
+     "metricLabel": "收藏"
+    }
+   ],
+   "momentum": 68.0,
+   "isNew": false
+  },
+  {
+   "bid": "1047291081",
+   "title": "灭门夜，我易筋经大圆满！",
+   "author": "落魄的小纯洁",
+   "category": "武侠",
+   "subCategory": "武侠幻想",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047291081/150",
+   "boards": [
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "武侠",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "武侠",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "武侠",
+     "rank": 4,
+     "metric": 1662,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "武侠",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
      "category": "武侠",
      "rank": 5,
      "metric": null,
@@ -689,28 +757,36 @@
      "board": "推荐榜",
      "slug": "recom",
      "category": "武侠",
-     "rank": 6,
-     "metric": 823,
+     "rank": 5,
+     "metric": 1466,
      "metricLabel": "推荐"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "武侠",
+     "rank": 5,
+     "metric": null,
+     "metricLabel": ""
     },
     {
      "board": "VIP收藏榜",
      "slug": "vipcollect",
      "category": "武侠",
-     "rank": 8,
-     "metric": 190112,
+     "rank": 6,
+     "metric": 197369,
      "metricLabel": "收藏"
     },
     {
      "board": "收藏榜",
      "slug": "collect",
      "category": "武侠",
-     "rank": 8,
-     "metric": 190112,
+     "rank": 6,
+     "metric": 197369,
      "metricLabel": "收藏"
     }
    ],
-   "momentum": 66.8,
+   "momentum": 66.5,
    "isNew": false
   },
   {
@@ -726,7 +802,7 @@
      "slug": "yuepiao",
      "category": "科幻",
      "rank": 1,
-     "metric": 17277,
+     "metric": 18107,
      "metricLabel": "月票"
     },
     {
@@ -758,7 +834,7 @@
      "slug": "recom",
      "category": "科幻",
      "rank": 1,
-     "metric": 18302,
+     "metric": 22553,
      "metricLabel": "推荐"
     },
     {
@@ -782,7 +858,7 @@
      "slug": "vipcollect",
      "category": "科幻",
      "rank": 14,
-     "metric": 1065187,
+     "metric": 1065644,
      "metricLabel": "收藏"
     },
     {
@@ -790,7 +866,7 @@
      "slug": "collect",
      "category": "科幻",
      "rank": 14,
-     "metric": 1065187,
+     "metric": 1065644,
      "metricLabel": "收藏"
     }
    ],
@@ -798,13 +874,29 @@
    "isNew": false
   },
   {
-   "bid": "1047291081",
-   "title": "灭门夜，我易筋经大圆满！",
-   "author": "落魄的小纯洁",
+   "bid": "1048625813",
+   "title": "开局相亲女神捕，获独孤九剑",
+   "author": "今日问道",
    "category": "武侠",
    "subCategory": "武侠幻想",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047291081/150",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1048625813/150",
    "boards": [
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "武侠",
+     "rank": 2,
+     "metric": 6339,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "武侠",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
     {
      "board": "追读榜",
      "slug": "followreading",
@@ -814,26 +906,10 @@
      "metricLabel": ""
     },
     {
-     "board": "月票榜",
-     "slug": "yuepiao",
+     "board": "书友榜",
+     "slug": "newfans",
      "category": "武侠",
-     "rank": 4,
-     "metric": 1600,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "武侠",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "武侠",
-     "rank": 4,
+     "rank": 3,
      "metric": null,
      "metricLabel": ""
     },
@@ -849,37 +925,121 @@
      "board": "推荐榜",
      "slug": "recom",
      "category": "武侠",
-     "rank": 5,
-     "metric": 1158,
+     "rank": 6,
+     "metric": 1032,
      "metricLabel": "推荐"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "武侠",
+     "rank": 6,
+     "metric": null,
+     "metricLabel": ""
     },
     {
      "board": "VIP收藏榜",
      "slug": "vipcollect",
      "category": "武侠",
-     "rank": 6,
-     "metric": 193618,
+     "rank": 8,
+     "metric": 190607,
      "metricLabel": "收藏"
     },
     {
      "board": "收藏榜",
      "slug": "collect",
      "category": "武侠",
-     "rank": 6,
-     "metric": 193618,
+     "rank": 8,
+     "metric": 190607,
      "metricLabel": "收藏"
+    }
+   ],
+   "momentum": 65.5,
+   "isNew": false
+  },
+  {
+   "bid": "1042145420",
+   "title": "永噩长夜",
+   "author": "zhttty",
+   "category": "诸天无限",
+   "subCategory": "无限",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1042145420/150",
+   "boards": [
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "诸天无限",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
     },
     {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "武侠",
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "诸天无限",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "诸天无限",
+     "rank": 1,
+     "metric": 4368,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "诸天无限",
+     "rank": 4,
+     "metric": 2510,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "诸天无限",
      "rank": 6,
      "metric": null,
      "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "诸天无限",
+     "rank": 9,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "诸天无限",
+     "rank": 10,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "诸天无限",
+     "rank": 20,
+     "metric": 330495,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "诸天无限",
+     "rank": 20,
+     "metric": 330495,
+     "metricLabel": "收藏"
     }
    ],
-   "momentum": 65.8,
-   "isNew": false
+   "momentum": 64.5,
+   "isNew": true
   },
   {
    "bid": "1042256511",
@@ -894,7 +1054,7 @@
      "slug": "yuepiao",
      "category": "仙侠",
      "rank": 2,
-     "metric": 32828,
+     "metric": 34220,
      "metricLabel": "月票"
     },
     {
@@ -934,7 +1094,7 @@
      "slug": "recom",
      "category": "仙侠",
      "rank": 2,
-     "metric": 14355,
+     "metric": 17687,
      "metricLabel": "推荐"
     },
     {
@@ -942,7 +1102,7 @@
      "slug": "vipcollect",
      "category": "仙侠",
      "rank": 12,
-     "metric": 2755365,
+     "metric": 2759431,
      "metricLabel": "收藏"
     },
     {
@@ -950,19 +1110,19 @@
      "slug": "collect",
      "category": "仙侠",
      "rank": 12,
-     "metric": 2755365,
+     "metric": 2759431,
      "metricLabel": "收藏"
     },
     {
      "board": "留存榜",
      "slug": "retention",
      "category": "仙侠",
-     "rank": 15,
+     "rank": 14,
      "metric": null,
      "metricLabel": ""
     }
    ],
-   "momentum": 63.8,
+   "momentum": 64.0,
    "isNew": false
   },
   {
@@ -986,7 +1146,7 @@
      "slug": "recom",
      "category": "奇幻",
      "rank": 1,
-     "metric": 3415,
+     "metric": 4258,
      "metricLabel": "推荐"
     },
     {
@@ -994,7 +1154,7 @@
      "slug": "yuepiao",
      "category": "奇幻",
      "rank": 2,
-     "metric": 5027,
+     "metric": 5389,
      "metricLabel": "月票"
     },
     {
@@ -1014,18 +1174,18 @@
      "metricLabel": ""
     },
     {
-     "board": "书友榜",
-     "slug": "newfans",
+     "board": "留存榜",
+     "slug": "retention",
      "category": "奇幻",
-     "rank": 9,
+     "rank": 8,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "留存榜",
-     "slug": "retention",
+     "board": "书友榜",
+     "slug": "newfans",
      "category": "奇幻",
-     "rank": 9,
+     "rank": 10,
      "metric": null,
      "metricLabel": ""
     },
@@ -1034,7 +1194,7 @@
      "slug": "vipcollect",
      "category": "奇幻",
      "rank": 14,
-     "metric": 487224,
+     "metric": 487443,
      "metricLabel": "收藏"
     },
     {
@@ -1042,7 +1202,7 @@
      "slug": "collect",
      "category": "奇幻",
      "rank": 14,
-     "metric": 487224,
+     "metric": 487443,
      "metricLabel": "收藏"
     }
    ],
@@ -1069,16 +1229,24 @@
      "board": "畅销榜",
      "slug": "hotsales",
      "category": "玄幻",
-     "rank": 3,
+     "rank": 4,
      "metric": null,
      "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "玄幻",
+     "rank": 4,
+     "metric": 16075,
+     "metricLabel": "推荐"
     },
     {
      "board": "月票榜",
      "slug": "yuepiao",
      "category": "玄幻",
-     "rank": 4,
-     "metric": 27547,
+     "rank": 5,
+     "metric": 29168,
      "metricLabel": "月票"
     },
     {
@@ -1088,14 +1256,6 @@
      "rank": 5,
      "metric": null,
      "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "玄幻",
-     "rank": 5,
-     "metric": 11948,
-     "metricLabel": "推荐"
     },
     {
      "board": "留存榜",
@@ -1118,7 +1278,7 @@
      "slug": "vipcollect",
      "category": "玄幻",
      "rank": 16,
-     "metric": 1842689,
+     "metric": 1844304,
      "metricLabel": "收藏"
     },
     {
@@ -1126,11 +1286,11 @@
      "slug": "collect",
      "category": "玄幻",
      "rank": 16,
-     "metric": 1842689,
+     "metric": 1844304,
      "metricLabel": "收藏"
     }
    ],
-   "momentum": 60.5,
+   "momentum": 60.2,
    "isNew": false
   },
   {
@@ -1153,7 +1313,7 @@
      "board": "畅销榜",
      "slug": "hotsales",
      "category": "游戏",
-     "rank": 5,
+     "rank": 4,
      "metric": null,
      "metricLabel": ""
     },
@@ -1170,7 +1330,7 @@
      "slug": "yuepiao",
      "category": "游戏",
      "rank": 7,
-     "metric": 1255,
+     "metric": 1318,
      "metricLabel": "月票"
     },
     {
@@ -1178,7 +1338,7 @@
      "slug": "vipcollect",
      "category": "游戏",
      "rank": 7,
-     "metric": 391855,
+     "metric": 392214,
      "metricLabel": "收藏"
     },
     {
@@ -1186,7 +1346,7 @@
      "slug": "collect",
      "category": "游戏",
      "rank": 8,
-     "metric": 391855,
+     "metric": 392214,
      "metricLabel": "收藏"
     },
     {
@@ -1201,20 +1361,20 @@
      "board": "推荐榜",
      "slug": "recom",
      "category": "游戏",
-     "rank": 13,
-     "metric": 815,
+     "rank": 12,
+     "metric": 1022,
      "metricLabel": "推荐"
     },
     {
      "board": "书友榜",
      "slug": "newfans",
      "category": "游戏",
-     "rank": 16,
+     "rank": 17,
      "metric": null,
      "metricLabel": ""
     }
    ],
-   "momentum": 58.5,
+   "momentum": 58.8,
    "isNew": false
   },
   {
@@ -1238,7 +1398,7 @@
      "slug": "yuepiao",
      "category": "奇幻",
      "rank": 5,
-     "metric": 2754,
+     "metric": 2901,
      "metricLabel": "月票"
     },
     {
@@ -1253,15 +1413,15 @@
      "board": "推荐榜",
      "slug": "recom",
      "category": "奇幻",
-     "rank": 5,
-     "metric": 1878,
+     "rank": 6,
+     "metric": 2304,
      "metricLabel": "推荐"
     },
     {
      "board": "畅销榜",
      "slug": "hotsales",
      "category": "奇幻",
-     "rank": 6,
+     "rank": 9,
      "metric": null,
      "metricLabel": ""
     },
@@ -1269,7 +1429,7 @@
      "board": "书友榜",
      "slug": "newfans",
      "category": "奇幻",
-     "rank": 15,
+     "rank": 17,
      "metric": null,
      "metricLabel": ""
     },
@@ -1278,7 +1438,7 @@
      "slug": "vipcollect",
      "category": "奇幻",
      "rank": 18,
-     "metric": 412724,
+     "metric": 413064,
      "metricLabel": "收藏"
     },
     {
@@ -1286,7 +1446,7 @@
      "slug": "collect",
      "category": "奇幻",
      "rank": 19,
-     "metric": 412724,
+     "metric": 413064,
      "metricLabel": "收藏"
     },
     {
@@ -1298,105 +1458,197 @@
      "metricLabel": ""
     }
    ],
-   "momentum": 52.5,
+   "momentum": 51.0,
    "isNew": false
   },
   {
-   "bid": "1047497993",
-   "title": "东方既白",
-   "author": "猪头七",
-   "category": "军事",
-   "subCategory": "谍战特工",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047497993/150",
+   "bid": "1045445836",
+   "title": "人在峨眉，开局获取金色词条",
+   "author": "黑白大团子",
+   "category": "武侠",
+   "subCategory": "传统武侠",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1045445836/150",
    "boards": [
     {
      "board": "畅销榜",
      "slug": "hotsales",
-     "category": "军事",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "军事",
-     "rank": 1,
-     "metric": 1335,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "军事",
-     "rank": 2,
-     "metric": 2006,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "军事",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "军事",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "军事",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "军事",
+     "category": "武侠",
      "rank": 6,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "军事",
-     "rank": 7,
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "武侠",
+     "rank": 10,
      "metric": null,
      "metricLabel": ""
-    }
-   ],
-   "momentum": 67.0,
-   "isNew": true
-  },
-  {
-   "bid": "1049457309",
-   "title": "永不独行！",
-   "author": "成丽来啦",
-   "category": "体育",
-   "subCategory": "足球运动",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049457309/150",
-   "boards": [
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "体育",
-     "rank": 2,
-     "metric": 2427,
-     "metricLabel": "月票"
     },
     {
      "board": "书友榜",
      "slug": "newfans",
-     "category": "体育",
+     "category": "武侠",
+     "rank": 11,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "武侠",
+     "rank": 12,
+     "metric": 521,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "武侠",
+     "rank": 13,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "武侠",
+     "rank": 15,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "武侠",
+     "rank": 16,
+     "metric": 399,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "VIP收藏榜",
+     "slug": "vipcollect",
+     "category": "武侠",
+     "rank": 20,
+     "metric": 215084,
+     "metricLabel": "收藏"
+    },
+    {
+     "board": "收藏榜",
+     "slug": "collect",
+     "category": "武侠",
+     "rank": 20,
+     "metric": 215084,
+     "metricLabel": "收藏"
+    }
+   ],
+   "momentum": 45.8,
+   "isNew": false
+  },
+  {
+   "bid": "1047881102",
+   "title": "廓晋",
+   "author": "榴弹怕水",
+   "category": "历史",
+   "subCategory": "两晋隋唐",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047881102/150",
+   "boards": [
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "历史",
+     "rank": 1,
+     "metric": 22949,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "历史",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "历史",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "历史",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "历史",
+     "rank": 1,
+     "metric": 17039,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "历史",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "历史",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "历史",
+     "rank": 19,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 66.8,
+   "isNew": true
+  },
+  {
+   "bid": "1047411403",
+   "title": "美利坚：游戏制作教父",
+   "author": "哈娜欧菲手",
+   "category": "游戏",
+   "subCategory": "游戏系统",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047411403/150",
+   "boards": [
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "游戏",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "游戏",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "游戏",
      "rank": 3,
      "metric": null,
      "metricLabel": ""
@@ -1404,15 +1656,23 @@
     {
      "board": "留存榜",
      "slug": "retention",
-     "category": "体育",
+     "category": "游戏",
      "rank": 3,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "体育",
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "游戏",
+     "rank": 4,
+     "metric": 1762,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "游戏",
      "rank": 4,
      "metric": null,
      "metricLabel": ""
@@ -1420,37 +1680,21 @@
     {
      "board": "更新榜",
      "slug": "vipup",
-     "category": "体育",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "体育",
-     "rank": 4,
+     "category": "游戏",
+     "rank": 7,
      "metric": null,
      "metricLabel": ""
     },
     {
      "board": "推荐榜",
      "slug": "recom",
-     "category": "体育",
-     "rank": 4,
-     "metric": 989,
+     "category": "游戏",
+     "rank": 7,
+     "metric": 1343,
      "metricLabel": "推荐"
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "体育",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
     }
    ],
-   "momentum": 66.8,
+   "momentum": 65.8,
    "isNew": true
   },
   {
@@ -1466,7 +1710,7 @@
      "slug": "yuepiao",
      "category": "都市",
      "rank": 1,
-     "metric": 60607,
+     "metric": 63520,
      "metricLabel": "月票"
     },
     {
@@ -1482,7 +1726,7 @@
      "slug": "vipcollect",
      "category": "都市",
      "rank": 1,
-     "metric": 11012966,
+     "metric": 11035544,
      "metricLabel": "收藏"
     },
     {
@@ -1506,7 +1750,7 @@
      "slug": "collect",
      "category": "都市",
      "rank": 1,
-     "metric": 11012966,
+     "metric": 11035544,
      "metricLabel": "收藏"
     },
     {
@@ -1514,324 +1758,20 @@
      "slug": "recom",
      "category": "都市",
      "rank": 1,
-     "metric": 22518,
+     "metric": 27687,
      "metricLabel": "推荐"
     },
     {
      "board": "书友榜",
      "slug": "newfans",
      "category": "都市",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    }
-   ],
-   "momentum": 65.5,
-   "isNew": false
-  },
-  {
-   "bid": "1049212993",
-   "title": "人在俄乌当佣兵，杀敌就能爆属性",
-   "author": "KID大魔王",
-   "category": "军事",
-   "subCategory": "战争幻想",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049212993/150",
-   "boards": [
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "军事",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "军事",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "军事",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "军事",
-     "rank": 3,
-     "metric": 1771,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "军事",
-     "rank": 3,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "军事",
      "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "军事",
-     "rank": 5,
-     "metric": 519,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "军事",
-     "rank": 14,
      "metric": null,
      "metricLabel": ""
     }
    ],
    "momentum": 65.2,
-   "isNew": true
-  },
-  {
-   "bid": "1042290063",
-   "title": "谁说这里有怪谈的？",
-   "author": "你是不是笨蛋",
-   "category": "悬疑灵异",
-   "subCategory": "诡异神秘",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1042290063/150",
-   "boards": [
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "悬疑灵异",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "悬疑灵异",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "悬疑灵异",
-     "rank": 5,
-     "metric": 1593,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "悬疑灵异",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "悬疑灵异",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "悬疑灵异",
-     "rank": 6,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "悬疑灵异",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "悬疑灵异",
-     "rank": 12,
-     "metric": 678,
-     "metricLabel": "推荐"
-    }
-   ],
-   "momentum": 62.5,
-   "isNew": true
-  },
-  {
-   "bid": "1040840487",
-   "title": "我的魔法没有上限！",
-   "author": "瑟瑟发抖梨花猫",
-   "category": "奇幻",
-   "subCategory": "剑与魔法",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1040840487/150",
-   "boards": [
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "奇幻",
-     "rank": 1,
-     "metric": 16082,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "奇幻",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "奇幻",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "奇幻",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "奇幻",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "奇幻",
-     "rank": 2,
-     "metric": 2742,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "奇幻",
-     "rank": 8,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "VIP收藏榜",
-     "slug": "vipcollect",
-     "category": "奇幻",
-     "rank": 10,
-     "metric": 314657,
-     "metricLabel": "收藏"
-    }
-   ],
-   "momentum": 61.5,
    "isNew": false
-  },
-  {
-   "bid": "1045495146",
-   "title": "神秘复苏：假如",
-   "author": "爱躺尸的风",
-   "category": "悬疑灵异",
-   "subCategory": "诡异神秘",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1045495146/150",
-   "boards": [
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "悬疑灵异",
-     "rank": 2,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "悬疑灵异",
-     "rank": 6,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "悬疑灵异",
-     "rank": 6,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "悬疑灵异",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "悬疑灵异",
-     "rank": 8,
-     "metric": 932,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "悬疑灵异",
-     "rank": 8,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "悬疑灵异",
-     "rank": 8,
-     "metric": 971,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "悬疑灵异",
-     "rank": 10,
-     "metric": null,
-     "metricLabel": ""
-    }
-   ],
-   "momentum": 60.2,
-   "isNew": true
   },
   {
    "bid": "1049431206",
@@ -1846,7 +1786,7 @@
      "slug": "yuepiao",
      "category": "军事",
      "rank": 1,
-     "metric": 2140,
+     "metric": 2300,
      "metricLabel": "月票"
     },
     {
@@ -1869,6 +1809,22 @@
      "board": "畅销榜",
      "slug": "hotsales",
      "category": "军事",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "军事",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "军事",
      "rank": 3,
      "metric": null,
      "metricLabel": ""
@@ -1886,57 +1842,41 @@
      "slug": "recom",
      "category": "军事",
      "rank": 3,
-     "metric": 802,
+     "metric": 1048,
      "metricLabel": "推荐"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "军事",
-     "rank": 5,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "军事",
-     "rank": 18,
-     "metric": null,
-     "metricLabel": ""
     }
    ],
-   "momentum": 59.2,
+   "momentum": 64.0,
    "isNew": false
   },
   {
-   "bid": "1042326049",
-   "title": "民国：烽火1937",
-   "author": "唯物小丰子",
-   "category": "军事",
-   "subCategory": "抗战烽火",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1042326049/150",
+   "bid": "1047654482",
+   "title": "星河之主",
+   "author": "烽仙",
+   "category": "玄幻",
+   "subCategory": "高武世界",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047654482/150",
    "boards": [
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "军事",
-     "rank": 1,
-     "metric": null,
-     "metricLabel": ""
-    },
     {
      "board": "月票榜",
      "slug": "yuepiao",
-     "category": "军事",
-     "rank": 5,
-     "metric": 1173,
+     "category": "玄幻",
+     "rank": 2,
+     "metric": 33546,
      "metricLabel": "月票"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "玄幻",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
     },
     {
      "board": "畅销榜",
      "slug": "hotsales",
-     "category": "军事",
+     "category": "玄幻",
      "rank": 5,
      "metric": null,
      "metricLabel": ""
@@ -1944,7 +1884,23 @@
     {
      "board": "追读榜",
      "slug": "followreading",
-     "category": "军事",
+     "category": "玄幻",
+     "rank": 5,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "玄幻",
+     "rank": 6,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "玄幻",
      "rank": 6,
      "metric": null,
      "metricLabel": ""
@@ -1952,113 +1908,21 @@
     {
      "board": "推荐榜",
      "slug": "recom",
-     "category": "军事",
-     "rank": 8,
-     "metric": 434,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "军事",
+     "category": "玄幻",
      "rank": 9,
-     "metric": null,
-     "metricLabel": ""
+     "metric": 7060,
+     "metricLabel": "推荐"
     },
     {
      "board": "阅读指数榜",
      "slug": "readindex",
-     "category": "军事",
-     "rank": 12,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "军事",
-     "rank": 13,
-     "metric": null,
-     "metricLabel": ""
-    }
-   ],
-   "momentum": 59.2,
-   "isNew": true
-  },
-  {
-   "bid": "1049480475",
-   "title": "武侠：开局获十三龙十三象功力",
-   "author": "石剑",
-   "category": "武侠",
-   "subCategory": "武侠幻想",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049480475/150",
-   "boards": [
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "武侠",
-     "rank": 1,
-     "metric": 9908,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "月票榜",
-     "slug": "yuepiao",
-     "category": "武侠",
-     "rank": 5,
-     "metric": 184,
-     "metricLabel": "月票"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "武侠",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "武侠",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "武侠",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "武侠",
-     "rank": 9,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "武侠",
+     "category": "玄幻",
      "rank": 11,
      "metric": null,
      "metricLabel": ""
-    },
-    {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "武侠",
-     "rank": 14,
-     "metric": null,
-     "metricLabel": ""
     }
    ],
-   "momentum": 58.8,
+   "momentum": 62.0,
    "isNew": true
   },
   {
@@ -2090,7 +1954,7 @@
      "slug": "yuepiao",
      "category": "军事",
      "rank": 4,
-     "metric": 1240,
+     "metric": 1308,
      "metricLabel": "月票"
     },
     {
@@ -2098,6 +1962,158 @@
      "slug": "hotsales",
      "category": "军事",
      "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "军事",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "军事",
+     "rank": 4,
+     "metric": 692,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "军事",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "军事",
+     "rank": 5,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 61.2,
+   "isNew": false
+  },
+  {
+   "bid": "1049457309",
+   "title": "永不独行！",
+   "author": "成丽来啦",
+   "category": "体育",
+   "subCategory": "足球运动",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049457309/150",
+   "boards": [
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "体育",
+     "rank": 2,
+     "metric": 2549,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "体育",
+     "rank": 2,
+     "metric": 1330,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "体育",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "体育",
+     "rank": 3,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "体育",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "体育",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "体育",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "体育",
+     "rank": 5,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 61.2,
+   "isNew": false
+  },
+  {
+   "bid": "1047497993",
+   "title": "东方既白",
+   "author": "猪头七",
+   "category": "军事",
+   "subCategory": "谍战特工",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1047497993/150",
+   "boards": [
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "军事",
+     "rank": 1,
+     "metric": 1710,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "月票榜",
+     "slug": "yuepiao",
+     "category": "军事",
+     "rank": 2,
+     "metric": 2157,
+     "metricLabel": "月票"
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "军事",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "军事",
+     "rank": 3,
      "metric": null,
      "metricLabel": ""
     },
@@ -2110,108 +2126,108 @@
      "metricLabel": ""
     },
     {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "军事",
-     "rank": 4,
-     "metric": 577,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "军事",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "军事",
-     "rank": 17,
-     "metric": null,
-     "metricLabel": ""
-    }
-   ],
-   "momentum": 58.2,
-   "isNew": false
-  },
-  {
-   "bid": "1049005294",
-   "title": "我在迷雾打造完美领地",
-   "author": "一条小白蛇",
-   "category": "游戏",
-   "subCategory": "游戏异界",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049005294/150",
-   "boards": [
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "游戏",
-     "rank": 1,
-     "metric": 536,
-     "metricLabel": "推荐"
-    },
-    {
      "board": "阅读指数榜",
      "slug": "readindex",
-     "category": "游戏",
-     "rank": 4,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "游戏",
+     "category": "军事",
      "rank": 5,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "畅销榜",
-     "slug": "hotsales",
-     "category": "游戏",
-     "rank": 9,
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "军事",
+     "rank": 5,
      "metric": null,
      "metricLabel": ""
     },
     {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "游戏",
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "军事",
      "rank": 9,
+     "metric": null,
+     "metricLabel": ""
+    }
+   ],
+   "momentum": 60.2,
+   "isNew": false
+  },
+  {
+   "bid": "1049212993",
+   "title": "人在俄乌当佣兵，杀敌就能爆属性",
+   "author": "KID大魔王",
+   "category": "军事",
+   "subCategory": "战争幻想",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1049212993/150",
+   "boards": [
+    {
+     "board": "畅销榜",
+     "slug": "hotsales",
+     "category": "军事",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "军事",
+     "rank": 2,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "追读榜",
+     "slug": "followreading",
+     "category": "军事",
+     "rank": 2,
      "metric": null,
      "metricLabel": ""
     },
     {
      "board": "留存榜",
      "slug": "retention",
-     "category": "游戏",
-     "rank": 10,
+     "category": "军事",
+     "rank": 2,
      "metric": null,
      "metricLabel": ""
     },
     {
      "board": "月票榜",
      "slug": "yuepiao",
-     "category": "游戏",
-     "rank": 12,
-     "metric": 792,
+     "category": "军事",
+     "rank": 3,
+     "metric": 1890,
      "metricLabel": "月票"
     },
     {
-     "board": "追读榜",
-     "slug": "followreading",
-     "category": "游戏",
-     "rank": 13,
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "军事",
+     "rank": 4,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "军事",
+     "rank": 5,
+     "metric": 618,
+     "metricLabel": "推荐"
+    },
+    {
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "军事",
+     "rank": 19,
      "metric": null,
      "metricLabel": ""
     }
    ],
-   "momentum": 58.2,
-   "isNew": true
+   "momentum": 58.5,
+   "isNew": false
   },
   {
    "bid": "1043128588",
@@ -2226,7 +2242,7 @@
      "slug": "yuepiao",
      "category": "轻小说",
      "rank": 1,
-     "metric": 25106,
+     "metric": 25874,
      "metricLabel": "月票"
     },
     {
@@ -2258,7 +2274,7 @@
      "slug": "recom",
      "category": "轻小说",
      "rank": 5,
-     "metric": 3821,
+     "metric": 4664,
      "metricLabel": "推荐"
     },
     {
@@ -2266,7 +2282,7 @@
      "slug": "vipcollect",
      "category": "轻小说",
      "rank": 7,
-     "metric": 573000,
+     "metric": 573605,
      "metricLabel": "收藏"
     },
     {
@@ -2274,7 +2290,7 @@
      "slug": "collect",
      "category": "轻小说",
      "rank": 7,
-     "metric": 573000,
+     "metric": 573605,
      "metricLabel": "收藏"
     },
     {
@@ -2302,7 +2318,7 @@
      "slug": "vipcollect",
      "category": "现实",
      "rank": 1,
-     "metric": 71459,
+     "metric": 71461,
      "metricLabel": "收藏"
     },
     {
@@ -2310,7 +2326,7 @@
      "slug": "collect",
      "category": "现实",
      "rank": 1,
-     "metric": 71459,
+     "metric": 71461,
      "metricLabel": "收藏"
     },
     {
@@ -2318,7 +2334,7 @@
      "slug": "recom",
      "category": "现实",
      "rank": 2,
-     "metric": 54,
+     "metric": 68,
      "metricLabel": "推荐"
     },
     {
@@ -2326,22 +2342,14 @@
      "slug": "yuepiao",
      "category": "现实",
      "rank": 6,
-     "metric": 130,
+     "metric": 136,
      "metricLabel": "月票"
-    },
-    {
-     "board": "阅读指数榜",
-     "slug": "readindex",
-     "category": "现实",
-     "rank": 7,
-     "metric": null,
-     "metricLabel": ""
     },
     {
      "board": "书友榜",
      "slug": "newfans",
      "category": "现实",
-     "rank": 7,
+     "rank": 6,
      "metric": null,
      "metricLabel": ""
     },
@@ -2349,7 +2357,15 @@
      "board": "畅销榜",
      "slug": "hotsales",
      "category": "现实",
-     "rank": 8,
+     "rank": 7,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "阅读指数榜",
+     "slug": "readindex",
+     "category": "现实",
+     "rank": 7,
      "metric": null,
      "metricLabel": ""
     },
@@ -2362,29 +2378,45 @@
      "metricLabel": ""
     }
    ],
-   "momentum": 57.2,
+   "momentum": 57.8,
    "isNew": false
   },
   {
-   "bid": "1048359294",
-   "title": "成为主教练后，我开摆了",
-   "author": "葬爱叶良辰",
-   "category": "体育",
-   "subCategory": "足球运动",
-   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1048359294/150",
+   "bid": "1048558977",
+   "title": "长津湖：满仓有身装备栏",
+   "author": "中条山的狼",
+   "category": "军事",
+   "subCategory": "战争幻想",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1048558977/150",
    "boards": [
     {
-     "board": "留存榜",
-     "slug": "retention",
-     "category": "体育",
+     "board": "更新榜",
+     "slug": "vipup",
+     "category": "军事",
+     "rank": 1,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "书友榜",
+     "slug": "newfans",
+     "category": "军事",
      "rank": 6,
      "metric": null,
      "metricLabel": ""
     },
     {
+     "board": "推荐榜",
+     "slug": "recom",
+     "category": "军事",
+     "rank": 6,
+     "metric": 587,
+     "metricLabel": "推荐"
+    },
+    {
      "board": "畅销榜",
      "slug": "hotsales",
-     "category": "体育",
+     "category": "军事",
      "rank": 7,
      "metric": null,
      "metricLabel": ""
@@ -2392,53 +2424,37 @@
     {
      "board": "月票榜",
      "slug": "yuepiao",
-     "category": "体育",
+     "category": "军事",
      "rank": 8,
-     "metric": 783,
+     "metric": 721,
      "metricLabel": "月票"
-    },
-    {
-     "board": "更新榜",
-     "slug": "vipup",
-     "category": "体育",
-     "rank": 8,
-     "metric": null,
-     "metricLabel": ""
     },
     {
      "board": "追读榜",
      "slug": "followreading",
-     "category": "体育",
-     "rank": 8,
+     "category": "军事",
+     "rank": 11,
+     "metric": null,
+     "metricLabel": ""
+    },
+    {
+     "board": "留存榜",
+     "slug": "retention",
+     "category": "军事",
+     "rank": 12,
      "metric": null,
      "metricLabel": ""
     },
     {
      "board": "阅读指数榜",
      "slug": "readindex",
-     "category": "体育",
-     "rank": 9,
-     "metric": null,
-     "metricLabel": ""
-    },
-    {
-     "board": "推荐榜",
-     "slug": "recom",
-     "category": "体育",
-     "rank": 10,
-     "metric": 569,
-     "metricLabel": "推荐"
-    },
-    {
-     "board": "书友榜",
-     "slug": "newfans",
-     "category": "体育",
-     "rank": 12,
+     "category": "军事",
+     "rank": 15,
      "metric": null,
      "metricLabel": ""
     }
    ],
-   "momentum": 57.0,
+   "momentum": 57.5,
    "isNew": true
   }
  ]

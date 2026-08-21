@@ -1,5 +1,5 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-22",
  "category_heat": [
   {
    "name": "全部",
@@ -44,6 +44,12 @@
    "heat": 3000
   },
   {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -51,6 +57,12 @@
   },
   {
    "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "体育",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -78,18 +90,6 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "体育",
-   "count": 25,
-   "metric_total": 0,
-   "heat": 2500
-  },
-  {
-   "name": "军事",
-   "count": 23,
-   "metric_total": 0,
-   "heat": 2300
   }
  ],
  "keyword_heat": [
@@ -99,46 +99,46 @@
   },
   {
    "keyword": "系统",
-   "count": 33
-  },
-  {
-   "keyword": "重生",
-   "count": 22
+   "count": 34
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 24
+  },
+  {
+   "keyword": "重生",
+   "count": 19
   },
   {
    "keyword": "诸天",
-   "count": 11
-  },
-  {
-   "keyword": "历史",
-   "count": 7
+   "count": 12
   },
   {
    "keyword": "天才",
-   "count": 7
-  },
-  {
-   "keyword": "灵异",
    "count": 6
   },
   {
-   "keyword": "科技",
+   "keyword": "历史",
    "count": 6
-  },
-  {
-   "keyword": "无敌",
-   "count": 5
-  },
-  {
-   "keyword": "网游",
-   "count": 5
   },
   {
    "keyword": "末世",
+   "count": 5
+  },
+  {
+   "keyword": "灵异",
+   "count": 5
+  },
+  {
+   "keyword": "废土",
+   "count": 5
+  },
+  {
+   "keyword": "无敌",
+   "count": 4
+  },
+  {
+   "keyword": "宗门",
    "count": 4
   }
  ],
@@ -164,6 +164,27 @@
     }
    ],
    "total_books": 438
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "半岛：只想当闺蜜的我被盯上了",
+     "author": "还有纸巾怜",
+     "metric": null
+    },
+    {
+     "title": "斗罗：虚无给霍雨浩改命",
+     "author": "秌桀",
+     "metric": null
+    },
+    {
+     "title": "半岛之雪后多伦多",
+     "author": "安有劲不尤金",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

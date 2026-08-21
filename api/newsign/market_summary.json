@@ -1,5 +1,5 @@
 {
- "date": "2026-08-21",
+ "date": "2026-08-22",
  "category_heat": [
   {
    "name": "全部",
@@ -38,16 +38,46 @@
    "heat": 3000
   },
   {
-   "name": "游戏",
+   "name": "诸天无限",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 10,
+   "name": "轻小说",
+   "count": 30,
    "metric_total": 0,
-   "heat": 1000
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 26,
+   "metric_total": 0,
+   "heat": 2600
+  },
+  {
+   "name": "体育",
+   "count": 20,
+   "metric_total": 0,
+   "heat": 2000
+  },
+  {
+   "name": "科幻",
+   "count": 18,
+   "metric_total": 0,
+   "heat": 1800
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 14,
+   "metric_total": 0,
+   "heat": 1400
+  },
+  {
+   "name": "武侠",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
   },
   {
    "name": "现实",
@@ -65,19 +95,27 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 88
+   "count": 120
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 42
   },
   {
    "keyword": "重生",
-   "count": 25
+   "count": 30
   },
   {
    "keyword": "修仙",
-   "count": 18
+   "count": 21
+  },
+  {
+   "keyword": "诸天",
+   "count": 11
+  },
+  {
+   "keyword": "天才",
+   "count": 8
   },
   {
    "keyword": "种田",
@@ -92,24 +130,16 @@
    "count": 5
   },
   {
-   "keyword": "天才",
+   "keyword": "科技",
    "count": 5
   },
   {
-   "keyword": "历史",
+   "keyword": "诡异",
    "count": 4
   },
   {
-   "keyword": "宗门",
-   "count": 3
-  },
-  {
-   "keyword": "杀伐果断",
-   "count": 3
-  },
-  {
    "keyword": "经营",
-   "count": 3
+   "count": 4
   }
  ],
  "author_power": [],
@@ -155,6 +185,27 @@
     }
    ],
    "total_books": 232
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "我也要攻略你的吗？",
+     "author": "页面走失",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    }
+   ],
+   "total_books": 339
   }
  ]
 }
