@@ -1,5 +1,5 @@
 {
- "date": "2026-08-22",
+ "date": "2026-08-23",
  "category_heat": [
   {
    "name": "全部",
@@ -87,9 +87,9 @@
   },
   {
    "name": "体育",
-   "count": 25,
+   "count": 26,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 2600
   }
  ],
  "keyword_heat": [
@@ -99,15 +99,15 @@
   },
   {
    "keyword": "系统",
-   "count": 46
+   "count": 49
+  },
+  {
+   "keyword": "重生",
+   "count": 25
   },
   {
    "keyword": "修仙",
    "count": 22
-  },
-  {
-   "keyword": "重生",
-   "count": 21
   },
   {
    "keyword": "诸天",
@@ -115,14 +115,14 @@
   },
   {
    "keyword": "历史",
+   "count": 10
+  },
+  {
+   "keyword": "诡异",
    "count": 9
   },
   {
    "keyword": "无敌",
-   "count": 8
-  },
-  {
-   "keyword": "诡异",
    "count": 7
   },
   {
@@ -130,57 +130,57 @@
    "count": 7
   },
   {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
    "keyword": "末世",
+   "count": 6
+  },
+  {
+   "keyword": "科技",
    "count": 5
   },
   {
-   "keyword": "万界",
+   "keyword": "克苏鲁",
    "count": 4
   }
  ],
  "author_power": [
   {
-   "author": "青史词客",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 7,
-   "titles": [
-    "疑兵录",
-    "勋章长在骨头里"
-   ]
-  },
-  {
-   "author": "小陆p",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 11,
-   "titles": [
-    "青春少年团2：流星联赛",
-    "青春少年团3：恒星联赛"
-   ]
-  },
-  {
    "author": "仙界的鸭梨",
    "books": 2,
-   "top10": 0,
-   "bestRank": 12,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
     "重生高一，我只偏爱萧容鱼",
     "我真不想错过你"
    ]
   },
   {
+   "author": "青史词客",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 8,
+   "titles": [
+    "疑兵录",
+    "勋章长在骨头里"
+   ]
+  },
+  {
    "author": "七玄策",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "漫威：猛男驯兽师",
+    "末日祭坛：我成为邪道宗师"
+   ]
+  },
+  {
+   "author": "小陆p",
    "books": 2,
    "top10": 0,
    "bestRank": 13,
    "titles": [
-    "漫威：猛男驯兽师",
-    "末日祭坛：我成为邪道宗师"
+    "青春少年团2：流星联赛",
+    "青春少年团3：恒星联赛"
    ]
   }
  ],
@@ -247,6 +247,27 @@
     }
    ],
    "total_books": 445
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "玄鉴，穿成玄谙的我一定要活下去",
+     "author": "花九思",
+     "metric": null
+    },
+    {
+     "title": "新刀剑笑苍天",
+     "author": "好一个小强",
+     "metric": null
+    },
+    {
+     "title": "玄鉴：剑仙之子李火旺",
+     "author": "双手抠鼻",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }

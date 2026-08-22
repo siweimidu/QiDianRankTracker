@@ -1,7 +1,7 @@
 {
  "slug": "newsign",
  "name": "新人签约新书榜",
- "date": "2026-08-22",
+ "date": "2026-08-23",
  "types": [
   {
    "name": "全部",
@@ -36,7 +36,7 @@
   {
    "name": "现实",
    "url": "api/newsign/latest/现实.json",
-   "count": 7
+   "count": 6
   },
   {
    "name": "军事",
@@ -51,12 +51,12 @@
   {
    "name": "游戏",
    "url": "api/newsign/latest/游戏.json",
-   "count": 26
+   "count": 23
   },
   {
    "name": "体育",
    "url": "api/newsign/latest/体育.json",
-   "count": 20
+   "count": 19
   },
   {
    "name": "科幻",
