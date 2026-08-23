@@ -1,10 +1,10 @@
 {
- "finished_at": "2026-08-23T05:34:49",
- "duration_sec": 637.0,
- "boards_ok": 21,
+ "finished_at": "2026-08-24T05:34:26",
+ "duration_sec": 595.2,
+ "boards_ok": 10,
  "boards_total": 21,
- "total_books": 6172,
- "total_categories": 218,
+ "total_books": 4499,
+ "total_categories": 156,
  "reports": [
   {
    "slug": "yuepiao",
@@ -51,7 +51,7 @@
    "name": "追读榜",
    "ok": true,
    "categories": 15,
-   "books": 384,
+   "books": 383,
    "errors": 0
   },
   {
@@ -67,7 +67,7 @@
    "name": "书友榜",
    "ok": true,
    "categories": 15,
-   "books": 450,
+   "books": 424,
    "errors": 0
   },
   {
@@ -83,96 +83,96 @@
    "name": "留存榜",
    "ok": true,
    "categories": 15,
-   "books": 384,
+   "books": 383,
    "errors": 0
   },
   {
    "slug": "signnewbook",
    "name": "签约作者新书榜",
-   "ok": true,
-   "categories": 15,
-   "books": 334,
-   "errors": 0
+   "ok": false,
+   "categories": 5,
+   "books": 129,
+   "errors": 10
   },
   {
    "slug": "pubnewbook",
    "name": "公众作者新书榜",
-   "ok": true,
-   "categories": 15,
-   "books": 446,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 15
   },
   {
    "slug": "newsign",
    "name": "新人签约新书榜",
-   "ok": true,
-   "categories": 15,
-   "books": 334,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 15
   },
   {
    "slug": "newauthor",
    "name": "新人作者新书榜",
-   "ok": true,
-   "categories": 15,
-   "books": 450,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 15
   },
   {
    "slug": "female-yuepiao",
    "name": "女生月票榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-hotsales",
    "name": "女生畅销榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-recom",
    "name": "女生推荐榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-collect",
    "name": "女生收藏榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-newfans",
    "name": "女生书友榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-readindex",
    "name": "女生阅读指数榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   },
   {
    "slug": "female-newsign",
    "name": "女生签约新书榜",
-   "ok": true,
-   "categories": 1,
-   "books": 30,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 1
   }
  ]
 }

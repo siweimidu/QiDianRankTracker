@@ -1,5 +1,5 @@
 {
- "date": "2026-08-23",
+ "date": "2026-08-24",
  "category_heat": [
   {
    "name": "全部",
@@ -69,21 +69,21 @@
   },
   {
    "name": "军事",
-   "count": 23,
+   "count": 22,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 2200
   },
   {
    "name": "武侠",
-   "count": 16,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1500
   },
   {
    "name": "悬疑灵异",
-   "count": 14,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1400
+   "heat": 1500
   },
   {
    "name": "现实",
@@ -95,22 +95,22 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 76
+   "count": 77
   },
   {
    "keyword": "系统",
-   "count": 24
+   "count": 26
   },
   {
    "keyword": "重生",
-   "count": 22
-  },
-  {
-   "keyword": "历史",
-   "count": 10
+   "count": 23
   },
   {
    "keyword": "诸天",
+   "count": 11
+  },
+  {
+   "keyword": "历史",
    "count": 10
   },
   {
@@ -119,18 +119,14 @@
   },
   {
    "keyword": "诡异",
-   "count": 8
-  },
-  {
-   "keyword": "大明",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "工业",
    "count": 6
   },
   {
-   "keyword": "副本",
+   "keyword": "大明",
    "count": 5
   },
   {
@@ -139,6 +135,10 @@
   },
   {
    "keyword": "三国",
+   "count": 4
+  },
+  {
+   "keyword": "无敌",
    "count": 4
   }
  ],
@@ -248,6 +248,27 @@
     }
    ],
    "total_books": 384
+  },
+  {
+   "date": "2026-08-24",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "青山",
+     "author": "会说话的肘子",
+     "metric": null
+    }
+   ],
+   "total_books": 383
   }
  ]
 }
