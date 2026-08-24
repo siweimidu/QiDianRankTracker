@@ -1,5 +1,5 @@
 {
- "date": "2026-08-24",
+ "date": "2026-08-25",
  "category_heat": [
   {
    "name": "全部",
@@ -87,31 +87,31 @@
   },
   {
    "name": "现实",
-   "count": 4,
+   "count": 19,
    "metric_total": 0,
-   "heat": 400
+   "heat": 1900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 108
+   "count": 104
   },
   {
    "keyword": "系统",
-   "count": 40
+   "count": 39
   },
   {
    "keyword": "重生",
-   "count": 32
+   "count": 27
   },
   {
    "keyword": "诸天",
-   "count": 12
+   "count": 17
   },
   {
    "keyword": "历史",
-   "count": 11
+   "count": 10
   },
   {
    "keyword": "修仙",
@@ -119,22 +119,22 @@
   },
   {
    "keyword": "无敌",
-   "count": 9
+   "count": 8
+  },
+  {
+   "keyword": "灵异",
+   "count": 7
   },
   {
    "keyword": "诡异",
    "count": 6
   },
   {
-   "keyword": "天才",
+   "keyword": "谍战",
    "count": 6
   },
   {
-   "keyword": "末世",
-   "count": 6
-  },
-  {
-   "keyword": "灵异",
+   "keyword": "三国",
    "count": 5
   },
   {
@@ -144,21 +144,32 @@
  ],
  "author_power": [
   {
-   "author": "我会修空调",
+   "author": "远瞳",
    "books": 3,
    "top10": 3,
-   "bestRank": 6,
+   "bestRank": 1,
+   "titles": [
+    "异度旅社",
+    "深海余烬",
+    "黎明之剑"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 3,
    "titles": [
     "我有一座冒险屋",
-    "怪谈游戏设计师",
-    "我的治愈系游戏"
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
    ]
   },
   {
    "author": "爱潜水的乌贼",
    "books": 3,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 4,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
@@ -166,75 +177,94 @@
    ]
   },
   {
-   "author": "榴弹怕水",
+   "author": "雪映红梅",
    "books": 3,
-   "top10": 2,
+   "top10": 1,
    "bestRank": 2,
    "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
+    "王牌律师",
+    "不良律师",
+    "律师本色"
    ]
   },
   {
-   "author": "远瞳",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 7,
+   "author": "如水意",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
    "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
+    "我，枪神！",
+    "间谍的战争"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "廓晋",
+    "绍宋"
+   ]
+  },
+  {
+   "author": "穿黄衣的阿肥",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "活人深处",
+    "我的细胞监狱"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北"
+   ]
+  },
+  {
+   "author": "章叶良",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "刑侦手记2：松湖埋尸",
+    "刑侦手记：棋逢对手"
    ]
   },
   {
    "author": "卖报小郎君",
    "books": 2,
-   "top10": 2,
-   "bestRank": 1,
+   "top10": 1,
+   "bestRank": 4,
    "titles": [
     "临圣",
     "灵境行者"
    ]
   },
   {
-   "author": "柳岸花又明",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "重生高考前99天",
-    "我真没想重生啊"
-   ]
-  },
-  {
    "author": "晨星LL",
    "books": 2,
-   "top10": 2,
-   "bestRank": 3,
+   "top10": 1,
+   "bestRank": 5,
    "titles": [
     "这游戏也太真实了",
     "魔王大人深不可测"
-   ]
-  },
-  {
-   "author": "步枪",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 2,
-   "titles": [
-    "大国长空",
-    "奋斗1981"
-   ]
-  },
-  {
-   "author": "穿黄衣的阿肥",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 4,
-   "titles": [
-    "我的细胞监狱",
-    "活人深处"
    ]
   },
   {
@@ -248,53 +278,23 @@
    ]
   },
   {
-   "author": "猪头七",
+   "author": "柳岸花又明",
    "books": 2,
    "top10": 1,
    "bestRank": 7,
    "titles": [
-    "东方既白",
-    "我的谍战岁月"
-   ]
-  },
-  {
-   "author": "鹤守月满池",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 8,
-   "titles": [
-    "让仙门再次伟大",
-    "苟在初圣魔门当人材"
-   ]
-  },
-  {
-   "author": "宴金秋",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "重生天龙：剑出姑苏！",
-    "重生笑傲：我要当教主"
+    "重生高考前99天",
+    "我真没想重生啊"
    ]
   },
   {
    "author": "一片苏叶",
    "books": 2,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 8,
    "titles": [
     "剑出大唐",
     "清光宝鉴"
-   ]
-  },
-  {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
    ]
   }
  ],
@@ -424,6 +424,27 @@
     }
    ],
    "total_books": 424
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "我，死灵法师，超爱美利坚",
+     "author": "最爱铁板烧",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    }
+   ],
+   "total_books": 439
   }
  ]
 }

@@ -1,0 +1,973 @@
+{
+ "date": "2026-08-25",
+ "slug": "signnewbook",
+ "board": {
+  "slug": "signnewbook",
+  "name": "签约作者新书榜",
+  "channel": "male",
+  "group": "newbook",
+  "group_label": "新书孵化盘",
+  "metric": "月票"
+ },
+ "total_books": 306,
+ "trends": {
+  "全部": {
+   "new_books": [
+    {
+     "rank": 18,
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "subCategory": "都市生活"
+    },
+    {
+     "rank": 30,
+     "title": "从金刚寺开始挂机刷宝",
+     "author": "我有三问",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "龙族：从成为人气角色开始屠龙",
+     "subCategory": "衍生同人"
+    },
+    {
+     "title": "房间求生？我每个租客无限物资！",
+     "subCategory": "末世危机"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 10,
+     "title": "500万还是谋生技能，选哪个",
+     "author": "中秋月明",
+     "rankChange": 4,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 8.0
+    },
+    {
+     "rank": 6,
+     "title": "异常病理科",
+     "author": "给您添蘑菇啦",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 14,
+     "title": "浊世游戏",
+     "author": "不落鱼",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 9,
+     "title": "尼禄",
+     "author": "九鱼",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 13,
+     "title": "重回03：走乐邦的路",
+     "author": "没有人比我更懂",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 2,
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 4,
+     "title": "武圣：功不负我",
+     "author": "想见江南",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【签约作者新书榜·全部】2 本新上榜；2 本掉榜；《500万还是谋生技能，选哪个》动能 8.0 分领跑。"
+  },
+  "玄幻": {
+   "new_books": [
+    {
+     "rank": 25,
+     "title": "我将以游戏公告通关超凡纪元",
+     "author": "茄子大帝",
+     "subCategory": "异世大陆"
+    },
+    {
+     "rank": 28,
+     "title": "短剧融合的高武世界我拥有满爆率",
+     "author": "糯香小蜜糖",
+     "subCategory": "高武世界"
+    },
+    {
+     "rank": 30,
+     "title": "每日情报：从差役开始武道成神",
+     "author": "3对心",
+     "subCategory": "高武世界"
+    }
+   ],
+   "new_count": 3,
+   "dropped_books": [
+    {
+     "title": "我靠装备栏，从扫地杂役成为武圣",
+     "subCategory": "高武世界"
+    },
+    {
+     "title": "这个武圣有点虚",
+     "subCategory": "东方玄幻"
+    },
+    {
+     "title": "交互式一仙往低处走",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "dropped_count": 3,
+   "top_movers": [
+    {
+     "rank": 8,
+     "title": "御兽：我能看到隐藏进化路线",
+     "author": "猿狮",
+     "rankChange": 6,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 12.0
+    },
+    {
+     "rank": 16,
+     "title": "全球异变：我的采集能升级",
+     "author": "汰浅",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 14,
+     "title": "我的修仙情报怎么是游戏公告啊！",
+     "author": "火种源",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 19,
+     "title": "一天长一厘米，从夸父到星空巨神",
+     "author": "杜郎俊赏1",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "孤主",
+     "author": "错哪儿了",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "武圣：功不负我",
+     "author": "想见江南",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "我，赊刀人，斗鬼神",
+     "author": "白刃斩春风",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "从金刚寺开始挂机刷宝",
+     "author": "我有三问",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【签约作者新书榜·玄幻】3 本新上榜；3 本掉榜；《御兽：我能看到隐藏进化路线》动能 12.0 分领跑。"
+  },
+  "奇幻": {
+   "new_books": [
+    {
+     "rank": 22,
+     "title": "我用模拟器缔造邪神",
+     "author": "乱之无相",
+     "subCategory": "神秘幻想"
+    },
+    {
+     "rank": 30,
+     "title": "亡灵大领主",
+     "author": "但丁问鱼",
+     "subCategory": "剑与魔法"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "红龙：以征服之名",
+     "subCategory": "史诗奇幻"
+    },
+    {
+     "title": "勇者晋升指南：我以权力兑换天赋",
+     "subCategory": "剑与魔法"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 10,
+     "title": "一只狗的圣骑士日志",
+     "author": "群星的魔法使",
+     "rankChange": 6,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 12.0
+    },
+    {
+     "rank": 14,
+     "title": "领主大人，奇观误国呀！",
+     "author": "橙鸽不咕",
+     "rankChange": 5,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 10.0
+    },
+    {
+     "rank": 6,
+     "title": "权游：这个骑士来自征服者时代！",
+     "author": "学不会水文",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 5,
+     "title": "我在旧日世界也要独断万古吗？",
+     "author": "只想写作真菌",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 12,
+     "title": "从雾都墓地醒来的封建贵族",
+     "author": "什耶",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "尼禄",
+     "author": "九鱼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "圈中之兽",
+     "author": "黑环",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "盘龙从成为大圆满奴役四神兽开始",
+     "author": "冰风恶魔",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【签约作者新书榜·奇幻】2 本新上榜；2 本掉榜；《一只狗的圣骑士日志》动能 12.0 分领跑。"
+  },
+  "武侠": {
+   "new_books": [
+    {
+     "rank": 4,
+     "title": "乱世神功大抽取",
+     "author": "冬雪华阳",
+     "subCategory": "武侠幻想"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "穿越焦大：高龄武圣横推四大",
+     "subCategory": "武侠幻想"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 1,
+     "title": "洞房夜，系统奖励葵花宝典？！",
+     "author": "青匆客",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 7,
+     "title": "武侠：每周刷新扮演模板",
+     "author": "湖舟厦边鸾羽",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 3,
+     "title": "江湖匹夫",
+     "author": "顽固的仓颉",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 9,
+     "title": "射雕世界明教教主",
+     "author": "上班喝可乐",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "剑出武当，家妻白发魔女",
+     "author": "天顶一粒星",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 5,
+     "title": "人在倚天：开局获得九阴真经",
+     "author": "茂森林",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 6,
+     "title": "人在峨眉，开局绑定周芷若",
+     "author": "早晚得疯",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 8,
+     "title": "开局卧底华山，悟独孤九剑",
+     "author": "云袖缠香",
+     "rankChange": -2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -4.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【签约作者新书榜·武侠】1 本新上榜；1 本掉榜；《洞房夜，系统奖励葵花宝典？！》动能 2.0 分领跑。"
+  },
+  "仙侠": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "妖诡废土中的仙道种植园",
+     "author": "三月似玖",
+     "subCategory": "修真文明"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "温氏仙途",
+     "subCategory": "修真文明"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 18,
+     "title": "凡人：南宫师祖，请自重！",
+     "author": "特辣才算辣",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 4,
+     "title": "起点，我要你助我修行",
+     "author": "河狸的米饭",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 5,
+     "title": "倒果为因，我以神通推演未来",
+     "author": "许轩陌",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 8,
+     "title": "西游：从把桃子放进装备栏开始",
+     "author": "魔教护法",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 10,
+     "title": "唐三葬打穿西游",
+     "author": "迷路鸽",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 15,
+     "title": "龙公！",
+     "author": "我妻煮酒",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "凡人：真灵之主",
+     "author": "紫白金红粉",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "玄君",
+     "author": "萝卜丸",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【签约作者新书榜·仙侠】1 本新上榜；1 本掉榜；《凡人：南宫师祖，请自重！》动能 4.0 分领跑。"
+  },
+  "都市": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·都市】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "现实": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·现实】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "军事": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·军事】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "历史": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·历史】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "游戏": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·游戏】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "体育": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·体育】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "科幻": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·科幻】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "诸天无限": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·诸天无限】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "悬疑灵异": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·悬疑灵异】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  },
+  "轻小说": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [],
+   "metric_growth": [],
+   "first_day": true,
+   "summary": "【签约作者新书榜·轻小说】基线首日：已锁定当前榜单结构，明日起输出新上榜/掉榜/黑马对比信号。"
+  }
+ },
+ "category_heat": [
+  {
+   "name": "全部",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "玄幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "奇幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
+  },
+  {
+   "name": "科幻",
+   "count": 26,
+   "metric_total": 0,
+   "heat": 2600
+  },
+  {
+   "name": "体育",
+   "count": 13,
+   "metric_total": 0,
+   "heat": 1300
+  },
+  {
+   "name": "武侠",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
+   "name": "军事",
+   "count": 8,
+   "metric_total": 0,
+   "heat": 800
+  },
+  {
+   "name": "现实",
+   "count": 3,
+   "metric_total": 0,
+   "heat": 300
+  }
+ ],
+ "keyword_heat": [
+  {
+   "keyword": "穿越",
+   "count": 108
+  },
+  {
+   "keyword": "系统",
+   "count": 30
+  },
+  {
+   "keyword": "重生",
+   "count": 27
+  },
+  {
+   "keyword": "修仙",
+   "count": 16
+  },
+  {
+   "keyword": "诸天",
+   "count": 16
+  },
+  {
+   "keyword": "历史",
+   "count": 10
+  },
+  {
+   "keyword": "诡异",
+   "count": 8
+  },
+  {
+   "keyword": "万界",
+   "count": 6
+  },
+  {
+   "keyword": "科技",
+   "count": 5
+  },
+  {
+   "keyword": "副本",
+   "count": 5
+  },
+  {
+   "keyword": "种田",
+   "count": 4
+  },
+  {
+   "keyword": "天才",
+   "count": 4
+  }
+ ],
+ "author_power": [
+  {
+   "author": "顽固的仓颉",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "我就收个尸，怎么成魔尊了？",
+    "江湖匹夫"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 337
+  },
+  {
+   "date": "2026-08-20",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 159
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 334
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 336
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 334
+  },
+  {
+   "date": "2026-08-24",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 129
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    }
+   ],
+   "total_books": 336
+  }
+ ]
+}

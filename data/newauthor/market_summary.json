@@ -1,5 +1,5 @@
 {
- "date": "2026-08-23",
+ "date": "2026-08-25",
  "category_heat": [
   {
    "name": "全部",
@@ -44,12 +44,6 @@
    "heat": 3000
   },
   {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -57,12 +51,6 @@
   },
   {
    "name": "游戏",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "体育",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,55 +78,67 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "体育",
+   "count": 20,
+   "metric_total": 0,
+   "heat": 2000
+  },
+  {
+   "name": "军事",
+   "count": 13,
+   "metric_total": 0,
+   "heat": 1300
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 68
+   "count": 74
   },
   {
    "keyword": "系统",
-   "count": 30
-  },
-  {
-   "keyword": "修仙",
-   "count": 22
+   "count": 27
   },
   {
    "keyword": "重生",
-   "count": 17
+   "count": 21
+  },
+  {
+   "keyword": "修仙",
+   "count": 14
   },
   {
    "keyword": "诸天",
-   "count": 13
-  },
-  {
-   "keyword": "天才",
-   "count": 6
-  },
-  {
-   "keyword": "诡异",
-   "count": 6
-  },
-  {
-   "keyword": "末世",
-   "count": 5
-  },
-  {
-   "keyword": "宗门",
-   "count": 5
+   "count": 14
   },
   {
    "keyword": "历史",
+   "count": 8
+  },
+  {
+   "keyword": "诡异",
+   "count": 8
+  },
+  {
+   "keyword": "都市",
+   "count": 6
+  },
+  {
+   "keyword": "异能",
+   "count": 6
+  },
+  {
+   "keyword": "网游",
+   "count": 6
+  },
+  {
+   "keyword": "天才",
    "count": 5
   },
   {
-   "keyword": "灵异",
-   "count": 5
-  },
-  {
-   "keyword": "废土",
+   "keyword": "星际",
    "count": 5
   }
  ],
@@ -206,6 +206,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "神秘复苏之纸扎地狱",
+     "author": "雀又向南飞",
+     "metric": null
+    },
+    {
+     "title": "权游：一日王储的征服者生涯",
+     "author": "作家J9QHei",
+     "metric": null
+    },
+    {
+     "title": "本来只是想拯救麟月的啊",
+     "author": "作家WlzBj6",
+     "metric": null
+    }
+   ],
+   "total_books": 423
   }
  ]
 }
