@@ -1,0 +1,786 @@
+{
+ "date": "2026-08-26",
+ "slug": "newsign",
+ "board": {
+  "slug": "newsign",
+  "name": "新人签约新书榜",
+  "channel": "male",
+  "group": "newbook",
+  "group_label": "新书孵化盘",
+  "metric": "月票"
+ },
+ "total_books": 121,
+ "trends": {
+  "全部": {
+   "new_books": [
+    {
+     "rank": 24,
+     "title": "1985：从塔寨乡水利员开始",
+     "author": "野渡行者",
+     "subCategory": "都市生活"
+    },
+    {
+     "rank": 28,
+     "title": "中英直译？我的武功逼疯了江湖",
+     "author": "风合",
+     "subCategory": "诸天"
+    },
+    {
+     "rank": 30,
+     "title": "民国1922：从生煎包开始",
+     "author": "超韧面巾纸",
+     "subCategory": "清史民国"
+    }
+   ],
+   "new_count": 3,
+   "dropped_books": [
+    {
+     "title": "刚考上大专，学霸系统来了？",
+     "subCategory": "都市生活"
+    },
+    {
+     "title": "我梦见了未来女友",
+     "subCategory": "恋爱日常"
+    },
+    {
+     "title": "从地煞七十二术开始武道成圣",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "dropped_count": 3,
+   "top_movers": [
+    {
+     "rank": 14,
+     "title": "傻柱重生，从拒养四合院开始",
+     "author": "被猫咬一口",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 6,
+     "title": "高武：加入聊天群的我降维打击",
+     "author": "仓鼠捡拾道果",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 12,
+     "title": "红楼：从装备栏开始逃荒种田",
+     "author": "咪儿心如水",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 18,
+     "title": "大爱诸天，从射雕拐走黄蓉开始",
+     "author": "魄散魂销",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 17,
+     "title": "刚穿越成超人，你说这是修仙界？",
+     "author": "孤岛的金鱼",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "从熔炉骑士开始耐力登神",
+     "author": "狐说薪语",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【新人签约新书榜·全部】3 本新上榜；3 本掉榜；《傻柱重生，从拒养四合院开始》动能 6.0 分领跑。"
+  },
+  "玄幻": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "吉福释厄：今天修炼邪功了吗？",
+     "author": "屿之涧",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "从地煞七十二术开始武道成圣",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 15,
+     "title": "从擒龙拳开始肉身成圣",
+     "author": "精品鉴定",
+     "rankChange": 5,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 10.0
+    },
+    {
+     "rank": 14,
+     "title": "从渔民开始成就万道武圣",
+     "author": "花木001",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 6,
+     "title": "玄鉴：身化万千，溯时成道",
+     "author": "医不渡",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 11,
+     "title": "融合齐天大圣模板，灵气复苏了？",
+     "author": "黑夜迷路",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 3,
+     "title": "灵气复苏，我在荒岛肝属性",
+     "author": "恶毒小反派",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 4,
+     "title": "天父",
+     "author": "赶茶",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 5,
+     "title": "神拳！",
+     "author": "无敌汪汪拳",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 8,
+     "title": "每天一门功法补贴",
+     "author": "倚舟客",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【新人签约新书榜·玄幻】1 本新上榜；1 本掉榜；《从擒龙拳开始肉身成圣》动能 10.0 分领跑。"
+  },
+  "奇幻": {
+   "new_books": [
+    {
+     "rank": 28,
+     "title": "紫龙异界游迹",
+     "author": "味精南北炒",
+     "subCategory": "史诗奇幻"
+    },
+    {
+     "rank": 30,
+     "title": "权游从霍格沃兹到君临",
+     "author": "作家2K7wtY",
+     "subCategory": "剑与魔法"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "巫师：我加载了进化面板",
+     "subCategory": "剑与魔法"
+    },
+    {
+     "title": "19世纪美洲怪物食用指南",
+     "subCategory": "另类幻想"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 7,
+     "title": "诡秘：捡到一只红祭司",
+     "author": "来一滩猫饼",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 8,
+     "title": "巫师：从海角灯塔日常加点开始",
+     "author": "简筱白",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 13,
+     "title": "我在蒸汽都市扮演名著角色",
+     "author": "银色的炼金术师",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "从七咒缠身开始登临终末",
+     "author": "夕风吹落棠",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "从熔炉骑士开始耐力登神",
+     "author": "狐说薪语",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "我们圣武士就是这样的啊？",
+     "author": "资深詹密",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "打开你的冒险团日志",
+     "author": "门后洒扫",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "街边小餐馆，我的食材来自异世界",
+     "author": "哼哼不哼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【新人签约新书榜·奇幻】2 本新上榜；2 本掉榜；《诡秘：捡到一只红祭司》动能 2.0 分领跑。"
+  },
+  "武侠": {
+   "new_books": [
+    {
+     "rank": 6,
+     "title": "冒名太监：开局天罡童子功",
+     "author": "雾隐狂龙",
+     "subCategory": "传统武侠"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 1,
+     "title": "高武大宋：从龙吟铁布衫开始",
+     "author": "躺平的凡子",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "误闯天龙，我成了王语嫣？",
+     "author": "努力的卢卡",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "仙武轮回从一世之尊开始证道",
+     "author": "乌贼捉蛤蟆",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "武侠从县令开始",
+     "author": "风倾w",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "苦境：此地有间食神斋",
+     "author": "春风吹到凤凰台",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 7,
+     "title": "家父左冷禅",
+     "author": "羽林乐",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 8,
+     "title": "天龙世界氪金生活",
+     "author": "万夜老妖",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 9,
+     "title": "综武：我，王莽，开局截胡周芷若",
+     "author": "流浪的月神",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【新人签约新书榜·武侠】1 本新上榜。"
+  },
+  "仙侠": {
+   "new_books": [
+    {
+     "rank": 27,
+     "title": "凡人修仙之开局我有三个分身",
+     "author": "东方玉李",
+     "subCategory": "幻想修仙"
+    },
+    {
+     "rank": 29,
+     "title": "洪荒：从普陀山开始",
+     "author": "玉正言",
+     "subCategory": "神话修真"
+    },
+    {
+     "rank": 30,
+     "title": "洪荒之我要将天赋带到西方",
+     "author": "四位神仙都不在家",
+     "subCategory": "神话修真"
+    }
+   ],
+   "new_count": 3,
+   "dropped_books": [
+    {
+     "title": "诡道世界的僵尸道长",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "title": "凡人：开局复制小绿瓶",
+     "subCategory": "幻想修仙"
+    },
+    {
+     "title": "长生修仙，从累计百业开始",
+     "subCategory": "幻想修仙"
+    }
+   ],
+   "dropped_count": 3,
+   "top_movers": [
+    {
+     "rank": 4,
+     "title": "道种！",
+     "author": "狐说儿",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 11,
+     "title": "长道",
+     "author": "小扑通儿",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 18,
+     "title": "云上种田，我有德鲁伊面板",
+     "author": "我见善天",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "仙品从考入府学开始",
+     "author": "是个老于",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "长生修仙，从精炼丹药开始",
+     "author": "飘渺的雾",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 6,
+     "title": "从西湖开始做龙君",
+     "author": "神明的土拨鼠",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 7,
+     "title": "服气修仙，我有一枚大道金印",
+     "author": "柴人三添",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【新人签约新书榜·仙侠】3 本新上榜；3 本掉榜；《道种！》动能 2.0 分领跑。"
+  }
+ },
+ "category_heat": [
+  {
+   "name": "全部",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "玄幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "奇幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "武侠",
+   "count": 10,
+   "metric_total": 0,
+   "heat": 1000
+  }
+ ],
+ "keyword_heat": [
+  {
+   "keyword": "穿越",
+   "count": 60
+  },
+  {
+   "keyword": "修仙",
+   "count": 17
+  },
+  {
+   "keyword": "系统",
+   "count": 13
+  },
+  {
+   "keyword": "重生",
+   "count": 9
+  },
+  {
+   "keyword": "种田",
+   "count": 4
+  },
+  {
+   "keyword": "宗门",
+   "count": 4
+  },
+  {
+   "keyword": "炼丹",
+   "count": 2
+  },
+  {
+   "keyword": "诸天",
+   "count": 2
+  },
+  {
+   "keyword": "都市",
+   "count": 2
+  },
+  {
+   "keyword": "杀伐果断",
+   "count": 2
+  },
+  {
+   "keyword": "天才",
+   "count": 2
+  },
+  {
+   "keyword": "聊天群",
+   "count": 1
+  }
+ ],
+ "author_power": [],
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "我也要攻略你的吗？",
+     "author": "页面走失",
+     "metric": null
+    },
+    {
+     "title": "仙子，我真得适应你了",
+     "author": "小何何何何何",
+     "metric": null
+    },
+    {
+     "title": "希腊：我为神王，当镇压一切敌！",
+     "author": "心伤谁来疼",
+     "metric": null
+    }
+   ],
+   "total_books": 346
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "我也要攻略你的吗？",
+     "author": "页面走失",
+     "metric": null
+    },
+    {
+     "title": "人气系统：你们都是废物的思维",
+     "author": "一次性口罩",
+     "metric": null
+    },
+    {
+     "title": "我能加载旧日设定",
+     "author": "鹅毛浮开水",
+     "metric": null
+    }
+   ],
+   "total_books": 232
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "我也要攻略你的吗？",
+     "author": "页面走失",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    }
+   ],
+   "total_books": 339
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "我也要攻略你的吗？",
+     "author": "页面走失",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    }
+   ],
+   "total_books": 334
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    },
+    {
+     "title": "从熔炉骑士开始耐力登神",
+     "author": "狐说薪语",
+     "metric": null
+    }
+   ],
+   "total_books": 334
+  },
+  {
+   "date": "2026-08-26",
+   "top3": [
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    },
+    {
+     "title": "从熔炉骑士开始耐力登神",
+     "author": "狐说薪语",
+     "metric": null
+    }
+   ],
+   "total_books": 130
+  }
+ ]
+}

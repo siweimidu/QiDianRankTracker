@@ -1,5 +1,5 @@
 {
- "date": "2026-08-25",
+ "date": "2026-08-26",
  "category_heat": [
   {
    "name": "全部",
@@ -95,54 +95,65 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 81
-  },
-  {
-   "keyword": "系统",
-   "count": 31
+   "count": 84
   },
   {
    "keyword": "重生",
-   "count": 30
+   "count": 29
   },
   {
-   "keyword": "诸天",
-   "count": 14
+   "keyword": "系统",
+   "count": 28
   },
   {
    "keyword": "历史",
-   "count": 11
+   "count": 13
+  },
+  {
+   "keyword": "诸天",
+   "count": 13
   },
   {
    "keyword": "修仙",
-   "count": 10
+   "count": 12
   },
   {
-   "keyword": "种田",
+   "keyword": "诡异",
    "count": 7
+  },
+  {
+   "keyword": "灵异",
+   "count": 6
   },
   {
    "keyword": "工业",
    "count": 6
   },
   {
-   "keyword": "大明",
-   "count": 6
-  },
-  {
-   "keyword": "灵异",
+   "keyword": "种田",
    "count": 5
   },
   {
-   "keyword": "诡异",
+   "keyword": "科技",
    "count": 5
   },
   {
-   "keyword": "天才",
+   "keyword": "谍战",
    "count": 5
   }
  ],
  "author_power": [
+  {
+   "author": "远瞳",
+   "books": 4,
+   "top10": 3,
+   "bestRank": 3,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
   {
    "author": "爱潜水的乌贼",
    "books": 4,
@@ -155,21 +166,10 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "我吃西红柿",
    "books": 4,
    "top10": 2,
    "bestRank": 1,
-   "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
-   "books": 4,
-   "top10": 1,
-   "bestRank": 10,
    "titles": [
     "盘龙",
     "九鼎记",
@@ -177,10 +177,21 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
+   "author": "我会修空调",
    "books": 3,
    "top10": 3,
    "bestRank": 1,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "纯洁滴小龙",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 3,
    "titles": [
     "捞尸人",
     "深夜书屋",
@@ -202,7 +213,7 @@
    "author": "榴弹怕水",
    "books": 3,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 4,
    "titles": [
     "廓晋",
     "绍宋",
@@ -216,30 +227,19 @@
    "bestRank": 4,
    "titles": [
     "王牌律师",
-    "律师本色",
-    "不良律师"
+    "不良律师",
+    "律师本色"
    ]
   },
   {
    "author": "卖报小郎君",
    "books": 3,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 7,
    "titles": [
     "临圣",
     "大奉打更人",
     "灵境行者"
-   ]
-  },
-  {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 5,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
    ]
   },
   {
@@ -273,23 +273,13 @@
    ]
   },
   {
-   "author": "三天两觉",
+   "author": "懒惰的咕噜大王",
    "books": 2,
    "top10": 2,
    "bestRank": 4,
    "titles": [
-    "盖世双谐",
-    "惊悚乐园"
-   ]
-  },
-  {
-   "author": "孤独麦客",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "北望江山",
-    "晋末长剑"
+    "什么叫进攻型后腰啊",
+    "足球：才16岁，让我退役复出？"
    ]
   },
   {
@@ -300,6 +290,16 @@
    "titles": [
     "天启预报",
     "天命之上"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
    ]
   }
  ],
@@ -446,6 +446,27 @@
     {
      "title": "没钱修什么仙？",
      "author": "熊狼狗",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-26",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
      "metric": null
     }
    ],
