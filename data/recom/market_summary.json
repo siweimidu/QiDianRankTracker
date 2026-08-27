@@ -1,101 +1,101 @@
 {
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 215044,
-   "heat": 215044
+   "metric_total": 326529,
+   "heat": 326529
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 123652,
-   "heat": 123652
+   "metric_total": 186920,
+   "heat": 186920
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 74107,
-   "heat": 74107
+   "metric_total": 111891,
+   "heat": 111891
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 70541,
-   "heat": 70541
+   "metric_total": 108531,
+   "heat": 108531
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 44746,
-   "heat": 44746
+   "metric_total": 66318,
+   "heat": 66318
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 43933,
-   "heat": 43933
+   "metric_total": 66017,
+   "heat": 66017
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 33684,
-   "heat": 33684
+   "metric_total": 52611,
+   "heat": 52611
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 17852,
-   "heat": 17852
+   "metric_total": 27118,
+   "heat": 27118
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 17255,
-   "heat": 17255
+   "metric_total": 25836,
+   "heat": 25836
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 14664,
-   "heat": 14664
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 13200,
-   "heat": 13200
+   "metric_total": 21751,
+   "heat": 21751
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 12941,
-   "heat": 12941
+   "metric_total": 20802,
+   "heat": 20802
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 19870,
+   "heat": 19870
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 9519,
-   "heat": 9519
+   "metric_total": 13923,
+   "heat": 13923
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 6108,
-   "heat": 6108
+   "metric_total": 9244,
+   "heat": 9244
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 1839,
-   "heat": 1839
+   "metric_total": 2832,
+   "heat": 2832
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 73
+   "count": 74
   },
   {
    "keyword": "系统",
@@ -103,18 +103,18 @@
   },
   {
    "keyword": "重生",
-   "count": 20
+   "count": 22
   },
   {
    "keyword": "诸天",
    "count": 14
   },
   {
-   "keyword": "诡异",
-   "count": 11
+   "keyword": "历史",
+   "count": 10
   },
   {
-   "keyword": "历史",
+   "keyword": "诡异",
    "count": 10
   },
   {
@@ -160,9 +160,19 @@
    "top10": 2,
    "bestRank": 9,
    "titles": [
-    "怪谈游戏设计师",
     "我有一座冒险屋",
+    "怪谈游戏设计师",
     "我的治愈系游戏"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "异度旅社",
+    "黎明之剑"
    ]
   },
   {
@@ -176,33 +186,23 @@
    ]
   },
   {
-   "author": "榴弹怕水",
+   "author": "我吃西红柿",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 3,
    "titles": [
-    "廓晋",
-    "绍宋"
+    "吞噬星空2起源大陆",
+    "吞噬星空"
    ]
   },
   {
    "author": "林海听涛",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 8,
    "titles": [
     "逆转",
     "禁区之狐"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "吞噬星空2起源大陆",
-    "吞噬星空"
    ]
   },
   {
@@ -216,20 +216,20 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "榴弹怕水",
    "books": 2,
    "top10": 1,
    "bestRank": 7,
    "titles": [
-    "异度旅社",
-    "黎明之剑"
+    "廓晋",
+    "绍宋"
    ]
   },
   {
    "author": "青衫取醉",
    "books": 2,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 8,
    "titles": [
     "神的模仿犯",
     "亏成首富从游戏开始-《年少有为》电视剧原著"
@@ -239,7 +239,7 @@
    "author": "晨星LL",
    "books": 2,
    "top10": 0,
-   "bestRank": 16,
+   "bestRank": 15,
    "titles": [
     "这游戏也太真实了",
     "魔王大人深不可测"
@@ -411,6 +411,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 14988
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-27",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 48160
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": 28410
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 23624
     }
    ],
    "total_books": 450

@@ -1,5 +1,5 @@
 {
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "category_heat": [
   {
    "name": "全部",
@@ -95,15 +95,19 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 94
+   "count": 92
   },
   {
    "keyword": "系统",
-   "count": 33
+   "count": 34
   },
   {
    "keyword": "重生",
-   "count": 23
+   "count": 21
+  },
+  {
+   "keyword": "诸天",
+   "count": 15
   },
   {
    "keyword": "历史",
@@ -112,10 +116,6 @@
   {
    "keyword": "修仙",
    "count": 14
-  },
-  {
-   "keyword": "诸天",
-   "count": 13
   },
   {
    "keyword": "科技",
@@ -135,19 +135,30 @@
   },
   {
    "keyword": "谍战",
-   "count": 5
+   "count": 6
   },
   {
-   "keyword": "万界",
-   "count": 4
+   "keyword": "种田",
+   "count": 5
   }
  ],
  "author_power": [
   {
+   "author": "爱潜水的乌贼",
+   "books": 4,
+   "top10": 3,
+   "bestRank": 1,
+   "titles": [
+    "诡秘之主",
+    "剑烛大荒",
+    "宿命之环"
+   ]
+  },
+  {
    "author": "远瞳",
    "books": 4,
    "top10": 3,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -155,14 +166,14 @@
    ]
   },
   {
-   "author": "爱潜水的乌贼",
-   "books": 4,
-   "top10": 2,
-   "bestRank": 1,
+   "author": "榴弹怕水",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 6,
    "titles": [
-    "诡秘之主",
-    "剑烛大荒",
-    "宿命之环"
+    "廓晋",
+    "绍宋",
+    "覆汉"
    ]
   },
   {
@@ -177,21 +188,10 @@
    ]
   },
   {
-   "author": "榴弹怕水",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
-   ]
-  },
-  {
    "author": "最白的乌鸦",
    "books": 3,
    "top10": 2,
-   "bestRank": 7,
+   "bestRank": 8,
    "titles": [
     "谁让他修仙的！",
     "大乘期才有逆袭系统",
@@ -202,7 +202,7 @@
    "author": "我会修空调",
    "books": 3,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
@@ -213,7 +213,7 @@
    "author": "卖报小郎君",
    "books": 3,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 9,
    "titles": [
     "临圣",
     "大奉打更人",
@@ -224,30 +224,20 @@
    "author": "辰东",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 2,
    "titles": [
     "夜无疆",
     "遮天"
    ]
   },
   {
-   "author": "穿黄衣的阿肥",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "我的细胞监狱",
-    "活人深处"
-   ]
-  },
-  {
-   "author": "眉师娘",
+   "author": "黑山老鬼",
    "books": 2,
    "top10": 2,
    "bestRank": 2,
    "titles": [
-    "万物希声",
-    "奔腾年代——向南向北"
+    "急急如律令",
+    "黄昏分界"
    ]
   },
   {
@@ -271,33 +261,43 @@
    ]
   },
   {
-   "author": "孤独麦客",
+   "author": "谈谈钱",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "谍战代号：申公豹",
+    "谍战吃瓜，从潜伏洪秘书开始"
+   ]
+  },
+  {
+   "author": "眉师娘",
    "books": 2,
    "top10": 2,
    "bestRank": 4,
    "titles": [
+    "万物希声",
+    "奔腾年代——向南向北"
+   ]
+  },
+  {
+   "author": "佚名",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "铁路往事",
+    "铁血残明"
+   ]
+  },
+  {
+   "author": "孤独麦客",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
     "北望江山",
     "晋末长剑"
-   ]
-  },
-  {
-   "author": "柳岸花又明",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "重生高考前99天",
-    "我真没想重生啊"
-   ]
-  },
-  {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 7,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
    ]
   }
  ],
@@ -451,6 +451,27 @@
   },
   {
    "date": "2026-08-26",
+   "top3": [
+    {
+     "title": "诡秘之主",
+     "author": "爱潜水的乌贼",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-27",
    "top3": [
     {
      "title": "诡秘之主",

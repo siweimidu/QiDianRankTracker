@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T05:41:55",
+ "updated_at": "2026-08-27T08:43:12",
  "boards": [
   {
    "slug": "yuepiao",
@@ -8,7 +8,7 @@
    "group": "paid",
    "group_label": "付费价值盘",
    "metric": "月票",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/yuepiao/latest/all.json"
   },
   {
@@ -18,7 +18,7 @@
    "group": "paid",
    "group_label": "付费价值盘",
    "metric": "畅销指数",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/hotsales/latest/all.json"
   },
   {
@@ -28,7 +28,7 @@
    "group": "paid",
    "group_label": "付费价值盘",
    "metric": "VIP收藏",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/vipcollect/latest/all.json"
   },
   {
@@ -38,7 +38,7 @@
    "group": "paid",
    "group_label": "付费价值盘",
    "metric": "更新",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/vipup/latest/all.json"
   },
   {
@@ -48,7 +48,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "阅读指数",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/readindex/latest/all.json"
   },
   {
@@ -58,7 +58,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "追读",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/followreading/latest/all.json"
   },
   {
@@ -68,7 +68,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "收藏",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/collect/latest/all.json"
   },
   {
@@ -78,7 +78,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "书友",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/newfans/latest/all.json"
   },
   {
@@ -88,7 +88,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "推荐票",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/recom/latest/all.json"
   },
   {
@@ -98,7 +98,7 @@
    "group": "traffic",
    "group_label": "流量热度盘",
    "metric": "留存",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/retention/latest/all.json"
   },
   {
@@ -108,7 +108,7 @@
    "group": "newbook",
    "group_label": "新书孵化盘",
    "metric": "月票",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/signnewbook/latest/all.json"
   },
   {
@@ -118,7 +118,7 @@
    "group": "newbook",
    "group_label": "新书孵化盘",
    "metric": "推荐票",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/pubnewbook/latest/all.json"
   },
   {
@@ -128,7 +128,7 @@
    "group": "newbook",
    "group_label": "新书孵化盘",
    "metric": "月票",
-   "date": "2026-08-26",
+   "date": "2026-08-27",
    "url": "api/newsign/latest/all.json"
   },
   {

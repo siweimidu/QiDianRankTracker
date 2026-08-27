@@ -1,5 +1,5 @@
 {
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "category_heat": [
   {
    "name": "全部",
@@ -63,9 +63,9 @@
   },
   {
    "name": "体育",
-   "count": 13,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1300
+   "heat": 1500
   },
   {
    "name": "武侠",
@@ -74,16 +74,16 @@
    "heat": 900
   },
   {
-   "name": "悬疑灵异",
+   "name": "军事",
    "count": 9,
    "metric_total": 0,
    "heat": 900
   },
   {
-   "name": "军事",
-   "count": 8,
+   "name": "悬疑灵异",
+   "count": 7,
    "metric_total": 0,
-   "heat": 800
+   "heat": 700
   },
   {
    "name": "现实",
@@ -95,51 +95,51 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 107
+   "count": 111
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 34
   },
   {
    "keyword": "重生",
-   "count": 25
-  },
-  {
-   "keyword": "修仙",
-   "count": 18
+   "count": 22
   },
   {
    "keyword": "诸天",
    "count": 15
   },
   {
-   "keyword": "历史",
-   "count": 10
+   "keyword": "修仙",
+   "count": 15
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
   },
   {
    "keyword": "万界",
    "count": 7
   },
   {
-   "keyword": "诡异",
-   "count": 6
+   "keyword": "历史",
+   "count": 7
   },
   {
    "keyword": "副本",
-   "count": 6
-  },
-  {
-   "keyword": "科技",
-   "count": 4
-  },
-  {
-   "keyword": "天才",
-   "count": 4
+   "count": 5
   },
   {
    "keyword": "废土",
    "count": 4
+  },
+  {
+   "keyword": "无限流",
+   "count": 4
+  },
+  {
+   "keyword": "灵异",
+   "count": 3
   }
  ],
  "author_power": [
@@ -322,6 +322,27 @@
     }
    ],
    "total_books": 334
+  },
+  {
+   "date": "2026-08-27",
+   "top3": [
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    },
+    {
+     "title": "孤主",
+     "author": "错哪儿了",
+     "metric": null
+    }
+   ],
+   "total_books": 335
   }
  ]
 }
