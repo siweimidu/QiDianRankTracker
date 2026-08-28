@@ -1,5 +1,5 @@
 {
- "date": "2026-08-27",
+ "date": "2026-08-28",
  "category_heat": [
   {
    "name": "全部",
@@ -32,12 +32,6 @@
    "heat": 3000
   },
   {
-   "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "现实",
    "count": 30,
    "metric_total": 0,
@@ -45,12 +39,6 @@
   },
   {
    "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "历史",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,88 +78,109 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
+  },
+  {
+   "name": "历史",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 133
+   "count": 139
   },
   {
    "keyword": "系统",
-   "count": 49
+   "count": 59
   },
   {
    "keyword": "重生",
-   "count": 25
-  },
-  {
-   "keyword": "诸天",
-   "count": 16
+   "count": 28
   },
   {
    "keyword": "修仙",
-   "count": 13
+   "count": 24
   },
   {
-   "keyword": "科技",
-   "count": 10
+   "keyword": "诸天",
+   "count": 17
   },
   {
    "keyword": "无敌",
-   "count": 10
+   "count": 12
   },
   {
-   "keyword": "万界",
-   "count": 8
-  },
-  {
-   "keyword": "大明",
-   "count": 7
-  },
-  {
-   "keyword": "天才",
-   "count": 7
+   "keyword": "种田",
+   "count": 12
   },
   {
    "keyword": "诡异",
-   "count": 7
+   "count": 11
+  },
+  {
+   "keyword": "大明",
+   "count": 9
   },
   {
    "keyword": "历史",
+   "count": 8
+  },
+  {
+   "keyword": "万界",
+   "count": 7
+  },
+  {
+   "keyword": "末世",
    "count": 6
   }
  ],
  "author_power": [
   {
-   "author": "佚名",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 10,
+   "author": "酉山小乙",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
    "titles": [
-    "武逆焚天",
-    "万族图鉴：你管这叫F级天赋？",
-    "蒸汽纪元：大疫百年后的幸存者"
+    "速通武侠世界：我专治意难平！",
+    "修仙，我以灵境证长生"
    ]
   },
   {
-   "author": "三十二变",
+   "author": "昭灵驷玉",
    "books": 2,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 9,
    "titles": [
-    "修真界防骗手册",
-    "萌娘水浒传"
+    "黑科技：从单兵隐形装备开始",
+    "重生2013：超级科技帝国"
    ]
   },
   {
-   "author": "温壶酒精",
+   "author": "幸运神选",
    "books": 2,
    "top10": 0,
-   "bestRank": 19,
+   "bestRank": 14,
    "titles": [
-    "斗罗：永恒王座，裁决天神",
-    "斗罗：众神遵我令，佣兵踏山河！"
+    "骑士领主：从每日情报开始",
+    "法师领主的神选种田系统"
+   ]
+  },
+  {
+   "author": "佚名",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 16,
+   "titles": [
+    "最强小神农",
+    "劫天运"
    ]
   }
  ],
@@ -364,6 +373,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-08-28",
+   "top3": [
+    {
+     "title": "龙游令",
+     "author": "鱼狱圄",
+     "metric": null
+    },
+    {
+     "title": "海贼：从艾尔巴夫走出的雷神托尔",
+     "author": "懒狗人生",
+     "metric": null
+    },
+    {
+     "title": "诡秘：从阿蒙分身到命运支柱",
+     "author": "朝生暮死的蜉蝣",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }
