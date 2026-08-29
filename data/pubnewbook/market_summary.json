@@ -1,5 +1,5 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "category_heat": [
   {
    "name": "全部",
@@ -87,15 +87,15 @@
   },
   {
    "name": "体育",
-   "count": 27,
+   "count": 26,
    "metric_total": 0,
-   "heat": 2700
+   "heat": 2600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 93
+   "count": 90
   },
   {
    "keyword": "系统",
@@ -107,11 +107,11 @@
   },
   {
    "keyword": "修仙",
-   "count": 23
+   "count": 22
   },
   {
    "keyword": "诸天",
-   "count": 15
+   "count": 16
   },
   {
    "keyword": "诡异",
@@ -119,7 +119,7 @@
   },
   {
    "keyword": "历史",
-   "count": 9
+   "count": 10
   },
   {
    "keyword": "科技",
@@ -127,40 +127,40 @@
   },
   {
    "keyword": "灵异",
+   "count": 6
+  },
+  {
+   "keyword": "无敌",
+   "count": 5
+  },
+  {
+   "keyword": "网游",
    "count": 5
   },
   {
    "keyword": "克苏鲁",
    "count": 4
-  },
-  {
-   "keyword": "宗门",
-   "count": 4
-  },
-  {
-   "keyword": "无敌",
-   "count": 4
   }
  ],
  "author_power": [
   {
-   "author": "净垣君",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "野猪星际开拓史",
-    "瀚海囚笼"
-   ]
-  },
-  {
    "author": "七玄策",
    "books": 2,
-   "top10": 1,
-   "bestRank": 7,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
     "漫威：猛男驯兽师",
     "末日祭坛：我成为邪道宗师"
+   ]
+  },
+  {
+   "author": "净垣君",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 7,
+   "titles": [
+    "野猪星际开拓史",
+    "瀚海囚笼"
    ]
   },
   {
@@ -342,6 +342,27 @@
     }
    ],
    "total_books": 447
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "仙人，民国和长生",
+     "author": "我爱吃小熊软糖",
+     "metric": null
+    },
+    {
+     "title": "玄鉴，穿成玄谙的我一定要活下去",
+     "author": "花九思",
+     "metric": null
+    },
+    {
+     "title": "最后的参数",
+     "author": "丁从容",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }

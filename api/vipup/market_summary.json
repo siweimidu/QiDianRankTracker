@@ -1,5 +1,5 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "category_heat": [
   {
    "name": "全部",
@@ -44,6 +44,12 @@
    "heat": 3000
   },
   {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "游戏",
    "count": 30,
    "metric_total": 0,
@@ -81,25 +87,19 @@
   },
   {
    "name": "都市",
-   "count": 28,
+   "count": 29,
    "metric_total": 0,
-   "heat": 2800
-  },
-  {
-   "name": "历史",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
+   "heat": 2900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 139
+   "count": 132
   },
   {
    "keyword": "系统",
-   "count": 59
+   "count": 52
   },
   {
    "keyword": "重生",
@@ -107,80 +107,71 @@
   },
   {
    "keyword": "修仙",
-   "count": 24
+   "count": 20
   },
   {
    "keyword": "诸天",
    "count": 17
   },
   {
-   "keyword": "无敌",
-   "count": 12
-  },
-  {
-   "keyword": "种田",
-   "count": 12
-  },
-  {
    "keyword": "诡异",
-   "count": 11
-  },
-  {
-   "keyword": "大明",
    "count": 9
   },
   {
-   "keyword": "历史",
+   "keyword": "无敌",
+   "count": 9
+  },
+  {
+   "keyword": "科技",
    "count": 8
   },
   {
-   "keyword": "万界",
+   "keyword": "大明",
    "count": 7
   },
   {
-   "keyword": "末世",
+   "keyword": "历史",
    "count": 6
+  },
+  {
+   "keyword": "种田",
+   "count": 6
+  },
+  {
+   "keyword": "末世",
+   "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "酉山小乙",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
+   "author": "佚名",
+   "books": 4,
+   "top10": 1,
+   "bestRank": 5,
    "titles": [
-    "速通武侠世界：我专治意难平！",
-    "修仙，我以灵境证长生"
+    "万古第一神",
+    "大秦：隐忍十八年，废柴皇子杀疯了",
+    "蒸汽纪元：大疫百年后的幸存者"
    ]
   },
   {
    "author": "昭灵驷玉",
    "books": 2,
-   "top10": 1,
-   "bestRank": 9,
+   "top10": 2,
+   "bestRank": 3,
    "titles": [
     "黑科技：从单兵隐形装备开始",
     "重生2013：超级科技帝国"
    ]
   },
   {
-   "author": "幸运神选",
+   "author": "飞天lxc",
    "books": 2,
    "top10": 0,
-   "bestRank": 14,
+   "bestRank": 11,
    "titles": [
-    "骑士领主：从每日情报开始",
-    "法师领主的神选种田系统"
-   ]
-  },
-  {
-   "author": "佚名",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 16,
-   "titles": [
-    "最强小神农",
-    "劫天运"
+    "斗罗：开局觉醒牛马武魂",
+    "开局得鲲鹏血，从斗罗开始游诸天"
    ]
   }
  ],
@@ -394,6 +385,27 @@
     }
    ],
    "total_books": 446
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "骂我朝廷鹰犬？我乃大秦武圣",
+     "author": "我不是小号",
+     "metric": null
+    },
+    {
+     "title": "LOL：什么叫折磨流选手啊！",
+     "author": "暴走小风",
+     "metric": null
+    },
+    {
+     "title": "斗罗：平行世界曝光，我人麻了",
+     "author": "枫林烨晚",
+     "metric": null
+    }
+   ],
+   "total_books": 449
   }
  ]
 }

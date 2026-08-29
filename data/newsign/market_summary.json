@@ -1,5 +1,5 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "category_heat": [
   {
    "name": "全部",
@@ -57,9 +57,9 @@
   },
   {
    "name": "体育",
-   "count": 22,
+   "count": 23,
    "metric_total": 0,
-   "heat": 2200
+   "heat": 2300
   },
   {
    "name": "科幻",
@@ -95,19 +95,19 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 117
+   "count": 118
   },
   {
    "keyword": "系统",
-   "count": 41
+   "count": 39
   },
   {
    "keyword": "重生",
-   "count": 31
+   "count": 26
   },
   {
    "keyword": "修仙",
-   "count": 20
+   "count": 21
   },
   {
    "keyword": "诸天",
@@ -118,15 +118,19 @@
    "count": 7
   },
   {
+   "keyword": "万界",
+   "count": 7
+  },
+  {
    "keyword": "种田",
    "count": 6
   },
   {
-   "keyword": "万界",
-   "count": 6
+   "keyword": "科技",
+   "count": 5
   },
   {
-   "keyword": "科技",
+   "keyword": "历史",
    "count": 5
   },
   {
@@ -136,10 +140,6 @@
   {
    "keyword": "大明",
    "count": 5
-  },
-  {
-   "keyword": "三国",
-   "count": 4
   }
  ],
  "author_power": [],
@@ -311,6 +311,27 @@
     }
    ],
    "total_books": 345
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    },
+    {
+     "title": "火影：每年一个金手指",
+     "author": "我姓刘了油刘",
+     "metric": null
+    },
+    {
+     "title": "美漫：我的病娇女友祖国人？！",
+     "author": "云中糯米滋",
+     "metric": null
+    }
+   ],
+   "total_books": 346
   }
  ]
 }
