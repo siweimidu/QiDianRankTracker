@@ -1,5 +1,5 @@
 {
- "date": "2026-08-29",
+ "date": "2026-08-30",
  "category_heat": [
   {
    "name": "全部",
@@ -68,24 +68,6 @@
    "heat": 3000
   },
   {
-   "name": "诸天无限",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "轻小说",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "体育",
    "count": 26,
    "metric_total": 0,
@@ -95,50 +77,50 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 90
+   "count": 72
   },
   {
    "keyword": "系统",
-   "count": 38
+   "count": 31
   },
   {
    "keyword": "重生",
-   "count": 30
+   "count": 27
   },
   {
    "keyword": "修仙",
-   "count": 22
-  },
-  {
-   "keyword": "诸天",
-   "count": 16
-  },
-  {
-   "keyword": "诡异",
-   "count": 10
+   "count": 21
   },
   {
    "keyword": "历史",
-   "count": 10
+   "count": 9
+  },
+  {
+   "keyword": "诸天",
+   "count": 4
   },
   {
    "keyword": "科技",
-   "count": 6
+   "count": 4
   },
   {
-   "keyword": "灵异",
-   "count": 6
+   "keyword": "都市",
+   "count": 4
   },
   {
-   "keyword": "无敌",
-   "count": 5
+   "keyword": "机甲",
+   "count": 4
   },
   {
-   "keyword": "网游",
-   "count": 5
+   "keyword": "大明",
+   "count": 4
   },
   {
-   "keyword": "克苏鲁",
+   "keyword": "三国",
+   "count": 4
+  },
+  {
+   "keyword": "末世",
    "count": 4
   }
  ],
@@ -147,7 +129,7 @@
    "author": "七玄策",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 4,
    "titles": [
     "漫威：猛男驯兽师",
     "末日祭坛：我成为邪道宗师"
@@ -156,7 +138,7 @@
   {
    "author": "净垣君",
    "books": 2,
-   "top10": 2,
+   "top10": 1,
    "bestRank": 7,
    "titles": [
     "野猪星际开拓史",
@@ -363,6 +345,27 @@
     }
    ],
    "total_books": 446
+  },
+  {
+   "date": "2026-08-30",
+   "top3": [
+    {
+     "title": "玄鉴，穿成玄谙的我一定要活下去",
+     "author": "花九思",
+     "metric": null
+    },
+    {
+     "title": "仙人，民国和长生",
+     "author": "我爱吃小熊软糖",
+     "metric": null
+    },
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    }
+   ],
+   "total_books": 356
   }
  ]
 }
