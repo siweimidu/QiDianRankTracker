@@ -1,7 +1,7 @@
 {
  "slug": "vipup",
  "name": "更新榜",
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "types": [
   {
    "name": "全部",
@@ -31,7 +31,7 @@
   {
    "name": "都市",
    "url": "api/vipup/latest/都市.json",
-   "count": 30
+   "count": 23
   },
   {
    "name": "现实",
@@ -76,7 +76,7 @@
   {
    "name": "轻小说",
    "url": "api/vipup/latest/轻小说.json",
-   "count": 30
+   "count": 20
   }
  ]
 }

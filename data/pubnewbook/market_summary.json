@@ -1,5 +1,5 @@
 {
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,25 +32,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -68,91 +44,123 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 26,
+   "name": "诸天无限",
+   "count": 30,
    "metric_total": 0,
-   "heat": 2600
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 20,
+   "metric_total": 0,
+   "heat": 2000
+  },
+  {
+   "name": "现实",
+   "count": 14,
+   "metric_total": 0,
+   "heat": 1400
+  },
+  {
+   "name": "武侠",
+   "count": 13,
+   "metric_total": 0,
+   "heat": 1300
+  },
+  {
+   "name": "军事",
+   "count": 11,
+   "metric_total": 0,
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 7,
+   "metric_total": 0,
+   "heat": 700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 72
+   "count": 69
   },
   {
    "keyword": "系统",
-   "count": 31
-  },
-  {
-   "keyword": "重生",
-   "count": 27
-  },
-  {
-   "keyword": "修仙",
-   "count": 21
-  },
-  {
-   "keyword": "历史",
-   "count": 9
+   "count": 35
   },
   {
    "keyword": "诸天",
-   "count": 4
+   "count": 18
   },
   {
-   "keyword": "科技",
-   "count": 4
+   "keyword": "修仙",
+   "count": 16
   },
   {
-   "keyword": "都市",
-   "count": 4
+   "keyword": "重生",
+   "count": 16
   },
   {
-   "keyword": "机甲",
-   "count": 4
+   "keyword": "诡异",
+   "count": 12
   },
   {
-   "keyword": "大明",
-   "count": 4
-  },
-  {
-   "keyword": "三国",
-   "count": 4
+   "keyword": "万界",
+   "count": 11
   },
   {
    "keyword": "末世",
+   "count": 8
+  },
+  {
+   "keyword": "宗门",
+   "count": 6
+  },
+  {
+   "keyword": "都市",
+   "count": 6
+  },
+  {
+   "keyword": "大明",
+   "count": 5
+  },
+  {
+   "keyword": "无限流",
    "count": 4
   }
  ],
  "author_power": [
   {
-   "author": "七玄策",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "漫威：猛男驯兽师",
-    "末日祭坛：我成为邪道宗师"
-   ]
-  },
-  {
-   "author": "净垣君",
+   "author": "冷公子咩",
    "books": 2,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 10,
    "titles": [
-    "野猪星际开拓史",
-    "瀚海囚笼"
+    "夺舍：体验人生百态",
+    "无耻之徒：加拉格的邻居"
    ]
   },
   {
-   "author": "江羽JY",
+   "author": "周末图书馆",
    "books": 2,
    "top10": 0,
-   "bestRank": 12,
+   "bestRank": 11,
    "titles": [
-    "萧何",
-    "复盘世界杯2026"
+    "美综：人在摩登家庭，同行叫豺狼",
+    "谁让他修复禁忌物的！"
    ]
   }
  ],
@@ -366,6 +374,27 @@
     }
    ],
    "total_books": 356
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "玄鉴，穿成玄谙的我一定要活下去",
+     "author": "花九思",
+     "metric": null
+    },
+    {
+     "title": "玄鉴：玉阙仙途",
+     "author": "周了道",
+     "metric": null
+    },
+    {
+     "title": "权游：从私生子到龙王",
+     "author": "原子梦",
+     "metric": null
+    }
+   ],
+   "total_books": 365
   }
  ]
 }

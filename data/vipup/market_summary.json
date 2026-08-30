@@ -1,5 +1,5 @@
 {
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "category_heat": [
   {
    "name": "全部",
@@ -27,12 +27,6 @@
   },
   {
    "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -86,24 +80,30 @@
    "heat": 3000
   },
   {
-   "name": "轻小说",
-   "count": 30,
+   "name": "都市",
+   "count": 23,
    "metric_total": 0,
-   "heat": 3000
+   "heat": 2300
+  },
+  {
+   "name": "轻小说",
+   "count": 20,
+   "metric_total": 0,
+   "heat": 2000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 147
+   "count": 143
   },
   {
    "keyword": "系统",
-   "count": 58
+   "count": 52
   },
   {
    "keyword": "重生",
-   "count": 22
+   "count": 25
   },
   {
    "keyword": "修仙",
@@ -111,22 +111,22 @@
   },
   {
    "keyword": "诸天",
-   "count": 15
+   "count": 18
   },
   {
-   "keyword": "无敌",
-   "count": 8
-  },
-  {
-   "keyword": "大明",
-   "count": 8
-  },
-  {
-   "keyword": "直播",
+   "keyword": "万界",
    "count": 7
   },
   {
-   "keyword": "历史",
+   "keyword": "无敌",
+   "count": 6
+  },
+  {
+   "keyword": "诡异",
+   "count": 6
+  },
+  {
+   "keyword": "大明",
    "count": 6
   },
   {
@@ -138,7 +138,7 @@
    "count": 5
   },
   {
-   "keyword": "万界",
+   "keyword": "直播",
    "count": 5
   }
  ],
@@ -146,10 +146,10 @@
   {
    "author": "佚名",
    "books": 11,
-   "top10": 4,
+   "top10": 6,
    "bestRank": 1,
    "titles": [
-    "全宗恋爱脑，我靠大爱成尊",
+    "身怀洞天福地，速通高武",
     "从越死越强开始修仙",
     "诡海成神，开局出海捉人鱼"
    ]
@@ -157,7 +157,7 @@
   {
    "author": "末日番茄炒蛋",
    "books": 2,
-   "top10": 1,
+   "top10": 2,
    "bestRank": 1,
    "titles": [
     "全球畸变：从凡人开始无限进化",
@@ -165,13 +165,13 @@
    ]
   },
   {
-   "author": "吾与徐公熟美",
+   "author": "薰香花朵",
    "books": 2,
-   "top10": 1,
-   "bestRank": 9,
+   "top10": 0,
+   "bestRank": 12,
    "titles": [
-    "斗罗：武魂四选二，开局光暗圣龙",
-    "斗罗：我蓝银神王，被天幕曝光"
+    "全班都选阐教，我在截教逆命成圣",
+    "西游：审核八十一难，神佛都得查"
    ]
   }
  ],
@@ -427,6 +427,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "吞噬星空中的赏金猎人",
+     "author": "宅家老王",
+     "metric": null
+    },
+    {
+     "title": "皇马的狂人教父",
+     "author": "今日也无事",
+     "metric": null
+    },
+    {
+     "title": "谍影：危情预警",
+     "author": "清河先生2015",
+     "metric": null
+    }
+   ],
+   "total_books": 433
   }
  ]
 }

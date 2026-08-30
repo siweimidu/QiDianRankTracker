@@ -1,7 +1,7 @@
 {
  "slug": "pubnewbook",
  "name": "公众作者新书榜",
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "types": [
   {
    "name": "全部",
@@ -21,7 +21,7 @@
   {
    "name": "武侠",
    "url": "api/pubnewbook/latest/武侠.json",
-   "count": 30
+   "count": 13
   },
   {
    "name": "仙侠",
@@ -36,12 +36,12 @@
   {
    "name": "现实",
    "url": "api/pubnewbook/latest/现实.json",
-   "count": 30
+   "count": 14
   },
   {
    "name": "军事",
    "url": "api/pubnewbook/latest/军事.json",
-   "count": 30
+   "count": 11
   },
   {
    "name": "历史",
@@ -51,16 +51,31 @@
   {
    "name": "游戏",
    "url": "api/pubnewbook/latest/游戏.json",
-   "count": 30
+   "count": 20
   },
   {
    "name": "体育",
    "url": "api/pubnewbook/latest/体育.json",
-   "count": 26
+   "count": 7
   },
   {
    "name": "科幻",
    "url": "api/pubnewbook/latest/科幻.json",
+   "count": 30
+  },
+  {
+   "name": "诸天无限",
+   "url": "api/pubnewbook/latest/诸天无限.json",
+   "count": 30
+  },
+  {
+   "name": "悬疑灵异",
+   "url": "api/pubnewbook/latest/悬疑灵异.json",
+   "count": 30
+  },
+  {
+   "name": "轻小说",
+   "url": "api/pubnewbook/latest/轻小说.json",
    "count": 30
   }
  ]

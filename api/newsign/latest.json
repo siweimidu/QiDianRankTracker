@@ -1,7 +1,7 @@
 {
  "slug": "newsign",
  "name": "新人签约新书榜",
- "date": "2026-08-29",
+ "date": "2026-08-31",
  "types": [
   {
    "name": "全部",
@@ -36,7 +36,7 @@
   {
    "name": "现实",
    "url": "api/newsign/latest/现实.json",
-   "count": 5
+   "count": 4
   },
   {
    "name": "军事",
@@ -56,12 +56,12 @@
   {
    "name": "体育",
    "url": "api/newsign/latest/体育.json",
-   "count": 23
+   "count": 22
   },
   {
    "name": "科幻",
    "url": "api/newsign/latest/科幻.json",
-   "count": 18
+   "count": 16
   },
   {
    "name": "诸天无限",
@@ -71,7 +71,7 @@
   {
    "name": "悬疑灵异",
    "url": "api/newsign/latest/悬疑灵异.json",
-   "count": 16
+   "count": 13
   },
   {
    "name": "轻小说",

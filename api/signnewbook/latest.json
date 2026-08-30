@@ -1,7 +1,7 @@
 {
  "slug": "signnewbook",
  "name": "签约作者新书榜",
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "types": [
   {
    "name": "全部",
@@ -21,7 +21,7 @@
   {
    "name": "武侠",
    "url": "api/signnewbook/latest/武侠.json",
-   "count": 10
+   "count": 9
   },
   {
    "name": "仙侠",
@@ -51,17 +51,17 @@
   {
    "name": "游戏",
    "url": "api/signnewbook/latest/游戏.json",
-   "count": 23
+   "count": 21
   },
   {
    "name": "体育",
    "url": "api/signnewbook/latest/体育.json",
-   "count": 17
+   "count": 16
   },
   {
    "name": "科幻",
    "url": "api/signnewbook/latest/科幻.json",
-   "count": 23
+   "count": 22
   },
   {
    "name": "诸天无限",
@@ -71,7 +71,7 @@
   {
    "name": "悬疑灵异",
    "url": "api/signnewbook/latest/悬疑灵异.json",
-   "count": 5
+   "count": 3
   },
   {
    "name": "轻小说",

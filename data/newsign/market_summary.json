@@ -1,5 +1,5 @@
 {
- "date": "2026-08-29",
+ "date": "2026-08-31",
  "category_heat": [
   {
    "name": "全部",
@@ -57,21 +57,21 @@
   },
   {
    "name": "体育",
-   "count": 23,
+   "count": 22,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 2200
   },
   {
    "name": "科幻",
-   "count": 18,
-   "metric_total": 0,
-   "heat": 1800
-  },
-  {
-   "name": "悬疑灵异",
    "count": 16,
    "metric_total": 0,
    "heat": 1600
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 13,
+   "metric_total": 0,
+   "heat": 1300
   },
   {
    "name": "武侠",
@@ -80,26 +80,26 @@
    "heat": 900
   },
   {
-   "name": "现实",
+   "name": "军事",
    "count": 5,
    "metric_total": 0,
    "heat": 500
   },
   {
-   "name": "军事",
-   "count": 5,
+   "name": "现实",
+   "count": 4,
    "metric_total": 0,
-   "heat": 500
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 118
+   "count": 120
   },
   {
    "keyword": "系统",
-   "count": 39
+   "count": 40
   },
   {
    "keyword": "重生",
@@ -107,38 +107,38 @@
   },
   {
    "keyword": "修仙",
-   "count": 21
+   "count": 23
   },
   {
    "keyword": "诸天",
-   "count": 11
+   "count": 12
   },
   {
    "keyword": "天才",
-   "count": 7
-  },
-  {
-   "keyword": "万界",
-   "count": 7
+   "count": 8
   },
   {
    "keyword": "种田",
    "count": 6
   },
   {
-   "keyword": "科技",
-   "count": 5
-  },
-  {
-   "keyword": "历史",
-   "count": 5
+   "keyword": "三国",
+   "count": 6
   },
   {
    "keyword": "诡异",
+   "count": 6
+  },
+  {
+   "keyword": "万界",
+   "count": 6
+  },
+  {
+   "keyword": "宗门",
    "count": 5
   },
   {
-   "keyword": "大明",
+   "keyword": "都市",
    "count": 5
   }
  ],
@@ -332,6 +332,27 @@
     }
    ],
    "total_books": 346
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "从骨王开始征服综漫世界",
+     "author": "鹅城大学生",
+     "metric": null
+    },
+    {
+     "title": "火影：每年一个金手指",
+     "author": "我姓刘了油刘",
+     "metric": null
+    },
+    {
+     "title": "仙品从考入府学开始",
+     "author": "是个老于",
+     "metric": null
+    }
+   ],
+   "total_books": 339
   }
  ]
 }
