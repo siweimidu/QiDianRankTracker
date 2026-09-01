@@ -1,5 +1,5 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-02",
  "category_heat": [
   {
    "name": "全部",
@@ -57,9 +57,9 @@
   },
   {
    "name": "科幻",
-   "count": 21,
+   "count": 23,
    "metric_total": 0,
-   "heat": 2100
+   "heat": 2300
   },
   {
    "name": "体育",
@@ -69,9 +69,9 @@
   },
   {
    "name": "武侠",
-   "count": 9,
+   "count": 10,
    "metric_total": 0,
-   "heat": 900
+   "heat": 1000
   },
   {
    "name": "军事",
@@ -87,27 +87,27 @@
   },
   {
    "name": "悬疑灵异",
-   "count": 3,
+   "count": 4,
    "metric_total": 0,
-   "heat": 300
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 100
+   "count": 103
   },
   {
    "keyword": "系统",
-   "count": 34
+   "count": 35
   },
   {
    "keyword": "诸天",
-   "count": 21
+   "count": 19
   },
   {
    "keyword": "修仙",
-   "count": 17
+   "count": 18
   },
   {
    "keyword": "重生",
@@ -115,7 +115,7 @@
   },
   {
    "keyword": "万界",
-   "count": 9
+   "count": 8
   },
   {
    "keyword": "历史",
@@ -134,11 +134,11 @@
    "count": 4
   },
   {
-   "keyword": "副本",
+   "keyword": "无敌",
    "count": 4
   },
   {
-   "keyword": "废土",
+   "keyword": "末世",
    "count": 4
   }
  ],
@@ -437,6 +437,27 @@
     }
    ],
    "total_books": 325
+  },
+  {
+   "date": "2026-09-02",
+   "top3": [
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    },
+    {
+     "title": "斗罗绝世：我，最后的天灾",
+     "author": "火中寻月",
+     "metric": null
+    },
+    {
+     "title": "异常病理科",
+     "author": "给您添蘑菇啦",
+     "metric": null
+    }
+   ],
+   "total_books": 329
   }
  ]
 }

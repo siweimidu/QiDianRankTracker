@@ -1,5 +1,5 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-02",
  "board": {
   "slug": "signnewbook",
   "name": "签约作者新书榜",
@@ -19,8 +19,8 @@
    "subCategory": "灵异民俗",
    "status": "连载",
    "intro": "【鬼吹灯】【原著风格】路远穿越了，成了昆仑山挖矿的工程兵。好消息：战友是胡八一。坏消息：胡八一的战友，好像没几个能活着回...",
-   "latestChapter": "第58章 狼群战术",
-   "updateTime": "2026-08-31 22:19",
+   "latestChapter": "第60章 轶闻",
+   "updateTime": "2026-09-01 21:31",
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050428559/150",
    "bookUrl": "https://www.qidian.com/book/1050428559/",
    "metricLabel": "",
@@ -36,8 +36,8 @@
    "subCategory": "惊悚微恐",
    "status": "连载",
    "intro": "明明我是歼灭诡异的天才，他们却惧怕我十分，背地里竟说：我才是诡异！此等不知恩图报乱嚼舌根颠倒黑白之人，定是诡异所变，看我...",
-   "latestChapter": "第三十八章 那又如何",
-   "updateTime": "2026-08-31 09:01",
+   "latestChapter": "第四十章 变异",
+   "updateTime": "2026-09-01 09:01",
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050465736/150",
    "bookUrl": "https://www.qidian.com/book/1050465736/",
    "metricLabel": "",
@@ -46,6 +46,23 @@
   },
   {
    "rank": 3,
+   "bid": "1050570775",
+   "title": "这只小僵尸深不可测",
+   "author": "冲天雨",
+   "category": "悬疑灵异",
+   "subCategory": "诡异神秘",
+   "status": "连载",
+   "intro": "秦阳：一开始我只想苟，被他们逼得出手，真烦！我也没想到一不小心就这么强了！秦阳穿越大乾朝，成了一只小僵尸。这个世界有术法...",
+   "latestChapter": "第二十三章 一刀一个，大功德！",
+   "updateTime": "2026-09-01 22:51",
+   "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050570775/150",
+   "bookUrl": "https://www.qidian.com/book/1050570775/",
+   "metricLabel": "",
+   "metric": null,
+   "metricText": ""
+  },
+  {
+   "rank": 4,
    "bid": "1050329775",
    "title": "狼人杀出道的也能当顶流？",
    "author": "交出思想",
@@ -53,8 +70,8 @@
    "subCategory": "侦探推理",
    "status": "连载",
    "intro": "【主狼人杀+轻文娱】【已有高订1w4的狼人杀作品，可放心观看】———许照夜穿成了娱乐圈糊咖。中戏毕业，颜值能打，却因为拒...",
-   "latestChapter": "第56章 板子：真假悟空！",
-   "updateTime": "2026-09-01 00:01",
+   "latestChapter": "第58章 你别是预言家让我跳啊，我不跳",
+   "updateTime": "2026-09-02 00:01",
    "cover": "https://bookcover.yuewen.com/qdbimg/349573/1050329775/150",
    "bookUrl": "https://www.qidian.com/book/1050329775/",
    "metricLabel": "",
@@ -63,8 +80,15 @@
   }
  ],
  "trend": {
-  "new_books": [],
-  "new_count": 0,
+  "new_books": [
+   {
+    "rank": 3,
+    "title": "这只小僵尸深不可测",
+    "author": "冲天雨",
+    "subCategory": "诡异神秘"
+   }
+  ],
+  "new_count": 1,
   "dropped_books": [],
   "dropped_count": 0,
   "top_movers": [
@@ -89,18 +113,18 @@
     "momentum": 0.0
    },
    {
-    "rank": 3,
+    "rank": 4,
     "title": "狼人杀出道的也能当顶流？",
     "author": "交出思想",
-    "rankChange": 0,
+    "rankChange": -1,
     "metric": 0,
     "metricGrowth": null,
     "metricLabel": "",
-    "momentum": 0.0
+    "momentum": -2.0
    }
   ],
   "metric_growth": [],
   "first_day": false,
-  "summary": "【签约作者新书榜·悬疑灵异】榜单结构稳定，头部固若金汤。"
+  "summary": "【签约作者新书榜·悬疑灵异】1 本新上榜。"
  }
 }
