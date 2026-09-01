@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "category_heat": [
   {
    "name": "全部",
@@ -50,13 +50,13 @@
    "heat": 3000
   },
   {
-   "name": "科幻",
-   "count": 22,
+   "name": "游戏",
+   "count": 23,
    "metric_total": 0,
-   "heat": 2200
+   "heat": 2300
   },
   {
-   "name": "游戏",
+   "name": "科幻",
    "count": 21,
    "metric_total": 0,
    "heat": 2100
@@ -95,11 +95,11 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 105
+   "count": 100
   },
   {
    "keyword": "系统",
-   "count": 36
+   "count": 34
   },
   {
    "keyword": "诸天",
@@ -107,11 +107,11 @@
   },
   {
    "keyword": "修仙",
-   "count": 19
+   "count": 17
   },
   {
    "keyword": "重生",
-   "count": 17
+   "count": 16
   },
   {
    "keyword": "万界",
@@ -130,30 +130,19 @@
    "count": 5
   },
   {
+   "keyword": "种田",
+   "count": 4
+  },
+  {
    "keyword": "副本",
    "count": 4
   },
   {
    "keyword": "废土",
    "count": 4
-  },
-  {
-   "keyword": "种田",
-   "count": 3
   }
  ],
- "author_power": [
-  {
-   "author": "顽固的仓颉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "我就收个尸，怎么成魔尊了？",
-    "江湖匹夫"
-   ]
-  }
- ],
+ "author_power": [],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -427,6 +416,27 @@
     }
    ],
    "total_books": 324
+  },
+  {
+   "date": "2026-09-01",
+   "top3": [
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    },
+    {
+     "title": "斗罗绝世：我，最后的天灾",
+     "author": "火中寻月",
+     "metric": null
+    }
+   ],
+   "total_books": 325
   }
  ]
 }

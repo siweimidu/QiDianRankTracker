@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "category_heat": [
   {
    "name": "全部",
@@ -27,6 +27,12 @@
   },
   {
    "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -80,98 +86,82 @@
    "heat": 3000
   },
   {
-   "name": "都市",
-   "count": 23,
-   "metric_total": 0,
-   "heat": 2300
-  },
-  {
    "name": "轻小说",
-   "count": 20,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 143
+   "count": 134
   },
   {
    "keyword": "系统",
-   "count": 52
+   "count": 43
   },
   {
    "keyword": "重生",
-   "count": 25
+   "count": 21
   },
   {
    "keyword": "修仙",
-   "count": 22
+   "count": 16
   },
   {
    "keyword": "诸天",
-   "count": 18
+   "count": 16
+  },
+  {
+   "keyword": "大明",
+   "count": 9
   },
   {
    "keyword": "万界",
+   "count": 8
+  },
+  {
+   "keyword": "诡异",
    "count": 7
   },
   {
    "keyword": "无敌",
+   "count": 7
+  },
+  {
+   "keyword": "历史",
    "count": 6
   },
   {
-   "keyword": "诡异",
+   "keyword": "科技",
    "count": 6
   },
   {
-   "keyword": "大明",
+   "keyword": "天才",
    "count": 6
-  },
-  {
-   "keyword": "副本",
-   "count": 5
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
-   "keyword": "直播",
-   "count": 5
   }
  ],
  "author_power": [
   {
    "author": "佚名",
-   "books": 11,
-   "top10": 6,
-   "bestRank": 1,
-   "titles": [
-    "身怀洞天福地，速通高武",
-    "从越死越强开始修仙",
-    "诡海成神，开局出海捉人鱼"
-   ]
-  },
-  {
-   "author": "末日番茄炒蛋",
-   "books": 2,
+   "books": 3,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 6,
    "titles": [
-    "全球畸变：从凡人开始无限进化",
-    "荒岛基建：谎称系统是多子多福"
+    "武逆焚天",
+    "末世万倍返还：开局抢走女神空间",
+    "劫天运"
    ]
   },
   {
-   "author": "薰香花朵",
+   "author": "三十二变",
    "books": 2,
-   "top10": 0,
-   "bestRank": 12,
+   "top10": 1,
+   "bestRank": 9,
    "titles": [
-    "全班都选阐教，我在截教逆命成圣",
-    "西游：审核八十一难，神佛都得查"
+    "修真界防骗手册",
+    "萌娘水浒传"
    ]
   }
  ],
@@ -448,6 +438,27 @@
     }
    ],
    "total_books": 433
+  },
+  {
+   "date": "2026-09-01",
+   "top3": [
+    {
+     "title": "美利坚猎魔侦探",
+     "author": "叁羊羊羊",
+     "metric": null
+    },
+    {
+     "title": "我用民俗游戏成神",
+     "author": "青州流水",
+     "metric": null
+    },
+    {
+     "title": "去不了CBA，我只好打爆NBA",
+     "author": "你的刀盾",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

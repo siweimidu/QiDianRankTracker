@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "category_heat": [
   {
    "name": "全部",
@@ -95,11 +95,11 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 81
+   "count": 86
   },
   {
    "keyword": "重生",
-   "count": 30
+   "count": 32
   },
   {
    "keyword": "系统",
@@ -107,18 +107,22 @@
   },
   {
    "keyword": "诸天",
-   "count": 14
+   "count": 13
   },
   {
    "keyword": "修仙",
-   "count": 10
+   "count": 12
   },
   {
    "keyword": "历史",
-   "count": 9
+   "count": 11
   },
   {
    "keyword": "工业",
+   "count": 7
+  },
+  {
+   "keyword": "大明",
    "count": 6
   },
   {
@@ -134,42 +138,38 @@
    "count": 5
   },
   {
-   "keyword": "谍战",
-   "count": 5
-  },
-  {
-   "keyword": "大明",
-   "count": 5
+   "keyword": "种田",
+   "count": 4
   }
  ],
  "author_power": [
   {
-   "author": "眉师娘",
+   "author": "纯洁滴小龙",
    "books": 4,
    "top10": 3,
    "bestRank": 1,
    "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "说吧，秘密"
+    "捞尸人",
+    "明克街13号",
+    "魔临"
    ]
   },
   {
    "author": "爱潜水的乌贼",
    "books": 4,
    "top10": 2,
-   "bestRank": 3,
+   "bestRank": 5,
    "titles": [
     "诡秘之主",
-    "宿命之环",
-    "剑烛大荒"
+    "剑烛大荒",
+    "宿命之环"
    ]
   },
   {
    "author": "远瞳",
    "books": 4,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -177,32 +177,10 @@
    ]
   },
   {
-   "author": "我吃西红柿",
-   "books": 4,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "盘龙",
-    "九鼎记",
-    "吞噬星空"
-   ]
-  },
-  {
-   "author": "榴弹怕水",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 6,
-   "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
-   ]
-  },
-  {
    "author": "我会修空调",
    "books": 3,
    "top10": 3,
-   "bestRank": 6,
+   "bestRank": 7,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
@@ -210,43 +188,21 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "捞尸人",
-    "魔临",
-    "深夜书屋"
-   ]
-  },
-  {
-   "author": "梅子徐",
+   "author": "渠凌",
    "books": 3,
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "死宅飞行员的日常",
-    "重返2000：大国机长",
-    "传奇机长"
-   ]
-  },
-  {
-   "author": "雪映红梅",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "王牌律师",
-    "律师本色",
-    "不良律师"
+    "我曾叫牛百万",
+    "重返1999激昂年代",
+    "大国机修"
    ]
   },
   {
    "author": "卖报小郎君",
    "books": 3,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 7,
    "titles": [
     "临圣",
     "大奉打更人",
@@ -254,54 +210,96 @@
    ]
   },
   {
-   "author": "渠凌",
+   "author": "雪映红梅",
    "books": 3,
-   "top10": 2,
-   "bestRank": 6,
+   "top10": 1,
+   "bestRank": 4,
    "titles": [
-    "我曾叫牛百万",
-    "大国机修",
-    "重返1999激昂年代"
+    "王牌律师",
+    "律师本色",
+    "不良律师"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "廓晋",
+    "绍宋",
+    "覆汉"
+   ]
+  },
+  {
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "九鼎记",
+    "吞噬星空",
+    "吞噬星空2起源大陆"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "我的谍战岁月",
+    "东方既白"
+   ]
+  },
+  {
+   "author": "晨星LL",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "这游戏也太真实了",
+    "魔王大人深不可测"
+   ]
+  },
+  {
+   "author": "三天两觉",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "盖世双谐",
+    "惊悚乐园"
    ]
   },
   {
    "author": "青衫取醉",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 4,
    "titles": [
     "神的模仿犯",
     "亏成首富从游戏开始-《年少有为》电视剧原著"
    ]
   },
   {
-   "author": "佚名",
+   "author": "懒惰的咕噜大王",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 4,
    "titles": [
-    "铁路往事",
-    "北派盗墓笔记"
-   ]
-  },
-  {
-   "author": "江舟火独",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "射雕：从镖人开始",
-    "人在倚天，剑出峨眉"
-   ]
-  },
-  {
-   "author": "长风",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "秘战无声",
-    "刀尖之上"
+    "什么叫进攻型后腰啊",
+    "足球：才16岁，让我退役复出？"
    ]
   }
  ],
@@ -560,6 +558,27 @@
   },
   {
    "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": null
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-01",
    "top3": [
     {
      "title": "捞尸人",

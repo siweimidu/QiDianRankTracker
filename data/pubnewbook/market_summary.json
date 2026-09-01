@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -32,7 +38,25 @@
    "heat": 3000
   },
   {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -62,71 +86,47 @@
    "heat": 3000
   },
   {
-   "name": "游戏",
-   "count": 20,
-   "metric_total": 0,
-   "heat": 2000
-  },
-  {
-   "name": "现实",
-   "count": 14,
-   "metric_total": 0,
-   "heat": 1400
-  },
-  {
-   "name": "武侠",
-   "count": 13,
-   "metric_total": 0,
-   "heat": 1300
-  },
-  {
-   "name": "军事",
-   "count": 11,
-   "metric_total": 0,
-   "heat": 1100
-  },
-  {
    "name": "体育",
-   "count": 7,
+   "count": 16,
    "metric_total": 0,
-   "heat": 700
+   "heat": 1600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 69
+   "count": 94
   },
   {
    "keyword": "系统",
-   "count": 35
+   "count": 45
   },
   {
-   "keyword": "诸天",
-   "count": 18
+   "keyword": "重生",
+   "count": 25
   },
   {
    "keyword": "修仙",
    "count": 16
   },
   {
-   "keyword": "重生",
+   "keyword": "诸天",
    "count": 16
   },
   {
    "keyword": "诡异",
+   "count": 14
+  },
+  {
+   "keyword": "历史",
    "count": 12
   },
   {
    "keyword": "万界",
-   "count": 11
+   "count": 9
   },
   {
    "keyword": "末世",
-   "count": 8
-  },
-  {
-   "keyword": "宗门",
    "count": 6
   },
   {
@@ -134,33 +134,43 @@
    "count": 6
   },
   {
-   "keyword": "大明",
-   "count": 5
+   "keyword": "副本",
+   "count": 6
   },
   {
-   "keyword": "无限流",
-   "count": 4
+   "keyword": "灵异",
+   "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "冷公子咩",
+   "author": "璀璨的星之翼",
    "books": 2,
-   "top10": 1,
-   "bestRank": 10,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
-    "夺舍：体验人生百态",
-    "无耻之徒：加拉格的邻居"
+    "此即复仇",
+    "何为守护"
    ]
   },
   {
-   "author": "周末图书馆",
+   "author": "归心理",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 2,
+   "bestRank": 8,
    "titles": [
-    "美综：人在摩登家庭，同行叫豺狼",
-    "谁让他修复禁忌物的！"
+    "全球大逃杀，重生军师带飞杂牌军",
+    "怪谈世界，我靠契约维生"
+   ]
+  },
+  {
+   "author": "一梦清涵",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "重生：美女们都想让我当金融大佬",
+    "华娱93：从录音助理到乐坛教父"
    ]
   }
  ],
@@ -395,6 +405,27 @@
     }
    ],
    "total_books": 365
+  },
+  {
+   "date": "2026-09-01",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "朕也要上大学吗？",
+     "author": "戏呈不吃醋",
+     "metric": null
+    },
+    {
+     "title": "玄鉴：玉阙仙途",
+     "author": "周了道",
+     "metric": null
+    }
+   ],
+   "total_books": 436
   }
  ]
 }
