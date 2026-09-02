@@ -1,5 +1,5 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "category_heat": [
   {
    "name": "全部",
@@ -33,6 +33,12 @@
   },
   {
    "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -84,49 +90,43 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "现实",
-   "count": 27,
-   "metric_total": 0,
-   "heat": 2700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 96
-  },
-  {
-   "keyword": "系统",
-   "count": 36
+   "count": 94
   },
   {
    "keyword": "重生",
-   "count": 34
+   "count": 33
   },
   {
-   "keyword": "修仙",
+   "keyword": "系统",
+   "count": 32
+  },
+  {
+   "keyword": "历史",
    "count": 15
   },
   {
    "keyword": "诸天",
+   "count": 15
+  },
+  {
+   "keyword": "修仙",
    "count": 14
   },
   {
-   "keyword": "历史",
-   "count": 12
-  },
-  {
    "keyword": "大明",
-   "count": 8
-  },
-  {
-   "keyword": "诡异",
    "count": 7
   },
   {
    "keyword": "灵异",
+   "count": 6
+  },
+  {
+   "keyword": "诡异",
    "count": 6
   },
   {
@@ -138,20 +138,20 @@
    "count": 5
   },
   {
-   "keyword": "万界",
-   "count": 4
+   "keyword": "无敌",
+   "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "纯洁滴小龙",
+   "author": "眉师娘",
    "books": 3,
-   "top10": 2,
+   "top10": 3,
    "bestRank": 4,
    "titles": [
-    "捞尸人",
-    "深夜书屋",
-    "魔临"
+    "万物希声",
+    "说吧，秘密",
+    "奔腾年代——向南向北"
    ]
   },
   {
@@ -166,21 +166,10 @@
    ]
   },
   {
-   "author": "眉师娘",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "万物希声",
-    "说吧，秘密",
-    "奔腾年代——向南向北"
-   ]
-  },
-  {
    "author": "远瞳",
    "books": 3,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -188,21 +177,21 @@
    ]
   },
   {
-   "author": "我会修空调",
+   "author": "纯洁滴小龙",
    "books": 3,
    "top10": 2,
-   "bestRank": 9,
+   "bestRank": 6,
    "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
+    "捞尸人",
+    "深夜书屋",
+    "魔临"
    ]
   },
   {
    "author": "爱潜水的乌贼",
    "books": 3,
    "top10": 1,
-   "bestRank": 5,
+   "bestRank": 6,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
@@ -210,23 +199,23 @@
    ]
   },
   {
-   "author": "黑山老鬼",
+   "author": "争斤论两花花帽",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
+   "bestRank": 2,
    "titles": [
-    "急急如律令",
-    "神明调查报告"
+    "我的1979",
+    "卜筑"
    ]
   },
   {
-   "author": "雪映红梅",
+   "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 3,
+   "bestRank": 2,
    "titles": [
-    "王牌律师",
-    "律师本色"
+    "东方既白",
+    "我的谍战岁月"
    ]
   },
   {
@@ -240,16 +229,6 @@
    ]
   },
   {
-   "author": "洛小阳",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "赶尸匠",
-    "三尸语"
-   ]
-  },
-  {
    "author": "宴金秋",
    "books": 2,
    "top10": 2,
@@ -260,40 +239,60 @@
    ]
   },
   {
-   "author": "争斤论两花花帽",
+   "author": "洛小阳",
    "books": 2,
-   "top10": 1,
-   "bestRank": 1,
+   "top10": 2,
+   "bestRank": 5,
    "titles": [
-    "我的1979",
-    "卜筑"
+    "赶尸匠",
+    "三尸语"
    ]
   },
   {
-   "author": "猪头七",
+   "author": "谈谈钱",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 8,
+   "titles": [
+    "谍战代号：申公豹",
+    "谍战吃瓜，从潜伏洪秘书开始"
+   ]
+  },
+  {
+   "author": "黑山老鬼",
    "books": 2,
    "top10": 1,
    "bestRank": 2,
    "titles": [
-    "东方既白",
-    "我的谍战岁月"
+    "急急如律令",
+    "神明调查报告"
    ]
   },
   {
-   "author": "卖报小郎君",
+   "author": "最白的乌鸦",
    "books": 2,
    "top10": 1,
    "bestRank": 3,
    "titles": [
-    "临圣",
-    "灵境行者"
+    "请勿高考时渡劫",
+    "谁让他修仙的！"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "王牌律师",
+    "律师本色"
    ]
   },
   {
    "author": "我吃西红柿",
    "books": 2,
    "top10": 1,
-   "bestRank": 3,
+   "bestRank": 4,
    "titles": [
     "吞噬星空",
     "吞噬星空2起源大陆"
@@ -615,6 +614,27 @@
     }
    ],
    "total_books": 447
+  },
+  {
+   "date": "2026-09-03",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "现实编程协会",
+     "author": "木也马",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "category_heat": [
   {
    "name": "全部",
@@ -30,150 +30,59 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "科幻",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "诸天无限",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "轻小说",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "体育",
-   "count": 19,
-   "metric_total": 0,
-   "heat": 1900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 88
-  },
-  {
-   "keyword": "系统",
-   "count": 35
-  },
-  {
-   "keyword": "重生",
-   "count": 24
+   "count": 38
   },
   {
    "keyword": "修仙",
-   "count": 19
+   "count": 20
   },
   {
-   "keyword": "诸天",
-   "count": 18
+   "keyword": "系统",
+   "count": 17
+  },
+  {
+   "keyword": "重生",
+   "count": 4
   },
   {
    "keyword": "诡异",
-   "count": 13
+   "count": 3
   },
   {
-   "keyword": "历史",
-   "count": 13
+   "keyword": "天才",
+   "count": 2
   },
   {
-   "keyword": "万界",
-   "count": 8
-  },
-  {
-   "keyword": "末世",
-   "count": 7
-  },
-  {
-   "keyword": "网游",
-   "count": 5
-  },
-  {
-   "keyword": "都市",
-   "count": 5
+   "keyword": "推理",
+   "count": 2
   },
   {
    "keyword": "大明",
-   "count": 4
-  }
- ],
- "author_power": [
-  {
-   "author": "黑翼元帅",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "当勇者是睿智的P社玩家",
-    "全面战争：末世战锤"
-   ]
+   "count": 2
   },
   {
-   "author": "天马传宗",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 7,
-   "titles": [
-    "连山帖",
-    "立山"
-   ]
+   "keyword": "历史",
+   "count": 2
   },
   {
-   "author": "牛一妞",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 13,
-   "titles": [
-    "宇宙越狱",
-    "守到尽头"
-   ]
+   "keyword": "炼丹",
+   "count": 2
+  },
+  {
+   "keyword": "克苏鲁",
+   "count": 2
+  },
+  {
+   "keyword": "种田",
+   "count": 2
   }
  ],
+ "author_power": [],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -447,6 +356,27 @@
     }
    ],
    "total_books": 439
+  },
+  {
+   "date": "2026-09-03",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "朕也要上大学吗？",
+     "author": "戏呈不吃醋",
+     "metric": null
+    },
+    {
+     "title": "火影：天才宇智波，但开局仙人体",
+     "author": "宇智波番长",
+     "metric": null
+    }
+   ],
+   "total_books": 150
   }
  ]
 }

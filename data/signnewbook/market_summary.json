@@ -1,5 +1,5 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "category_heat": [
   {
    "name": "全部",
@@ -51,21 +51,21 @@
   },
   {
    "name": "游戏",
-   "count": 23,
+   "count": 24,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 2400
   },
   {
    "name": "科幻",
-   "count": 23,
+   "count": 24,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 2400
   },
   {
    "name": "体育",
-   "count": 16,
+   "count": 13,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1300
   },
   {
    "name": "武侠",
@@ -81,15 +81,15 @@
   },
   {
    "name": "现实",
-   "count": 4,
+   "count": 5,
    "metric_total": 0,
-   "heat": 400
+   "heat": 500
   },
   {
    "name": "悬疑灵异",
-   "count": 4,
+   "count": 5,
    "metric_total": 0,
-   "heat": 400
+   "heat": 500
   }
  ],
  "keyword_heat": [
@@ -99,39 +99,39 @@
   },
   {
    "keyword": "系统",
-   "count": 35
+   "count": 32
   },
   {
    "keyword": "诸天",
-   "count": 19
-  },
-  {
-   "keyword": "修仙",
-   "count": 18
+   "count": 20
   },
   {
    "keyword": "重生",
    "count": 16
   },
   {
+   "keyword": "修仙",
+   "count": 16
+  },
+  {
    "keyword": "万界",
-   "count": 8
+   "count": 10
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
   },
   {
    "keyword": "历史",
    "count": 6
   },
   {
-   "keyword": "诡异",
-   "count": 6
+   "keyword": "种田",
+   "count": 5
   },
   {
    "keyword": "大明",
    "count": 5
-  },
-  {
-   "keyword": "种田",
-   "count": 4
   },
   {
    "keyword": "无敌",
@@ -458,6 +458,27 @@
     }
    ],
    "total_books": 329
+  },
+  {
+   "date": "2026-09-03",
+   "top3": [
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    },
+    {
+     "title": "斗罗绝世：我，最后的天灾",
+     "author": "火中寻月",
+     "metric": null
+    }
+   ],
+   "total_books": 330
   }
  ]
 }
