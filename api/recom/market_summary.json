@@ -1,101 +1,101 @@
 {
- "date": "2026-09-03",
+ "date": "2026-09-04",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 390174,
-   "heat": 390174
+   "metric_total": 484927,
+   "heat": 484927
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 215633,
-   "heat": 215633
+   "metric_total": 270135,
+   "heat": 270135
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 146015,
-   "heat": 146015
+   "metric_total": 177682,
+   "heat": 177682
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 130785,
-   "heat": 130785
+   "metric_total": 165087,
+   "heat": 165087
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 89431,
-   "heat": 89431
+   "metric_total": 109523,
+   "heat": 109523
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 71138,
-   "heat": 71138
+   "metric_total": 89422,
+   "heat": 89422
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 56563,
-   "heat": 56563
+   "metric_total": 70951,
+   "heat": 70951
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 31942,
-   "heat": 31942
+   "metric_total": 39816,
+   "heat": 39816
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 29772,
-   "heat": 29772
+   "metric_total": 37980,
+   "heat": 37980
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 25818,
-   "heat": 25818
+   "metric_total": 33407,
+   "heat": 33407
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 25090,
-   "heat": 25090
+   "metric_total": 31155,
+   "heat": 31155
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 21820,
-   "heat": 21820
+   "metric_total": 27283,
+   "heat": 27283
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 15629,
-   "heat": 15629
+   "metric_total": 19739,
+   "heat": 19739
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 10611,
-   "heat": 10611
+   "metric_total": 13062,
+   "heat": 13062
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 2781,
-   "heat": 2781
+   "metric_total": 3490,
+   "heat": 3490
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 83
+   "count": 77
   },
   {
    "keyword": "系统",
@@ -110,16 +110,16 @@
    "count": 12
   },
   {
-   "keyword": "修仙",
-   "count": 10
-  },
-  {
    "keyword": "历史",
    "count": 9
   },
   {
    "keyword": "诡异",
    "count": 9
+  },
+  {
+   "keyword": "修仙",
+   "count": 8
   },
   {
    "keyword": "灵异",
@@ -157,8 +157,8 @@
   {
    "author": "我会修空调",
    "books": 3,
-   "top10": 1,
-   "bestRank": 10,
+   "top10": 0,
+   "bestRank": 12,
    "titles": [
     "我有一座冒险屋",
     "怪谈游戏设计师",
@@ -166,20 +166,10 @@
    ]
   },
   {
-   "author": "远瞳",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "异度旅社",
-    "黎明之剑"
-   ]
-  },
-  {
    "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 3,
+   "bestRank": 2,
    "titles": [
     "东方既白",
     "我的谍战岁月"
@@ -196,13 +186,13 @@
    ]
   },
   {
-   "author": "一醉风雨",
+   "author": "晨星LL",
    "books": 2,
    "top10": 1,
-   "bestRank": 3,
+   "bestRank": 2,
    "titles": [
-    "风华年代",
-    "执白"
+    "这游戏也太真实了",
+    "魔王大人深不可测"
    ]
   },
   {
@@ -216,13 +206,13 @@
    ]
   },
   {
-   "author": "晨星LL",
+   "author": "远瞳",
    "books": 2,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 6,
    "titles": [
-    "这游戏也太真实了",
-    "魔王大人深不可测"
+    "异度旅社",
+    "黎明之剑"
    ]
   },
   {
@@ -233,6 +223,16 @@
    "titles": [
     "廓晋",
     "绍宋"
+   ]
+  },
+  {
+   "author": "一醉风雨",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 18,
+   "titles": [
+    "风华年代",
+    "执白"
    ]
   }
  ],
@@ -569,6 +569,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 27938
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 68298
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": 37509
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 34620
     }
    ],
    "total_books": 450

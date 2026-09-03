@@ -1,5 +1,5 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-04",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -32,7 +38,19 @@
    "heat": 3000
   },
   {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -62,83 +80,65 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 27,
-   "metric_total": 0,
-   "heat": 2700
-  },
-  {
-   "name": "游戏",
-   "count": 23,
-   "metric_total": 0,
-   "heat": 2300
-  },
-  {
    "name": "体育",
-   "count": 8,
+   "count": 28,
    "metric_total": 0,
-   "heat": 800
-  },
-  {
-   "name": "现实",
-   "count": 7,
-   "metric_total": 0,
-   "heat": 700
+   "heat": 2800
   },
   {
    "name": "军事",
-   "count": 5,
+   "count": 25,
    "metric_total": 0,
-   "heat": 500
+   "heat": 2500
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 57
-  },
-  {
-   "keyword": "系统",
-   "count": 33
+   "count": 76
   },
   {
    "keyword": "重生",
-   "count": 20
+   "count": 28
+  },
+  {
+   "keyword": "系统",
+   "count": 23
   },
   {
    "keyword": "修仙",
-   "count": 16
-  },
-  {
-   "keyword": "诸天",
-   "count": 13
-  },
-  {
-   "keyword": "诡异",
-   "count": 8
-  },
-  {
-   "keyword": "天才",
-   "count": 5
+   "count": 19
   },
   {
    "keyword": "历史",
+   "count": 11
+  },
+  {
+   "keyword": "诸天",
+   "count": 10
+  },
+  {
+   "keyword": "天才",
+   "count": 8
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
+  },
+  {
+   "keyword": "热血",
    "count": 5
   },
   {
-   "keyword": "宗门",
-   "count": 4
-  },
-  {
-   "keyword": "万界",
-   "count": 4
-  },
-  {
    "keyword": "悬疑",
+   "count": 5
+  },
+  {
+   "keyword": "无敌",
    "count": 4
   },
   {
-   "keyword": "科技",
+   "keyword": "种田",
    "count": 4
   }
  ],
@@ -290,6 +290,27 @@
     }
    ],
    "total_books": 370
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "进四合院成了何大清他七叔",
+     "author": "发热体",
+     "metric": null
+    },
+    {
+     "title": "半岛之雪后多伦多",
+     "author": "安有劲不尤金",
+     "metric": null
+    },
+    {
+     "title": "神权游戏：用无限神力将一切逆转",
+     "author": "鲸鱼吐圈",
+     "metric": null
+    }
+   ],
+   "total_books": 443
   }
  ]
 }

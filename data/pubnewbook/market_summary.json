@@ -1,5 +1,5 @@
 {
- "date": "2026-09-03",
+ "date": "2026-09-04",
  "category_heat": [
   {
    "name": "全部",
@@ -30,59 +30,140 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "体育",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 38
+   "count": 80
+  },
+  {
+   "keyword": "系统",
+   "count": 35
+  },
+  {
+   "keyword": "重生",
+   "count": 23
   },
   {
    "keyword": "修仙",
    "count": 20
   },
   {
-   "keyword": "系统",
-   "count": 17
-  },
-  {
-   "keyword": "重生",
-   "count": 4
-  },
-  {
-   "keyword": "诡异",
-   "count": 3
-  },
-  {
-   "keyword": "天才",
-   "count": 2
-  },
-  {
-   "keyword": "推理",
-   "count": 2
-  },
-  {
-   "keyword": "大明",
-   "count": 2
+   "keyword": "诸天",
+   "count": 19
   },
   {
    "keyword": "历史",
-   "count": 2
+   "count": 13
   },
   {
-   "keyword": "炼丹",
-   "count": 2
+   "keyword": "诡异",
+   "count": 12
   },
   {
-   "keyword": "克苏鲁",
-   "count": 2
+   "keyword": "灵异",
+   "count": 6
   },
   {
-   "keyword": "种田",
-   "count": 2
+   "keyword": "万界",
+   "count": 6
+  },
+  {
+   "keyword": "都市",
+   "count": 5
+  },
+  {
+   "keyword": "天才",
+   "count": 4
+  },
+  {
+   "keyword": "大明",
+   "count": 4
   }
  ],
- "author_power": [],
+ "author_power": [
+  {
+   "author": "天马传宗",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "连山帖",
+    "立山"
+   ]
+  },
+  {
+   "author": "芥菜会发酵",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "牛背上的资本家",
+    "钢化NBA"
+   ]
+  }
+ ],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -377,6 +458,27 @@
     }
    ],
    "total_books": 150
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "朕也要上大学吗？",
+     "author": "戏呈不吃醋",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "梦无醒",
+     "metric": null
+    }
+   ],
+   "total_books": 448
   }
  ]
 }

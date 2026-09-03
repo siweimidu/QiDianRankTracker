@@ -1,115 +1,115 @@
 {
- "date": "2026-09-03",
+ "date": "2026-09-04",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 186411,
-   "heat": 186411
+   "metric_total": 215822,
+   "heat": 215822
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 87976,
-   "heat": 87976
+   "metric_total": 102961,
+   "heat": 102961
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 70239,
-   "heat": 70239
+   "metric_total": 81894,
+   "heat": 81894
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 54829,
-   "heat": 54829
+   "metric_total": 64149,
+   "heat": 64149
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 41598,
-   "heat": 41598
+   "metric_total": 49709,
+   "heat": 49709
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 28648,
-   "heat": 28648
+   "metric_total": 34020,
+   "heat": 34020
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 21499,
-   "heat": 21499
+   "metric_total": 25724,
+   "heat": 25724
   },
   {
    "name": "VIP新作",
    "count": 30,
-   "metric_total": 20852,
-   "heat": 20852
+   "metric_total": 24235,
+   "heat": 24235
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 11909,
-   "heat": 11909
+   "metric_total": 14518,
+   "heat": 14518
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 6834,
-   "heat": 6834
+   "metric_total": 8264,
+   "heat": 8264
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 6534,
-   "heat": 6534
+   "metric_total": 7800,
+   "heat": 7800
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 6168,
-   "heat": 6168
+   "metric_total": 7355,
+   "heat": 7355
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 4433,
-   "heat": 4433
+   "metric_total": 5425,
+   "heat": 5425
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 3298,
-   "heat": 3298
+   "metric_total": 4040,
+   "heat": 4040
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 3109,
-   "heat": 3109
+   "metric_total": 3883,
+   "heat": 3883
   },
   {
    "name": "现实",
-   "count": 28,
-   "metric_total": 350,
-   "heat": 350
+   "count": 29,
+   "metric_total": 468,
+   "heat": 468
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 94
+   "count": 99
   },
   {
    "keyword": "系统",
-   "count": 26
+   "count": 27
   },
   {
    "keyword": "重生",
-   "count": 20
+   "count": 21
   },
   {
    "keyword": "历史",
@@ -125,7 +125,7 @@
   },
   {
    "keyword": "诡异",
-   "count": 9
+   "count": 10
   },
   {
    "keyword": "灵异",
@@ -144,7 +144,7 @@
    "count": 6
   },
   {
-   "keyword": "科技",
+   "keyword": "谍战",
    "count": 5
   }
  ],
@@ -172,17 +172,6 @@
    ]
   },
   {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 5,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
    "author": "爱潜水的乌贼",
    "books": 3,
    "top10": 1,
@@ -194,23 +183,23 @@
    ]
   },
   {
-   "author": "一片苏叶",
+   "author": "风月",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
-    "清光宝鉴",
-    "剑出大唐"
+    "天启预报",
+    "天命之上"
    ]
   },
   {
-   "author": "风月",
+   "author": "一片苏叶",
    "books": 2,
    "top10": 2,
    "bestRank": 6,
    "titles": [
-    "天启预报",
-    "天命之上"
+    "清光宝鉴",
+    "剑出大唐"
    ]
   },
   {
@@ -234,16 +223,6 @@
    ]
   },
   {
-   "author": "章叶良",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 5,
-   "titles": [
-    "刑侦手记2：松湖埋尸",
-    "刑侦手记：棋逢对手"
-   ]
-  },
-  {
    "author": "榴弹怕水",
    "books": 2,
    "top10": 1,
@@ -251,6 +230,26 @@
    "titles": [
     "廓晋",
     "绍宋"
+   ]
+  },
+  {
+   "author": "章叶良",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "刑侦手记2：松湖埋尸",
+    "刑侦手记：棋逢对手"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏"
    ]
   }
  ],
@@ -590,6 +589,27 @@
     }
    ],
    "total_books": 478
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 16720
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 15321
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 15046
+    }
+   ],
+   "total_books": 479
   }
  ]
 }
