@@ -1,0 +1,2280 @@
+{
+ "date": "2026-09-05",
+ "slug": "newfans",
+ "board": {
+  "slug": "newfans",
+  "name": "书友榜",
+  "channel": "male",
+  "group": "traffic",
+  "group_label": "流量热度盘",
+  "metric": "书友"
+ },
+ "total_books": 420,
+ "trends": {
+  "全部": {
+   "new_books": [
+    {
+     "rank": 27,
+     "title": "我能活化技能",
+     "author": "四诗风雅颂",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "我的天赋又升级了！",
+     "subCategory": "无限"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 11,
+     "title": "流窜诸天的灾厄",
+     "author": "万象初心",
+     "rankChange": 6,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 12.0
+    },
+    {
+     "rank": 3,
+     "title": "武道！",
+     "author": "田隶",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "现实编程协会",
+     "author": "木也马",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 7,
+     "title": "我的魔法没有上限！",
+     "author": "瑟瑟发抖梨花猫",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    },
+    {
+     "rank": 8,
+     "title": "让仙门再次伟大",
+     "author": "鹤守月满池",
+     "rankChange": -1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": -2.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·全部】1 本新上榜；1 本掉榜；《流窜诸天的灾厄》动能 12.0 分领跑。"
+  },
+  "玄幻": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "从衔尾蛇石碑开始超凡",
+     "author": "深红月",
+     "subCategory": "高武世界"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "从效法万妖开始成就真仙",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 5,
+     "title": "诡秘之主",
+     "author": "爱潜水的乌贼",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 6,
+     "title": "青山",
+     "author": "会说话的肘子",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 10,
+     "title": "我能活化技能",
+     "author": "四诗风雅颂",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "宿命之环",
+     "author": "爱潜水的乌贼",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "武道！",
+     "author": "田隶",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "让仙门再次伟大",
+     "author": "鹤守月满池",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "星河之主",
+     "author": "烽仙",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·玄幻】1 本新上榜；1 本掉榜；《诡秘之主》动能 2.0 分领跑。"
+  },
+  "奇幻": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "超魔术士：开局魔网又崩了",
+     "author": "幼稚的空想家",
+     "subCategory": "剑与魔法"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "火焰纹章：龙骑领主",
+     "subCategory": "史诗奇幻"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 6,
+     "title": "希腊神话：吾名斯芬克斯",
+     "author": "喷火夜鸮",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 9,
+     "title": "我有一本任务日志",
+     "author": "底栖咸鱼",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 3,
+     "title": "谁把遗言落这了？",
+     "author": "南山予鹿",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "钢铁火药和施法者",
+     "author": "尹紫电",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "我的魔法没有上限！",
+     "author": "瑟瑟发抖梨花猫",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "这个冒险者过分正义",
+     "author": "南海琼人",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "诡秘：纯路人，但在塔罗会兼职",
+     "author": "哈基米公爵",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 14,
+     "title": "这个地下城长蘑菇了",
+     "author": "生吃菌子",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·奇幻】1 本新上榜；1 本掉榜；《希腊神话：吾名斯芬克斯》动能 4.0 分领跑。"
+  },
+  "武侠": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "重生笑傲：我要当教主",
+     "author": "宴金秋",
+     "subCategory": "武侠幻想"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "剑倾大唐，醉卧群芳",
+     "subCategory": "武侠幻想"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 15,
+     "title": "剑出大唐",
+     "author": "一片苏叶",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "开局相亲女神捕，获独孤九剑",
+     "author": "今日问道",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "倚天崆峒掌派人",
+     "author": "风约云留",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "拔剑",
+     "author": "流浪的蛤蟆",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "冒官锦衣，从满级太玄经开始",
+     "author": "洛上公子",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "重生天龙：剑出姑苏！",
+     "author": "宴金秋",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 6,
+     "title": "我在武侠世界玩养成",
+     "author": "海拉斯特黑袍",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 7,
+     "title": "灭门夜，我易筋经大圆满！",
+     "author": "落魄的小纯洁",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·武侠】1 本新上榜；1 本掉榜；《剑出大唐》动能 2.0 分领跑。"
+  },
+  "仙侠": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "仙府！",
+     "author": "满船轻梦",
+     "subCategory": "幻想修仙"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "山雨蛟",
+     "subCategory": "古典仙侠"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 9,
+     "title": "西游：成了方寸山首席",
+     "author": "天地有缺",
+     "rankChange": 7,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 14.0
+    },
+    {
+     "rank": 17,
+     "title": "谁让他修仙的！",
+     "author": "最白的乌鸦",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 1,
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 4,
+     "title": "临圣",
+     "author": "卖报小郎君",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "今天他飞升了吗",
+     "author": "裴不了",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 6,
+     "title": "苟在两界修仙",
+     "author": "文抄公",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 7,
+     "title": "清光宝鉴",
+     "author": "一片苏叶",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 8,
+     "title": "洪荒：我在截教结算证道",
+     "author": "吾道无穷",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·仙侠】1 本新上榜；1 本掉榜；《西游：成了方寸山首席》动能 14.0 分领跑。"
+  },
+  "都市": {
+   "new_books": [
+    {
+     "rank": 26,
+     "title": "半岛：失眠艺人连线中",
+     "author": "夏雨打蝉",
+     "subCategory": "娱乐明星"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "都重生了谁给资本打工啊",
+     "subCategory": "商战职场"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 15,
+     "title": "天理协议",
+     "author": "海棠灯",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 10,
+     "title": "律师：从合法报复出轨开始！",
+     "author": "青衫仗剑行天涯",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 8,
+     "title": "重生08，我被确诊为医学泰斗",
+     "author": "忧伤的饭饭",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "以神通之名",
+     "author": "猪心虾仁",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "重生高考前99天",
+     "author": "柳岸花又明",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "1984：从破产川菜馆开始",
+     "author": "轻语江湖",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·都市】1 本新上榜；1 本掉榜；《天理协议》动能 6.0 分领跑。"
+  },
+  "现实": {
+   "new_books": [
+    {
+     "rank": 28,
+     "title": "警察陈书",
+     "author": "背包里有只熊",
+     "subCategory": "人间百态"
+    },
+    {
+     "rank": 29,
+     "title": "草根律师也有春天",
+     "author": "霖沛",
+     "subCategory": "青年故事"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "铁路往事",
+     "subCategory": ""
+    },
+    {
+     "title": "小学女教师",
+     "subCategory": "人间百态"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 11,
+     "title": "奔腾年代——向南向北",
+     "author": "眉师娘",
+     "rankChange": 6,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 12.0
+    },
+    {
+     "rank": 9,
+     "title": "重返1999激昂年代",
+     "author": "渠凌",
+     "rankChange": 5,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 10.0
+    },
+    {
+     "rank": 8,
+     "title": "警探长",
+     "author": "奉义天涯",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 12,
+     "title": "收香人",
+     "author": "顽固的仓颉",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 14,
+     "title": "重返2000：大国机长",
+     "author": "梅子徐",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "行商坐医",
+     "author": "山樵守护者",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "王牌律师",
+     "author": "雪映红梅",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "我的1979",
+     "author": "争斤论两花花帽",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·现实】2 本新上榜；2 本掉榜；《奔腾年代——向南向北》动能 12.0 分领跑。"
+  },
+  "军事": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "新一团不可能这么富",
+     "author": "歪打不留一",
+     "subCategory": "抗战烽火"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "谍战吃瓜，从潜伏洪秘书开始",
+     "subCategory": "谍战特工"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 13,
+     "title": "谍战：从看到记忆开始的谍海生涯",
+     "author": "财神爷入我怀抱",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 18,
+     "title": "全球佣兵：从俄乌战场开始",
+     "author": "尖椒rose",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 10,
+     "title": "缅北之西北枭雄",
+     "author": "葡萄无牙",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 12,
+     "title": "亮剑：从兵工厂打造一个工业帝国",
+     "author": "不散烟火",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "人在俄乌当佣兵，杀敌就能爆属性",
+     "author": "KID大魔王",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "东方既白",
+     "author": "猪头七",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "融合狼蛛基因，在俄乌战场杀疯了",
+     "author": "人可何呀",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "怕死抗什么日",
+     "author": "老左老左",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·军事】1 本新上榜；1 本掉榜；《谍战：从看到记忆开始的谍海生涯》动能 4.0 分领跑。"
+  },
+  "历史": {
+   "new_books": [
+    {
+     "rank": 26,
+     "title": "我在唐朝当神仙",
+     "author": "青木有信",
+     "subCategory": "两晋隋唐"
+    },
+    {
+     "rank": 27,
+     "title": "大明第一国舅",
+     "author": "黑胖的老鼠",
+     "subCategory": "两宋元明"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "三国：截胡关张，我真是皇叔！",
+     "subCategory": "秦汉三国"
+    },
+    {
+     "title": "嗣皇帝",
+     "subCategory": "架空历史"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 8,
+     "title": "没钱当什么乱臣贼子",
+     "author": "最爱睡觉",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 18,
+     "title": "草芥称王",
+     "author": "月关",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 14,
+     "title": "水浒第一狠人",
+     "author": "王袍",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "大明黑帆",
+     "author": "庆历泗年春",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "廓晋",
+     "author": "榴弹怕水",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "夺嫡在嘉靖朝",
+     "author": "夜星月语",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "白衣卿相",
+     "author": "王梓钧",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "绍宋",
+     "author": "榴弹怕水",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·历史】2 本新上榜；2 本掉榜；《没钱当什么乱臣贼子》动能 6.0 分领跑。"
+  },
+  "游戏": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "残血玩家",
+     "author": "大饼大脸",
+     "subCategory": "游戏异界"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "重生2002：我要振兴国产游戏",
+     "subCategory": "游戏系统"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 8,
+     "title": "天运玩家",
+     "author": "失落叶",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 2,
+     "title": "我在迷雾打造完美领地",
+     "author": "一条小白蛇",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 5,
+     "title": "无垢时馈",
+     "author": "孤翼",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 12,
+     "title": "超神机械师",
+     "author": "齐佩甲",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "说好低调发育，全服公告什么鬼？",
+     "author": "稀粥西洲",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "LOL：刚打职业，你说联盟凉了",
+     "author": "微波炉热可乐",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 7,
+     "title": "升格耀变体",
+     "author": "深度绯红",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 9,
+     "title": "美利坚：游戏制作教父",
+     "author": "哈娜欧菲手",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·游戏】1 本新上榜；1 本掉榜；《天运玩家》动能 4.0 分领跑。"
+  },
+  "体育": {
+   "new_books": [
+    {
+     "rank": 23,
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "subCategory": "篮球运动"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "篮坛神迹",
+     "subCategory": "篮球运动"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 11,
+     "title": "我的足球生涯模拟器",
+     "author": "傅南容",
+     "rankChange": 3,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 6.0
+    },
+    {
+     "rank": 9,
+     "title": "大师补习班",
+     "author": "金印",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 17,
+     "title": "今天打兄弟篮球了吗？",
+     "author": "醉枕书眠",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 3,
+     "title": "我都打了三年NBA，系统才来？",
+     "author": "海绵派小星",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 6,
+     "title": "我在灌篮高手刷属性",
+     "author": "红糖蘸年糕",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 14,
+     "title": "成为主教练后，我开摆了",
+     "author": "葬爱叶良辰",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 16,
+     "title": "F1：从地效时代开始夺得冠军",
+     "author": "妖眼狐",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "永不独行！",
+     "author": "成丽来啦",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·体育】1 本新上榜；1 本掉榜；《我的足球生涯模拟器》动能 6.0 分领跑。"
+  },
+  "科幻": {
+   "new_books": [
+    {
+     "rank": 22,
+     "title": "黑科技：从单兵隐形装备开始",
+     "author": "昭灵驷玉",
+     "subCategory": "超级科技"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "三塔游戏",
+     "subCategory": "末世危机"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 13,
+     "title": "四十九条末世规则",
+     "author": "小草昂扬",
+     "rankChange": 4,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 8.0
+    },
+    {
+     "rank": 6,
+     "title": "灵境行者",
+     "author": "卖报小郎君",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 11,
+     "title": "末世第一狠人",
+     "author": "差不多了",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 17,
+     "title": "吞噬星空2起源大陆",
+     "author": "我吃西红柿",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "现实编程协会",
+     "author": "木也马",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "法师归来，速通地球！",
+     "author": "没想好吃啥",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "末日边缘",
+     "author": "冰火六重天",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·科幻】1 本新上榜；1 本掉榜；《四十九条末世规则》动能 8.0 分领跑。"
+  },
+  "诸天无限": {
+   "new_books": [
+    {
+     "rank": 21,
+     "title": "主神入侵火影，谁还当正经宇智波",
+     "author": "咸鱼之王x",
+     "subCategory": "诸天"
+    },
+    {
+     "rank": 28,
+     "title": "神秘复苏：同时继承万界未来！",
+     "author": "小小天师",
+     "subCategory": "无限"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "遮天从打卡虚空帝血开始",
+     "subCategory": "诸天"
+    },
+    {
+     "title": "环世界诸天穿越",
+     "subCategory": "诸天"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 11,
+     "title": "人在诸天，随时起飞",
+     "author": "霜夜寒凉",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 17,
+     "title": "霍格沃茨的魔法食神",
+     "author": "火焰威士忌",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 2,
+     "title": "诸天：小李飞刀开始",
+     "author": "柳风折",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 10,
+     "title": "港片：做大佬，我用钱话事",
+     "author": "魔心渡",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "流窜诸天的灾厄",
+     "author": "万象初心",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "诸天大邪修",
+     "author": "白菜官",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "诸天：从暗黑地牢开始",
+     "author": "四季宝",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 6,
+     "title": "杀穿美漫：从黑袍开始",
+     "author": "千舟万山",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·诸天无限】2 本新上榜；2 本掉榜；《人在诸天，随时起飞》动能 4.0 分领跑。"
+  },
+  "悬疑灵异": {
+   "new_books": [
+    {
+     "rank": 28,
+     "title": "神秘复苏之诡相无间",
+     "author": "三笑留佛",
+     "subCategory": "诡异神秘"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "三尸语",
+     "subCategory": "灵异民俗"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 13,
+     "title": "变成了厉鬼怎么办？",
+     "author": "几人得鹿皆梦鱼",
+     "rankChange": 2,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 4.0
+    },
+    {
+     "rank": 6,
+     "title": "深渊片场",
+     "author": "黑色火种",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 16,
+     "title": "欢迎来到诡诞游戏",
+     "author": "酒月剑仙",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "神秘复苏",
+     "author": "佛前献花",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "重生97，我在市局破悬案",
+     "author": "贫道信佛",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 3,
+     "title": "谁说这里有怪谈的？",
+     "author": "你是不是笨蛋",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 4,
+     "title": "噩梦使徒",
+     "author": "温柔劝睡师",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "赶尸匠",
+     "author": "洛小阳",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·悬疑灵异】1 本新上榜；1 本掉榜；《变成了厉鬼怎么办？》动能 4.0 分领跑。"
+  },
+  "轻小说": {
+   "new_books": [
+    {
+     "rank": 13,
+     "title": "诡秘：穿越旧日之都",
+     "author": "朝风暮云",
+     "subCategory": "衍生同人"
+    },
+    {
+     "rank": 23,
+     "title": "人气至上，我扮演超级天才",
+     "author": "桂月熬糖",
+     "subCategory": "原生幻想"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "遮天之秦易",
+     "subCategory": "衍生同人"
+    },
+    {
+     "title": "从魔法少女开始独断万古",
+     "subCategory": "原生幻想"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 3,
+     "title": "我绑定了夏弥",
+     "author": "鸭嘴兽不考虑灭绝",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 4,
+     "title": "我在乱世开无双",
+     "author": "不会飞的笔",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 7,
+     "title": "东京：崇华的我竟成了日娱之王",
+     "author": "96捞鱼费舍尔",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 9,
+     "title": "我都成神了，才说世界上有怪物？",
+     "author": "竹子城小霸王",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 11,
+     "title": "龙族：从青龙果实开始",
+     "author": "钱塘君0208",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "姐姐，我也要一起当女仆吗？",
+     "author": "电子熊猫",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 6,
+     "title": "你也是我的未来女友吗？",
+     "author": "蜜汁姬",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "【书友榜·轻小说】2 本新上榜；2 本掉榜；《我绑定了夏弥》动能 2.0 分领跑。"
+  }
+ },
+ "category_heat": [
+  {
+   "name": "全部",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "玄幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "奇幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "体育",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  }
+ ],
+ "keyword_heat": [
+  {
+   "keyword": "穿越",
+   "count": 96
+  },
+  {
+   "keyword": "系统",
+   "count": 31
+  },
+  {
+   "keyword": "重生",
+   "count": 28
+  },
+  {
+   "keyword": "修仙",
+   "count": 13
+  },
+  {
+   "keyword": "诸天",
+   "count": 13
+  },
+  {
+   "keyword": "历史",
+   "count": 13
+  },
+  {
+   "keyword": "大明",
+   "count": 8
+  },
+  {
+   "keyword": "灵异",
+   "count": 6
+  },
+  {
+   "keyword": "科技",
+   "count": 6
+  },
+  {
+   "keyword": "末世",
+   "count": 6
+  },
+  {
+   "keyword": "诡异",
+   "count": 5
+  },
+  {
+   "keyword": "无敌",
+   "count": 5
+  }
+ ],
+ "author_power": [
+  {
+   "author": "眉师娘",
+   "books": 4,
+   "top10": 3,
+   "bestRank": 4,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北",
+    "何以方圆"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "廓晋",
+    "绍宋",
+    "覆汉"
+   ]
+  },
+  {
+   "author": "纯洁滴小龙",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 7,
+   "titles": [
+    "捞尸人",
+    "深夜书屋",
+    "魔临"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "剑烛大荒",
+    "诡秘之主",
+    "宿命之环"
+   ]
+  },
+  {
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "九鼎记",
+    "吞噬星空2起源大陆",
+    "吞噬星空"
+   ]
+  },
+  {
+   "author": "黑山老鬼",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "急急如律令",
+    "神明调查报告"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "临圣",
+    "灵境行者"
+   ]
+  },
+  {
+   "author": "温柔劝睡师",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "噩梦使徒",
+    "噩梦惊袭"
+   ]
+  },
+  {
+   "author": "宴金秋",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
+   ]
+  },
+  {
+   "author": "辰东",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "夜无疆",
+    "遮天"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "王牌律师",
+    "律师本色"
+   ]
+  },
+  {
+   "author": "争斤论两花花帽",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "我的1979",
+    "卜筑"
+   ]
+  },
+  {
+   "author": "章叶良",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "刑侦手记2：松湖埋尸",
+    "刑侦手记：棋逢对手"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "拔剑",
+     "author": "流浪的蛤蟆",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-20",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-24",
+   "top3": [
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "我，死灵法师，超爱美利坚",
+     "author": "最爱铁板烧",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 424
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "我，死灵法师，超爱美利坚",
+     "author": "最爱铁板烧",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    }
+   ],
+   "total_books": 439
+  },
+  {
+   "date": "2026-08-26",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "我，死灵法师，超爱美利坚",
+     "author": "最爱铁板烧",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-27",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "我，死灵法师，超爱美利坚",
+     "author": "最爱铁板烧",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-28",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-30",
+   "top3": [
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "我的魔法没有上限！",
+     "author": "瑟瑟发抖梨花猫",
+     "metric": null
+    }
+   ],
+   "total_books": 427
+  },
+  {
+   "date": "2026-09-01",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "我的魔法没有上限！",
+     "author": "瑟瑟发抖梨花猫",
+     "metric": null
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": null
+    }
+   ],
+   "total_books": 441
+  },
+  {
+   "date": "2026-09-02",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 447
+  },
+  {
+   "date": "2026-09-03",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "现实编程协会",
+     "author": "木也马",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "现实编程协会",
+     "author": "木也马",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  }
+ ]
+}

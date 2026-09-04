@@ -1,5 +1,5 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "category_heat": [
   {
    "name": "全部",
@@ -62,6 +62,12 @@
    "heat": 3000
   },
   {
+   "name": "体育",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "科幻",
    "count": 30,
    "metric_total": 0,
@@ -84,42 +90,36 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "体育",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 80
+   "count": 76
   },
   {
    "keyword": "系统",
-   "count": 35
+   "count": 39
   },
   {
    "keyword": "重生",
-   "count": 23
-  },
-  {
-   "keyword": "修仙",
-   "count": 20
-  },
-  {
-   "keyword": "诸天",
    "count": 19
   },
   {
-   "keyword": "历史",
-   "count": 13
+   "keyword": "修仙",
+   "count": 18
+  },
+  {
+   "keyword": "诸天",
+   "count": 18
   },
   {
    "keyword": "诡异",
-   "count": 12
+   "count": 14
+  },
+  {
+   "keyword": "历史",
+   "count": 11
   },
   {
    "keyword": "灵异",
@@ -134,30 +134,41 @@
    "count": 5
   },
   {
-   "keyword": "天才",
-   "count": 4
+   "keyword": "星际",
+   "count": 5
   },
   {
-   "keyword": "大明",
+   "keyword": "天才",
    "count": 4
   }
  ],
  "author_power": [
   {
    "author": "天马传宗",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
+   "books": 3,
+   "top10": 3,
+   "bestRank": 3,
    "titles": [
     "连山帖",
-    "立山"
+    "立山",
+    "内山"
+   ]
+  },
+  {
+   "author": "旧余影",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "全宗门都误会我的性别，我纯男的",
+    "神秘复苏：三分天下"
    ]
   },
   {
    "author": "芥菜会发酵",
    "books": 2,
-   "top10": 1,
-   "bestRank": 7,
+   "top10": 2,
+   "bestRank": 6,
    "titles": [
     "牛背上的资本家",
     "钢化NBA"
@@ -479,6 +490,27 @@
     }
    ],
    "total_books": 448
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "梦无醒",
+     "metric": null
+    },
+    {
+     "title": "朕也要上大学吗？",
+     "author": "戏呈不吃醋",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

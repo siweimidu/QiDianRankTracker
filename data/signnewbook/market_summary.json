@@ -1,5 +1,5 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "category_heat": [
   {
    "name": "全部",
@@ -50,22 +50,28 @@
    "heat": 3000
   },
   {
-   "name": "科幻",
-   "count": 23,
+   "name": "游戏",
+   "count": 24,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 2400
   },
   {
-   "name": "游戏",
+   "name": "科幻",
    "count": 22,
    "metric_total": 0,
    "heat": 2200
   },
   {
-   "name": "体育",
-   "count": 13,
+   "name": "军事",
+   "count": 11,
    "metric_total": 0,
-   "heat": 1300
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 11,
+   "metric_total": 0,
+   "heat": 1100
   },
   {
    "name": "武侠",
@@ -74,19 +80,13 @@
    "heat": 1000
   },
   {
-   "name": "军事",
-   "count": 10,
+   "name": "现实",
+   "count": 5,
    "metric_total": 0,
-   "heat": 1000
+   "heat": 500
   },
   {
    "name": "悬疑灵异",
-   "count": 6,
-   "metric_total": 0,
-   "heat": 600
-  },
-  {
-   "name": "现实",
    "count": 5,
    "metric_total": 0,
    "heat": 500
@@ -95,11 +95,11 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 104
+   "count": 105
   },
   {
    "keyword": "系统",
-   "count": 33
+   "count": 35
   },
   {
    "keyword": "诸天",
@@ -111,7 +111,7 @@
   },
   {
    "keyword": "修仙",
-   "count": 16
+   "count": 15
   },
   {
    "keyword": "万界",
@@ -122,20 +122,20 @@
    "count": 7
   },
   {
+   "keyword": "无敌",
+   "count": 7
+  },
+  {
+   "keyword": "种田",
+   "count": 6
+  },
+  {
    "keyword": "历史",
    "count": 6
   },
   {
-   "keyword": "无敌",
-   "count": 6
-  },
-  {
    "keyword": "大明",
-   "count": 5
-  },
-  {
-   "keyword": "种田",
-   "count": 4
+   "count": 6
   },
   {
    "keyword": "废土",
@@ -500,6 +500,27 @@
     }
    ],
    "total_books": 329
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    },
+    {
+     "title": "斗罗绝世：我，最后的天灾",
+     "author": "火中寻月",
+     "metric": null
+    }
+   ],
+   "total_books": 328
   }
  ]
 }

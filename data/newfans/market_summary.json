@@ -1,5 +1,5 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "category_heat": [
   {
    "name": "全部",
@@ -95,38 +95,38 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 93
+   "count": 96
   },
   {
    "keyword": "系统",
-   "count": 33
-  },
-  {
-   "keyword": "重生",
    "count": 31
   },
   {
-   "keyword": "历史",
-   "count": 14
-  },
-  {
-   "keyword": "诸天",
-   "count": 14
+   "keyword": "重生",
+   "count": 28
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 13
+  },
+  {
+   "keyword": "诸天",
+   "count": 13
+  },
+  {
+   "keyword": "历史",
+   "count": 13
   },
   {
    "keyword": "大明",
-   "count": 7
+   "count": 8
   },
   {
    "keyword": "灵异",
    "count": 6
   },
   {
-   "keyword": "谍战",
+   "keyword": "科技",
    "count": 6
   },
   {
@@ -134,11 +134,11 @@
    "count": 6
   },
   {
-   "keyword": "科技",
+   "keyword": "诡异",
    "count": 5
   },
   {
-   "keyword": "诡异",
+   "keyword": "无敌",
    "count": 5
   }
  ],
@@ -155,25 +155,14 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 6,
-   "titles": [
-    "捞尸人",
-    "深夜书屋",
-    "魔临"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
+   "author": "远瞳",
    "books": 3,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
-    "九鼎记",
-    "吞噬星空2起源大陆",
-    "吞噬星空"
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
    ]
   },
   {
@@ -188,14 +177,14 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "纯洁滴小龙",
    "books": 3,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 7,
    "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
+    "捞尸人",
+    "深夜书屋",
+    "魔临"
    ]
   },
   {
@@ -210,23 +199,24 @@
    ]
   },
   {
-   "author": "黑山老鬼",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
-    "急急如律令",
-    "神明调查报告"
+    "九鼎记",
+    "吞噬星空2起源大陆",
+    "吞噬星空"
    ]
   },
   {
-   "author": "雪映红梅",
+   "author": "黑山老鬼",
    "books": 2,
    "top10": 2,
    "bestRank": 2,
    "titles": [
-    "王牌律师",
-    "律师本色"
+    "急急如律令",
+    "神明调查报告"
    ]
   },
   {
@@ -243,7 +233,7 @@
    "author": "卖报小郎君",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
     "临圣",
     "灵境行者"
@@ -253,30 +243,40 @@
    "author": "温柔劝睡师",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
    ]
   },
   {
-   "author": "洛小阳",
+   "author": "宴金秋",
    "books": 2,
    "top10": 2,
    "bestRank": 5,
    "titles": [
-    "赶尸匠",
-    "三尸语"
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
    ]
   },
   {
-   "author": "谈谈钱",
+   "author": "辰东",
    "books": 2,
-   "top10": 2,
-   "bestRank": 8,
+   "top10": 1,
+   "bestRank": 2,
    "titles": [
-    "谍战代号：申公豹",
-    "谍战吃瓜，从潜伏洪秘书开始"
+    "夜无疆",
+    "遮天"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "王牌律师",
+    "律师本色"
    ]
   },
   {
@@ -290,13 +290,13 @@
    ]
   },
   {
-   "author": "辰东",
+   "author": "章叶良",
    "books": 2,
    "top10": 1,
    "bestRank": 4,
    "titles": [
-    "夜无疆",
-    "遮天"
+    "刑侦手记2：松湖埋尸",
+    "刑侦手记：棋逢对手"
    ]
   }
  ],
@@ -653,6 +653,27 @@
     {
      "title": "现实编程协会",
      "author": "木也马",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
      "metric": null
     }
    ],
