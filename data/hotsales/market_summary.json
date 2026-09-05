@@ -1,5 +1,5 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-06",
  "category_heat": [
   {
    "name": "全部",
@@ -95,15 +95,19 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 92
+   "count": 98
   },
   {
    "keyword": "重生",
-   "count": 32
+   "count": 33
   },
   {
    "keyword": "系统",
-   "count": 32
+   "count": 29
+  },
+  {
+   "keyword": "诸天",
+   "count": 14
   },
   {
    "keyword": "修仙",
@@ -114,15 +118,19 @@
    "count": 11
   },
   {
-   "keyword": "诸天",
-   "count": 11
-  },
-  {
    "keyword": "工业",
    "count": 7
   },
   {
+   "keyword": "种田",
+   "count": 6
+  },
+  {
    "keyword": "诡异",
+   "count": 6
+  },
+  {
+   "keyword": "大明",
    "count": 6
   },
   {
@@ -130,24 +138,27 @@
    "count": 5
   },
   {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
    "keyword": "科技",
-   "count": 5
-  },
-  {
-   "keyword": "谍战",
    "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "远瞳",
+   "author": "眉师娘",
    "books": 4,
    "top10": 3,
-   "bestRank": 5,
+   "bestRank": 1,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北",
+    "梅城"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 4,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -155,21 +166,10 @@
    ]
   },
   {
-   "author": "我吃西红柿",
-   "books": 4,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "盘龙",
-    "九鼎记",
-    "吞噬星空"
-   ]
-  },
-  {
    "author": "爱潜水的乌贼",
    "books": 4,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 4,
    "titles": [
     "诡秘之主",
     "剑烛大荒",
@@ -177,42 +177,31 @@
    ]
   },
   {
-   "author": "眉师娘",
+   "author": "纯洁滴小龙",
    "books": 3,
    "top10": 3,
    "bestRank": 1,
    "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "茫茫白昼漫游"
-   ]
-  },
-  {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
     "捞尸人",
-    "魔临",
-    "深夜书屋"
+    "深夜书屋",
+    "魔临"
    ]
   },
   {
-   "author": "卖报小郎君",
+   "author": "榴弹怕水",
    "books": 3,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 3,
    "titles": [
-    "灵境行者",
-    "临圣",
-    "大奉打更人"
+    "廓晋",
+    "绍宋",
+    "覆汉"
    ]
   },
   {
    "author": "我会修空调",
    "books": 3,
-   "top10": 1,
+   "top10": 2,
    "bestRank": 6,
    "titles": [
     "我有一座冒险屋",
@@ -221,21 +210,83 @@
    ]
   },
   {
-   "author": "榴弹怕水",
+   "author": "长风",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 9,
+   "titles": [
+    "秘战无声",
+    "刀尖之上",
+    "抗战：重整山河"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
    "books": 3,
    "top10": 1,
-   "bestRank": 10,
+   "bestRank": 7,
    "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
+    "灵境行者",
+    "临圣",
+    "大奉打更人"
+   ]
+  },
+  {
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 0,
+   "bestRank": 13,
+   "titles": [
+    "九鼎记",
+    "吞噬星空",
+    "吞噬星空2起源大陆"
+   ]
+  },
+  {
+   "author": "今日问道",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "开局相亲女神捕，获独孤九剑",
+    "瞎子捉刀人：开局满级九阳神功"
+   ]
+  },
+  {
+   "author": "青衫取醉",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "神的模仿犯",
+    "亏成首富从游戏开始-《年少有为》电视剧原著"
+   ]
+  },
+  {
+   "author": "蝴蝶蓝",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "全职高手",
+    "网游之近战法师"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "王牌律师",
+    "律师本色"
    ]
   },
   {
    "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "东方既白",
     "我的谍战岁月"
@@ -245,60 +296,10 @@
    "author": "温柔劝睡师",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
-   ]
-  },
-  {
-   "author": "黑山老鬼",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "急急如律令",
-    "黄昏分界"
-   ]
-  },
-  {
-   "author": "落魄的小纯洁",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "灭门夜，我易筋经大圆满！",
-    "武侠：开局奖励满级神功"
-   ]
-  },
-  {
-   "author": "孤独麦客",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "北望江山",
-    "晋末长剑"
-   ]
-  },
-  {
-   "author": "穿黄衣的阿肥",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "我的细胞监狱",
-    "活人深处"
-   ]
-  },
-  {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
    ]
   }
  ],
@@ -662,6 +663,27 @@
   },
   {
    "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": null
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-06",
    "top3": [
     {
      "title": "捞尸人",
