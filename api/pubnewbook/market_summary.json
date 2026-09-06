@@ -1,5 +1,5 @@
 {
- "date": "2026-09-06",
+ "date": "2026-09-07",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,31 +32,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "体育",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,108 +60,117 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "武侠",
+   "count": 22,
+   "metric_total": 0,
+   "heat": 2200
+  },
+  {
+   "name": "游戏",
+   "count": 15,
+   "metric_total": 0,
+   "heat": 1500
+  },
+  {
+   "name": "军事",
+   "count": 11,
+   "metric_total": 0,
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 8,
+   "metric_total": 0,
+   "heat": 800
+  },
+  {
+   "name": "现实",
+   "count": 6,
+   "metric_total": 0,
+   "heat": 600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 80
+   "count": 76
   },
   {
    "keyword": "系统",
-   "count": 40
-  },
-  {
-   "keyword": "修仙",
-   "count": 22
+   "count": 36
   },
   {
    "keyword": "重生",
    "count": 19
   },
   {
+   "keyword": "修仙",
+   "count": 17
+  },
+  {
    "keyword": "诸天",
-   "count": 16
-  },
-  {
-   "keyword": "诡异",
-   "count": 14
-  },
-  {
-   "keyword": "历史",
-   "count": 10
-  },
-  {
-   "keyword": "都市",
-   "count": 6
-  },
-  {
-   "keyword": "宗门",
-   "count": 6
+   "count": 17
   },
   {
    "keyword": "万界",
-   "count": 6
+   "count": 9
   },
   {
-   "keyword": "星际",
+   "keyword": "诡异",
+   "count": 9
+  },
+  {
+   "keyword": "末世",
+   "count": 8
+  },
+  {
+   "keyword": "历史",
+   "count": 8
+  },
+  {
+   "keyword": "大明",
    "count": 5
   },
   {
-   "keyword": "灵异",
+   "keyword": "异能",
+   "count": 5
+  },
+  {
+   "keyword": "星际",
    "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "天马传宗",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 3,
-   "titles": [
-    "连山帖",
-    "立山",
-    "内山"
-   ]
-  },
-  {
-   "author": "旧余影",
+   "author": "火焰一半苍凉未满",
    "books": 2,
    "top10": 2,
    "bestRank": 5,
    "titles": [
-    "全宗门都误会我的性别，我纯男的",
-    "神秘复苏：三分天下"
+    "飞线补天：我把显卡修成了道器",
+    "世界在87处停下"
    ]
   },
   {
-   "author": "芥菜会发酵",
+   "author": "没有后续的梦",
    "books": 2,
-   "top10": 2,
-   "bestRank": 5,
+   "top10": 1,
+   "bestRank": 7,
    "titles": [
-    "牛背上的资本家",
-    "钢化NBA"
+    "末世求生，我的商店每日刷新",
+    "公路求生，从进化史莱姆开始"
    ]
   },
   {
-   "author": "枕云栩",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 11,
-   "titles": [
-    "废灵根逆袭：碎道至尊",
-    "医武：从一把废铁剑开始"
-   ]
-  },
-  {
-   "author": "江羽JY",
+   "author": "正在想想",
    "books": 2,
    "top10": 0,
-   "bestRank": 14,
+   "bestRank": 13,
    "titles": [
-    "萧何",
-    "复盘世界杯2026"
+    "穿越凡人修仙者",
+    "穿越凡人修仙之夺舍韩立"
    ]
   }
  ],
@@ -552,6 +531,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-09-07",
+   "top3": [
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "邪神大人请自重！",
+     "author": "佳柒7",
+     "metric": null
+    },
+    {
+     "title": "唐太宗李世民",
+     "author": "紫气东来青城居士",
+     "metric": null
+    }
+   ],
+   "total_books": 362
   }
  ]
 }

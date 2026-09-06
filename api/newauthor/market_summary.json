@@ -1,5 +1,5 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-07",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,19 +32,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -80,66 +62,84 @@
    "heat": 3000
   },
   {
-   "name": "军事",
-   "count": 28,
+   "name": "武侠",
+   "count": 19,
    "metric_total": 0,
-   "heat": 2800
+   "heat": 1900
+  },
+  {
+   "name": "游戏",
+   "count": 14,
+   "metric_total": 0,
+   "heat": 1400
   },
   {
    "name": "体育",
-   "count": 27,
+   "count": 11,
    "metric_total": 0,
-   "heat": 2700
+   "heat": 1100
+  },
+  {
+   "name": "现实",
+   "count": 10,
+   "metric_total": 0,
+   "heat": 1000
+  },
+  {
+   "name": "军事",
+   "count": 3,
+   "metric_total": 0,
+   "heat": 300
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 79
+   "count": 67
+  },
+  {
+   "keyword": "系统",
+   "count": 26
   },
   {
    "keyword": "重生",
    "count": 25
   },
   {
-   "keyword": "系统",
-   "count": 22
-  },
-  {
    "keyword": "修仙",
-   "count": 18
-  },
-  {
-   "keyword": "诸天",
-   "count": 11
+   "count": 14
   },
   {
    "keyword": "历史",
-   "count": 10
+   "count": 14
   },
   {
-   "keyword": "天才",
-   "count": 8
-  },
-  {
-   "keyword": "诡异",
+   "keyword": "诸天",
    "count": 7
   },
   {
-   "keyword": "万界",
-   "count": 6
+   "keyword": "末世",
+   "count": 7
   },
   {
    "keyword": "无敌",
-   "count": 5
+   "count": 4
   },
   {
-   "keyword": "种田",
-   "count": 5
+   "keyword": "丧尸",
+   "count": 4
   },
   {
-   "keyword": "热血",
-   "count": 5
+   "keyword": "灵异",
+   "count": 4
+  },
+  {
+   "keyword": "争霸",
+   "count": 3
+  },
+  {
+   "keyword": "都市",
+   "count": 3
   }
  ],
  "author_power": [],
@@ -332,6 +332,27 @@
     }
    ],
    "total_books": 445
+  },
+  {
+   "date": "2026-09-07",
+   "top3": [
+    {
+     "title": "综武大乱斗来！菜鸡你别来！",
+     "author": "娶秀",
+     "metric": null
+    },
+    {
+     "title": "进四合院成了何大清他七叔",
+     "author": "发热体",
+     "metric": null
+    },
+    {
+     "title": "诛仙：青云黑手张小凡",
+     "author": "炉子哥",
+     "metric": null
+    }
+   ],
+   "total_books": 357
   }
  ]
 }
