@@ -1,101 +1,101 @@
 {
- "date": "2026-09-07",
+ "date": "2026-09-08",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 285018,
-   "heat": 285018
+   "metric_total": 308990,
+   "heat": 308990
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 140280,
-   "heat": 140280
+   "metric_total": 151229,
+   "heat": 151229
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 109321,
-   "heat": 109321
+   "metric_total": 119364,
+   "heat": 119364
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 85469,
-   "heat": 85469
+   "metric_total": 93240,
+   "heat": 93240
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 68875,
-   "heat": 68875
+   "metric_total": 76502,
+   "heat": 76502
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 45928,
-   "heat": 45928
+   "metric_total": 49911,
+   "heat": 49911
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 35189,
-   "heat": 35189
+   "metric_total": 38692,
+   "heat": 38692
   },
   {
    "name": "VIP新作",
    "count": 30,
-   "metric_total": 34067,
-   "heat": 34067
+   "metric_total": 38330,
+   "heat": 38330
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 21880,
-   "heat": 21880
+   "metric_total": 24377,
+   "heat": 24377
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 12446,
-   "heat": 12446
-  },
-  {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 10956,
-   "heat": 10956
+   "metric_total": 13855,
+   "heat": 13855
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 10537,
-   "heat": 10537
+   "metric_total": 11920,
+   "heat": 11920
+  },
+  {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 11896,
+   "heat": 11896
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 8022,
-   "heat": 8022
+   "metric_total": 8881,
+   "heat": 8881
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 5998,
-   "heat": 5998
+   "metric_total": 6756,
+   "heat": 6756
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 5938,
-   "heat": 5938
+   "metric_total": 6688,
+   "heat": 6688
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 728,
-   "heat": 728
+   "metric_total": 822,
+   "heat": 822
   }
  ],
  "keyword_heat": [
@@ -105,7 +105,7 @@
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 32
   },
   {
    "keyword": "重生",
@@ -164,7 +164,7 @@
    "author": "远瞳",
    "books": 3,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 5,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -174,12 +174,22 @@
   {
    "author": "爱潜水的乌贼",
    "books": 3,
-   "top10": 1,
-   "bestRank": 10,
+   "top10": 0,
+   "bestRank": 11,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
     "宿命之环"
+   ]
+  },
+  {
+   "author": "三天两觉",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "盖世双谐",
+    "惊悚乐园"
    ]
   },
   {
@@ -233,16 +243,6 @@
    ]
   },
   {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 4,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
-   ]
-  },
-  {
    "author": "榴弹怕水",
    "books": 2,
    "top10": 1,
@@ -250,16 +250,6 @@
    "titles": [
     "廓晋",
     "绍宋"
-   ]
-  },
-  {
-   "author": "章叶良",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 10,
-   "titles": [
-    "刑侦手记2：松湖埋尸",
-    "刑侦手记：棋逢对手"
    ]
   }
  ],
@@ -680,6 +670,27 @@
      "title": "捞尸人",
      "author": "纯洁滴小龙",
      "metric": 18640
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-08",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 23490
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 20831
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 20118
     }
    ],
    "total_books": 480

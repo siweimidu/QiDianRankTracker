@@ -1,5 +1,5 @@
 {
- "date": "2026-09-07",
+ "date": "2026-09-08",
  "category_heat": [
   {
    "name": "全部",
@@ -51,24 +51,24 @@
   },
   {
    "name": "游戏",
+   "count": 22,
+   "metric_total": 0,
+   "heat": 2200
+  },
+  {
+   "name": "科幻",
    "count": 21,
    "metric_total": 0,
    "heat": 2100
   },
   {
-   "name": "科幻",
-   "count": 20,
+   "name": "体育",
+   "count": 12,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 1200
   },
   {
    "name": "武侠",
-   "count": 9,
-   "metric_total": 0,
-   "heat": 900
-  },
-  {
-   "name": "体育",
    "count": 9,
    "metric_total": 0,
    "heat": 900
@@ -95,7 +95,7 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 105
+   "count": 107
   },
   {
    "keyword": "系统",
@@ -107,11 +107,15 @@
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 11
   },
   {
    "keyword": "重生",
    "count": 11
+  },
+  {
+   "keyword": "种田",
+   "count": 7
   },
   {
    "keyword": "诡异",
@@ -122,24 +126,20 @@
    "count": 7
   },
   {
-   "keyword": "种田",
-   "count": 6
-  },
-  {
    "keyword": "万界",
    "count": 6
   },
   {
    "keyword": "无敌",
-   "count": 5
+   "count": 6
   },
   {
    "keyword": "末世",
-   "count": 3
+   "count": 4
   },
   {
-   "keyword": "御兽",
-   "count": 2
+   "keyword": "丧尸",
+   "count": 3
   }
  ],
  "author_power": [],
@@ -563,6 +563,27 @@
     }
    ],
    "total_books": 317
+  },
+  {
+   "date": "2026-09-08",
+   "top3": [
+    {
+     "title": "夜夜行歌",
+     "author": "关关公子",
+     "metric": null
+    },
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    }
+   ],
+   "total_books": 322
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-09-07",
+ "date": "2026-09-08",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -32,7 +38,19 @@
    "heat": 3000
   },
   {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -62,112 +80,94 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 22,
-   "metric_total": 0,
-   "heat": 2200
-  },
-  {
-   "name": "游戏",
-   "count": 15,
-   "metric_total": 0,
-   "heat": 1500
-  },
-  {
    "name": "军事",
-   "count": 11,
+   "count": 28,
    "metric_total": 0,
-   "heat": 1100
+   "heat": 2800
   },
   {
    "name": "体育",
-   "count": 8,
+   "count": 17,
    "metric_total": 0,
-   "heat": 800
-  },
-  {
-   "name": "现实",
-   "count": 6,
-   "metric_total": 0,
-   "heat": 600
+   "heat": 1700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 76
+   "count": 79
   },
   {
    "keyword": "系统",
-   "count": 36
+   "count": 35
+  },
+  {
+   "keyword": "修仙",
+   "count": 22
   },
   {
    "keyword": "重生",
    "count": 19
   },
   {
-   "keyword": "修仙",
-   "count": 17
-  },
-  {
    "keyword": "诸天",
-   "count": 17
-  },
-  {
-   "keyword": "万界",
-   "count": 9
+   "count": 15
   },
   {
    "keyword": "诡异",
-   "count": 9
-  },
-  {
-   "keyword": "末世",
-   "count": 8
+   "count": 11
   },
   {
    "keyword": "历史",
+   "count": 9
+  },
+  {
+   "keyword": "都市",
    "count": 8
   },
   {
-   "keyword": "大明",
-   "count": 5
+   "keyword": "万界",
+   "count": 8
   },
   {
-   "keyword": "异能",
-   "count": 5
+   "keyword": "末世",
+   "count": 7
   },
   {
-   "keyword": "星际",
+   "keyword": "灵异",
+   "count": 7
+  },
+  {
+   "keyword": "宗门",
    "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "火焰一半苍凉未满",
+   "author": "黄昏的猫儿",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 1,
    "titles": [
-    "飞线补天：我把显卡修成了道器",
-    "世界在87处停下"
+    "神魔纪元开局献祭樱花国我成魔神",
+    "说好的魔法，我咋是剑仙"
    ]
   },
   {
-   "author": "没有后续的梦",
+   "author": "金火羽",
    "books": 2,
-   "top10": 1,
-   "bestRank": 7,
+   "top10": 2,
+   "bestRank": 4,
    "titles": [
-    "末世求生，我的商店每日刷新",
-    "公路求生，从进化史莱姆开始"
+    "量子封神记",
+    "气味图谱：分子囚笼"
    ]
   },
   {
    "author": "正在想想",
    "books": 2,
-   "top10": 0,
-   "bestRank": 13,
+   "top10": 1,
+   "bestRank": 8,
    "titles": [
     "穿越凡人修仙者",
     "穿越凡人修仙之夺舍韩立"
@@ -552,6 +552,27 @@
     }
    ],
    "total_books": 362
+  },
+  {
+   "date": "2026-09-08",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "人在中世纪，我耄耋也要哈气成神",
+     "author": "玻埃希亚公爵",
+     "metric": null
+    }
+   ],
+   "total_books": 435
   }
  ]
 }
