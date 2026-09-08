@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "category_heat": [
   {
    "name": "全部",
@@ -44,6 +44,12 @@
    "heat": 3000
   },
   {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -56,121 +62,81 @@
    "heat": 3000
   },
   {
-   "name": "科幻",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "诸天无限",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "轻小说",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
-  },
-  {
    "name": "体育",
-   "count": 17,
+   "count": 21,
    "metric_total": 0,
-   "heat": 1700
+   "heat": 2100
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 79
+   "count": 55
   },
   {
    "keyword": "系统",
-   "count": 35
+   "count": 32
   },
   {
    "keyword": "修仙",
-   "count": 22
-  },
-  {
-   "keyword": "重生",
    "count": 19
   },
   {
-   "keyword": "诸天",
-   "count": 15
-  },
-  {
-   "keyword": "诡异",
-   "count": 11
+   "keyword": "重生",
+   "count": 18
   },
   {
    "keyword": "历史",
-   "count": 9
+   "count": 7
   },
   {
    "keyword": "都市",
-   "count": 8
-  },
-  {
-   "keyword": "万界",
-   "count": 8
-  },
-  {
-   "keyword": "末世",
-   "count": 7
-  },
-  {
-   "keyword": "灵异",
-   "count": 7
+   "count": 6
   },
   {
    "keyword": "宗门",
+   "count": 6
+  },
+  {
+   "keyword": "种田",
    "count": 5
+  },
+  {
+   "keyword": "大明",
+   "count": 5
+  },
+  {
+   "keyword": "三国",
+   "count": 5
+  },
+  {
+   "keyword": "诸天",
+   "count": 3
+  },
+  {
+   "keyword": "末世",
+   "count": 3
   }
  ],
  "author_power": [
   {
-   "author": "黄昏的猫儿",
+   "author": "朱不朱",
    "books": 2,
    "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "神魔纪元开局献祭樱花国我成魔神",
-    "说好的魔法，我咋是剑仙"
-   ]
-  },
-  {
-   "author": "金火羽",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "量子封神记",
-    "气味图谱：分子囚笼"
-   ]
-  },
-  {
-   "author": "正在想想",
-   "books": 2,
-   "top10": 1,
    "bestRank": 8,
    "titles": [
-    "穿越凡人修仙者",
-    "穿越凡人修仙之夺舍韩立"
+    "苏子游于溪",
+    "写小说与写小说"
+   ]
+  },
+  {
+   "author": "黑翼元帅",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "全面战争：末世战锤",
+    "当勇者是睿智的P社玩家"
    ]
   }
  ],
@@ -573,6 +539,27 @@
     }
    ],
    "total_books": 435
+  },
+  {
+   "date": "2026-09-09",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "初源：力凝之环",
+     "author": "丁从容",
+     "metric": null
+    }
+   ],
+   "total_books": 321
   }
  ]
 }
