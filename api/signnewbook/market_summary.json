@@ -1,5 +1,5 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "category_heat": [
   {
    "name": "全部",
@@ -51,9 +51,9 @@
   },
   {
    "name": "游戏",
-   "count": 25,
+   "count": 26,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 2600
   },
   {
    "name": "科幻",
@@ -62,13 +62,13 @@
    "heat": 2200
   },
   {
-   "name": "体育",
-   "count": 11,
+   "name": "武侠",
+   "count": 9,
    "metric_total": 0,
-   "heat": 1100
+   "heat": 900
   },
   {
-   "name": "武侠",
+   "name": "体育",
    "count": 9,
    "metric_total": 0,
    "heat": 900
@@ -80,16 +80,16 @@
    "heat": 800
   },
   {
-   "name": "现实",
-   "count": 6,
-   "metric_total": 0,
-   "heat": 600
-  },
-  {
    "name": "悬疑灵异",
    "count": 5,
    "metric_total": 0,
    "heat": 500
+  },
+  {
+   "name": "现实",
+   "count": 4,
+   "metric_total": 0,
+   "heat": 400
   }
  ],
  "keyword_heat": [
@@ -107,11 +107,15 @@
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 13
   },
   {
    "keyword": "重生",
    "count": 12
+  },
+  {
+   "keyword": "大明",
+   "count": 8
   },
   {
    "keyword": "种田",
@@ -122,24 +126,20 @@
    "count": 7
   },
   {
-   "keyword": "大明",
-   "count": 7
-  },
-  {
-   "keyword": "万界",
-   "count": 6
-  },
-  {
    "keyword": "无敌",
    "count": 5
+  },
+  {
+   "keyword": "御兽",
+   "count": 4
   },
   {
    "keyword": "末世",
    "count": 4
   },
   {
-   "keyword": "御兽",
-   "count": 3
+   "keyword": "万界",
+   "count": 4
   }
  ],
  "author_power": [],
@@ -605,6 +605,27 @@
     }
    ],
    "total_books": 326
+  },
+  {
+   "date": "2026-09-10",
+   "top3": [
+    {
+     "title": "夜夜行歌",
+     "author": "关关公子",
+     "metric": null
+    },
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "metric": null
+    }
+   ],
+   "total_books": 323
   }
  ]
 }

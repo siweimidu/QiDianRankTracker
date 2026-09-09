@@ -1,5 +1,5 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "category_heat": [
   {
    "name": "全部",
@@ -45,98 +45,80 @@
   },
   {
    "name": "军事",
-   "count": 30,
+   "count": 20,
    "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "体育",
-   "count": 21,
-   "metric_total": 0,
-   "heat": 2100
+   "heat": 2000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 55
-  },
-  {
-   "keyword": "系统",
-   "count": 32
+   "count": 38
   },
   {
    "keyword": "修仙",
-   "count": 19
+   "count": 23
+  },
+  {
+   "keyword": "系统",
+   "count": 21
   },
   {
    "keyword": "重生",
-   "count": 18
-  },
-  {
-   "keyword": "历史",
-   "count": 7
+   "count": 16
   },
   {
    "keyword": "都市",
-   "count": 6
+   "count": 5
   },
   {
    "keyword": "宗门",
-   "count": 6
+   "count": 4
   },
   {
-   "keyword": "种田",
-   "count": 5
+   "keyword": "历史",
+   "count": 3
   },
   {
-   "keyword": "大明",
-   "count": 5
+   "keyword": "谍战",
+   "count": 3
   },
   {
-   "keyword": "三国",
-   "count": 5
+   "keyword": "废柴",
+   "count": 2
+  },
+  {
+   "keyword": "杀伐果断",
+   "count": 2
+  },
+  {
+   "keyword": "玄幻",
+   "count": 2
   },
   {
    "keyword": "诸天",
-   "count": 3
-  },
-  {
-   "keyword": "末世",
-   "count": 3
+   "count": 2
   }
  ],
  "author_power": [
   {
    "author": "朱不朱",
    "books": 2,
-   "top10": 2,
-   "bestRank": 8,
+   "top10": 1,
+   "bestRank": 4,
    "titles": [
     "苏子游于溪",
     "写小说与写小说"
    ]
   },
   {
-   "author": "黑翼元帅",
+   "author": "爱上狐狸的小松鼠",
    "books": 2,
-   "top10": 1,
-   "bestRank": 2,
+   "top10": 0,
+   "bestRank": 11,
    "titles": [
-    "全面战争：末世战锤",
-    "当勇者是睿智的P社玩家"
+    "一剑霜寒录",
+    "血染青锋录"
    ]
   }
  ],
@@ -560,6 +542,27 @@
     }
    ],
    "total_books": 321
+  },
+  {
+   "date": "2026-09-10",
+   "top3": [
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "初源：力凝之环",
+     "author": "丁从容",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    }
+   ],
+   "total_books": 230
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "slug": "pubnewbook",
  "name": "公众作者新书榜",
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "types": [
   {
    "name": "全部",
@@ -41,22 +41,7 @@
   {
    "name": "军事",
    "url": "api/pubnewbook/latest/军事.json",
-   "count": 30
-  },
-  {
-   "name": "历史",
-   "url": "api/pubnewbook/latest/历史.json",
-   "count": 30
-  },
-  {
-   "name": "游戏",
-   "url": "api/pubnewbook/latest/游戏.json",
-   "count": 30
-  },
-  {
-   "name": "体育",
-   "url": "api/pubnewbook/latest/体育.json",
-   "count": 21
+   "count": 20
   }
  ]
 }
