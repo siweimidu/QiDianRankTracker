@@ -1,10 +1,10 @@
 {
- "finished_at": "2026-09-10T07:13:24",
- "duration_sec": 631.4,
- "boards_ok": 11,
+ "finished_at": "2026-09-11T07:09:33",
+ "duration_sec": 592.7,
+ "boards_ok": 9,
  "boards_total": 21,
- "total_books": 4937,
- "total_categories": 174,
+ "total_books": 4343,
+ "total_categories": 149,
  "reports": [
   {
    "slug": "yuepiao",
@@ -51,7 +51,7 @@
    "name": "追读榜",
    "ok": true,
    "categories": 15,
-   "books": 377,
+   "books": 379,
    "errors": 0
   },
   {
@@ -81,26 +81,26 @@
   {
    "slug": "retention",
    "name": "留存榜",
-   "ok": true,
-   "categories": 15,
-   "books": 377,
-   "errors": 0
+   "ok": false,
+   "categories": 13,
+   "books": 334,
+   "errors": 2
   },
   {
    "slug": "signnewbook",
    "name": "签约作者新书榜",
-   "ok": true,
-   "categories": 15,
-   "books": 323,
-   "errors": 0
+   "ok": false,
+   "categories": 0,
+   "books": 0,
+   "errors": 15
   },
   {
    "slug": "pubnewbook",
    "name": "公众作者新书榜",
    "ok": false,
-   "categories": 8,
-   "books": 230,
-   "errors": 7
+   "categories": 0,
+   "books": 0,
+   "errors": 15
   },
   {
    "slug": "newsign",
