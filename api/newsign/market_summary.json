@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-12",
  "category_heat": [
   {
    "name": "全部",
@@ -51,27 +51,27 @@
   },
   {
    "name": "游戏",
-   "count": 26,
-   "metric_total": 0,
-   "heat": 2600
-  },
-  {
-   "name": "体育",
    "count": 25,
    "metric_total": 0,
    "heat": 2500
   },
   {
-   "name": "科幻",
+   "name": "体育",
    "count": 23,
    "metric_total": 0,
    "heat": 2300
   },
   {
-   "name": "悬疑灵异",
-   "count": 18,
+   "name": "科幻",
+   "count": 21,
    "metric_total": 0,
-   "heat": 1800
+   "heat": 2100
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 19,
+   "metric_total": 0,
+   "heat": 1900
   },
   {
    "name": "武侠",
@@ -87,59 +87,59 @@
   },
   {
    "name": "现实",
-   "count": 5,
+   "count": 4,
    "metric_total": 0,
-   "heat": 500
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 129
+   "count": 126
   },
   {
    "keyword": "系统",
-   "count": 43
+   "count": 40
   },
   {
    "keyword": "修仙",
-   "count": 22
+   "count": 24
   },
   {
    "keyword": "重生",
-   "count": 18
-  },
-  {
-   "keyword": "诸天",
-   "count": 9
-  },
-  {
-   "keyword": "天才",
-   "count": 8
+   "count": 19
   },
   {
    "keyword": "诡异",
    "count": 8
   },
   {
+   "keyword": "诸天",
+   "count": 8
+  },
+  {
+   "keyword": "科技",
+   "count": 7
+  },
+  {
+   "keyword": "天才",
+   "count": 7
+  },
+  {
    "keyword": "宗门",
    "count": 6
   },
   {
-   "keyword": "科技",
+   "keyword": "历史",
    "count": 6
-  },
-  {
-   "keyword": "种田",
-   "count": 6
-  },
-  {
-   "keyword": "都市",
-   "count": 5
   },
   {
    "keyword": "末世",
-   "count": 5
+   "count": 6
+  },
+  {
+   "keyword": "大明",
+   "count": 6
   }
  ],
  "author_power": [],
@@ -500,6 +500,27 @@
     }
    ],
    "total_books": 353
+  },
+  {
+   "date": "2026-09-12",
+   "top3": [
+    {
+     "title": "报告祖国，我穿越了！",
+     "author": "众猩之猪",
+     "metric": null
+    },
+    {
+     "title": "高武：加入聊天群的我降维打击",
+     "author": "仓鼠捡拾道果",
+     "metric": null
+    },
+    {
+     "title": "巫师：从海角灯塔日常加点开始",
+     "author": "简筱白",
+     "metric": null
+    }
+   ],
+   "total_books": 348
   }
  ]
 }

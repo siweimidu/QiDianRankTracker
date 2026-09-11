@@ -1,5 +1,5 @@
 {
- "date": "2026-09-11",
+ "date": "2026-09-12",
  "category_heat": [
   {
    "name": "全部",
@@ -95,11 +95,11 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 99
+   "count": 93
   },
   {
    "keyword": "系统",
-   "count": 32
+   "count": 31
   },
   {
    "keyword": "重生",
@@ -111,7 +111,7 @@
   },
   {
    "keyword": "诸天",
-   "count": 14
+   "count": 15
   },
   {
    "keyword": "历史",
@@ -122,23 +122,23 @@
    "count": 8
   },
   {
-   "keyword": "谍战",
-   "count": 6
-  },
-  {
    "keyword": "灵异",
-   "count": 5
+   "count": 6
   },
   {
    "keyword": "工业",
    "count": 5
   },
   {
-   "keyword": "三国",
+   "keyword": "谍战",
    "count": 5
   },
   {
    "keyword": "科技",
+   "count": 4
+  },
+  {
+   "keyword": "万界",
    "count": 4
   }
  ],
@@ -146,7 +146,7 @@
   {
    "author": "爱潜水的乌贼",
    "books": 4,
-   "top10": 4,
+   "top10": 3,
    "bestRank": 1,
    "titles": [
     "诡秘之主",
@@ -166,17 +166,6 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 1,
-   "titles": [
-    "捞尸人",
-    "魔临",
-    "深夜书屋"
-   ]
-  },
-  {
    "author": "我吃西红柿",
    "books": 3,
    "top10": 3,
@@ -185,6 +174,17 @@
     "九鼎记",
     "吞噬星空2起源大陆",
     "吞噬星空"
+   ]
+  },
+  {
+   "author": "纯洁滴小龙",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 2,
+   "titles": [
+    "捞尸人",
+    "魔临",
+    "深夜书屋"
    ]
   },
   {
@@ -235,7 +235,7 @@
    "author": "榴弹怕水",
    "books": 3,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 8,
    "titles": [
     "廓晋",
     "绍宋",
@@ -243,33 +243,43 @@
    ]
   },
   {
-   "author": "雪映红梅",
+   "author": "丛拾",
    "books": 2,
    "top10": 2,
    "bestRank": 1,
    "titles": [
-    "王牌律师",
-    "律师本色"
-   ]
-  },
-  {
-   "author": "徍男",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "金刚不坏大寨主",
-    "我在神异司斩邪"
+    "谍战，都别猜了，我真是卧底啊",
+    "民国贵公子"
    ]
   },
   {
    "author": "温柔劝睡师",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 1,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
+   ]
+  },
+  {
+   "author": "辰东",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "夜无疆",
+    "遮天"
+   ]
+  },
+  {
+   "author": "佳男",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "金刚不坏大寨主",
+    "我在神异司斩邪"
    ]
   },
   {
@@ -288,18 +298,8 @@
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "活人深处",
-    "我的细胞监狱"
-   ]
-  },
-  {
-   "author": "风月",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "天启预报",
-    "天命之上"
+    "我的细胞监狱",
+    "活人深处"
    ]
   }
  ],
@@ -789,6 +789,27 @@
   },
   {
    "date": "2026-09-11",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-12",
    "top3": [
     {
      "title": "请勿高考时渡劫",

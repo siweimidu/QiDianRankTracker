@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-12",
  "category_heat": [
   {
    "name": "全部",
@@ -15,30 +15,44 @@
   },
   {
    "name": "奇幻",
-   "count": 20,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
+  },
+  {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 13
-  },
-  {
-   "keyword": "重生",
-   "count": 7
+   "count": 18
   },
   {
    "keyword": "系统",
-   "count": 5
+   "count": 7
+  },
+  {
+   "keyword": "重生",
+   "count": 6
   },
   {
    "keyword": "修仙",
-   "count": 4
+   "count": 3
   },
   {
    "keyword": "历史",
+   "count": 3
+  },
+  {
+   "keyword": "玄幻",
+   "count": 3
+  },
+  {
+   "keyword": "诡异",
    "count": 3
   },
   {
@@ -46,11 +60,11 @@
    "count": 2
   },
   {
-   "keyword": "玄幻",
+   "keyword": "反派",
    "count": 2
   },
   {
-   "keyword": "反派",
+   "keyword": "天才",
    "count": 2
   },
   {
@@ -58,15 +72,7 @@
    "count": 1
   },
   {
-   "keyword": "无敌",
-   "count": 1
-  },
-  {
-   "keyword": "盗墓",
-   "count": 1
-  },
-  {
-   "keyword": "末世",
+   "keyword": "星际",
    "count": 1
   }
  ],
@@ -302,6 +308,27 @@
     }
    ],
    "total_books": 80
+  },
+  {
+   "date": "2026-09-12",
+   "top3": [
+    {
+     "title": "玄鉴：同人集",
+     "author": "作家wnwp31",
+     "metric": null
+    },
+    {
+     "title": "综武大乱斗来！菜鸡你别来！",
+     "author": "娶秀",
+     "metric": null
+    },
+    {
+     "title": "凡人：我有抖音",
+     "author": "作家mrgtvr",
+     "metric": null
+    }
+   ],
+   "total_books": 120
   }
  ]
 }
