@@ -1,5 +1,5 @@
 {
- "date": "2026-09-13",
+ "date": "2026-09-14",
  "category_heat": [
   {
    "name": "全部",
@@ -44,12 +44,6 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "科幻",
    "count": 30,
    "metric_total": 0,
@@ -68,6 +62,12 @@
    "heat": 3000
   },
   {
+   "name": "体育",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
+  },
+  {
    "name": "军事",
    "count": 18,
    "metric_total": 0,
@@ -81,9 +81,9 @@
   },
   {
    "name": "武侠",
-   "count": 13,
+   "count": 14,
    "metric_total": 0,
-   "heat": 1300
+   "heat": 1400
   },
   {
    "name": "现实",
@@ -99,7 +99,7 @@
   },
   {
    "keyword": "系统",
-   "count": 26
+   "count": 27
   },
   {
    "keyword": "重生",
@@ -122,23 +122,23 @@
    "count": 5
   },
   {
-   "keyword": "无敌",
+   "keyword": "诡异",
    "count": 5
   },
   {
-   "keyword": "诡异",
-   "count": 4
+   "keyword": "无敌",
+   "count": 5
   },
   {
    "keyword": "工业",
    "count": 4
   },
   {
-   "keyword": "万界",
+   "keyword": "科技",
    "count": 4
   },
   {
-   "keyword": "科技",
+   "keyword": "三国",
    "count": 4
   }
  ],
@@ -689,6 +689,27 @@
     }
    ],
    "total_books": 377
+  },
+  {
+   "date": "2026-09-14",
+   "top3": [
+    {
+     "title": "白衣卿相",
+     "author": "王梓钧",
+     "metric": null
+    },
+    {
+     "title": "廓晋",
+     "author": "榴弹怕水",
+     "metric": null
+    },
+    {
+     "title": "是，伟大魔女2077",
+     "author": "宇宙鸽",
+     "metric": null
+    }
+   ],
+   "total_books": 376
   }
  ]
 }
