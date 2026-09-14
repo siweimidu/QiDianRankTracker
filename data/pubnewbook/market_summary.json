@@ -1,5 +1,5 @@
 {
- "date": "2026-09-14",
+ "date": "2026-09-15",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -32,69 +38,152 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
    "count": 21,
    "metric_total": 0,
    "heat": 2100
   },
   {
-   "name": "现实",
-   "count": 10,
+   "name": "体育",
+   "count": 16,
    "metric_total": 0,
-   "heat": 1000
+   "heat": 1600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 36
+   "count": 77
   },
   {
    "keyword": "系统",
-   "count": 21
+   "count": 47
+  },
+  {
+   "keyword": "重生",
+   "count": 19
   },
   {
    "keyword": "修仙",
    "count": 17
   },
   {
-   "keyword": "重生",
-   "count": 7
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
    "keyword": "诸天",
-   "count": 4
-  },
-  {
-   "keyword": "宗门",
-   "count": 3
-  },
-  {
-   "keyword": "天才",
-   "count": 2
-  },
-  {
-   "keyword": "诡异",
-   "count": 2
-  },
-  {
-   "keyword": "玄幻",
-   "count": 2
+   "count": 10
   },
   {
    "keyword": "无敌",
-   "count": 2
+   "count": 7
   },
   {
-   "keyword": "万界",
-   "count": 2
+   "keyword": "都市",
+   "count": 6
+  },
+  {
+   "keyword": "诡异",
+   "count": 6
+  },
+  {
+   "keyword": "灵异",
+   "count": 5
+  },
+  {
+   "keyword": "异能",
+   "count": 5
+  },
+  {
+   "keyword": "历史",
+   "count": 5
+  },
+  {
+   "keyword": "机甲",
+   "count": 5
   }
  ],
- "author_power": [],
+ "author_power": [
+  {
+   "author": "黑色的墨迹",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "记录本上的明天",
+    "零承"
+   ]
+  },
+  {
+   "author": "苍南与海北",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "京华锦衣烬",
+    "大唐：罪卒开局建帝国"
+   ]
+  },
+  {
+   "author": "金火羽",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "气体传感：分子囚笼",
+    "量子封神记"
+   ]
+  },
+  {
+   "author": "海天飞羽",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 11,
+   "titles": [
+    "鹏城飞羽：1997勇闯深圳",
+    "执教从一口烧着火的棺材开始"
+   ]
+  }
+ ],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -599,6 +688,27 @@
     }
    ],
    "total_books": 181
+  },
+  {
+   "date": "2026-09-15",
+   "top3": [
+    {
+     "title": "邪神是只虫子？我在异世界养信徒",
+     "author": "权龄",
+     "metric": null
+    },
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "凡人：一天到账一块灵石",
+     "author": "麻辣包拿",
+     "metric": null
+    }
+   ],
+   "total_books": 427
   }
  ]
 }
