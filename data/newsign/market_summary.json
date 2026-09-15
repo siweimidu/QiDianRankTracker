@@ -1,5 +1,5 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "category_heat": [
   {
    "name": "全部",
@@ -50,22 +50,22 @@
    "heat": 3000
   },
   {
+   "name": "游戏",
+   "count": 27,
+   "metric_total": 0,
+   "heat": 2700
+  },
+  {
    "name": "体育",
    "count": 25,
    "metric_total": 0,
    "heat": 2500
   },
   {
-   "name": "游戏",
+   "name": "科幻",
    "count": 24,
    "metric_total": 0,
    "heat": 2400
-  },
-  {
-   "name": "科幻",
-   "count": 23,
-   "metric_total": 0,
-   "heat": 2300
   },
   {
    "name": "悬疑灵异",
@@ -75,9 +75,9 @@
   },
   {
    "name": "武侠",
-   "count": 9,
+   "count": 11,
    "metric_total": 0,
-   "heat": 900
+   "heat": 1100
   },
   {
    "name": "现实",
@@ -95,7 +95,7 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 124
+   "count": 132
   },
   {
    "keyword": "系统",
@@ -107,7 +107,7 @@
   },
   {
    "keyword": "重生",
-   "count": 21
+   "count": 18
   },
   {
    "keyword": "诡异",
@@ -138,7 +138,7 @@
    "count": 6
   },
   {
-   "keyword": "万界",
+   "keyword": "三国",
    "count": 5
   }
  ],
@@ -563,6 +563,27 @@
     }
    ],
    "total_books": 345
+  },
+  {
+   "date": "2026-09-16",
+   "top3": [
+    {
+     "title": "报告祖国，我穿越了！",
+     "author": "众猩之猪",
+     "metric": null
+    },
+    {
+     "title": "巫师：从海角灯塔日常加点开始",
+     "author": "简筱白",
+     "metric": null
+    },
+    {
+     "title": "你赢了，你的游戏小众又变态",
+     "author": "橡皮屑风暴",
+     "metric": null
+    }
+   ],
+   "total_books": 351
   }
  ]
 }

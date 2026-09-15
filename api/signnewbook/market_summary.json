@@ -1,5 +1,5 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "category_heat": [
   {
    "name": "全部",
@@ -63,9 +63,9 @@
   },
   {
    "name": "体育",
-   "count": 10,
+   "count": 12,
    "metric_total": 0,
-   "heat": 1000
+   "heat": 1200
   },
   {
    "name": "武侠",
@@ -95,22 +95,22 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 116
+   "count": 115
   },
   {
    "keyword": "系统",
-   "count": 24
+   "count": 25
   },
   {
    "keyword": "诸天",
    "count": 14
   },
   {
-   "keyword": "修仙",
-   "count": 14
+   "keyword": "重生",
+   "count": 13
   },
   {
-   "keyword": "重生",
+   "keyword": "修仙",
    "count": 12
   },
   {
@@ -127,7 +127,7 @@
   },
   {
    "keyword": "诡异",
-   "count": 6
+   "count": 5
   },
   {
    "keyword": "御兽",
@@ -710,6 +710,27 @@
     }
    ],
    "total_books": 313
+  },
+  {
+   "date": "2026-09-16",
+   "top3": [
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "夜夜行歌",
+     "author": "关关公子",
+     "metric": null
+    },
+    {
+     "title": "女神今晚留下来",
+     "author": "紫夜弦歌",
+     "metric": null
+    }
+   ],
+   "total_books": 315
   }
  ]
 }

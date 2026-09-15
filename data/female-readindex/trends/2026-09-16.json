@@ -1,0 +1,518 @@
+{
+ "date": "2026-09-16",
+ "slug": "female-readindex",
+ "board": {
+  "slug": "female-readindex",
+  "name": "女生阅读指数榜",
+  "channel": "female",
+  "group": "female",
+  "group_label": "女生频道",
+  "metric": "阅读指数"
+ },
+ "total_books": 30,
+ "trends": {
+  "全部": {
+   "new_books": [
+    {
+     "rank": 14,
+     "title": "镇鬼",
+     "author": "",
+     "subCategory": "都市异能"
+    },
+    {
+     "rank": 17,
+     "title": "她是剑修",
+     "author": "",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "rank": 19,
+     "title": "废材修仙，开局契约一条祖龙",
+     "author": "",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "rank": 21,
+     "title": "求生游戏：荒芜大陆幸存者手札",
+     "author": "",
+     "subCategory": "末世危机"
+    },
+    {
+     "rank": 22,
+     "title": "请不要质疑多周目玩家",
+     "author": "",
+     "subCategory": "末世危机"
+    },
+    {
+     "rank": 23,
+     "title": "逢晴日",
+     "author": "",
+     "subCategory": "古典架空"
+    },
+    {
+     "rank": 25,
+     "title": "点金",
+     "author": "",
+     "subCategory": "古典架空"
+    },
+    {
+     "rank": 27,
+     "title": "我在异世封神",
+     "author": "",
+     "subCategory": "古典架空"
+    },
+    {
+     "rank": 28,
+     "title": "灵气复苏：我在动物园当祖宗",
+     "author": "",
+     "subCategory": "都市异能"
+    },
+    {
+     "rank": 29,
+     "title": "我把全修真界卷哭了",
+     "author": "",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "rank": 30,
+     "title": "粟粟",
+     "author": "",
+     "subCategory": "古典架空"
+    }
+   ],
+   "new_count": 11,
+   "dropped_books": [
+    {
+     "title": "我，怪力魅魔，王铁柱！",
+     "subCategory": "搞笑吐槽"
+    },
+    {
+     "title": "凌霄花上",
+     "subCategory": "古典架空"
+    },
+    {
+     "title": "在兽世当虚拟偶像，我被五族雄竞",
+     "subCategory": "时空穿梭"
+    },
+    {
+     "title": "宋檀记事",
+     "subCategory": "都市异能"
+    },
+    {
+     "title": "带着空间养兽夫，恶雌成团宠了",
+     "subCategory": "东方玄幻"
+    },
+    {
+     "title": "恶毒雌性深陷兽世修罗场",
+     "subCategory": "异世大陆"
+    },
+    {
+     "title": "修仙从做杂役开始",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "title": "庶女攻略（《锦心似玉》原著）",
+     "subCategory": "古典架空"
+    },
+    {
+     "title": "长生修仙从族学开始",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "title": "重生千禧，从高考状元开始",
+     "subCategory": "都市生活"
+    }
+   ],
+   "dropped_count": 11,
+   "top_movers": [
+    {
+     "rank": 6,
+     "title": "退下，让朕来",
+     "author": "",
+     "rankChange": 11,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 22.0
+    },
+    {
+     "rank": 9,
+     "title": "逆霖",
+     "author": "",
+     "rankChange": 10,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 20.0
+    },
+    {
+     "rank": 11,
+     "title": "伪像报告",
+     "author": "",
+     "rankChange": 5,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 10.0
+    },
+    {
+     "rank": 3,
+     "title": "五代硬核打工人",
+     "author": "",
+     "rankChange": 1,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 2.0
+    },
+    {
+     "rank": 1,
+     "title": "御兽从零分开始",
+     "author": "",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 2,
+     "title": "兰香缘（谭松韵、刘学义主演电视剧《兰香如故》原著）",
+     "author": "",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 5,
+     "title": "末日乐园",
+     "author": "",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    },
+    {
+     "rank": 15,
+     "title": "诡异入侵，我反杀不过分吧？",
+     "author": "",
+     "rankChange": 0,
+     "metric": 0,
+     "metricGrowth": null,
+     "metricLabel": "",
+     "momentum": 0.0
+    }
+   ],
+   "metric_growth": [],
+   "first_day": false,
+   "summary": "榜单呈现“强竞技、弱言情”态势，末世、诡异与御兽题材霸榜，传统种田文遇冷。头部作品《退下，让朕来》大跨度回升，印证“大女主+权谋/玄幻”的高粘性。新入榜的《镇鬼》等强调“反杀”与“生存”，爽点前置化趋势明显。建议作者：避开套路化种田，加码“高智商生存+强反差人设”，编辑应重点扶持具备强设定、节奏快、去恋爱脑的异能/诡异类潜力股。"
+  }
+ },
+ "category_heat": [
+  {
+   "name": "全部",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  }
+ ],
+ "keyword_heat": [
+  {
+   "keyword": "种田",
+   "count": 4
+  },
+  {
+   "keyword": "系统",
+   "count": 4
+  },
+  {
+   "keyword": "无CP",
+   "count": 3
+  },
+  {
+   "keyword": "重生",
+   "count": 3
+  },
+  {
+   "keyword": "兽世",
+   "count": 2
+  },
+  {
+   "keyword": "修仙",
+   "count": 2
+  },
+  {
+   "keyword": "基建",
+   "count": 2
+  },
+  {
+   "keyword": "天灾",
+   "count": 1
+  },
+  {
+   "keyword": "炮灰",
+   "count": 1
+  },
+  {
+   "keyword": "反派",
+   "count": 1
+  },
+  {
+   "keyword": "总裁",
+   "count": 1
+  },
+  {
+   "keyword": "无限流",
+   "count": 1
+  }
+ ],
+ "author_power": [
+  {
+   "author": "佚名",
+   "books": 30,
+   "top10": 20,
+   "bestRank": 1,
+   "titles": [
+    "御兽从零分开始",
+    "兰香缘（谭松韵、刘学义主演电视剧《兰香如故》原著）",
+    "五代硬核打工人"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-28",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "末日乐园",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "退下，让朕来",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "末日乐园",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "末日乐园",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-09-07",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "见诡法则",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "主公，刀下留人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  },
+  {
+   "date": "2026-09-16",
+   "top3": [
+    {
+     "title": "御兽从零分开始",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "兰香缘（谭松韵、刘学义主演电视剧《兰香如故》原著）",
+     "author": "",
+     "metric": null
+    },
+    {
+     "title": "五代硬核打工人",
+     "author": "",
+     "metric": null
+    }
+   ],
+   "total_books": 30
+  }
+ ]
+}

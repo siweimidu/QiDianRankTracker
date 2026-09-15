@@ -1,5 +1,5 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "category_heat": [
   {
    "name": "全部",
@@ -87,35 +87,35 @@
   },
   {
    "name": "现实",
-   "count": 15,
+   "count": 26,
    "metric_total": 0,
-   "heat": 1500
+   "heat": 2600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 110
-  },
-  {
-   "keyword": "重生",
-   "count": 26
+   "count": 118
   },
   {
    "keyword": "系统",
-   "count": 26
+   "count": 28
+  },
+  {
+   "keyword": "重生",
+   "count": 23
   },
   {
    "keyword": "诸天",
-   "count": 16
+   "count": 17
   },
   {
    "keyword": "修仙",
-   "count": 11
+   "count": 12
   },
   {
    "keyword": "历史",
-   "count": 10
+   "count": 11
   },
   {
    "keyword": "灵异",
@@ -123,18 +123,18 @@
   },
   {
    "keyword": "大明",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "万界",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "诡异",
-   "count": 6
+   "count": 7
   },
   {
-   "keyword": "末世",
+   "keyword": "谍战",
    "count": 5
   },
   {
@@ -144,14 +144,14 @@
  ],
  "author_power": [
   {
-   "author": "榴弹怕水",
+   "author": "长风",
    "books": 3,
    "top10": 3,
    "bestRank": 1,
    "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
+    "刀尖之上",
+    "秘战无声",
+    "抗战：重整山河"
    ]
   },
   {
@@ -166,10 +166,21 @@
    ]
   },
   {
-   "author": "爱潜水的乌贼",
+   "author": "榴弹怕水",
    "books": 3,
    "top10": 3,
    "bestRank": 3,
+   "titles": [
+    "廓晋",
+    "绍宋",
+    "覆汉"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
@@ -177,21 +188,43 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "眉师娘",
    "books": 3,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
+    "万物希声",
+    "奔腾年代——向南向北",
+    "说吧，秘密"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 8,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 1,
+   "titles": [
+    "王牌律师",
+    "不良律师",
+    "律师本色"
    ]
   },
   {
    "author": "我吃西红柿",
    "books": 3,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 5,
    "titles": [
     "九鼎记",
     "吞噬星空2起源大陆",
@@ -199,30 +232,21 @@
    ]
   },
   {
-   "author": "雪映红梅",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
+   "author": "远瞳",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 7,
    "titles": [
-    "王牌律师",
-    "律师本色"
-   ]
-  },
-  {
-   "author": "猪头七",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "东方既白",
-    "我的谍战岁月"
+    "异度旅社",
+    "深海余烬",
+    "黎明之剑"
    ]
   },
   {
    "author": "黑山老鬼",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "急急如律令",
     "黄昏分界"
@@ -239,63 +263,43 @@
    ]
   },
   {
-   "author": "眉师娘",
+   "author": "江舟火独",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 6,
    "titles": [
-    "万物希声",
-    "奔腾年代——向南向北"
+    "射雕：从镖人开始",
+    "人在倚天，剑出峨眉"
+   ]
+  },
+  {
+   "author": "落魄的小纯洁",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 7,
+   "titles": [
+    "灭门夜，我易筋经大圆满！",
+    "武侠：开局奖励满级神功"
    ]
   },
   {
    "author": "辰东",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 9,
    "titles": [
     "夜无疆",
     "遮天"
    ]
   },
   {
-   "author": "会说话的肘子",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 9,
-   "titles": [
-    "青山",
-    "第一序列"
-   ]
-  },
-  {
    "author": "最白的乌鸦",
    "books": 2,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 1,
    "titles": [
     "请勿高考时渡劫",
     "谁让他修仙的！"
-   ]
-  },
-  {
-   "author": "一片苏叶",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 5,
-   "titles": [
-    "剑出大唐",
-    "清光宝鉴"
-   ]
-  },
-  {
-   "author": "勤奋的关关",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 7,
-   "titles": [
-    "超级警探",
-    "神探陈益"
    ]
   }
  ],
@@ -887,6 +891,27 @@
     }
    ],
    "total_books": 435
+  },
+  {
+   "date": "2026-09-16",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    },
+    {
+     "title": "急急如律令",
+     "author": "黑山老鬼",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }
