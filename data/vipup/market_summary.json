@@ -1,5 +1,5 @@
 {
- "date": "2026-09-16",
+ "date": "2026-09-17",
  "category_heat": [
   {
    "name": "全部",
@@ -27,12 +27,6 @@
   },
   {
    "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,78 +84,104 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 144
+   "count": 146
   },
   {
    "keyword": "系统",
-   "count": 43
+   "count": 49
   },
   {
    "keyword": "重生",
-   "count": 31
-  },
-  {
-   "keyword": "修仙",
-   "count": 17
-  },
-  {
-   "keyword": "诸天",
-   "count": 14
+   "count": 26
   },
   {
    "keyword": "无敌",
-   "count": 12
+   "count": 16
   },
   {
-   "keyword": "诡异",
-   "count": 9
+   "keyword": "修仙",
+   "count": 15
   },
   {
-   "keyword": "种田",
-   "count": 8
+   "keyword": "诸天",
+   "count": 11
   },
   {
    "keyword": "万界",
    "count": 8
   },
   {
-   "keyword": "工业",
-   "count": 8
+   "keyword": "大明",
+   "count": 7
   },
   {
-   "keyword": "大明",
+   "keyword": "工业",
    "count": 6
   },
   {
-   "keyword": "副本",
+   "keyword": "国运",
+   "count": 6
+  },
+  {
+   "keyword": "种田",
+   "count": 5
+  },
+  {
+   "keyword": "历史",
    "count": 5
   }
  ],
  "author_power": [
   {
    "author": "佚名",
-   "books": 10,
-   "top10": 10,
-   "bestRank": 2,
+   "books": 9,
+   "top10": 9,
+   "bestRank": 3,
    "titles": [
-    "武逆焚天",
     "满朝文武打工？我只想拔词条",
-    "诡海成神，开局出海捉人鱼"
+    "一道菜馋哭女帝？我的客栈不简单",
+    "寻仙道徒"
    ]
   },
   {
    "author": "末日番茄炒蛋",
    "books": 2,
    "top10": 2,
-   "bestRank": 7,
+   "bestRank": 5,
    "titles": [
     "全球畸变：从凡人开始无限进化",
     "荒岛基建：谎称系统是多子多福"
+   ]
+  },
+  {
+   "author": "荆州太守",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "综武：执掌锦衣卫，抓捕妖女绾绾",
+    "武侠：我林平之，开局纳妾宁中则"
+   ]
+  },
+  {
+   "author": "作家ObGgZi",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 12,
+   "titles": [
+    "视频通古今：盘点董卓苦命鸳鸯",
+    "盘点至高世界：开局荒天帝"
    ]
   }
  ],
@@ -774,6 +794,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-09-17",
+   "top3": [
+    {
+     "title": "西游：这个圣僧有点赖！",
+     "author": "料姜",
+     "metric": null
+    },
+    {
+     "title": "这位先生，勇者真的不存在",
+     "author": "月下渡",
+     "metric": null
+    },
+    {
+     "title": "恋爱对象离线中，请自行加载？",
+     "author": "不关橡皮的事啊",
+     "metric": null
+    }
+   ],
+   "total_books": 448
   }
  ]
 }

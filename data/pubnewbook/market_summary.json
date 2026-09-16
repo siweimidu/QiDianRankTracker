@@ -1,5 +1,5 @@
 {
- "date": "2026-09-16",
+ "date": "2026-09-17",
  "category_heat": [
   {
    "name": "全部",
@@ -44,6 +44,12 @@
    "heat": 3000
   },
   {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -80,49 +86,51 @@
    "heat": 3000
   },
   {
-   "name": "军事",
-   "count": 26,
-   "metric_total": 0,
-   "heat": 2600
-  },
-  {
    "name": "体育",
-   "count": 19,
+   "count": 24,
    "metric_total": 0,
-   "heat": 1900
+   "heat": 2400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 73
+   "count": 79
   },
   {
    "keyword": "系统",
-   "count": 40
+   "count": 46
   },
   {
    "keyword": "重生",
-   "count": 22
+   "count": 24
   },
   {
    "keyword": "修仙",
-   "count": 19
+   "count": 17
   },
   {
    "keyword": "诸天",
-   "count": 13
+   "count": 12
   },
   {
    "keyword": "都市",
-   "count": 8
+   "count": 10
+  },
+  {
+   "keyword": "历史",
+   "count": 7
   },
   {
    "keyword": "无敌",
-   "count": 8
+   "count": 7
   },
   {
    "keyword": "悬疑",
+   "count": 7
+  },
+  {
+   "keyword": "异能",
    "count": 6
   },
   {
@@ -132,42 +140,24 @@
   {
    "keyword": "灵异",
    "count": 5
-  },
-  {
-   "keyword": "异能",
-   "count": 5
-  },
-  {
-   "keyword": "历史",
-   "count": 5
   }
  ],
  "author_power": [
   {
    "author": "金火羽",
    "books": 2,
-   "top10": 1,
-   "bestRank": 1,
+   "top10": 2,
+   "bestRank": 5,
    "titles": [
     "量子封神记",
     "气体传感：分子囚笼"
    ]
   },
   {
-   "author": "苍南与海北",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "大唐：罪卒开局建帝国",
-    "京华锦衣烬"
-   ]
-  },
-  {
    "author": "海天飞羽",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
     "鹏城飞羽：1997勇闯深圳",
     "执教从一口烧着火的棺材开始"
@@ -730,6 +720,27 @@
     }
    ],
    "total_books": 435
+  },
+  {
+   "date": "2026-09-17",
+   "top3": [
+    {
+     "title": "邪神是只虫子？我在异世界养信徒",
+     "author": "权龄",
+     "metric": null
+    },
+    {
+     "title": "烽火照神州",
+     "author": "梁墉",
+     "metric": null
+    },
+    {
+     "title": "凡人：一天到账一块灵石",
+     "author": "麻辣包拿",
+     "metric": null
+    }
+   ],
+   "total_books": 444
   }
  ]
 }
