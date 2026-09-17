@@ -1,5 +1,5 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "category_heat": [
   {
    "name": "全部",
@@ -27,6 +27,12 @@
   },
   {
    "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -84,81 +90,75 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "都市",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 146
+   "count": 141
   },
   {
    "keyword": "系统",
-   "count": 49
+   "count": 48
   },
   {
    "keyword": "重生",
-   "count": 26
-  },
-  {
-   "keyword": "无敌",
-   "count": 16
+   "count": 32
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 19
   },
   {
    "keyword": "诸天",
+   "count": 13
+  },
+  {
+   "keyword": "无敌",
    "count": 11
   },
   {
    "keyword": "万界",
-   "count": 8
+   "count": 10
   },
   {
-   "keyword": "大明",
+   "keyword": "副本",
    "count": 7
+  },
+  {
+   "keyword": "种田",
+   "count": 7
+  },
+  {
+   "keyword": "历史",
+   "count": 7
+  },
+  {
+   "keyword": "诡异",
+   "count": 6
   },
   {
    "keyword": "工业",
    "count": 6
-  },
-  {
-   "keyword": "国运",
-   "count": 6
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
-   "keyword": "历史",
-   "count": 5
   }
  ],
  "author_power": [
   {
    "author": "佚名",
    "books": 9,
-   "top10": 9,
-   "bestRank": 3,
+   "top10": 3,
+   "bestRank": 5,
    "titles": [
-    "满朝文武打工？我只想拔词条",
     "一道菜馋哭女帝？我的客栈不简单",
-    "寻仙道徒"
+    "满朝文武打工？我只想拔词条",
+    "诡海成神，开局出海捉人鱼"
    ]
   },
   {
    "author": "末日番茄炒蛋",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 8,
    "titles": [
     "全球畸变：从凡人开始无限进化",
     "荒岛基建：谎称系统是多子多福"
@@ -167,21 +167,11 @@
   {
    "author": "荆州太守",
    "books": 2,
-   "top10": 1,
-   "bestRank": 10,
+   "top10": 0,
+   "bestRank": 11,
    "titles": [
     "综武：执掌锦衣卫，抓捕妖女绾绾",
     "武侠：我林平之，开局纳妾宁中则"
-   ]
-  },
-  {
-   "author": "作家ObGgZi",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 12,
-   "titles": [
-    "视频通古今：盘点董卓苦命鸳鸯",
-    "盘点至高世界：开局荒天帝"
    ]
   }
  ],
@@ -815,6 +805,27 @@
     }
    ],
    "total_books": 448
+  },
+  {
+   "date": "2026-09-18",
+   "top3": [
+    {
+     "title": "吞噬星空中的赏金猎人",
+     "author": "宅家老王",
+     "metric": null
+    },
+    {
+     "title": "斗罗金榜：从二十大天骄榜开始！",
+     "author": "优雅的大炮",
+     "metric": null
+    },
+    {
+     "title": "异常？和我大运说去吧！",
+     "author": "星空156",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }
