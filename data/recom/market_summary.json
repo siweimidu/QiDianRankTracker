@@ -1,95 +1,95 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 488309,
-   "heat": 488309
+   "metric_total": 578988,
+   "heat": 578988
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 313898,
-   "heat": 313898
+   "metric_total": 373939,
+   "heat": 373939
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 170891,
-   "heat": 170891
+   "metric_total": 201449,
+   "heat": 201449
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 151416,
-   "heat": 151416
+   "metric_total": 180932,
+   "heat": 180932
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 97826,
-   "heat": 97826
+   "metric_total": 115890,
+   "heat": 115890
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 96144,
-   "heat": 96144
+   "metric_total": 114047,
+   "heat": 114047
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 81122,
-   "heat": 81122
+   "metric_total": 95921,
+   "heat": 95921
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 41829,
-   "heat": 41829
+   "metric_total": 49951,
+   "heat": 49951
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 38878,
-   "heat": 38878
+   "metric_total": 46670,
+   "heat": 46670
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 33263,
-   "heat": 33263
+   "metric_total": 39574,
+   "heat": 39574
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 29506,
-   "heat": 29506
+   "metric_total": 35391,
+   "heat": 35391
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 27783,
-   "heat": 27783
+   "metric_total": 32655,
+   "heat": 32655
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 21516,
-   "heat": 21516
+   "metric_total": 25954,
+   "heat": 25954
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 14590,
-   "heat": 14590
+   "metric_total": 17518,
+   "heat": 17518
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 4139,
-   "heat": 4139
+   "metric_total": 4647,
+   "heat": 4647
   }
  ],
  "keyword_heat": [
@@ -99,11 +99,11 @@
   },
   {
    "keyword": "系统",
-   "count": 27
+   "count": 28
   },
   {
    "keyword": "重生",
-   "count": 20
+   "count": 21
   },
   {
    "keyword": "诸天",
@@ -111,7 +111,7 @@
   },
   {
    "keyword": "修仙",
-   "count": 10
+   "count": 11
   },
   {
    "keyword": "历史",
@@ -119,7 +119,7 @@
   },
   {
    "keyword": "灵异",
-   "count": 9
+   "count": 8
   },
   {
    "keyword": "诡异",
@@ -179,7 +179,7 @@
    "author": "我吃西红柿",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 7,
    "titles": [
     "吞噬星空2起源大陆",
     "吞噬星空"
@@ -189,20 +189,10 @@
    "author": "三天两觉",
    "books": 2,
    "top10": 1,
-   "bestRank": 3,
+   "bestRank": 2,
    "titles": [
     "盖世双谐",
     "惊悚乐园"
-   ]
-  },
-  {
-   "author": "晨星LL",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 4,
-   "titles": [
-    "这游戏也太真实了",
-    "魔王大人深不可测"
    ]
   },
   {
@@ -213,6 +203,16 @@
    "titles": [
     "异度旅社",
     "黎明之剑"
+   ]
+  },
+  {
+   "author": "晨星LL",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "这游戏也太真实了",
+    "魔王大人深不可测"
    ]
   },
   {
@@ -239,10 +239,10 @@
    "author": "一醉风雨",
    "books": 2,
    "top10": 0,
-   "bestRank": 18,
+   "bestRank": 16,
    "titles": [
-    "执白",
-    "风华年代"
+    "风华年代",
+    "执白"
    ]
   }
  ],
@@ -915,6 +915,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 32554
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-20",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 93514
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": 47600
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 38591
     }
    ],
    "total_books": 450

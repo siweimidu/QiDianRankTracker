@@ -1,5 +1,5 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "category_heat": [
   {
    "name": "全部",
@@ -69,15 +69,15 @@
   },
   {
    "name": "武侠",
-   "count": 26,
+   "count": 27,
    "metric_total": 0,
-   "heat": 2600
+   "heat": 2700
   },
   {
    "name": "悬疑灵异",
-   "count": 21,
+   "count": 20,
    "metric_total": 0,
-   "heat": 2100
+   "heat": 2000
   },
   {
    "name": "军事",
@@ -95,7 +95,7 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 101
+   "count": 102
   },
   {
    "keyword": "系统",
@@ -103,11 +103,11 @@
   },
   {
    "keyword": "重生",
-   "count": 22
+   "count": 24
   },
   {
    "keyword": "诸天",
-   "count": 15
+   "count": 14
   },
   {
    "keyword": "修仙",
@@ -115,7 +115,7 @@
   },
   {
    "keyword": "无敌",
-   "count": 9
+   "count": 10
   },
   {
    "keyword": "历史",
@@ -123,6 +123,10 @@
   },
   {
    "keyword": "种田",
+   "count": 6
+  },
+  {
+   "keyword": "三国",
    "count": 6
   },
   {
@@ -134,15 +138,22 @@
    "count": 5
   },
   {
-   "keyword": "三国",
-   "count": 5
-  },
-  {
    "keyword": "科技",
    "count": 5
   }
  ],
- "author_power": [],
+ "author_power": [
+  {
+   "author": "昭灵驷玉",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "黑科技：从单兵隐形装备开始",
+    "重生2013：超级科技帝国"
+   ]
+  }
+ ],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -811,6 +822,27 @@
     {
      "title": "哨响之前",
      "author": "北咎初妆身是客",
+     "metric": null
+    }
+   ],
+   "total_books": 401
+  },
+  {
+   "date": "2026-09-20",
+   "top3": [
+    {
+     "title": "从拯救曼联开始",
+     "author": "陈爱庭",
+     "metric": null
+    },
+    {
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "metric": null
+    },
+    {
+     "title": "这个医生技术太过无敌",
+     "author": "小小鱼虾",
      "metric": null
     }
    ],
