@@ -1,5 +1,5 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "category_heat": [
   {
    "name": "全部",
@@ -95,7 +95,7 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 102
+   "count": 98
   },
   {
    "keyword": "重生",
@@ -107,11 +107,11 @@
   },
   {
    "keyword": "诸天",
-   "count": 13
+   "count": 15
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 10
   },
   {
    "keyword": "历史",
@@ -122,7 +122,7 @@
    "count": 6
   },
   {
-   "keyword": "大明",
+   "keyword": "谍战",
    "count": 6
   },
   {
@@ -134,20 +134,31 @@
    "count": 5
   },
   {
-   "keyword": "工业",
+   "keyword": "都市",
    "count": 5
   },
   {
-   "keyword": "谍战",
-   "count": 5
+   "keyword": "科技",
+   "count": 4
   }
  ],
  "author_power": [
   {
+   "author": "眉师娘",
+   "books": 4,
+   "top10": 4,
+   "bestRank": 1,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北",
+    "茫茫黑夜漫游"
+   ]
+  },
+  {
    "author": "远瞳",
    "books": 4,
-   "top10": 2,
-   "bestRank": 3,
+   "top10": 3,
+   "bestRank": 2,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -155,10 +166,21 @@
    ]
   },
   {
+   "author": "我吃西红柿",
+   "books": 4,
+   "top10": 1,
+   "bestRank": 1,
+   "titles": [
+    "盘龙",
+    "九鼎记",
+    "吞噬星空2起源大陆"
+   ]
+  },
+  {
    "author": "爱潜水的乌贼",
    "books": 4,
-   "top10": 2,
-   "bestRank": 6,
+   "top10": 1,
+   "bestRank": 8,
    "titles": [
     "诡秘之主",
     "剑烛大荒",
@@ -166,43 +188,10 @@
    ]
   },
   {
-   "author": "眉师娘",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 2,
-   "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "说吧，秘密"
-   ]
-  },
-  {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
-   "author": "榴弹怕水",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 3,
-   "titles": [
-    "廓晋",
-    "绍宋",
-    "覆汉"
-   ]
-  },
-  {
    "author": "纯洁滴小龙",
    "books": 3,
-   "top10": 1,
-   "bestRank": 4,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
     "捞尸人",
     "魔临",
@@ -210,10 +199,21 @@
    ]
   },
   {
+   "author": "榴弹怕水",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "廓晋",
+    "绍宋",
+    "覆汉"
+   ]
+  },
+  {
    "author": "卖报小郎君",
    "books": 3,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 5,
    "titles": [
     "灵境行者",
     "临圣",
@@ -221,44 +221,54 @@
    ]
   },
   {
-   "author": "我吃西红柿",
+   "author": "我会修空调",
    "books": 3,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 7,
    "titles": [
-    "九鼎记",
-    "吞噬星空2起源大陆",
-    "吞噬星空"
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
    ]
   },
   {
-   "author": "温柔劝睡师",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "噩梦使徒",
-    "噩梦惊袭"
-   ]
-  },
-  {
-   "author": "万象初心",
+   "author": "宴金秋",
    "books": 2,
    "top10": 2,
    "bestRank": 2,
    "titles": [
-    "流窜诸天的灾厄",
-    "流窜诸天的恶势力"
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
    ]
   },
   {
-   "author": "猪头七",
+   "author": "落魄的小纯洁",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "灭门夜，我易筋经大圆满！",
+    "武侠：开局奖励满级神功"
+   ]
+  },
+  {
+   "author": "三天两觉",
    "books": 2,
    "top10": 2,
    "bestRank": 4,
    "titles": [
-    "东方既白",
-    "我的谍战岁月"
+    "盖世双谐",
+    "惊悚乐园"
+   ]
+  },
+  {
+   "author": "青衫取醉",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "神的模仿犯",
+    "亏成首富从游戏开始-《年少有为》电视剧原著"
    ]
   },
   {
@@ -272,33 +282,23 @@
    ]
   },
   {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
-   ]
-  },
-  {
    "author": "江舟火独",
    "books": 2,
    "top10": 2,
    "bestRank": 5,
    "titles": [
-    "人在倚天，剑出峨眉",
-    "射雕：从镖人开始"
+    "射雕：从镖人开始",
+    "人在倚天，剑出峨眉"
    ]
   },
   {
-   "author": "长风",
+   "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 5,
    "titles": [
-    "秘战无声",
-    "抗战：重整山河"
+    "东方既白",
+    "我的谍战岁月"
    ]
   }
  ],
@@ -977,6 +977,27 @@
   },
   {
    "date": "2026-09-20",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-21",
    "top3": [
     {
      "title": "夜无疆",

@@ -1,5 +1,5 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-21",
  "category_heat": [
   {
    "name": "全部",
@@ -21,18 +21,12 @@
   },
   {
    "name": "武侠",
-   "count": 30,
+   "count": 23,
    "metric_total": 0,
-   "heat": 3000
+   "heat": 2300
   },
   {
    "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
    "count": 20,
    "metric_total": 0,
    "heat": 2000
@@ -41,42 +35,30 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 34
+   "count": 31
   },
   {
    "keyword": "系统",
-   "count": 15
-  },
-  {
-   "keyword": "修仙",
    "count": 14
   },
   {
+   "keyword": "修仙",
+   "count": 7
+  },
+  {
+   "keyword": "宗门",
+   "count": 3
+  },
+  {
+   "keyword": "玄幻",
+   "count": 3
+  },
+  {
+   "keyword": "无敌",
+   "count": 3
+  },
+  {
    "keyword": "重生",
-   "count": 8
-  },
-  {
-   "keyword": "都市",
-   "count": 3
-  },
-  {
-   "keyword": "万界",
-   "count": 3
-  },
-  {
-   "keyword": "争霸",
-   "count": 2
-  },
-  {
-   "keyword": "诸天",
-   "count": 2
-  },
-  {
-   "keyword": "诡异",
-   "count": 2
-  },
-  {
-   "keyword": "热血",
    "count": 2
   },
   {
@@ -84,8 +66,20 @@
    "count": 2
   },
   {
+   "keyword": "诸天",
+   "count": 2
+  },
+  {
    "keyword": "异能",
    "count": 2
+  },
+  {
+   "keyword": "热血",
+   "count": 2
+  },
+  {
+   "keyword": "都市",
+   "count": 1
   }
  ],
  "author_power": [],
@@ -404,6 +398,27 @@
     }
    ],
    "total_books": 170
+  },
+  {
+   "date": "2026-09-21",
+   "top3": [
+    {
+     "title": "斗罗绝世重生王秋儿",
+     "author": "在瘦西湖喝奶茶",
+     "metric": null
+    },
+    {
+     "title": "我在沙陀军营当孔目",
+     "author": "石仕之",
+     "metric": null
+    },
+    {
+     "title": "逸剑风云决：玄火之约",
+     "author": "终极宇宙暴龙战神",
+     "metric": null
+    }
+   ],
+   "total_books": 133
   }
  ]
 }

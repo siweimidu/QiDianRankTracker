@@ -1,5 +1,5 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-21",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -33,18 +27,6 @@
   },
   {
    "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -86,94 +68,81 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 26,
+   "name": "武侠",
+   "count": 25,
    "metric_total": 0,
-   "heat": 2600
+   "heat": 2500
+  },
+  {
+   "name": "现实",
+   "count": 11,
+   "metric_total": 0,
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 7,
+   "metric_total": 0,
+   "heat": 700
+  },
+  {
+   "name": "军事",
+   "count": 4,
+   "metric_total": 0,
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 81
+   "count": 76
   },
   {
    "keyword": "系统",
-   "count": 40
-  },
-  {
-   "keyword": "重生",
-   "count": 21
+   "count": 36
   },
   {
    "keyword": "修仙",
-   "count": 18
+   "count": 25
+  },
+  {
+   "keyword": "重生",
+   "count": 16
   },
   {
    "keyword": "诸天",
-   "count": 11
+   "count": 14
   },
   {
    "keyword": "诡异",
-   "count": 8
-  },
-  {
-   "keyword": "都市",
-   "count": 7
+   "count": 10
   },
   {
    "keyword": "历史",
+   "count": 10
+  },
+  {
+   "keyword": "都市",
+   "count": 8
+  },
+  {
+   "keyword": "宗门",
    "count": 7
-  },
-  {
-   "keyword": "灵异",
-   "count": 6
-  },
-  {
-   "keyword": "悬疑",
-   "count": 6
-  },
-  {
-   "keyword": "异能",
-   "count": 5
   },
   {
    "keyword": "天才",
    "count": 5
-  }
- ],
- "author_power": [
-  {
-   "author": "聆匿",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "契约厉鬼：我以邪制邪",
-    "灵异执刃者：夜城回响"
-   ]
   },
   {
-   "author": "天马传宗",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 2,
-   "titles": [
-    "连山帖",
-    "土声"
-   ]
+   "keyword": "万界",
+   "count": 5
   },
   {
-   "author": "海天飞羽",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 7,
-   "titles": [
-    "鹏城飞羽：1997勇闯深圳",
-    "执教从一口烧着火的棺材开始"
-   ]
+   "keyword": "大明",
+   "count": 5
   }
  ],
+ "author_power": [],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -762,6 +731,27 @@
     }
    ],
    "total_books": 446
+  },
+  {
+   "date": "2026-09-21",
+   "top3": [
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "浪起1931",
+     "author": "草花书生",
+     "metric": null
+    },
+    {
+     "title": "有个随身空间",
+     "author": "冰鲜",
+     "metric": null
+    }
+   ],
+   "total_books": 377
   }
  ]
 }
