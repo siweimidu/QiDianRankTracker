@@ -1,5 +1,5 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "category_heat": [
   {
    "name": "全部",
@@ -21,15 +21,33 @@
   },
   {
    "name": "武侠",
-   "count": 23,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2300
+   "heat": 3000
   },
   {
    "name": "仙侠",
-   "count": 20,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 19,
+   "metric_total": 0,
+   "heat": 1900
   }
  ],
  "keyword_heat": [
@@ -39,46 +57,46 @@
   },
   {
    "keyword": "系统",
-   "count": 14
-  },
-  {
-   "keyword": "修仙",
-   "count": 7
-  },
-  {
-   "keyword": "宗门",
-   "count": 3
-  },
-  {
-   "keyword": "玄幻",
-   "count": 3
-  },
-  {
-   "keyword": "无敌",
-   "count": 3
+   "count": 23
   },
   {
    "keyword": "重生",
-   "count": 2
+   "count": 13
   },
   {
-   "keyword": "历史",
-   "count": 2
+   "keyword": "修仙",
+   "count": 12
   },
   {
    "keyword": "诸天",
-   "count": 2
+   "count": 5
   },
   {
-   "keyword": "异能",
-   "count": 2
-  },
-  {
-   "keyword": "热血",
-   "count": 2
+   "keyword": "历史",
+   "count": 4
   },
   {
    "keyword": "都市",
+   "count": 2
+  },
+  {
+   "keyword": "杀伐果断",
+   "count": 2
+  },
+  {
+   "keyword": "诡异",
+   "count": 2
+  },
+  {
+   "keyword": "宗门",
+   "count": 2
+  },
+  {
+   "keyword": "机甲",
+   "count": 2
+  },
+  {
+   "keyword": "无限流",
    "count": 1
   }
  ],
@@ -419,6 +437,27 @@
     }
    ],
    "total_books": 133
+  },
+  {
+   "date": "2026-09-22",
+   "top3": [
+    {
+     "title": "成尊",
+     "author": "白虚罗",
+     "metric": null
+    },
+    {
+     "title": "神秘学打工日志",
+     "author": "仗剑逐风",
+     "metric": null
+    },
+    {
+     "title": "凡人：我那平淡的修仙路",
+     "author": "会飞的大头鹅",
+     "metric": null
+    }
+   ],
+   "total_books": 229
   }
  ]
 }

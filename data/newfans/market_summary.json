@@ -1,5 +1,5 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "category_heat": [
   {
    "name": "全部",
@@ -87,23 +87,23 @@
   },
   {
    "name": "现实",
-   "count": 4,
+   "count": 17,
    "metric_total": 0,
-   "heat": 400
+   "heat": 1700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 114
+   "count": 122
   },
   {
    "keyword": "系统",
-   "count": 36
+   "count": 38
   },
   {
    "keyword": "重生",
-   "count": 34
+   "count": 26
   },
   {
    "keyword": "诸天",
@@ -111,7 +111,7 @@
   },
   {
    "keyword": "修仙",
-   "count": 13
+   "count": 12
   },
   {
    "keyword": "历史",
@@ -119,35 +119,46 @@
   },
   {
    "keyword": "诡异",
-   "count": 9
+   "count": 10
   },
   {
    "keyword": "大明",
-   "count": 7
-  },
-  {
-   "keyword": "万界",
-   "count": 7
-  },
-  {
-   "keyword": "副本",
-   "count": 6
+   "count": 8
   },
   {
    "keyword": "灵异",
-   "count": 5
+   "count": 6
   },
   {
-   "keyword": "谍战",
-   "count": 5
+   "keyword": "万界",
+   "count": 6
+  },
+  {
+   "keyword": "科技",
+   "count": 4
+  },
+  {
+   "keyword": "种田",
+   "count": 4
   }
  ],
  "author_power": [
   {
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "九鼎记",
+    "吞噬星空2起源大陆",
+    "吞噬星空"
+   ]
+  },
+  {
    "author": "爱潜水的乌贼",
    "books": 3,
-   "top10": 3,
-   "bestRank": 2,
+   "top10": 1,
+   "bestRank": 6,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
@@ -155,21 +166,10 @@
    ]
   },
   {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 7,
-   "titles": [
-    "捞尸人",
-    "深夜书屋",
-    "魔临"
-   ]
-  },
-  {
    "author": "远瞳",
    "books": 3,
    "top10": 1,
-   "bestRank": 6,
+   "bestRank": 7,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -177,93 +177,63 @@
    ]
   },
   {
-   "author": "榴弹怕水",
+   "author": "最白的乌鸦",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 1,
    "titles": [
-    "廓晋",
-    "绍宋"
-   ]
-  },
-  {
-   "author": "卖报小郎君",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "临圣",
-    "灵境行者"
-   ]
-  },
-  {
-   "author": "谈谈钱",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "谍战代号：申公豹",
-    "谍战吃瓜，从潜伏洪秘书开始"
-   ]
-  },
-  {
-   "author": "佚名",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "铁路往事",
-    "北派盗墓笔记"
-   ]
-  },
-  {
-   "author": "风约云留",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "倚天崆峒掌派人",
-    "笑傲从被嵩山灭门开始"
+    "请勿高考时渡劫",
+    "谁让他修仙的！"
    ]
   },
   {
    "author": "辰东",
    "books": 2,
    "top10": 2,
-   "bestRank": 7,
+   "bestRank": 1,
    "titles": [
     "夜无疆",
     "遮天"
    ]
   },
   {
-   "author": "一枪八百里",
+   "author": "宴金秋",
    "books": 2,
    "top10": 2,
-   "bestRank": 9,
+   "bestRank": 2,
    "titles": [
-    "抗战：无人机蜂群什么鬼？",
-    "亮剑：从晋西北打到上甘岭"
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
    ]
   },
   {
-   "author": "错哪儿了",
+   "author": "卖报小郎君",
    "books": 2,
-   "top10": 1,
-   "bestRank": 5,
+   "top10": 2,
+   "bestRank": 2,
    "titles": [
-    "孤主",
-    "都重生了谁谈恋爱啊"
+    "临圣",
+    "灵境行者"
    ]
   },
   {
-   "author": "落魄的小纯洁",
+   "author": "榴弹怕水",
    "books": 2,
-   "top10": 1,
-   "bestRank": 5,
+   "top10": 2,
+   "bestRank": 3,
    "titles": [
-    "灭门夜，我易筋经大圆满！",
-    "武侠：开局奖励满级神功"
+    "廓晋",
+    "绍宋"
+   ]
+  },
+  {
+   "author": "纯洁滴小龙",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "捞尸人",
+    "深夜书屋"
    ]
   },
   {
@@ -277,23 +247,53 @@
    ]
   },
   {
+   "author": "风约云留",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "倚天崆峒掌派人",
+    "笑傲从被嵩山灭门开始"
+   ]
+  },
+  {
+   "author": "一片苏叶",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 9,
+   "titles": [
+    "剑出大唐",
+    "清光宝鉴"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 9,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北"
+   ]
+  },
+  {
    "author": "我会修空调",
    "books": 2,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 10,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏"
    ]
   },
   {
-   "author": "雨中神人",
+   "author": "温柔劝睡师",
    "books": 2,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 10,
    "titles": [
-    "神秘复苏：我不当人了",
-    "神秘复苏之从异类开始"
+    "噩梦使徒",
+    "噩梦惊袭"
    ]
   }
  ],
@@ -1011,6 +1011,27 @@
     }
    ],
    "total_books": 424
+  },
+  {
+   "date": "2026-09-22",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    }
+   ],
+   "total_books": 437
   }
  ]
 }

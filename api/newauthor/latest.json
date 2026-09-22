@@ -1,7 +1,7 @@
 {
  "slug": "newauthor",
  "name": "新人作者新书榜",
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "types": [
   {
    "name": "全部",
@@ -21,12 +21,27 @@
   {
    "name": "武侠",
    "url": "api/newauthor/latest/武侠.json",
-   "count": 23
+   "count": 30
   },
   {
    "name": "仙侠",
    "url": "api/newauthor/latest/仙侠.json",
-   "count": 20
+   "count": 30
+  },
+  {
+   "name": "都市",
+   "url": "api/newauthor/latest/都市.json",
+   "count": 30
+  },
+  {
+   "name": "现实",
+   "url": "api/newauthor/latest/现实.json",
+   "count": 30
+  },
+  {
+   "name": "军事",
+   "url": "api/newauthor/latest/军事.json",
+   "count": 19
   }
  ]
 }

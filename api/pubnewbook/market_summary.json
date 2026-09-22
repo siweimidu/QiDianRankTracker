@@ -1,5 +1,5 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -27,6 +33,12 @@
   },
   {
    "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -68,46 +80,34 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 25,
+   "name": "军事",
+   "count": 29,
    "metric_total": 0,
-   "heat": 2500
-  },
-  {
-   "name": "现实",
-   "count": 11,
-   "metric_total": 0,
-   "heat": 1100
+   "heat": 2900
   },
   {
    "name": "体育",
-   "count": 7,
+   "count": 15,
    "metric_total": 0,
-   "heat": 700
-  },
-  {
-   "name": "军事",
-   "count": 4,
-   "metric_total": 0,
-   "heat": 400
+   "heat": 1500
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 76
+   "count": 86
   },
   {
    "keyword": "系统",
-   "count": 36
+   "count": 39
   },
   {
    "keyword": "修仙",
-   "count": 25
+   "count": 30
   },
   {
    "keyword": "重生",
-   "count": 16
+   "count": 19
   },
   {
    "keyword": "诸天",
@@ -115,34 +115,46 @@
   },
   {
    "keyword": "诡异",
-   "count": 10
+   "count": 13
   },
   {
-   "keyword": "历史",
-   "count": 10
+   "keyword": "天才",
+   "count": 7
   },
   {
-   "keyword": "都市",
-   "count": 8
+   "keyword": "万界",
+   "count": 7
   },
   {
    "keyword": "宗门",
    "count": 7
   },
   {
-   "keyword": "天才",
-   "count": 5
+   "keyword": "都市",
+   "count": 6
   },
   {
-   "keyword": "万界",
-   "count": 5
+   "keyword": "历史",
+   "count": 6
   },
   {
-   "keyword": "大明",
-   "count": 5
+   "keyword": "异能",
+   "count": 6
   }
  ],
- "author_power": [],
+ "author_power": [
+  {
+   "author": "锐新",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "回声谍",
+    "缄默谍",
+    "幽影谍"
+   ]
+  }
+ ],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -752,6 +764,27 @@
     }
    ],
    "total_books": 377
+  },
+  {
+   "date": "2026-09-22",
+   "top3": [
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "初源：力凝之环",
+     "author": "丁从容",
+     "metric": null
+    },
+    {
+     "title": "我的适应能力没有上限",
+     "author": "爱摸鱼的叶子",
+     "metric": null
+    }
+   ],
+   "total_books": 434
   }
  ]
 }
