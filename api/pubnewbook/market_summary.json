@@ -1,5 +1,5 @@
 {
- "date": "2026-09-22",
+ "date": "2026-09-23",
  "category_heat": [
   {
    "name": "全部",
@@ -87,38 +87,46 @@
   },
   {
    "name": "体育",
-   "count": 15,
+   "count": 19,
    "metric_total": 0,
-   "heat": 1500
+   "heat": 1900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 86
+   "count": 87
   },
   {
    "keyword": "系统",
-   "count": 39
+   "count": 40
   },
   {
    "keyword": "修仙",
-   "count": 30
+   "count": 26
   },
   {
    "keyword": "重生",
    "count": 19
   },
   {
-   "keyword": "诸天",
-   "count": 14
-  },
-  {
    "keyword": "诡异",
-   "count": 13
+   "count": 12
   },
   {
-   "keyword": "天才",
+   "keyword": "历史",
+   "count": 11
+  },
+  {
+   "keyword": "诸天",
+   "count": 11
+  },
+  {
+   "keyword": "灵异",
+   "count": 8
+  },
+  {
+   "keyword": "大明",
    "count": 7
   },
   {
@@ -126,32 +134,33 @@
    "count": 7
   },
   {
-   "keyword": "宗门",
-   "count": 7
-  },
-  {
    "keyword": "都市",
    "count": 6
   },
   {
-   "keyword": "历史",
-   "count": 6
-  },
-  {
-   "keyword": "异能",
+   "keyword": "宗门",
    "count": 6
   }
  ],
  "author_power": [
   {
-   "author": "锐新",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 3,
+   "author": "心快乐就好",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
    "titles": [
-    "回声谍",
-    "缄默谍",
-    "幽影谍"
+    "汴梁暗河谍影",
+    "谍影江山"
+   ]
+  },
+  {
+   "author": "路过的歪歪",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "万古道缺",
+    "修仙万事屋：我在仙门接阴间委托"
    ]
   }
  ],
@@ -785,6 +794,27 @@
     }
    ],
    "total_books": 434
+  },
+  {
+   "date": "2026-09-23",
+   "top3": [
+    {
+     "title": "初源：力凝之环",
+     "author": "丁从容",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    },
+    {
+     "title": "废土今天也想让我加班",
+     "author": "吊打老神仙",
+     "metric": null
+    }
+   ],
+   "total_books": 438
   }
  ]
 }
