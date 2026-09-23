@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "category_heat": [
   {
    "name": "全部",
@@ -68,28 +68,22 @@
    "heat": 3000
   },
   {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "轻小说",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "军事",
+   "count": 25,
+   "metric_total": 0,
+   "heat": 2500
+  },
+  {
+   "name": "悬疑灵异",
    "count": 20,
    "metric_total": 0,
    "heat": 2000
   },
   {
    "name": "体育",
-   "count": 17,
+   "count": 19,
    "metric_total": 0,
-   "heat": 1700
+   "heat": 1900
   }
  ],
  "keyword_heat": [
@@ -99,23 +93,23 @@
   },
   {
    "keyword": "系统",
-   "count": 33
+   "count": 34
   },
   {
    "keyword": "重生",
-   "count": 23
+   "count": 27
   },
   {
    "keyword": "修仙",
-   "count": 16
+   "count": 17
   },
   {
    "keyword": "历史",
-   "count": 13
+   "count": 11
   },
   {
    "keyword": "诸天",
-   "count": 11
+   "count": 10
   },
   {
    "keyword": "诡异",
@@ -134,11 +128,11 @@
    "count": 4
   },
   {
-   "keyword": "无限流",
+   "keyword": "天才",
    "count": 4
   },
   {
-   "keyword": "三国",
+   "keyword": "科技",
    "count": 4
   }
  ],
@@ -521,6 +515,27 @@
     }
    ],
    "total_books": 427
+  },
+  {
+   "date": "2026-09-24",
+   "top3": [
+    {
+     "title": "成尊",
+     "author": "白虚罗",
+     "metric": null
+    },
+    {
+     "title": "华娱：乐子人在线吃瓜！",
+     "author": "灌江之主",
+     "metric": null
+    },
+    {
+     "title": "凡人：我那平淡的修仙路",
+     "author": "会飞的大头鹅",
+     "metric": null
+    }
+   ],
+   "total_books": 394
   }
  ]
 }

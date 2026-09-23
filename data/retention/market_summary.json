@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "category_heat": [
   {
    "name": "全部",
@@ -69,21 +69,21 @@
   },
   {
    "name": "武侠",
-   "count": 27,
+   "count": 26,
    "metric_total": 0,
-   "heat": 2700
+   "heat": 2600
   },
   {
    "name": "悬疑灵异",
-   "count": 20,
+   "count": 19,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 1900
   },
   {
    "name": "军事",
-   "count": 16,
+   "count": 17,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1700
   },
   {
    "name": "现实",
@@ -95,15 +95,15 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 98
+   "count": 99
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 31
   },
   {
    "keyword": "重生",
-   "count": 24
+   "count": 25
   },
   {
    "keyword": "诸天",
@@ -111,15 +111,19 @@
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 13
   },
   {
    "keyword": "历史",
-   "count": 9
+   "count": 11
   },
   {
    "keyword": "无敌",
    "count": 8
+  },
+  {
+   "keyword": "科技",
+   "count": 7
   },
   {
    "keyword": "种田",
@@ -127,10 +131,6 @@
   },
   {
    "keyword": "三国",
-   "count": 6
-  },
-  {
-   "keyword": "科技",
    "count": 6
   },
   {
@@ -910,6 +910,27 @@
     }
    ],
    "total_books": 398
+  },
+  {
+   "date": "2026-09-24",
+   "top3": [
+    {
+     "title": "从拯救曼联开始",
+     "author": "陈爱庭",
+     "metric": null
+    },
+    {
+     "title": "白衣卿相",
+     "author": "王梓钧",
+     "metric": null
+    },
+    {
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "metric": null
+    }
+   ],
+   "total_books": 397
   }
  ]
 }
