@@ -1,5 +1,5 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "category_heat": [
   {
    "name": "全部",
@@ -68,72 +68,78 @@
    "heat": 3000
   },
   {
-   "name": "军事",
-   "count": 25,
+   "name": "悬疑灵异",
+   "count": 30,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 3000
   },
   {
-   "name": "悬疑灵异",
-   "count": 20,
+   "name": "轻小说",
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 28,
+   "metric_total": 0,
+   "heat": 2800
   },
   {
    "name": "体育",
-   "count": 19,
+   "count": 20,
    "metric_total": 0,
-   "heat": 1900
+   "heat": 2000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 61
+   "count": 67
   },
   {
    "keyword": "系统",
-   "count": 34
+   "count": 37
   },
   {
    "keyword": "重生",
-   "count": 27
+   "count": 26
   },
   {
    "keyword": "修仙",
-   "count": 17
+   "count": 14
   },
   {
    "keyword": "历史",
-   "count": 11
+   "count": 14
   },
   {
    "keyword": "诸天",
+   "count": 11
+  },
+  {
+   "keyword": "末世",
    "count": 10
   },
   {
    "keyword": "诡异",
-   "count": 8
-  },
-  {
-   "keyword": "末世",
-   "count": 8
+   "count": 6
   },
   {
    "keyword": "万界",
-   "count": 7
+   "count": 6
   },
   {
-   "keyword": "机甲",
-   "count": 4
-  },
-  {
-   "keyword": "天才",
-   "count": 4
+   "keyword": "悬疑",
+   "count": 5
   },
   {
    "keyword": "科技",
-   "count": 4
+   "count": 5
+  },
+  {
+   "keyword": "灵异",
+   "count": 5
   }
  ],
  "author_power": [],
@@ -536,6 +542,27 @@
     }
    ],
    "total_books": 394
+  },
+  {
+   "date": "2026-09-25",
+   "top3": [
+    {
+     "title": "华娱：乐子人在线吃瓜！",
+     "author": "灌江之主",
+     "metric": null
+    },
+    {
+     "title": "四合院之林木匠",
+     "author": "铁骨铮铮二狗子",
+     "metric": null
+    },
+    {
+     "title": "凡人：我那平淡的修仙路",
+     "author": "会飞的大头鹅",
+     "metric": null
+    }
+   ],
+   "total_books": 438
   }
  ]
 }

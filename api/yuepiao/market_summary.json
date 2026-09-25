@@ -1,101 +1,101 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 734059,
-   "heat": 734059
+   "metric_total": 769491,
+   "heat": 769491
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 386346,
-   "heat": 386346
+   "metric_total": 404772,
+   "heat": 404772
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 279291,
-   "heat": 279291
+   "metric_total": 292400,
+   "heat": 292400
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 228413,
-   "heat": 228413
+   "metric_total": 241842,
+   "heat": 241842
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 179836,
-   "heat": 179836
+   "metric_total": 190016,
+   "heat": 190016
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 125895,
-   "heat": 125895
+   "metric_total": 133153,
+   "heat": 133153
   },
   {
    "name": "VIP新作",
    "count": 30,
-   "metric_total": 116784,
-   "heat": 116784
+   "metric_total": 121798,
+   "heat": 121798
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 106121,
-   "heat": 106121
+   "metric_total": 111792,
+   "heat": 111792
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 65585,
-   "heat": 65585
+   "metric_total": 68502,
+   "heat": 68502
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 45813,
-   "heat": 45813
+   "metric_total": 48749,
+   "heat": 48749
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 37790,
-   "heat": 37790
+   "metric_total": 39941,
+   "heat": 39941
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 31462,
-   "heat": 31462
+   "metric_total": 33262,
+   "heat": 33262
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 28784,
-   "heat": 28784
+   "metric_total": 30338,
+   "heat": 30338
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 23385,
-   "heat": 23385
+   "metric_total": 24941,
+   "heat": 24941
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 18623,
-   "heat": 18623
+   "metric_total": 19757,
+   "heat": 19757
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 2350,
-   "heat": 2350
+   "metric_total": 2477,
+   "heat": 2477
   }
  ],
  "keyword_heat": [
@@ -105,7 +105,7 @@
   },
   {
    "keyword": "系统",
-   "count": 28
+   "count": 27
   },
   {
    "keyword": "重生",
@@ -113,14 +113,14 @@
   },
   {
    "keyword": "诸天",
-   "count": 16
-  },
-  {
-   "keyword": "历史",
-   "count": 12
+   "count": 15
   },
   {
    "keyword": "修仙",
+   "count": 11
+  },
+  {
+   "keyword": "历史",
    "count": 11
   },
   {
@@ -182,6 +182,16 @@
    ]
   },
   {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
+   ]
+  },
+  {
    "author": "我会修空调",
    "books": 2,
    "top10": 2,
@@ -195,20 +205,10 @@
    "author": "风月",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
     "天启预报",
     "天命之上"
-   ]
-  },
-  {
-   "author": "卖报小郎君",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "临圣",
-    "灵境行者"
    ]
   },
   {
@@ -222,16 +222,6 @@
    ]
   },
   {
-   "author": "猪头七",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 1,
-   "titles": [
-    "东方既白",
-    "我的谍战岁月"
-   ]
-  },
-  {
    "author": "三天两觉",
    "books": 2,
    "top10": 1,
@@ -239,6 +229,16 @@
    "titles": [
     "盖世双谐",
     "惊悚乐园"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 6,
+   "titles": [
+    "临圣",
+    "灵境行者"
    ]
   },
   {
@@ -254,8 +254,8 @@
   {
    "author": "榴弹怕水",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
     "廓晋",
     "绍宋"
@@ -1036,6 +1036,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 48707
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-25",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 62179
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 56069
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 51879
     }
    ],
    "total_books": 480
