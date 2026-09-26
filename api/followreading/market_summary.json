@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "category_heat": [
   {
    "name": "全部",
@@ -69,15 +69,15 @@
   },
   {
    "name": "军事",
-   "count": 16,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1500
   },
   {
    "name": "武侠",
-   "count": 14,
+   "count": 13,
    "metric_total": 0,
-   "heat": 1400
+   "heat": 1300
   },
   {
    "name": "悬疑灵异",
@@ -95,15 +95,15 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 85
+   "count": 82
   },
   {
    "keyword": "系统",
-   "count": 24
+   "count": 25
   },
   {
    "keyword": "重生",
-   "count": 19
+   "count": 20
   },
   {
    "keyword": "诸天",
@@ -118,11 +118,15 @@
    "count": 10
   },
   {
-   "keyword": "诡异",
-   "count": 7
+   "keyword": "三国",
+   "count": 6
   },
   {
-   "keyword": "三国",
+   "keyword": "诡异",
+   "count": 6
+  },
+  {
+   "keyword": "末世",
    "count": 6
   },
   {
@@ -130,16 +134,12 @@
    "count": 6
   },
   {
+   "keyword": "大明",
+   "count": 5
+  },
+  {
    "keyword": "工业",
    "count": 5
-  },
-  {
-   "keyword": "末世",
-   "count": 5
-  },
-  {
-   "keyword": "种田",
-   "count": 4
   }
  ],
  "author_power": [],
@@ -941,6 +941,27 @@
     }
    ],
    "total_books": 374
+  },
+  {
+   "date": "2026-09-26",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "青山",
+     "author": "会说话的肘子",
+     "metric": null
+    }
+   ],
+   "total_books": 372
   }
  ]
 }
