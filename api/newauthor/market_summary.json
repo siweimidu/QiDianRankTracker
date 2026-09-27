@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,25 +32,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -86,60 +62,84 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 22,
+   "name": "武侠",
+   "count": 23,
    "metric_total": 0,
-   "heat": 2200
+   "heat": 2300
+  },
+  {
+   "name": "游戏",
+   "count": 12,
+   "metric_total": 0,
+   "heat": 1200
+  },
+  {
+   "name": "现实",
+   "count": 11,
+   "metric_total": 0,
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 7,
+   "metric_total": 0,
+   "heat": 700
+  },
+  {
+   "name": "军事",
+   "count": 2,
+   "metric_total": 0,
+   "heat": 200
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 63
+   "count": 46
   },
   {
    "keyword": "系统",
-   "count": 34
+   "count": 25
   },
   {
    "keyword": "重生",
-   "count": 31
-  },
-  {
-   "keyword": "历史",
-   "count": 14
+   "count": 20
   },
   {
    "keyword": "修仙",
-   "count": 14
-  },
-  {
-   "keyword": "诸天",
-   "count": 12
+   "count": 19
   },
   {
    "keyword": "末世",
-   "count": 9
+   "count": 11
   },
   {
-   "keyword": "诡异",
-   "count": 6
+   "keyword": "诸天",
+   "count": 10
+  },
+  {
+   "keyword": "历史",
+   "count": 8
   },
   {
    "keyword": "科技",
+   "count": 7
+  },
+  {
+   "keyword": "异能",
    "count": 6
   },
   {
-   "keyword": "副本",
+   "keyword": "丧尸",
    "count": 6
-  },
-  {
-   "keyword": "灵异",
-   "count": 5
   },
   {
    "keyword": "万界",
-   "count": 5
+   "count": 4
+  },
+  {
+   "keyword": "宗门",
+   "count": 4
   }
  ],
  "author_power": [],
@@ -584,6 +584,27 @@
     }
    ],
    "total_books": 442
+  },
+  {
+   "date": "2026-09-28",
+   "top3": [
+    {
+     "title": "华娱：乐子人在线吃瓜！",
+     "author": "灌江之主",
+     "metric": null
+    },
+    {
+     "title": "神秘复苏之七号世界",
+     "author": "多高算高手",
+     "metric": null
+    },
+    {
+     "title": "四合院之林木匠",
+     "author": "铁骨铮铮二狗子",
+     "metric": null
+    }
+   ],
+   "total_books": 355
   }
  ]
 }

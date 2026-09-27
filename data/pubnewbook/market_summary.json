@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,25 +32,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -86,71 +62,115 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 24,
+   "name": "武侠",
+   "count": 19,
    "metric_total": 0,
-   "heat": 2400
+   "heat": 1900
+  },
+  {
+   "name": "游戏",
+   "count": 19,
+   "metric_total": 0,
+   "heat": 1900
+  },
+  {
+   "name": "现实",
+   "count": 13,
+   "metric_total": 0,
+   "heat": 1300
+  },
+  {
+   "name": "体育",
+   "count": 10,
+   "metric_total": 0,
+   "heat": 1000
+  },
+  {
+   "name": "军事",
+   "count": 7,
+   "metric_total": 0,
+   "heat": 700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 80
+   "count": 65
   },
   {
    "keyword": "系统",
-   "count": 39
+   "count": 28
   },
   {
    "keyword": "修仙",
-   "count": 20
+   "count": 22
   },
   {
    "keyword": "重生",
-   "count": 19
+   "count": 18
   },
   {
    "keyword": "诸天",
-   "count": 12
+   "count": 13
+  },
+  {
+   "keyword": "末世",
+   "count": 9
   },
   {
    "keyword": "诡异",
-   "count": 11
-  },
-  {
-   "keyword": "历史",
-   "count": 10
+   "count": 9
   },
   {
    "keyword": "宗门",
    "count": 7
   },
   {
-   "keyword": "种田",
-   "count": 6
-  },
-  {
-   "keyword": "异能",
-   "count": 6
-  },
-  {
-   "keyword": "末世",
-   "count": 6
-  },
-  {
    "keyword": "大明",
    "count": 6
+  },
+  {
+   "keyword": "科技",
+   "count": 6
+  },
+  {
+   "keyword": "历史",
+   "count": 6
+  },
+  {
+   "keyword": "种田",
+   "count": 5
   }
  ],
  "author_power": [
   {
-   "author": "作手仙仙",
+   "author": "苍南与海北",
    "books": 2,
    "top10": 1,
-   "bestRank": 10,
+   "bestRank": 7,
    "titles": [
-    "郭二",
-    "从LDL选手到世界冠军！"
+    "京华锦衣烬",
+    "大唐：我陆三斤乱世建帝国"
+   ]
+  },
+  {
+   "author": "三镜湖",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 8,
+   "titles": [
+    "诸天劫火",
+    "永夜：萤火计划"
+   ]
+  },
+  {
+   "author": "三江归海",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 12,
+   "titles": [
+    "顶级帅神：专虐傲骄女神",
+    "大宋沉冤录"
    ]
   }
  ],
@@ -868,6 +888,27 @@
     }
    ],
    "total_books": 444
+  },
+  {
+   "date": "2026-09-28",
+   "top3": [
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "憧憬成为子供向反派特工",
+     "author": "夜鹭撒冷",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    }
+   ],
+   "total_books": 368
   }
  ]
 }

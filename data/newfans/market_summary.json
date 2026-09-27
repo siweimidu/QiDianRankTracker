@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "category_heat": [
   {
    "name": "全部",
@@ -33,12 +33,6 @@
   },
   {
    "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "现实",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,52 +84,58 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 4,
+   "metric_total": 0,
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 124
+   "count": 121
   },
   {
    "keyword": "系统",
-   "count": 37
+   "count": 32
   },
   {
    "keyword": "重生",
-   "count": 27
+   "count": 26
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 17
   },
   {
    "keyword": "诸天",
-   "count": 15
+   "count": 17
   },
   {
    "keyword": "历史",
-   "count": 12
-  },
-  {
-   "keyword": "诡异",
-   "count": 9
+   "count": 13
   },
   {
    "keyword": "大明",
-   "count": 8
+   "count": 9
   },
   {
-   "keyword": "万界",
-   "count": 7
+   "keyword": "灵异",
+   "count": 6
+  },
+  {
+   "keyword": "诡异",
+   "count": 6
   },
   {
    "keyword": "谍战",
    "count": 6
   },
   {
-   "keyword": "灵异",
-   "count": 5
+   "keyword": "万界",
+   "count": 6
   },
   {
    "keyword": "种田",
@@ -144,36 +144,47 @@
  ],
  "author_power": [
   {
-   "author": "眉师娘",
-   "books": 5,
-   "top10": 4,
-   "bestRank": 7,
+   "author": "远瞳",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 1,
    "titles": [
-    "奔腾年代——向南向北",
-    "万物希声",
-    "云去山如画"
+    "异度旅社",
+    "深海余烬",
+    "黎明之剑"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 2,
+   "titles": [
+    "廓晋",
+    "绍宋",
+    "覆汉"
+   ]
+  },
+  {
+   "author": "辰东",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 3,
+   "titles": [
+    "夜无疆",
+    "不死不灭",
+    "遮天"
    ]
   },
   {
    "author": "纯洁滴小龙",
    "books": 3,
    "top10": 3,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
     "捞尸人",
-    "深夜书屋",
-    "魔临"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 1,
-   "titles": [
-    "九鼎记",
-    "吞噬星空2起源大陆",
-    "吞噬星空"
+    "魔临",
+    "深夜书屋"
    ]
   },
   {
@@ -188,24 +199,13 @@
    ]
   },
   {
-   "author": "远瞳",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 8,
-   "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
-   ]
-  },
-  {
-   "author": "最白的乌鸦",
+   "author": "三天两觉",
    "books": 2,
    "top10": 2,
    "bestRank": 1,
    "titles": [
-    "请勿高考时渡劫",
-    "谁让他修仙的！"
+    "盖世双谐",
+    "惊悚乐园"
    ]
   },
   {
@@ -229,73 +229,73 @@
    ]
   },
   {
-   "author": "榴弹怕水",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "廓晋",
-    "绍宋"
-   ]
-  },
-  {
-   "author": "如水意",
+   "author": "雪映红梅",
    "books": 2,
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "我，枪神！",
-    "间谍的战争"
-   ]
-  },
-  {
-   "author": "黑山老鬼",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "急急如律令",
-    "黄昏分界"
+    "王牌律师",
+    "不良律师"
    ]
   },
   {
    "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
     "东方既白",
     "我的谍战岁月"
    ]
   },
   {
-   "author": "温柔劝睡师",
+   "author": "我会修空调",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 6,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏"
+   ]
+  },
+  {
+   "author": "勤奋的关关",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "超级警探",
+    "神探陈益"
+   ]
+  },
+  {
+   "author": "一片苏叶",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 8,
+   "titles": [
+    "剑出大唐",
+    "清光宝鉴"
+   ]
+  },
+  {
+   "author": "如水意",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 8,
+   "titles": [
+    "我，枪神！",
+    "间谍的战争"
+   ]
+  },
+  {
+   "author": "温柔劝睡师",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 13,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
-   ]
-  },
-  {
-   "author": "谈谈钱",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 8,
-   "titles": [
-    "谍战代号：申公豹",
-    "谍战吃瓜，从潜伏洪秘书开始"
-   ]
-  },
-  {
-   "author": "风约云留",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 3,
-   "titles": [
-    "倚天崆峒掌派人",
-    "笑傲从被嵩山灭门开始"
    ]
   }
  ],
@@ -1139,6 +1139,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-09-28",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    },
+    {
+     "title": "拂晓协议",
+     "author": "志鸟村",
+     "metric": null
+    }
+   ],
+   "total_books": 424
   }
  ]
 }
