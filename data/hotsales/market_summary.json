@@ -1,5 +1,5 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "category_heat": [
   {
    "name": "全部",
@@ -95,39 +95,35 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 100
-  },
-  {
-   "keyword": "系统",
-   "count": 27
+   "count": 93
   },
   {
    "keyword": "重生",
-   "count": 25
+   "count": 28
+  },
+  {
+   "keyword": "系统",
+   "count": 26
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 14
   },
   {
    "keyword": "诸天",
-   "count": 14
+   "count": 12
   },
   {
    "keyword": "历史",
    "count": 11
   },
   {
-   "keyword": "诡异",
+   "keyword": "灵异",
    "count": 7
   },
   {
-   "keyword": "灵异",
-   "count": 6
-  },
-  {
    "keyword": "种田",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "谍战",
@@ -138,7 +134,11 @@
    "count": 5
   },
   {
-   "keyword": "工业",
+   "keyword": "诡异",
+   "count": 5
+  },
+  {
+   "keyword": "大明",
    "count": 5
   }
  ],
@@ -146,8 +146,8 @@
   {
    "author": "眉师娘",
    "books": 4,
-   "top10": 4,
-   "bestRank": 2,
+   "top10": 3,
+   "bestRank": 1,
    "titles": [
     "万物希声",
     "奔腾年代——向南向北",
@@ -155,10 +155,21 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "辰东",
    "books": 4,
    "top10": 3,
    "bestRank": 2,
+   "titles": [
+    "夜无疆",
+    "完美世界",
+    "不死不灭"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 4,
+   "top10": 2,
+   "bestRank": 1,
    "titles": [
     "异度旅社",
     "黎明之剑",
@@ -166,10 +177,21 @@
    ]
   },
   {
-   "author": "爱潜水的乌贼",
+   "author": "我吃西红柿",
    "books": 4,
    "top10": 2,
-   "bestRank": 9,
+   "bestRank": 7,
+   "titles": [
+    "盘龙",
+    "九鼎记",
+    "吞噬星空"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 4,
+   "top10": 1,
+   "bestRank": 8,
    "titles": [
     "诡秘之主",
     "剑烛大荒",
@@ -177,76 +199,10 @@
    ]
   },
   {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 3,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
-   "author": "晨星LL",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 7,
-   "titles": [
-    "这游戏也太真实了",
-    "学霸的黑科技系统",
-    "魔王大人深不可测"
-   ]
-  },
-  {
-   "author": "卖报小郎君",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "灵境行者",
-    "临圣",
-    "大奉打更人"
-   ]
-  },
-  {
-   "author": "落魄的小纯洁",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "灭门夜，我易筋经大圆满！",
-    "武侠：开局奖励满级神功",
-    "开局被追杀，我获得第一快剑"
-   ]
-  },
-  {
-   "author": "黑山老鬼",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "急急如律令",
-    "黄昏分界",
-    "从红月开始"
-   ]
-  },
-  {
-   "author": "雪映红梅",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 5,
-   "titles": [
-    "王牌律师",
-    "律师本色",
-    "不良律师"
-   ]
-  },
-  {
    "author": "纯洁滴小龙",
    "books": 3,
-   "top10": 1,
-   "bestRank": 4,
+   "top10": 3,
+   "bestRank": 5,
    "titles": [
     "捞尸人",
     "魔临",
@@ -254,10 +210,65 @@
    ]
   },
   {
+   "author": "晨星LL",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 5,
+   "titles": [
+    "这游戏也太真实了",
+    "学霸的黑科技系统",
+    "魔王大人深不可测"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 5,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 6,
+   "titles": [
+    "王牌律师",
+    "律师本色",
+    "不良律师"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "灵境行者",
+    "临圣",
+    "大奉打更人"
+   ]
+  },
+  {
+   "author": "长风",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "秘战无声",
+    "抗战：重整山河",
+    "幕后"
+   ]
+  },
+  {
    "author": "榴弹怕水",
    "books": 3,
    "top10": 1,
-   "bestRank": 7,
+   "bestRank": 3,
    "titles": [
     "廓晋",
     "绍宋",
@@ -265,44 +276,33 @@
    ]
   },
   {
-   "author": "我吃西红柿",
-   "books": 3,
-   "top10": 1,
-   "bestRank": 10,
-   "titles": [
-    "九鼎记",
-    "吞噬星空",
-    "吞噬星空2起源大陆"
-   ]
-  },
-  {
-   "author": "万象初心",
+   "author": "鹤守月满池",
    "books": 2,
    "top10": 2,
    "bestRank": 1,
    "titles": [
-    "流窜诸天的灾厄",
-    "流窜诸天的恶势力"
+    "让仙门再次伟大",
+    "苟在初圣魔门当人材"
    ]
   },
   {
-   "author": "长风",
+   "author": "风约云留",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "倚天崆峒掌派人",
+    "笑傲从被嵩山灭门开始"
+   ]
+  },
+  {
+   "author": "落魄的小纯洁",
    "books": 2,
    "top10": 2,
    "bestRank": 2,
    "titles": [
-    "秘战无声",
-    "抗战：重整山河"
-   ]
-  },
-  {
-   "author": "勤奋的关关",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "超级警探",
-    "神探陈益"
+    "灭门夜，我易筋经大圆满！",
+    "武侠：开局奖励满级神功"
    ]
   }
  ],
@@ -1158,6 +1158,27 @@
     {
      "title": "玄鉴仙族",
      "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-09-29",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
      "metric": null
     },
     {
