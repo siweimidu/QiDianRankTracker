@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-10-01",
  "category_heat": [
   {
    "name": "全部",
@@ -38,159 +38,93 @@
    "heat": 3000
   },
   {
-   "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "科幻",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "诸天无限",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "轻小说",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
    "count": 29,
    "metric_total": 0,
    "heat": 2900
   },
   {
-   "name": "军事",
-   "count": 16,
+   "name": "历史",
+   "count": 20,
    "metric_total": 0,
-   "heat": 1600
-  },
-  {
-   "name": "体育",
-   "count": 15,
-   "metric_total": 0,
-   "heat": 1500
+   "heat": 2000
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 74
-  },
-  {
-   "keyword": "系统",
-   "count": 36
+   "count": 52
   },
   {
    "keyword": "修仙",
-   "count": 28
+   "count": 20
+  },
+  {
+   "keyword": "系统",
+   "count": 17
   },
   {
    "keyword": "重生",
-   "count": 23
+   "count": 14
   },
   {
-   "keyword": "诡异",
-   "count": 12
+   "keyword": "科技",
+   "count": 6
   },
   {
-   "keyword": "诸天",
-   "count": 12
-  },
-  {
-   "keyword": "末世",
-   "count": 9
-  },
-  {
-   "keyword": "种田",
-   "count": 8
-  },
-  {
-   "keyword": "星际",
-   "count": 8
+   "keyword": "宗门",
+   "count": 6
   },
   {
    "keyword": "历史",
-   "count": 7
-  },
-  {
-   "keyword": "万界",
-   "count": 7
-  },
-  {
-   "keyword": "都市",
    "count": 6
+  },
+  {
+   "keyword": "种田",
+   "count": 5
+  },
+  {
+   "keyword": "大明",
+   "count": 5
+  },
+  {
+   "keyword": "废柴",
+   "count": 4
+  },
+  {
+   "keyword": "无敌",
+   "count": 4
+  },
+  {
+   "keyword": "末世",
+   "count": 3
   }
  ],
  "author_power": [
   {
-   "author": "作手仙仙",
+   "author": "吹笳明月",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 4,
    "titles": [
-    "郭二",
-    "从LDL选手到世界冠军！"
-   ]
-  },
-  {
-   "author": "末世之天地",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "武极锦衣",
-    "从鸡窝到天门"
+    "对影",
+    "少年孤鹰"
    ]
   },
   {
    "author": "彩灵星",
    "books": 2,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 9,
    "titles": [
     "全队穿越",
     "重生修仙界逆袭"
-   ]
-  },
-  {
-   "author": "枕风听叙",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "大汉猎妖人",
-    "乱世钟秋：月下渡灵人"
-   ]
-  },
-  {
-   "author": "吹笳明月",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 16,
-   "titles": [
-    "对影",
-    "少年孤鹰"
    ]
   }
  ],
@@ -950,6 +884,27 @@
     }
    ],
    "total_books": 420
+  },
+  {
+   "date": "2026-10-01",
+   "top3": [
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "师尊别客气，弟子来助你修行！",
+     "author": "猫猫伸懒腰zz",
+     "metric": null
+    },
+    {
+     "title": "鸿运加身：至高神的自陨计划",
+     "author": "清汤大牢梦",
+     "metric": null
+    }
+   ],
+   "total_books": 259
   }
  ]
 }

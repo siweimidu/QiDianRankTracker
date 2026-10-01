@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-10-01",
  "category_heat": [
   {
    "name": "全部",
@@ -69,15 +69,15 @@
   },
   {
    "name": "武侠",
-   "count": 25,
+   "count": 26,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 2600
   },
   {
    "name": "悬疑灵异",
-   "count": 19,
+   "count": 17,
    "metric_total": 0,
-   "heat": 1900
+   "heat": 1700
   },
   {
    "name": "军事",
@@ -87,15 +87,15 @@
   },
   {
    "name": "现实",
-   "count": 5,
+   "count": 4,
    "metric_total": 0,
-   "heat": 500
+   "heat": 400
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 100
+   "count": 96
   },
   {
    "keyword": "系统",
@@ -106,23 +106,19 @@
    "count": 21
   },
   {
-   "keyword": "修仙",
-   "count": 14
+   "keyword": "诸天",
+   "count": 15
   },
   {
-   "keyword": "诸天",
-   "count": 14
+   "keyword": "修仙",
+   "count": 13
   },
   {
    "keyword": "历史",
    "count": 10
   },
   {
-   "keyword": "无敌",
-   "count": 8
-  },
-  {
-   "keyword": "科技",
+   "keyword": "三国",
    "count": 7
   },
   {
@@ -130,8 +126,12 @@
    "count": 6
   },
   {
-   "keyword": "三国",
+   "keyword": "无敌",
    "count": 6
+  },
+  {
+   "keyword": "科技",
+   "count": 5
   },
   {
    "keyword": "灵异",
@@ -1025,6 +1025,27 @@
     }
    ],
    "total_books": 395
+  },
+  {
+   "date": "2026-10-01",
+   "top3": [
+    {
+     "title": "从拯救曼联开始",
+     "author": "陈爱庭",
+     "metric": null
+    },
+    {
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "metric": null
+    },
+    {
+     "title": "廓晋",
+     "author": "榴弹怕水",
+     "metric": null
+    }
+   ],
+   "total_books": 393
   }
  ]
 }
