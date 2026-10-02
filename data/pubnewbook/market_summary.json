@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "category_heat": [
   {
    "name": "全部",
@@ -45,86 +45,152 @@
   },
   {
    "name": "军事",
-   "count": 29,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2900
+   "heat": 3000
   },
   {
    "name": "历史",
-   "count": 20,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "体育",
+   "count": 21,
+   "metric_total": 0,
+   "heat": 2100
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 52
-  },
-  {
-   "keyword": "修仙",
-   "count": 20
+   "count": 85
   },
   {
    "keyword": "系统",
-   "count": 17
+   "count": 38
+  },
+  {
+   "keyword": "修仙",
+   "count": 23
   },
   {
    "keyword": "重生",
-   "count": 14
+   "count": 18
+  },
+  {
+   "keyword": "诸天",
+   "count": 11
+  },
+  {
+   "keyword": "诡异",
+   "count": 10
+  },
+  {
+   "keyword": "种田",
+   "count": 8
+  },
+  {
+   "keyword": "星际",
+   "count": 7
+  },
+  {
+   "keyword": "历史",
+   "count": 7
+  },
+  {
+   "keyword": "末世",
+   "count": 7
   },
   {
    "keyword": "科技",
    "count": 6
   },
   {
-   "keyword": "宗门",
-   "count": 6
-  },
-  {
-   "keyword": "历史",
-   "count": 6
-  },
-  {
-   "keyword": "种田",
-   "count": 5
-  },
-  {
-   "keyword": "大明",
-   "count": 5
-  },
-  {
    "keyword": "废柴",
-   "count": 4
-  },
-  {
-   "keyword": "无敌",
-   "count": 4
-  },
-  {
-   "keyword": "末世",
-   "count": 3
+   "count": 6
   }
  ],
  "author_power": [
   {
+   "author": "彩灵星",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "全队穿越",
+    "重生修仙界逆袭"
+   ]
+  },
+  {
+   "author": "枕风听叙",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "大汉猎妖人",
+    "乱世钟秋：月下渡灵人"
+   ]
+  },
+  {
    "author": "吹笳明月",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 8,
    "titles": [
     "对影",
     "少年孤鹰"
    ]
   },
   {
-   "author": "彩灵星",
+   "author": "幻境中的回响",
    "books": 2,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 3,
    "titles": [
-    "全队穿越",
-    "重生修仙界逆袭"
+    "影视世界旅行者",
+    "影视世界中穿越其他世界"
+   ]
+  },
+  {
+   "author": "酥沅1",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "无间烬途",
+    "烽焰蔷薇"
    ]
   }
  ],
@@ -905,6 +971,27 @@
     }
    ],
    "total_books": 259
+  },
+  {
+   "date": "2026-10-02",
+   "top3": [
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "师尊别客气，弟子来助你修行！",
+     "author": "猫猫伸懒腰zz",
+     "metric": null
+    },
+    {
+     "title": "四合院之从何大清截胡秦淮茹开始",
+     "author": "我吃葵花籽",
+     "metric": null
+    }
+   ],
+   "total_books": 441
   }
  ]
 }

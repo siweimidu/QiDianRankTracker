@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "category_heat": [
   {
    "name": "全部",
@@ -95,26 +95,26 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 95
-  },
-  {
-   "keyword": "重生",
-   "count": 28
+   "count": 94
   },
   {
    "keyword": "系统",
-   "count": 26
+   "count": 25
   },
   {
-   "keyword": "诸天",
-   "count": 12
-  },
-  {
-   "keyword": "修仙",
-   "count": 11
+   "keyword": "重生",
+   "count": 22
   },
   {
    "keyword": "历史",
+   "count": 13
+  },
+  {
+   "keyword": "诸天",
+   "count": 13
+  },
+  {
+   "keyword": "修仙",
    "count": 11
   },
   {
@@ -123,30 +123,63 @@
   },
   {
    "keyword": "种田",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "诡异",
-   "count": 5
+   "count": 6
   },
   {
    "keyword": "谍战",
-   "count": 5
+   "count": 6
   },
   {
    "keyword": "大明",
-   "count": 5
+   "count": 6
   },
   {
-   "keyword": "科技",
-   "count": 4
+   "keyword": "工业",
+   "count": 5
   }
  ],
  "author_power": [
   {
+   "author": "辰东",
+   "books": 5,
+   "top10": 4,
+   "bestRank": 2,
+   "titles": [
+    "夜无疆",
+    "完美世界",
+    "不死不灭"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 5,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 4,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北",
+    "茫茫白昼漫游"
+   ]
+  },
+  {
    "author": "爱潜水的乌贼",
    "books": 4,
-   "top10": 3,
+   "top10": 1,
    "bestRank": 4,
    "titles": [
     "诡秘之主",
@@ -155,65 +188,32 @@
    ]
   },
   {
-   "author": "远瞳",
+   "author": "我吃西红柿",
    "books": 4,
    "top10": 1,
-   "bestRank": 4,
+   "bestRank": 7,
    "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
-   ]
-  },
-  {
-   "author": "纯洁滴小龙",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 3,
-   "titles": [
-    "捞尸人",
-    "魔临",
-    "深夜书屋"
-   ]
-  },
-  {
-   "author": "眉师娘",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 3,
-   "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "茫茫白昼漫游"
-   ]
-  },
-  {
-   "author": "辰东",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "夜无疆",
-    "完美世界",
-    "遮天"
+    "盘龙",
+    "九鼎记",
+    "吞噬星空"
    ]
   },
   {
    "author": "卖报小郎君",
    "books": 3,
-   "top10": 2,
+   "top10": 3,
    "bestRank": 3,
    "titles": [
-    "灵境行者",
     "临圣",
-    "大奉打更人"
+    "大奉打更人",
+    "灵境行者"
    ]
   },
   {
    "author": "我会修空调",
    "books": 3,
-   "top10": 2,
-   "bestRank": 5,
+   "top10": 3,
+   "bestRank": 6,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
@@ -224,7 +224,7 @@
    "author": "榴弹怕水",
    "books": 3,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 2,
    "titles": [
     "廓晋",
     "绍宋",
@@ -232,25 +232,25 @@
    ]
   },
   {
+   "author": "纯洁滴小龙",
+   "books": 3,
+   "top10": 0,
+   "bestRank": 11,
+   "titles": [
+    "捞尸人",
+    "魔临",
+    "深夜书屋"
+   ]
+  },
+  {
    "author": "长风",
    "books": 3,
-   "top10": 1,
-   "bestRank": 1,
+   "top10": 0,
+   "bestRank": 11,
    "titles": [
     "秘战无声",
     "刀尖之上",
     "抗战：重整山河"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
-   "books": 3,
-   "top10": 0,
-   "bestRank": 12,
-   "titles": [
-    "九鼎记",
-    "吞噬星空",
-    "吞噬星空2起源大陆"
    ]
   },
   {
@@ -264,16 +264,6 @@
    ]
   },
   {
-   "author": "如水意",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "我，枪神！",
-    "间谍的战争"
-   ]
-  },
-  {
    "author": "落魄的小纯洁",
    "books": 2,
    "top10": 2,
@@ -284,23 +274,33 @@
    ]
   },
   {
-   "author": "宴金秋",
+   "author": "长腿大叔",
    "books": 2,
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "重生天龙：剑出姑苏！",
-    "重生笑傲：我要当教主"
+    "抗战从淞沪开始",
+    "只手遮天：废土丧彪传"
    ]
   },
   {
-   "author": "雪映红梅",
+   "author": "三天两觉",
    "books": 2,
    "top10": 2,
-   "bestRank": 3,
+   "bestRank": 4,
    "titles": [
-    "王牌律师",
-    "律师本色"
+    "盖世双谐",
+    "惊悚乐园"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
    ]
   }
  ],
@@ -1203,6 +1203,27 @@
     {
      "title": "捞尸人",
      "author": "纯洁滴小龙",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-10-02",
+   "top3": [
+    {
+     "title": "以一龙之力打倒整个世界！",
+     "author": "唐宋元明氢",
+     "metric": null
+    },
+    {
+     "title": "国民律师",
+     "author": "青衫仗剑行天涯",
+     "metric": null
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
      "metric": null
     }
    ],
