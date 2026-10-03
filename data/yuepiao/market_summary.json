@@ -1,101 +1,101 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 341215,
-   "heat": 341215
-  },
-  {
-   "name": "仙侠",
-   "count": 30,
-   "metric_total": 134116,
-   "heat": 134116
+   "metric_total": 510515,
+   "heat": 510515
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 131202,
-   "heat": 131202
+   "metric_total": 234910,
+   "heat": 234910
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 168640,
+   "heat": 168640
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 116594,
-   "heat": 116594
+   "metric_total": 144870,
+   "heat": 144870
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 96151,
-   "heat": 96151
+   "metric_total": 120127,
+   "heat": 120127
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 60140,
-   "heat": 60140
+   "metric_total": 76084,
+   "heat": 76084
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 39576,
-   "heat": 39576
+   "metric_total": 51427,
+   "heat": 51427
   },
   {
    "name": "VIP新作",
    "count": 30,
-   "metric_total": 39389,
-   "heat": 39389
-  },
-  {
-   "name": "游戏",
-   "count": 30,
-   "metric_total": 17298,
-   "heat": 17298
+   "metric_total": 46018,
+   "heat": 46018
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 12778,
-   "heat": 12778
+   "metric_total": 24874,
+   "heat": 24874
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 22930,
+   "heat": 22930
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 11896,
-   "heat": 11896
+   "metric_total": 16077,
+   "heat": 16077
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 9947,
-   "heat": 9947
+   "metric_total": 12981,
+   "heat": 12981
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 8664,
-   "heat": 8664
+   "metric_total": 10773,
+   "heat": 10773
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 6888,
-   "heat": 6888
+   "metric_total": 9208,
+   "heat": 9208
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 3886,
-   "heat": 3886
+   "metric_total": 5172,
+   "heat": 5172
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 484,
-   "heat": 484
+   "metric_total": 626,
+   "heat": 626
   }
  ],
  "keyword_heat": [
@@ -105,11 +105,11 @@
   },
   {
    "keyword": "系统",
-   "count": 30
+   "count": 29
   },
   {
    "keyword": "重生",
-   "count": 21
+   "count": 18
   },
   {
    "keyword": "修仙",
@@ -121,7 +121,7 @@
   },
   {
    "keyword": "历史",
-   "count": 13
+   "count": 12
   },
   {
    "keyword": "诡异",
@@ -132,16 +132,16 @@
    "count": 7
   },
   {
+   "keyword": "无敌",
+   "count": 7
+  },
+  {
    "keyword": "谍战",
    "count": 7
   },
   {
-   "keyword": "无敌",
-   "count": 6
-  },
-  {
-   "keyword": "副本",
-   "count": 6
+   "keyword": "种田",
+   "count": 5
   },
   {
    "keyword": "工业",
@@ -150,10 +150,21 @@
  ],
  "author_power": [
   {
+   "author": "远瞳",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
+  {
    "author": "我会修空调",
    "books": 3,
-   "top10": 3,
-   "bestRank": 1,
+   "top10": 1,
+   "bestRank": 3,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
@@ -163,12 +174,22 @@
   {
    "author": "爱潜水的乌贼",
    "books": 3,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
     "剑烛大荒",
     "诡秘之主",
     "宿命之环"
+   ]
+  },
+  {
+   "author": "树下小酒馆",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "再见浑善达克",
+    "冷链二十年"
    ]
   },
   {
@@ -182,33 +203,13 @@
    ]
   },
   {
-   "author": "三天两觉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "盖世双谐",
-    "惊悚乐园"
-   ]
-  },
-  {
    "author": "风月",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 4,
    "titles": [
     "天启预报",
     "天命之上"
-   ]
-  },
-  {
-   "author": "远瞳",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 1,
-   "titles": [
-    "异度旅社",
-    "黎明之剑"
    ]
   },
   {
@@ -219,6 +220,16 @@
    "titles": [
     "万物希声",
     "奔腾年代——向南向北"
+   ]
+  },
+  {
+   "author": "三天两觉",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 3,
+   "titles": [
+    "盖世双谐",
+    "惊悚乐园"
    ]
   },
   {
@@ -245,20 +256,10 @@
    "author": "卖报小郎君",
    "books": 2,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 7,
    "titles": [
     "临圣",
     "灵境行者"
-   ]
-  },
-  {
-   "author": "树下小酒馆",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 9,
-   "titles": [
-    "再见浑善达克",
-    "冷链二十年"
    ]
   }
  ],
@@ -1183,6 +1184,27 @@
      "title": "请勿高考时渡劫",
      "author": "最白的乌鸦",
      "metric": 28946
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-03",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 48610
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 40050
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 33884
     }
    ],
    "total_books": 480
