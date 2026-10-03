@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "category_heat": [
   {
    "name": "全部",
@@ -69,21 +69,21 @@
   },
   {
    "name": "武侠",
-   "count": 26,
+   "count": 24,
    "metric_total": 0,
-   "heat": 2600
-  },
-  {
-   "name": "悬疑灵异",
-   "count": 19,
-   "metric_total": 0,
-   "heat": 1900
+   "heat": 2400
   },
   {
    "name": "军事",
-   "count": 18,
+   "count": 17,
    "metric_total": 0,
-   "heat": 1800
+   "heat": 1700
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 17,
+   "metric_total": 0,
+   "heat": 1700
   },
   {
    "name": "现实",
@@ -95,26 +95,26 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 97
+   "count": 99
   },
   {
    "keyword": "系统",
-   "count": 31
+   "count": 33
   },
   {
    "keyword": "重生",
-   "count": 21
-  },
-  {
-   "keyword": "诸天",
-   "count": 13
+   "count": 20
   },
   {
    "keyword": "修仙",
-   "count": 12
+   "count": 14
   },
   {
    "keyword": "历史",
+   "count": 13
+  },
+  {
+   "keyword": "诸天",
    "count": 12
   },
   {
@@ -126,11 +126,11 @@
    "count": 6
   },
   {
-   "keyword": "三国",
-   "count": 6
+   "keyword": "工业",
+   "count": 5
   },
   {
-   "keyword": "科技",
+   "keyword": "三国",
    "count": 5
   },
   {
@@ -138,22 +138,11 @@
    "count": 5
   },
   {
-   "keyword": "工业",
+   "keyword": "副本",
    "count": 5
   }
  ],
- "author_power": [
-  {
-   "author": "昭灵驷玉",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "黑科技：从单兵隐形装备开始",
-    "重生2013：超级科技帝国"
-   ]
-  }
- ],
+ "author_power": [],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -1099,6 +1088,27 @@
     }
    ],
    "total_books": 398
+  },
+  {
+   "date": "2026-10-04",
+   "top3": [
+    {
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "metric": null
+    },
+    {
+     "title": "白衣卿相",
+     "author": "王梓钧",
+     "metric": null
+    },
+    {
+     "title": "从拯救曼联开始",
+     "author": "陈爱庭",
+     "metric": null
+    }
+   ],
+   "total_books": 393
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "category_heat": [
   {
    "name": "全部",
@@ -8,7 +8,25 @@
    "heat": 3000
   },
   {
+   "name": "玄幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "奇幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "仙侠",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -56,6 +74,12 @@
    "heat": 3000
   },
   {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "悬疑灵异",
    "count": 30,
    "metric_total": 0,
@@ -66,36 +90,12 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "玄幻",
-   "count": 28,
-   "metric_total": 0,
-   "heat": 2800
-  },
-  {
-   "name": "奇幻",
-   "count": 26,
-   "metric_total": 0,
-   "heat": 2600
-  },
-  {
-   "name": "仙侠",
-   "count": 25,
-   "metric_total": 0,
-   "heat": 2500
-  },
-  {
-   "name": "诸天无限",
-   "count": 21,
-   "metric_total": 0,
-   "heat": 2100
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 137
+   "count": 145
   },
   {
    "keyword": "系统",
@@ -103,75 +103,65 @@
   },
   {
    "keyword": "重生",
-   "count": 23
+   "count": 24
   },
   {
    "keyword": "修仙",
-   "count": 22
-  },
-  {
-   "keyword": "历史",
-   "count": 11
-  },
-  {
-   "keyword": "无敌",
-   "count": 11
+   "count": 20
   },
   {
    "keyword": "诸天",
-   "count": 10
+   "count": 17
   },
   {
    "keyword": "种田",
+   "count": 10
+  },
+  {
+   "keyword": "无敌",
    "count": 9
   },
   {
-   "keyword": "天才",
+   "keyword": "万界",
    "count": 8
   },
   {
-   "keyword": "大明",
-   "count": 8
+   "keyword": "杀伐果断",
+   "count": 6
+  },
+  {
+   "keyword": "工业",
+   "count": 6
   },
   {
    "keyword": "诡异",
-   "count": 7
+   "count": 6
   },
   {
-   "keyword": "灵异",
-   "count": 7
+   "keyword": "历史",
+   "count": 6
   }
  ],
  "author_power": [
   {
    "author": "佚名",
-   "books": 7,
-   "top10": 6,
+   "books": 10,
+   "top10": 7,
    "bestRank": 2,
    "titles": [
-    "武逆焚天",
-    "重生之狂暴火法",
-    "万族图鉴：你管这叫F级天赋？"
+    "满朝文武打工？我只想拔词条",
+    "我靠吞噬铜币正道大帝",
+    "诡海成神，开局出海捉人鱼"
    ]
   },
   {
    "author": "末日番茄炒蛋",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 2,
+   "bestRank": 6,
    "titles": [
     "全球畸变：从凡人开始无限进化",
     "荒岛基建：谎称系统是多子多福"
-   ]
-  },
-  {
-   "author": "三晋大侠",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 13,
-   "titles": [
-    "武侠：解锁霸王色，把惊鲵拉满弓",
-    "武侠：拜师华山，宁中则蓝银缠绕"
    ]
   }
  ],
@@ -1120,6 +1110,27 @@
     }
    ],
    "total_books": 430
+  },
+  {
+   "date": "2026-10-04",
+   "top3": [
+    {
+     "title": "异常？和我大运说去吧！",
+     "author": "星空156",
+     "metric": null
+    },
+    {
+     "title": "练成一拳超人，才灵气复苏？",
+     "author": "任有眠",
+     "metric": null
+    },
+    {
+     "title": "军旅：学渣的我成了全能兵王",
+     "author": "岁犀",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }
