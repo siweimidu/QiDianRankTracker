@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "category_heat": [
   {
    "name": "全部",
@@ -27,12 +27,6 @@
   },
   {
    "name": "仙侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,68 +84,74 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 22,
+   "metric_total": 0,
+   "heat": 2200
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 145
+   "count": 135
   },
   {
    "keyword": "系统",
-   "count": 49
+   "count": 52
   },
   {
    "keyword": "重生",
-   "count": 24
+   "count": 35
   },
   {
    "keyword": "修仙",
-   "count": 20
-  },
-  {
-   "keyword": "诸天",
    "count": 17
   },
   {
+   "keyword": "诸天",
+   "count": 15
+  },
+  {
    "keyword": "种田",
-   "count": 10
+   "count": 11
   },
   {
-   "keyword": "无敌",
-   "count": 9
-  },
-  {
-   "keyword": "万界",
-   "count": 8
-  },
-  {
-   "keyword": "杀伐果断",
-   "count": 6
-  },
-  {
-   "keyword": "工业",
-   "count": 6
+   "keyword": "大明",
+   "count": 7
   },
   {
    "keyword": "诡异",
-   "count": 6
+   "count": 7
   },
   {
    "keyword": "历史",
-   "count": 6
+   "count": 7
+  },
+  {
+   "keyword": "无敌",
+   "count": 7
+  },
+  {
+   "keyword": "都市",
+   "count": 7
+  },
+  {
+   "keyword": "灵异",
+   "count": 7
   }
  ],
  "author_power": [
   {
    "author": "佚名",
-   "books": 10,
-   "top10": 7,
-   "bestRank": 2,
+   "books": 6,
+   "top10": 4,
+   "bestRank": 3,
    "titles": [
-    "满朝文武打工？我只想拔词条",
-    "我靠吞噬铜币正道大帝",
-    "诡海成神，开局出海捉人鱼"
+    "武逆焚天",
+    "洪武签到：我被朱元璋当成在世神仙",
+    "一人一狗，我在异世界革命了？"
    ]
   },
   {
@@ -1131,6 +1131,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-10-05",
+   "top3": [
+    {
+     "title": "重生知青：北大荒开始的激情岁月",
+     "author": "雪里人家",
+     "metric": null
+    },
+    {
+     "title": "食灵主",
+     "author": "大李红袍",
+     "metric": null
+    },
+    {
+     "title": "边军小卒，从领取两个老婆开始",
+     "author": "骑着蚂蚁去赶集",
+     "metric": null
+    }
+   ],
+   "total_books": 442
   }
  ]
 }

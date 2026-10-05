@@ -1,10 +1,10 @@
 {
- "finished_at": "2026-10-04T07:47:19",
- "duration_sec": 595.0,
- "boards_ok": 10,
+ "finished_at": "2026-10-05T08:04:02",
+ "duration_sec": 661.8,
+ "boards_ok": 11,
  "boards_total": 21,
- "total_books": 4720,
- "total_categories": 162,
+ "total_books": 4956,
+ "total_categories": 175,
  "reports": [
   {
    "slug": "yuepiao",
@@ -35,7 +35,7 @@
    "name": "更新榜",
    "ok": true,
    "categories": 15,
-   "books": 450,
+   "books": 442,
    "errors": 0
   },
   {
@@ -51,7 +51,7 @@
    "name": "追读榜",
    "ok": true,
    "categories": 15,
-   "books": 372,
+   "books": 374,
    "errors": 0
   },
   {
@@ -67,7 +67,7 @@
    "name": "书友榜",
    "ok": true,
    "categories": 15,
-   "books": 450,
+   "books": 424,
    "errors": 0
   },
   {
@@ -83,7 +83,7 @@
    "name": "留存榜",
    "ok": true,
    "categories": 15,
-   "books": 393,
+   "books": 396,
    "errors": 0
   },
   {
@@ -97,10 +97,10 @@
   {
    "slug": "pubnewbook",
    "name": "公众作者新书榜",
-   "ok": false,
-   "categories": 11,
-   "books": 325,
-   "errors": 4
+   "ok": true,
+   "categories": 15,
+   "books": 374,
+   "errors": 0
   },
   {
    "slug": "newsign",
@@ -114,9 +114,9 @@
    "slug": "newauthor",
    "name": "新人作者新书榜",
    "ok": false,
-   "categories": 0,
-   "books": 0,
-   "errors": 15
+   "categories": 9,
+   "books": 216,
+   "errors": 6
   },
   {
    "slug": "female-yuepiao",

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "category_heat": [
   {
    "name": "全部",
@@ -20,12 +20,6 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -38,52 +32,94 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
   },
   {
-   "name": "游戏",
+   "name": "科幻",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 25,
+   "name": "诸天无限",
+   "count": 30,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "武侠",
+   "count": 23,
+   "metric_total": 0,
+   "heat": 2300
+  },
+  {
+   "name": "游戏",
+   "count": 22,
+   "metric_total": 0,
+   "heat": 2200
+  },
+  {
+   "name": "现实",
+   "count": 14,
+   "metric_total": 0,
+   "heat": 1400
+  },
+  {
+   "name": "军事",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
+   "name": "体育",
+   "count": 6,
+   "metric_total": 0,
+   "heat": 600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 63
+   "count": 74
   },
   {
    "keyword": "系统",
-   "count": 29
+   "count": 37
   },
   {
    "keyword": "修仙",
-   "count": 24
+   "count": 18
+  },
+  {
+   "keyword": "诸天",
+   "count": 13
   },
   {
    "keyword": "重生",
-   "count": 15
+   "count": 11
+  },
+  {
+   "keyword": "末世",
+   "count": 7
+  },
+  {
+   "keyword": "无敌",
+   "count": 7
   },
   {
    "keyword": "历史",
@@ -91,18 +127,10 @@
   },
   {
    "keyword": "种田",
-   "count": 6
-  },
-  {
-   "keyword": "大明",
-   "count": 6
-  },
-  {
-   "keyword": "天才",
    "count": 5
   },
   {
-   "keyword": "废柴",
+   "keyword": "天才",
    "count": 5
   },
   {
@@ -110,43 +138,40 @@
    "count": 5
   },
   {
-   "keyword": "无敌",
+   "keyword": "副本",
    "count": 5
-  },
-  {
-   "keyword": "科技",
-   "count": 4
   }
  ],
  "author_power": [
   {
-   "author": "彩灵星",
-   "books": 2,
+   "author": "末世之天地",
+   "books": 3,
    "top10": 1,
-   "bestRank": 3,
+   "bestRank": 1,
    "titles": [
-    "全队穿越",
-    "重生修仙界逆袭"
+    "武极锦衣",
+    "状元入武途",
+    "诸天种界"
    ]
   },
   {
-   "author": "酥沅1",
+   "author": "韩玮",
    "books": 2,
-   "top10": 0,
-   "bestRank": 13,
+   "top10": 2,
+   "bestRank": 6,
    "titles": [
-    "无间烬途",
-    "烽焰蔷薇"
+    "青枢箓",
+    "潍海残章"
    ]
   },
   {
-   "author": "风中一沙子",
+   "author": "岩下听风",
    "books": 2,
-   "top10": 0,
-   "bestRank": 17,
+   "top10": 2,
+   "bestRank": 6,
    "titles": [
-    "洞潜：征服深渊",
-    "一线深渊"
+    "纸上骨：青史里的不屈脊梁",
+    "大秦：从戍卒到帝国重臣"
    ]
   }
  ],
@@ -990,6 +1015,27 @@
     }
    ],
    "total_books": 325
+  },
+  {
+   "date": "2026-10-05",
+   "top3": [
+    {
+     "title": "掌晋风华",
+     "author": "骑着小红去旅行",
+     "metric": null
+    },
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "半岛：从糊团接生粉开始",
+     "author": "一只ai喵",
+     "metric": null
+    }
+   ],
+   "total_books": 374
   }
  ]
 }
