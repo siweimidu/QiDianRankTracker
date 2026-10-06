@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "category_heat": [
   {
    "name": "全部",
@@ -27,6 +27,12 @@
   },
   {
    "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -84,84 +90,68 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "都市",
-   "count": 22,
-   "metric_total": 0,
-   "heat": 2200
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 135
+   "count": 142
   },
   {
    "keyword": "系统",
-   "count": 52
+   "count": 49
   },
   {
    "keyword": "重生",
-   "count": 35
+   "count": 26
   },
   {
    "keyword": "修仙",
-   "count": 17
+   "count": 16
   },
   {
    "keyword": "诸天",
    "count": 15
   },
   {
-   "keyword": "种田",
+   "keyword": "历史",
    "count": 11
   },
   {
-   "keyword": "大明",
-   "count": 7
-  },
-  {
-   "keyword": "诡异",
-   "count": 7
-  },
-  {
-   "keyword": "历史",
-   "count": 7
+   "keyword": "种田",
+   "count": 8
   },
   {
    "keyword": "无敌",
-   "count": 7
+   "count": 8
+  },
+  {
+   "keyword": "诡异",
+   "count": 8
   },
   {
    "keyword": "都市",
    "count": 7
   },
   {
-   "keyword": "灵异",
-   "count": 7
+   "keyword": "大明",
+   "count": 6
+  },
+  {
+   "keyword": "直播",
+   "count": 6
   }
  ],
  "author_power": [
   {
    "author": "佚名",
-   "books": 6,
-   "top10": 4,
-   "bestRank": 3,
+   "books": 7,
+   "top10": 5,
+   "bestRank": 1,
    "titles": [
+    "万古第一神",
     "武逆焚天",
-    "洪武签到：我被朱元璋当成在世神仙",
-    "一人一狗，我在异世界革命了？"
-   ]
-  },
-  {
-   "author": "末日番茄炒蛋",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "全球畸变：从凡人开始无限进化",
-    "荒岛基建：谎称系统是多子多福"
+    "万族图鉴：你管这叫F级天赋？"
    ]
   }
  ],
@@ -1152,6 +1142,27 @@
     }
    ],
    "total_books": 442
+  },
+  {
+   "date": "2026-10-06",
+   "top3": [
+    {
+     "title": "大明诡秘案：老鼠十八洞",
+     "author": "文刀刘刘",
+     "metric": null
+    },
+    {
+     "title": "苦境：异度神魔录",
+     "author": "唯有向上",
+     "metric": null
+    },
+    {
+     "title": "火影：月之意志",
+     "author": "轻风cc",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

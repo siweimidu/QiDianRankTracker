@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "category_heat": [
   {
    "name": "全部",
@@ -20,6 +20,12 @@
    "heat": 3000
   },
   {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "仙侠",
    "count": 30,
    "metric_total": 0,
@@ -32,7 +38,19 @@
    "heat": 3000
   },
   {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -62,59 +80,41 @@
    "heat": 3000
   },
   {
-   "name": "武侠",
-   "count": 23,
+   "name": "体育",
+   "count": 21,
    "metric_total": 0,
-   "heat": 2300
-  },
-  {
-   "name": "游戏",
-   "count": 22,
-   "metric_total": 0,
-   "heat": 2200
-  },
-  {
-   "name": "现实",
-   "count": 14,
-   "metric_total": 0,
-   "heat": 1400
+   "heat": 2100
   },
   {
    "name": "军事",
-   "count": 9,
+   "count": 18,
    "metric_total": 0,
-   "heat": 900
-  },
-  {
-   "name": "体育",
-   "count": 6,
-   "metric_total": 0,
-   "heat": 600
+   "heat": 1800
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 74
+   "count": 76
   },
   {
    "keyword": "系统",
-   "count": 37
-  },
-  {
-   "keyword": "修仙",
-   "count": 18
-  },
-  {
-   "keyword": "诸天",
-   "count": 13
+   "count": 40
   },
   {
    "keyword": "重生",
+   "count": 23
+  },
+  {
+   "keyword": "修仙",
+   "count": 16
+  },
+  {
+   "keyword": "诸天",
    "count": 11
   },
   {
-   "keyword": "末世",
+   "keyword": "天才",
    "count": 7
   },
   {
@@ -122,32 +122,32 @@
    "count": 7
   },
   {
-   "keyword": "历史",
-   "count": 7
-  },
-  {
    "keyword": "种田",
-   "count": 5
+   "count": 6
   },
   {
-   "keyword": "天才",
-   "count": 5
+   "keyword": "大明",
+   "count": 6
   },
   {
-   "keyword": "宗门",
-   "count": 5
+   "keyword": "历史",
+   "count": 6
   },
   {
-   "keyword": "副本",
-   "count": 5
+   "keyword": "悬疑",
+   "count": 4
+  },
+  {
+   "keyword": "都市",
+   "count": 4
   }
  ],
  "author_power": [
   {
    "author": "末世之天地",
    "books": 3,
-   "top10": 1,
-   "bestRank": 1,
+   "top10": 3,
+   "bestRank": 3,
    "titles": [
     "武极锦衣",
     "状元入武途",
@@ -158,20 +158,30 @@
    "author": "韩玮",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 4,
    "titles": [
     "青枢箓",
     "潍海残章"
    ]
   },
   {
-   "author": "岩下听风",
+   "author": "万墟归客",
    "books": 2,
-   "top10": 2,
-   "bestRank": 6,
+   "top10": 1,
+   "bestRank": 5,
    "titles": [
-    "纸上骨：青史里的不屈脊梁",
-    "大秦：从戍卒到帝国重臣"
+    "摸鱼就能抄别人修为",
+    "一样的天龙，不一样的天龙"
+   ]
+  },
+  {
+   "author": "彩灵星",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "全队穿越",
+    "重生修仙界逆袭"
    ]
   }
  ],
@@ -1036,6 +1046,27 @@
     }
    ],
    "total_books": 374
+  },
+  {
+   "date": "2026-10-06",
+   "top3": [
+    {
+     "title": "我，勇者，全网公敌",
+     "author": "秋后问斩中",
+     "metric": null
+    },
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "掌晋风华",
+     "author": "骑着小红去旅行",
+     "metric": null
+    }
+   ],
+   "total_books": 429
   }
  ]
 }
