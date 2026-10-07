@@ -1,5 +1,5 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "category_heat": [
   {
    "name": "全部",
@@ -87,23 +87,23 @@
   },
   {
    "name": "现实",
-   "count": 19,
+   "count": 26,
    "metric_total": 0,
-   "heat": 1900
+   "heat": 2600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 114
+   "count": 115
   },
   {
    "keyword": "系统",
-   "count": 28
+   "count": 27
   },
   {
    "keyword": "重生",
-   "count": 25
+   "count": 27
   },
   {
    "keyword": "修仙",
@@ -111,11 +111,15 @@
   },
   {
    "keyword": "诸天",
-   "count": 12
+   "count": 15
   },
   {
    "keyword": "历史",
-   "count": 10
+   "count": 13
+  },
+  {
+   "keyword": "万界",
+   "count": 9
   },
   {
    "keyword": "灵异",
@@ -130,15 +134,11 @@
    "count": 7
   },
   {
-   "keyword": "万界",
+   "keyword": "副本",
    "count": 6
   },
   {
-   "keyword": "无敌",
-   "count": 5
-  },
-  {
-   "keyword": "副本",
+   "keyword": "聊天群",
    "count": 5
   }
  ],
@@ -147,18 +147,18 @@
    "author": "眉师娘",
    "books": 5,
    "top10": 3,
-   "bestRank": 4,
+   "bestRank": 3,
    "titles": [
     "万物希声",
-    "云去山如画",
-    "何以方圆"
+    "奔腾年代——向南向北",
+    "说吧，秘密"
    ]
   },
   {
    "author": "卖报小郎君",
    "books": 3,
    "top10": 3,
-   "bestRank": 2,
+   "bestRank": 3,
    "titles": [
     "临圣",
     "大奉打更人",
@@ -168,7 +168,7 @@
   {
    "author": "榴弹怕水",
    "books": 3,
-   "top10": 3,
+   "top10": 2,
    "bestRank": 3,
    "titles": [
     "廓晋",
@@ -177,43 +177,10 @@
    ]
   },
   {
-   "author": "远瞳",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "异度旅社",
-    "深海余烬",
-    "黎明之剑"
-   ]
-  },
-  {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
-   "author": "爱潜水的乌贼",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "剑烛大荒",
-    "诡秘之主",
-    "宿命之环"
-   ]
-  },
-  {
    "author": "我吃西红柿",
    "books": 3,
    "top10": 2,
-   "bestRank": 7,
+   "bestRank": 5,
    "titles": [
     "九鼎记",
     "吞噬星空",
@@ -221,40 +188,63 @@
    ]
   },
   {
-   "author": "雪映红梅",
+   "author": "我会修空调",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "异度旅社",
+    "深海余烬",
+    "黎明之剑"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "剑烛大荒",
+    "诡秘之主",
+    "宿命之环"
+   ]
+  },
+  {
+   "author": "宴金秋",
    "books": 2,
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "王牌律师",
-    "律师本色"
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
    ]
   },
   {
    "author": "猪头七",
    "books": 2,
    "top10": 2,
-   "bestRank": 5,
+   "bestRank": 3,
    "titles": [
     "东方既白",
     "我的谍战岁月"
    ]
   },
   {
-   "author": "黑山老鬼",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "急急如律令",
-    "黄昏分界"
-   ]
-  },
-  {
    "author": "落魄的小纯洁",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 5,
    "titles": [
     "灭门夜，我易筋经大圆满！",
     "武侠：开局奖励满级神功"
@@ -264,40 +254,50 @@
    "author": "温柔劝睡师",
    "books": 2,
    "top10": 2,
-   "bestRank": 7,
+   "bestRank": 6,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
    ]
   },
   {
-   "author": "最白的乌鸦",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 3,
-   "titles": [
-    "请勿高考时渡劫",
-    "谁让他修仙的！"
-   ]
-  },
-  {
    "author": "三天两觉",
    "books": 2,
    "top10": 1,
-   "bestRank": 3,
+   "bestRank": 1,
    "titles": [
     "盖世双谐",
     "惊悚乐园"
    ]
   },
   {
-   "author": "耳根",
+   "author": "最白的乌鸦",
    "books": 2,
    "top10": 1,
-   "bestRank": 6,
+   "bestRank": 2,
    "titles": [
-    "光阴之外",
-    "仙逆"
+    "请勿高考时渡劫",
+    "谁让他修仙的！"
+   ]
+  },
+  {
+   "author": "柳岸花又明",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "重生高考前99天",
+    "我真没想重生啊"
+   ]
+  },
+  {
+   "author": "雪映红梅",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "王牌律师",
+    "律师本色"
    ]
   }
  ],
@@ -1309,6 +1309,27 @@
     }
    ],
    "total_books": 439
+  },
+  {
+   "date": "2026-10-07",
+   "top3": [
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }

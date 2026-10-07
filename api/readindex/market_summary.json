@@ -1,5 +1,5 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "category_heat": [
   {
    "name": "全部",
@@ -95,11 +95,11 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 95
+   "count": 96
   },
   {
    "keyword": "系统",
-   "count": 29
+   "count": 32
   },
   {
    "keyword": "重生",
@@ -107,7 +107,7 @@
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 16
   },
   {
    "keyword": "诸天",
@@ -127,14 +127,14 @@
   },
   {
    "keyword": "灵异",
-   "count": 6
+   "count": 5
   },
   {
    "keyword": "工业",
    "count": 5
   },
   {
-   "keyword": "副本",
+   "keyword": "种田",
    "count": 5
   },
   {
@@ -152,6 +152,28 @@
     "剑烛大荒",
     "诡秘之主",
     "宿命之环"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 2,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 3,
+   "top10": 3,
+   "bestRank": 3,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北",
+    "说吧，秘密"
    ]
   },
   {
@@ -177,25 +199,25 @@
    ]
   },
   {
-   "author": "远瞳",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "异度旅社",
-    "黎明之剑",
-    "深海余烬"
-   ]
-  },
-  {
    "author": "榴弹怕水",
    "books": 3,
    "top10": 2,
-   "bestRank": 9,
+   "bestRank": 7,
    "titles": [
     "廓晋",
     "绍宋",
     "覆汉"
+   ]
+  },
+  {
+   "author": "我吃西红柿",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "九鼎记",
+    "吞噬星空2起源大陆",
+    "吞噬星空"
    ]
   },
   {
@@ -220,23 +242,13 @@
    ]
   },
   {
-   "author": "宴金秋",
+   "author": "落魄的小纯洁",
    "books": 2,
    "top10": 2,
    "bestRank": 1,
    "titles": [
-    "重生天龙：剑出姑苏！",
-    "重生笑傲：我要当教主"
-   ]
-  },
-  {
-   "author": "如水意",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 1,
-   "titles": [
-    "我，枪神！",
-    "间谍的战争"
+    "灭门夜，我易筋经大圆满！",
+    "武侠：开局奖励满级神功"
    ]
   },
   {
@@ -250,53 +262,43 @@
    ]
   },
   {
-   "author": "眉师娘",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "万物希声",
-    "奔腾年代——向南向北"
-   ]
-  },
-  {
-   "author": "温茶米酒",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "无限辉煌图卷",
-    "噬恶演武，诸天除魔"
-   ]
-  },
-  {
-   "author": "一片苏叶",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "剑出大唐",
-    "清光宝鉴"
-   ]
-  },
-  {
    "author": "谈谈钱",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 2,
    "titles": [
     "谍战代号：申公豹",
     "谍战吃瓜，从潜伏洪秘书开始"
    ]
   },
   {
-   "author": "三天两觉",
+   "author": "宴金秋",
    "books": 2,
    "top10": 2,
-   "bestRank": 6,
+   "bestRank": 3,
    "titles": [
-    "盖世双谐",
-    "惊悚乐园"
+    "重生天龙：剑出姑苏！",
+    "重生笑傲：我要当教主"
+   ]
+  },
+  {
+   "author": "囧囧哟",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "诡秘：罗塞尔，叫我女皇陛下",
+    "诡秘：善魔女"
+   ]
+  },
+  {
+   "author": "如水意",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "我，枪神！",
+    "间谍的战争"
    ]
   }
  ],
@@ -1290,6 +1292,27 @@
   },
   {
    "date": "2026-10-06",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-10-07",
    "top3": [
     {
      "title": "请勿高考时渡劫",
