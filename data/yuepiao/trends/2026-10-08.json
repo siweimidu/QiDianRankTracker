@@ -1,0 +1,3430 @@
+{
+ "date": "2026-10-08",
+ "slug": "yuepiao",
+ "board": {
+  "slug": "yuepiao",
+  "name": "月票榜",
+  "channel": "male",
+  "group": "paid",
+  "group_label": "付费价值盘",
+  "metric": "月票"
+ },
+ "total_books": 439,
+ "trends": {
+  "全部": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 7,
+     "title": "青山",
+     "author": "会说话的肘子",
+     "rankChange": 4,
+     "metric": 41166,
+     "metricGrowth": 12976,
+     "metricLabel": "月票",
+     "momentum": 19.4
+    },
+    {
+     "rank": 15,
+     "title": "星河之主",
+     "author": "烽仙",
+     "rankChange": 4,
+     "metric": 27918,
+     "metricGrowth": 8362,
+     "metricLabel": "月票",
+     "momentum": 19.1
+    },
+    {
+     "rank": 16,
+     "title": "我在永夜打造庇护所",
+     "author": "中世纪的兔子",
+     "rankChange": 4,
+     "metric": 26497,
+     "metricGrowth": 7187,
+     "metricLabel": "月票",
+     "momentum": 18.5
+    },
+    {
+     "rank": 1,
+     "title": "夜无疆",
+     "author": "辰东",
+     "rankChange": 1,
+     "metric": 70458,
+     "metricGrowth": 7010,
+     "metricLabel": "月票",
+     "momentum": 7.5
+    },
+    {
+     "rank": 14,
+     "title": "以神通之名",
+     "author": "猪心虾仁",
+     "rankChange": 0,
+     "metric": 29272,
+     "metricGrowth": 4228,
+     "metricLabel": "月票",
+     "momentum": 7.2
+    },
+    {
+     "rank": 6,
+     "title": "让仙门再次伟大",
+     "author": "鹤守月满池",
+     "rankChange": 0,
+     "metric": 42135,
+     "metricGrowth": 5655,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 13,
+     "title": "异度旅社",
+     "author": "远瞳",
+     "rankChange": 0,
+     "metric": 29625,
+     "metricGrowth": 3835,
+     "metricLabel": "月票",
+     "momentum": 6.6
+    },
+    {
+     "rank": 18,
+     "title": "姐姐，我也要一起当女仆吗？",
+     "author": "电子熊猫",
+     "rankChange": -1,
+     "metric": 24557,
+     "metricGrowth": 4291,
+     "metricLabel": "月票",
+     "momentum": 6.1
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "青山",
+     "growth": 12976
+    },
+    {
+     "title": "星河之主",
+     "growth": 8362
+    },
+    {
+     "title": "我在永夜打造庇护所",
+     "growth": 7187
+    },
+    {
+     "title": "夜无疆",
+     "growth": 7010
+    },
+    {
+     "title": "剑烛大荒",
+     "growth": 6252
+    },
+    {
+     "title": "武道！",
+     "growth": 6233
+    },
+    {
+     "title": "让仙门再次伟大",
+     "growth": 5655
+    },
+    {
+     "title": "没钱修什么仙？",
+     "growth": 4820
+    }
+   ],
+   "first_day": false,
+   "summary": "榜单两极分化加剧：头部大神（辰东、乌贼）靠存量粉丝稳守，中腰部精品（季越人、熊狼狗）凭设定创新突围。修真与玄幻仍是吸金主战场，但都市与历史垂类展现极强黏性。《青山》名次跃升印证了“名家+强风格”的统治力。**建议：** 创作者应避开纯套路化修真，深耕“修真+社会/职场/经营”融合题材，利用差异化世界观切入市场，这是当前中腰部破局的最优路径。"
+  },
+  "玄幻": {
+   "new_books": [
+    {
+     "rank": 24,
+     "title": "苟在初圣魔门当人材",
+     "author": "鹤守月满池",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "妖女，快住口！",
+     "subCategory": "东方玄幻"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 14,
+     "title": "仙朝鹰犬",
+     "author": "平层",
+     "rankChange": 2,
+     "metric": 8300,
+     "metricGrowth": 1896,
+     "metricLabel": "月票",
+     "momentum": 13.5
+    },
+    {
+     "rank": 4,
+     "title": "青山",
+     "author": "会说话的肘子",
+     "rankChange": 1,
+     "metric": 41166,
+     "metricGrowth": 12976,
+     "metricLabel": "月票",
+     "momentum": 13.4
+    },
+    {
+     "rank": 6,
+     "title": "星河之主",
+     "author": "烽仙",
+     "rankChange": 1,
+     "metric": 27918,
+     "metricGrowth": 8360,
+     "metricLabel": "月票",
+     "momentum": 13.1
+    },
+    {
+     "rank": 7,
+     "title": "我在永夜打造庇护所",
+     "author": "中世纪的兔子",
+     "rankChange": 1,
+     "metric": 26497,
+     "metricGrowth": 7187,
+     "metricLabel": "月票",
+     "momentum": 12.5
+    },
+    {
+     "rank": 20,
+     "title": "武圣：功不负我",
+     "author": "想见江南",
+     "rankChange": 0,
+     "metric": 4688,
+     "metricGrowth": 832,
+     "metricLabel": "月票",
+     "momentum": 8.2
+    },
+    {
+     "rank": 13,
+     "title": "这个武圣太谨慎了",
+     "author": "九灯和善",
+     "rankChange": 0,
+     "metric": 9761,
+     "metricGrowth": 1483,
+     "metricLabel": "月票",
+     "momentum": 7.4
+    },
+    {
+     "rank": 3,
+     "title": "让仙门再次伟大",
+     "author": "鹤守月满池",
+     "rankChange": 0,
+     "metric": 42135,
+     "metricGrowth": 5655,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 18,
+     "title": "我能活化技能",
+     "author": "四诗风雅颂",
+     "rankChange": 0,
+     "metric": 6010,
+     "metricGrowth": 692,
+     "metricLabel": "月票",
+     "momentum": 6.1
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "青山",
+     "growth": 12976
+    },
+    {
+     "title": "星河之主",
+     "growth": 8360
+    },
+    {
+     "title": "我在永夜打造庇护所",
+     "growth": 7187
+    },
+    {
+     "title": "夜无疆",
+     "growth": 7006
+    },
+    {
+     "title": "剑烛大荒",
+     "growth": 6252
+    },
+    {
+     "title": "武道！",
+     "growth": 6230
+    },
+    {
+     "title": "让仙门再次伟大",
+     "growth": 5655
+    },
+    {
+     "title": "诡秘之主",
+     "growth": 1986
+    }
+   ],
+   "first_day": false,
+   "summary": "玄幻榜头部固化严重，辰东、乌贼等大神统治力极强。高武与东方玄幻仍是吸金主力，但增长乏力。黑马《苟在初圣魔门当人材》验证了“苟道+魔门”的反套路流派仍有极高受众粘性。建议作者：避开传统升级叙事，在“反差感”与“职业流”上做深耕，利用轻快节奏切入存量市场。编辑需重点挖掘具备强人设、高互动属性的创新流派。"
+  },
+  "奇幻": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 5,
+     "title": "女神今晚留下来",
+     "author": "紫夜弦歌",
+     "rankChange": 1,
+     "metric": 2047,
+     "metricGrowth": 515,
+     "metricLabel": "月票",
+     "momentum": 12.1
+    },
+    {
+     "rank": 14,
+     "title": "梦魇潜航",
+     "author": "北海牧鲸",
+     "rankChange": 1,
+     "metric": 1176,
+     "metricGrowth": 262,
+     "metricLabel": "月票",
+     "momentum": 11.4
+    },
+    {
+     "rank": 8,
+     "title": "诡秘：罗塞尔，叫我女皇陛下",
+     "author": "囧囧哟",
+     "rankChange": 1,
+     "metric": 1746,
+     "metricGrowth": 350,
+     "metricLabel": "月票",
+     "momentum": 10.8
+    },
+    {
+     "rank": 15,
+     "title": "我有一本任务日志",
+     "author": "底栖咸鱼",
+     "rankChange": 1,
+     "metric": 1113,
+     "metricGrowth": 205,
+     "metricLabel": "月票",
+     "momentum": 10.4
+    },
+    {
+     "rank": 1,
+     "title": "我的魔法没有上限！",
+     "author": "瑟瑟发抖梨花猫",
+     "rankChange": 0,
+     "metric": 22377,
+     "metricGrowth": 4073,
+     "metricLabel": "月票",
+     "momentum": 8.3
+    },
+    {
+     "rank": 17,
+     "title": "为不美好异界献上卡牌",
+     "author": "威馆长",
+     "rankChange": 1,
+     "metric": 954,
+     "metricGrowth": 104,
+     "metricLabel": "月票",
+     "momentum": 7.9
+    },
+    {
+     "rank": 2,
+     "title": "谁把遗言落这了？",
+     "author": "南山予鹿",
+     "rankChange": 0,
+     "metric": 5325,
+     "metricGrowth": 849,
+     "metricLabel": "月票",
+     "momentum": 7.6
+    },
+    {
+     "rank": 20,
+     "title": "诡秘：纯路人，但在塔罗会兼职",
+     "author": "哈基米公爵",
+     "rankChange": 0,
+     "metric": 928,
+     "metricGrowth": 128,
+     "metricLabel": "月票",
+     "momentum": 6.9
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "我的魔法没有上限！",
+     "growth": 4073
+    },
+    {
+     "title": "谁把遗言落这了？",
+     "growth": 849
+    },
+    {
+     "title": "女神今晚留下来",
+     "growth": 515
+    },
+    {
+     "title": "哥布林重度依赖",
+     "growth": 430
+    },
+    {
+     "title": "诡秘：罗塞尔，叫我女皇陛下",
+     "growth": 350
+    },
+    {
+     "title": "梦魇潜航",
+     "growth": 262
+    },
+    {
+     "title": "尼禄",
+     "growth": 234
+    },
+    {
+     "title": "圈中之兽",
+     "growth": 230
+    }
+   ],
+   "first_day": false,
+   "summary": "奇幻榜呈现“一超多强”格局，头部效应极强，榜首断层领先。剑与魔法题材仍是流量基石，但《诡秘》同人及神秘幻想类占据中腰部半壁江山，展现出极强的受众黏性。建议作者：避开红海剑与魔法的同质化内卷，尝试将“神秘诡异”元素缝合进传统奇幻，利用成熟IP或独特设定撬动垂直细分流量。"
+  },
+  "武侠": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "诸天拍卖：从射雕开始空手套白狼",
+     "author": "白日天下",
+     "subCategory": "武侠同人"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "武侠世界，剑出华山",
+     "subCategory": "武侠同人"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 12,
+     "title": "我在武侠世界玩养成",
+     "author": "海拉斯特黑袍",
+     "rankChange": 2,
+     "metric": 327,
+     "metricGrowth": 57,
+     "metricLabel": "月票",
+     "momentum": 12.1
+    },
+    {
+     "rank": 16,
+     "title": "词条复制，从拐走王语嫣开始",
+     "author": "羽化大帝",
+     "rankChange": 1,
+     "metric": 225,
+     "metricGrowth": 47,
+     "metricLabel": "月票",
+     "momentum": 11.0
+    },
+    {
+     "rank": 19,
+     "title": "家父左冷禅",
+     "author": "羽林乐",
+     "rankChange": 1,
+     "metric": 168,
+     "metricGrowth": 22,
+     "metricLabel": "月票",
+     "momentum": 8.7
+    },
+    {
+     "rank": 10,
+     "title": "冒官锦衣，从满级太玄经开始",
+     "author": "洛上公子",
+     "rankChange": 0,
+     "metric": 710,
+     "metricGrowth": 122,
+     "metricLabel": "月票",
+     "momentum": 8.0
+    },
+    {
+     "rank": 11,
+     "title": "从截胡李莫愁开始扬名诸天",
+     "author": "神枪老飞侠",
+     "rankChange": 0,
+     "metric": 406,
+     "metricGrowth": 66,
+     "metricLabel": "月票",
+     "momentum": 7.7
+    },
+    {
+     "rank": 9,
+     "title": "拳之下",
+     "author": "厌三途",
+     "rankChange": 0,
+     "metric": 870,
+     "metricGrowth": 136,
+     "metricLabel": "月票",
+     "momentum": 7.5
+    },
+    {
+     "rank": 5,
+     "title": "灭门夜，我易筋经大圆满！",
+     "author": "落魄的小纯洁",
+     "rankChange": 0,
+     "metric": 1191,
+     "metricGrowth": 169,
+     "metricLabel": "月票",
+     "momentum": 7.1
+    },
+    {
+     "rank": 7,
+     "title": "重生天龙：剑出姑苏！",
+     "author": "宴金秋",
+     "rankChange": 0,
+     "metric": 993,
+     "metricGrowth": 141,
+     "metricLabel": "月票",
+     "momentum": 7.1
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "开局相亲女神捕，获独孤九剑",
+     "growth": 580
+    },
+    {
+     "title": "倚天崆峒掌派人",
+     "growth": 215
+    },
+    {
+     "title": "灭门夜，我易筋经大圆满！",
+     "growth": 169
+    },
+    {
+     "title": "我在武侠世界当王爷",
+     "growth": 158
+    },
+    {
+     "title": "盖世双谐",
+     "growth": 147
+    },
+    {
+     "title": "重生天龙：剑出姑苏！",
+     "growth": 141
+    },
+    {
+     "title": "拳之下",
+     "growth": 136
+    },
+    {
+     "title": "拔剑",
+     "growth": 125
+    }
+   ],
+   "first_day": false,
+   "summary": "武侠榜已彻底“幻想化”，前十中8部为武侠幻想，纯武侠仅存《拔剑》独苗。数据表明，“开局满级+强金手指+高频爽点”的快节奏流派统治榜单。建议作者：摒弃传统武侠叙事，将“武侠背景”仅作为爽点载体，重点打磨“截胡/养成/系统奖励”等强反馈机制，通过高密度爽点抢占碎片化阅读市场。"
+  },
+  "仙侠": {
+   "new_books": [
+    {
+     "rank": 25,
+     "title": "凡人：从五百年前开始",
+     "author": "年轻的西柚",
+     "subCategory": "幻想修仙"
+    },
+    {
+     "rank": 30,
+     "title": "西游：成了方寸山首席",
+     "author": "天地有缺",
+     "subCategory": "古典仙侠"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "凡人修仙传",
+     "subCategory": "幻想修仙"
+    },
+    {
+     "title": "万灵仙君",
+     "subCategory": "修真文明"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 9,
+     "title": "邪修天王",
+     "author": "踏雪真人",
+     "rankChange": 2,
+     "metric": 7285,
+     "metricGrowth": 2533,
+     "metricLabel": "月票",
+     "momentum": 16.0
+    },
+    {
+     "rank": 16,
+     "title": "天咒",
+     "author": "无极书虫",
+     "rankChange": 2,
+     "metric": 3696,
+     "metricGrowth": 1026,
+     "metricLabel": "月票",
+     "momentum": 14.6
+    },
+    {
+     "rank": 14,
+     "title": "赤心巡天",
+     "author": "情何以甚",
+     "rankChange": 0,
+     "metric": 4003,
+     "metricGrowth": 499,
+     "metricLabel": "月票",
+     "momentum": 6.5
+    },
+    {
+     "rank": 5,
+     "title": "今天他飞升了吗",
+     "author": "裴不了",
+     "rankChange": 0,
+     "metric": 9339,
+     "metricGrowth": 1125,
+     "metricLabel": "月票",
+     "momentum": 6.3
+    },
+    {
+     "rank": 3,
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "rankChange": 0,
+     "metric": 34249,
+     "metricGrowth": 3529,
+     "metricLabel": "月票",
+     "momentum": 5.7
+    },
+    {
+     "rank": 15,
+     "title": "阵问长生",
+     "author": "观虚",
+     "rankChange": 0,
+     "metric": 3806,
+     "metricGrowth": 380,
+     "metricLabel": "月票",
+     "momentum": 5.5
+    },
+    {
+     "rank": 12,
+     "title": "仙业",
+     "author": "鹓扶君",
+     "rankChange": 0,
+     "metric": 5019,
+     "metricGrowth": 475,
+     "metricLabel": "月票",
+     "momentum": 5.3
+    },
+    {
+     "rank": 13,
+     "title": "玄鉴：从魔宗开始当人材",
+     "author": "不更党",
+     "rankChange": 0,
+     "metric": 4928,
+     "metricGrowth": 448,
+     "metricLabel": "月票",
+     "momentum": 5.2
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "没钱修什么仙？",
+     "growth": 4820
+    },
+    {
+     "title": "玄鉴仙族",
+     "growth": 4224
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "growth": 3529
+    },
+    {
+     "title": "邪修天王",
+     "growth": 2533
+    },
+    {
+     "title": "清光宝鉴",
+     "growth": 1619
+    },
+    {
+     "title": "今天他飞升了吗",
+     "growth": 1125
+    },
+    {
+     "title": "天咒",
+     "growth": 1026
+    },
+    {
+     "title": "仙府！",
+     "growth": 937
+    }
+   ],
+   "first_day": false,
+   "summary": "仙侠榜头部固化加剧，长线经营类修真文明霸榜。季越人、熊狼狗双雄领跑，不仅是文笔的胜利，更是“家族流/经营流”叙事对传统升级流的降维打击。古典仙侠回暖，但需警惕同质化。建议作者：避开纯打怪升级，深耕“修仙+社会学/经营学”的复杂生态构建，提升作品厚度，这是当下读者付费意愿最强的切入点。"
+  },
+  "都市": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 10,
+     "title": "我，影帝！",
+     "author": "江公子阿宝",
+     "rankChange": 0,
+     "metric": 8636,
+     "metricGrowth": 1829,
+     "metricLabel": "月票",
+     "momentum": 9.1
+    },
+    {
+     "rank": 12,
+     "title": "我在美国搞内战",
+     "author": "捕梦者",
+     "rankChange": 1,
+     "metric": 6279,
+     "metricGrowth": 853,
+     "metricLabel": "月票",
+     "momentum": 8.9
+    },
+    {
+     "rank": 7,
+     "title": "1979黄金时代",
+     "author": "睡觉会变白",
+     "rankChange": 1,
+     "metric": 9981,
+     "metricGrowth": 1351,
+     "metricLabel": "月票",
+     "momentum": 8.8
+    },
+    {
+     "rank": 5,
+     "title": "1980潮起潮落",
+     "author": "米饭的米",
+     "rankChange": 0,
+     "metric": 11702,
+     "metricGrowth": 1958,
+     "metricLabel": "月票",
+     "momentum": 7.9
+    },
+    {
+     "rank": 17,
+     "title": "Z世代艺术家",
+     "author": "起酥面包",
+     "rankChange": 0,
+     "metric": 4253,
+     "metricGrowth": 629,
+     "metricLabel": "月票",
+     "momentum": 7.3
+    },
+    {
+     "rank": 3,
+     "title": "以神通之名",
+     "author": "猪心虾仁",
+     "rankChange": 0,
+     "metric": 29272,
+     "metricGrowth": 4228,
+     "metricLabel": "月票",
+     "momentum": 7.2
+    },
+    {
+     "rank": 9,
+     "title": "神的模仿犯",
+     "author": "青衫取醉",
+     "rankChange": 0,
+     "metric": 9347,
+     "metricGrowth": 1303,
+     "metricLabel": "月票",
+     "momentum": 7.0
+    },
+    {
+     "rank": 18,
+     "title": "天理协议",
+     "author": "海棠灯",
+     "rankChange": 0,
+     "metric": 4063,
+     "metricGrowth": 547,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "以神通之名",
+     "growth": 4228
+    },
+    {
+     "title": "请勿高考时渡劫",
+     "growth": 4064
+    },
+    {
+     "title": "1984：从川菜馆开始",
+     "growth": 3810
+    },
+    {
+     "title": "1980潮起潮落",
+     "growth": 1958
+    },
+    {
+     "title": "我，影帝！",
+     "growth": 1829
+    },
+    {
+     "title": "1979黄金时代",
+     "growth": 1351
+    },
+    {
+     "title": "神的模仿犯",
+     "growth": 1303
+    },
+    {
+     "title": "国民律师",
+     "growth": 1109
+    }
+   ],
+   "first_day": false,
+   "summary": "都市榜进入“怀旧+异能”双核驱动期。重生年代文占据半壁江山，读者对“改开红利+个体奋斗”的爽点依赖极高；异能类则向“极致脑洞”转型。建议作者：避开同质化竞争，尝试“年代文+职业赛道”的精细化深耕，或在异能文中植入强社交属性，利用“反差感”提升读者粘性。"
+  },
+  "现实": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 15,
+     "title": "大佬不当了，在长白山过小日子",
+     "author": "佑白乎",
+     "rankChange": 3,
+     "metric": 24,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 16.0
+    },
+    {
+     "rank": 17,
+     "title": "黑金山河",
+     "author": "香蕉不平行",
+     "rankChange": 2,
+     "metric": 22,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 14.5
+    },
+    {
+     "rank": 13,
+     "title": "大明诡秘案：老鼠十八洞",
+     "author": "文刀刘刘",
+     "rankChange": 1,
+     "metric": 30,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 10.8
+    },
+    {
+     "rank": 3,
+     "title": "王牌律师",
+     "author": "雪映红梅",
+     "rankChange": 0,
+     "metric": 126,
+     "metricGrowth": 26,
+     "metricLabel": "月票",
+     "momentum": 9.0
+    },
+    {
+     "rank": 4,
+     "title": "回乡创业，开局老爸送我废旧小学",
+     "author": "杨儒鸿",
+     "rankChange": 0,
+     "metric": 58,
+     "metricGrowth": 10,
+     "metricLabel": "月票",
+     "momentum": 8.0
+    },
+    {
+     "rank": 10,
+     "title": "去而复返",
+     "author": "狷狂",
+     "rankChange": 0,
+     "metric": 36,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 7.8
+    },
+    {
+     "rank": 11,
+     "title": "非童话故事",
+     "author": "罗拉lola",
+     "rankChange": 0,
+     "metric": 36,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 7.8
+    },
+    {
+     "rank": 8,
+     "title": "负债百万，我靠码字逆袭人生",
+     "author": "滇王爷",
+     "rankChange": 0,
+     "metric": 42,
+     "metricGrowth": 6,
+     "metricLabel": "月票",
+     "momentum": 7.1
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "万物希声",
+     "growth": 41
+    },
+    {
+     "title": "王牌律师",
+     "growth": 26
+    },
+    {
+     "title": "行商坐医",
+     "growth": 15
+    },
+    {
+     "title": "回乡创业，开局老爸送我废旧小学",
+     "growth": 10
+    },
+    {
+     "title": "师傅，您给看看",
+     "growth": 6
+    },
+    {
+     "title": "致命代游",
+     "growth": 6
+    },
+    {
+     "title": "房产中介从辞退危机开始",
+     "growth": 6
+    },
+    {
+     "title": "负债百万，我靠码字逆袭人生",
+     "growth": 6
+    }
+   ],
+   "first_day": false,
+   "summary": "现实题材榜单头部固化严重，头部与腰部断层明显。《万物希声》以时代叙事确立统治地位，“人间百态”仍是流量基本盘。值得关注的是，“青年故事”类如《回乡创业》等展现出极强的代入感，精准切中当下社会情绪。\n\n**建议：** 创作者应深挖“小人物”在职场危机、城乡变迁中的真实困境，通过强共鸣的社会痛点替代纯粹的职业描写，提升读者的粘性与互动。"
+  },
+  "军事": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 16,
+     "title": "谍战：我的分身有点多",
+     "author": "没事来根华子",
+     "rankChange": 1,
+     "metric": 178,
+     "metricGrowth": 36,
+     "metricLabel": "月票",
+     "momentum": 10.8
+    },
+    {
+     "rank": 10,
+     "title": "抗战之我是一个工业人",
+     "author": "松果体",
+     "rankChange": 1,
+     "metric": 363,
+     "metricGrowth": 55,
+     "metricLabel": "月票",
+     "momentum": 9.4
+    },
+    {
+     "rank": 14,
+     "title": "谍战：从看到记忆开始的谍海生涯",
+     "author": "财神爷入我怀抱",
+     "rankChange": 0,
+     "metric": 248,
+     "metricGrowth": 52,
+     "metricLabel": "月票",
+     "momentum": 9.0
+    },
+    {
+     "rank": 20,
+     "title": "全球佣兵：从俄乌战场开始",
+     "author": "尖椒rose",
+     "rankChange": 0,
+     "metric": 132,
+     "metricGrowth": 20,
+     "metricLabel": "月票",
+     "momentum": 7.4
+    },
+    {
+     "rank": 12,
+     "title": "民国贵公子",
+     "author": "丛拾",
+     "rankChange": 0,
+     "metric": 304,
+     "metricGrowth": 44,
+     "metricLabel": "月票",
+     "momentum": 7.2
+    },
+    {
+     "rank": 7,
+     "title": "民国：烽火1937",
+     "author": "唯物小丰子",
+     "rankChange": 0,
+     "metric": 621,
+     "metricGrowth": 87,
+     "metricLabel": "月票",
+     "momentum": 7.0
+    },
+    {
+     "rank": 15,
+     "title": "亮剑：谁敢叫我程瞎子？",
+     "author": "白担心",
+     "rankChange": 0,
+     "metric": 207,
+     "metricGrowth": 29,
+     "metricLabel": "月票",
+     "momentum": 7.0
+    },
+    {
+     "rank": 6,
+     "title": "谍战代号：申公豹",
+     "author": "谈谈钱",
+     "rankChange": 0,
+     "metric": 694,
+     "metricGrowth": 92,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "人在俄乌当佣兵，杀敌就能爆属性",
+     "growth": 136
+    },
+    {
+     "title": "融合狼蛛基因，在俄乌战场杀疯了",
+     "growth": 118
+    },
+    {
+     "title": "东方既白",
+     "growth": 95
+    },
+    {
+     "title": "谍战代号：申公豹",
+     "growth": 92
+    },
+    {
+     "title": "民国：烽火1937",
+     "growth": 87
+    },
+    {
+     "title": "怕死抗什么日",
+     "growth": 85
+    },
+    {
+     "title": "我的抗联岁月",
+     "growth": 84
+    },
+    {
+     "title": "长津湖：满仓有身装备栏",
+     "growth": 74
+    }
+   ],
+   "first_day": false,
+   "summary": "榜单呈现“战争幻想”与“谍战”双雄割据，占比超八成。战争幻想类“系统+属性”流已成标配，同质化严重；谍战则向“轻喜剧+异能”转型。读者审美正从硬核历史转向快节奏爽文。建议作者：避开红海题材，尝试将“工业强国”与“谍战”结合，通过技术流升级取代单一杀敌爆属性，提升作品稀缺度。"
+  },
+  "历史": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 6,
+     "title": "日本战国：功名十字路",
+     "author": "吉良上总介",
+     "rankChange": 1,
+     "metric": 6294,
+     "metricGrowth": 1446,
+     "metricLabel": "月票",
+     "momentum": 11.5
+    },
+    {
+     "rank": 5,
+     "title": "万历明君",
+     "author": "鹤招",
+     "rankChange": 0,
+     "metric": 10602,
+     "metricGrowth": 1670,
+     "metricLabel": "月票",
+     "momentum": 7.6
+    },
+    {
+     "rank": 20,
+     "title": "我在俄国当文豪",
+     "author": "卡拉马佐夫",
+     "rankChange": 0,
+     "metric": 1688,
+     "metricGrowth": 254,
+     "metricLabel": "月票",
+     "momentum": 7.3
+    },
+    {
+     "rank": 14,
+     "title": "江左伪郎",
+     "author": "历史系之狼",
+     "rankChange": 0,
+     "metric": 2296,
+     "metricGrowth": 334,
+     "metricLabel": "月票",
+     "momentum": 7.2
+    },
+    {
+     "rank": 12,
+     "title": "夺嫡在嘉靖朝",
+     "author": "夜星月语",
+     "rankChange": 0,
+     "metric": 3048,
+     "metricGrowth": 408,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 16,
+     "title": "家父汉武帝",
+     "author": "夜不说",
+     "rankChange": 0,
+     "metric": 1985,
+     "metricGrowth": 267,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 17,
+     "title": "大明黑帆",
+     "author": "庆历泗年春",
+     "rankChange": 0,
+     "metric": 1876,
+     "metricGrowth": 252,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 18,
+     "title": "红楼：我和黛玉互穿了",
+     "author": "喜欢喝豆浆",
+     "rankChange": 0,
+     "metric": 1817,
+     "metricGrowth": 237,
+     "metricLabel": "月票",
+     "momentum": 6.7
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "廓晋",
+     "growth": 3328
+    },
+    {
+     "title": "北望江山",
+     "growth": 1701
+    },
+    {
+     "title": "万历明君",
+     "growth": 1670
+    },
+    {
+     "title": "日本战国：功名十字路",
+     "growth": 1446
+    },
+    {
+     "title": "白衣卿相",
+     "growth": 1256
+    },
+    {
+     "title": "神话版三国",
+     "growth": 1008
+    },
+    {
+     "title": "草芥称王",
+     "growth": 420
+    },
+    {
+     "title": "夺嫡在嘉靖朝",
+     "growth": 408
+    }
+   ],
+   "first_day": false,
+   "summary": "历史榜呈现“存量博弈”态势，两宋元明题材占据半壁江山，读者审美趋向考据流与深度叙事。榴弹怕水双榜霸屏，垄断头部流量。值得注意的是，细分垂直题材（如日本战国）仍有长尾效应。编辑应重点挖掘“两宋元明”背景下的轻量化、爽感化升级赛道；作者需在史实严谨性基础上，强化角色人设的“现代共鸣”，避免陷入纯粹的考据枯燥。"
+  },
+  "游戏": {
+   "new_books": [
+    {
+     "rank": 29,
+     "title": "说好低调发育，全服公告什么鬼？",
+     "author": "稀粥西洲",
+     "subCategory": "游戏异界"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "LOL，我的虎扑评分不会低",
+     "subCategory": "电子竞技"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 13,
+     "title": "三国神话世界",
+     "author": "永牧",
+     "rankChange": 1,
+     "metric": 929,
+     "metricGrowth": 205,
+     "metricLabel": "月票",
+     "momentum": 11.3
+    },
+    {
+     "rank": 8,
+     "title": "异维囚笼",
+     "author": "躺摆混",
+     "rankChange": 1,
+     "metric": 1464,
+     "metricGrowth": 278,
+     "metricLabel": "月票",
+     "momentum": 10.5
+    },
+    {
+     "rank": 11,
+     "title": "教练凶猛",
+     "author": "初四兮",
+     "rankChange": 0,
+     "metric": 1182,
+     "metricGrowth": 248,
+     "metricLabel": "月票",
+     "momentum": 9.0
+    },
+    {
+     "rank": 12,
+     "title": "熊学派的阿斯塔特",
+     "author": "你干嘛呀你",
+     "rankChange": 0,
+     "metric": 984,
+     "metricGrowth": 168,
+     "metricLabel": "月票",
+     "momentum": 8.0
+    },
+    {
+     "rank": 17,
+     "title": "蒸汽世界的奥秘侦探",
+     "author": "西贝猫",
+     "rankChange": 0,
+     "metric": 657,
+     "metricGrowth": 95,
+     "metricLabel": "月票",
+     "momentum": 7.2
+    },
+    {
+     "rank": 7,
+     "title": "美利坚：游戏制作教父",
+     "author": "哈娜欧菲手",
+     "rankChange": 0,
+     "metric": 1590,
+     "metricGrowth": 216,
+     "metricLabel": "月票",
+     "momentum": 6.9
+    },
+    {
+     "rank": 2,
+     "title": "浊世游戏",
+     "author": "不落鱼",
+     "rankChange": 0,
+     "metric": 2955,
+     "metricGrowth": 393,
+     "metricLabel": "月票",
+     "momentum": 6.8
+    },
+    {
+     "rank": 4,
+     "title": "升格耀变体",
+     "author": "深度绯红",
+     "rankChange": 0,
+     "metric": 2373,
+     "metricGrowth": 309,
+     "metricLabel": "月票",
+     "momentum": 6.7
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "万朝之劫",
+     "growth": 891
+    },
+    {
+     "title": "浊世游戏",
+     "growth": 393
+    },
+    {
+     "title": "升格耀变体",
+     "growth": 309
+    },
+    {
+     "title": "异维囚笼",
+     "growth": 278
+    },
+    {
+     "title": "教练凶猛",
+     "growth": 248
+    },
+    {
+     "title": "LOL：出了峡谷才知道杀人犯法",
+     "growth": 228
+    },
+    {
+     "title": "美利坚：游戏制作教父",
+     "growth": 216
+    },
+    {
+     "title": "三国神话世界",
+     "growth": 205
+    }
+   ],
+   "first_day": false,
+   "summary": "游戏榜头部效应极强，《万朝之劫》断层领跑，验证了“游戏异界+文明经营”的强吸金属性。传统电竞、虚拟网游式微，题材正向“游戏化异界生存”深度融合。编辑部应关注“游戏系统+现实反哺”类切入点，作者则需强化世界观的沉浸感与经营反馈循环，避免单纯的数值堆砌，提升读者的代入深度。"
+  },
+  "体育": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "极速车神",
+     "author": "磨砚少年",
+     "subCategory": "体育赛事"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "足球：才17岁，让我做球队核心",
+     "subCategory": "足球运动"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 5,
+     "title": "篮坛GOAT算什么，我体坛之王",
+     "author": "四仰化三铁",
+     "rankChange": 1,
+     "metric": 1187,
+     "metricGrowth": 369,
+     "metricLabel": "月票",
+     "momentum": 13.3
+    },
+    {
+     "rank": 15,
+     "title": "带队保级？他甚至不是一个教练！",
+     "author": "岁华向晚",
+     "rankChange": 1,
+     "metric": 399,
+     "metricGrowth": 69,
+     "metricLabel": "月票",
+     "momentum": 10.0
+    },
+    {
+     "rank": 19,
+     "title": "篮球之黄金时代",
+     "author": "不爱吃草的羊",
+     "rankChange": 1,
+     "metric": 316,
+     "metricGrowth": 52,
+     "metricLabel": "月票",
+     "momentum": 9.8
+    },
+    {
+     "rank": 1,
+     "title": "从大学球探开始",
+     "author": "肉末大茄子",
+     "rankChange": 0,
+     "metric": 2890,
+     "metricGrowth": 634,
+     "metricLabel": "月票",
+     "momentum": 9.3
+    },
+    {
+     "rank": 7,
+     "title": "重生乒乓：从拒绝退队开始",
+     "author": "西红柿疯狂炒鸡蛋",
+     "rankChange": 1,
+     "metric": 808,
+     "metricGrowth": 121,
+     "metricLabel": "月票",
+     "momentum": 9.3
+    },
+    {
+     "rank": 2,
+     "title": "永不独行！",
+     "author": "成丽来啦",
+     "rankChange": 0,
+     "metric": 2815,
+     "metricGrowth": 591,
+     "metricLabel": "月票",
+     "momentum": 9.0
+    },
+    {
+     "rank": 16,
+     "title": "篮坛神迹",
+     "author": "兔来割草",
+     "rankChange": 1,
+     "metric": 351,
+     "metricGrowth": 45,
+     "metricLabel": "月票",
+     "momentum": 8.6
+    },
+    {
+     "rank": 10,
+     "title": "半岛：网球王子，从艺人报警开始",
+     "author": "厉肥鱼",
+     "rankChange": 0,
+     "metric": 590,
+     "metricGrowth": 110,
+     "metricLabel": "月票",
+     "momentum": 8.4
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "从大学球探开始",
+     "growth": 634
+    },
+    {
+     "title": "永不独行！",
+     "growth": 591
+    },
+    {
+     "title": "篮坛GOAT算什么，我体坛之王",
+     "growth": 369
+    },
+    {
+     "title": "喧嚣未及之处",
+     "growth": 236
+    },
+    {
+     "title": "这个前锋快得离谱",
+     "growth": 121
+    },
+    {
+     "title": "重生乒乓：从拒绝退队开始",
+     "growth": 121
+    },
+    {
+     "title": "半岛：网球王子，从艺人报警开始",
+     "growth": 110
+    },
+    {
+     "title": "有种单挑",
+     "growth": 108
+    }
+   ],
+   "first_day": false,
+   "summary": "体育榜头部“足球+篮球”双雄格局固化，占比超70%，但腰部题材正向“小众竞技+脑洞”分化。乒乓、网球等冷门竞技通过“跨界+强人设”实现突围，证明垂直领域仍有红利。建议作者：避开传统竞技的“纯技术流”内卷，尝试“竞技+职场/文娱/系统”的融合写法，利用强冲突的职业身份反差，撬动非体育类核心读者群体。"
+  },
+  "科幻": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 7,
+     "title": "这一定不是克苏鲁！",
+     "author": "烟火成城",
+     "rankChange": 2,
+     "metric": 2101,
+     "metricGrowth": 445,
+     "metricLabel": "月票",
+     "momentum": 13.1
+    },
+    {
+     "rank": 11,
+     "title": "维校的三好学生",
+     "author": "核动力战列舰",
+     "rankChange": 1,
+     "metric": 1840,
+     "metricGrowth": 280,
+     "metricLabel": "月票",
+     "momentum": 9.4
+    },
+    {
+     "rank": 17,
+     "title": "废土求生从硬抗破伤风开始",
+     "author": "四管加农炮",
+     "rankChange": 1,
+     "metric": 1230,
+     "metricGrowth": 188,
+     "metricLabel": "月票",
+     "momentum": 9.4
+    },
+    {
+     "rank": 16,
+     "title": "人在荒岛，灵气怎么复苏了？",
+     "author": "最终永恒",
+     "rankChange": 0,
+     "metric": 1303,
+     "metricGrowth": 221,
+     "metricLabel": "月票",
+     "momentum": 7.9
+    },
+    {
+     "rank": 15,
+     "title": "道与碳基猴子饲养守则",
+     "author": "飞鸽牌巧克力",
+     "rankChange": 0,
+     "metric": 1307,
+     "metricGrowth": 207,
+     "metricLabel": "月票",
+     "momentum": 7.6
+    },
+    {
+     "rank": 6,
+     "title": "废土边境检查官",
+     "author": "斤斤斤",
+     "rankChange": 0,
+     "metric": 2771,
+     "metricGrowth": 363,
+     "metricLabel": "月票",
+     "momentum": 6.7
+    },
+    {
+     "rank": 1,
+     "title": "异度旅社",
+     "author": "远瞳",
+     "rankChange": 0,
+     "metric": 29625,
+     "metricGrowth": 3835,
+     "metricLabel": "月票",
+     "momentum": 6.6
+    },
+    {
+     "rank": 10,
+     "title": "三塔游戏",
+     "author": "更从心",
+     "rankChange": 0,
+     "metric": 1844,
+     "metricGrowth": 230,
+     "metricLabel": "月票",
+     "momentum": 6.5
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "异度旅社",
+     "growth": 3835
+    },
+    {
+     "title": "急急如律令",
+     "growth": 3130
+    },
+    {
+     "title": "报告祖国，我穿越了！",
+     "growth": 994
+    },
+    {
+     "title": "这一定不是克苏鲁！",
+     "growth": 445
+    },
+    {
+     "title": "废土边境检查官",
+     "growth": 363
+    },
+    {
+     "title": "逆旅",
+     "growth": 329
+    },
+    {
+     "title": "末日边缘",
+     "growth": 281
+    },
+    {
+     "title": "维校的三好学生",
+     "growth": 280
+    }
+   ],
+   "first_day": false,
+   "summary": "科幻榜头部“二元对立”加剧：远瞳与黑山老鬼双雄领跑，时空穿梭与进化变异题材统治力极强，断层优势明显。中腰部末世与克苏鲁元素虽稳，但缺乏破局黑马。建议作者：避开红海，尝试“科幻+规则怪谈”或“轻科幻+群像”差异化切入，避开硬核设定堆砌，强化爽点与悬疑钩子，方能在存量竞争中突围。"
+  },
+  "诸天无限": {
+   "new_books": [
+    {
+     "rank": 19,
+     "title": "奥特曼任意键：启明",
+     "author": "说的道理",
+     "subCategory": "无限"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "美漫：超人能有什么坏心思呢？",
+     "subCategory": "诸天"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 2,
+     "title": "武侠世界，武道人仙",
+     "author": "太灰金星",
+     "rankChange": 10,
+     "metric": 3079,
+     "metricGrowth": 2107,
+     "metricLabel": "月票",
+     "momentum": 36.5
+    },
+    {
+     "rank": 8,
+     "title": "谢邀，人在箱庭，刚成主角",
+     "author": "皮球不是球",
+     "rankChange": 1,
+     "metric": 1565,
+     "metricGrowth": 445,
+     "metricLabel": "月票",
+     "momentum": 12.8
+    },
+    {
+     "rank": 15,
+     "title": "人在箱庭，我真没想当上帝",
+     "author": "安静地发咸",
+     "rankChange": 2,
+     "metric": 950,
+     "metricGrowth": 124,
+     "metricLabel": "月票",
+     "momentum": 10.7
+    },
+    {
+     "rank": 16,
+     "title": "诸天：小李飞刀开始",
+     "author": "柳风折",
+     "rankChange": 2,
+     "metric": 910,
+     "metricGrowth": 95,
+     "metricLabel": "月票",
+     "momentum": 9.7
+    },
+    {
+     "rank": 11,
+     "title": "同时穿越，意贯诸天！",
+     "author": "归去几时",
+     "rankChange": 0,
+     "metric": 1228,
+     "metricGrowth": 226,
+     "metricLabel": "月票",
+     "momentum": 8.4
+    },
+    {
+     "rank": 13,
+     "title": "杀穿美漫：从黑袍开始",
+     "author": "千舟万山",
+     "rankChange": 0,
+     "metric": 1103,
+     "metricGrowth": 203,
+     "metricLabel": "月票",
+     "momentum": 8.4
+    },
+    {
+     "rank": 14,
+     "title": "漫威世界的唯一玩家",
+     "author": "十一只豆丁",
+     "rankChange": 0,
+     "metric": 1007,
+     "metricGrowth": 143,
+     "metricLabel": "月票",
+     "momentum": 7.1
+    },
+    {
+     "rank": 1,
+     "title": "流窜诸天的灾厄",
+     "author": "万象初心",
+     "rankChange": 0,
+     "metric": 4921,
+     "metricGrowth": 641,
+     "metricLabel": "月票",
+     "momentum": 6.7
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "武侠世界，武道人仙",
+     "growth": 2107
+    },
+    {
+     "title": "流窜诸天的灾厄",
+     "growth": 641
+    },
+    {
+     "title": "诸天大邪修",
+     "growth": 556
+    },
+    {
+     "title": "谢邀，人在箱庭，刚成主角",
+     "growth": 445
+    },
+    {
+     "title": "我名黄天，苍天已死什么鬼？",
+     "growth": 334
+    },
+    {
+     "title": "第四天灾就没有正常的",
+     "growth": 238
+    },
+    {
+     "title": "人在诸天，你这天庭正经吗？",
+     "growth": 234
+    },
+    {
+     "title": "同时穿越，意贯诸天！",
+     "growth": 226
+    }
+   ],
+   "first_day": false,
+   "summary": "诸天流进入“存量博弈+垂直细分”期。榜单显示，传统综漫及武侠同人仍是基本盘，但《武道人仙》的逆势暴涨证明，“硬核武道+诸天”的强爽逻辑仍具统治力。题材风向正向“反套路+高概念”偏移。建议作者：避开泛泛的诸天穿梭，深耕单一世界观的深度挖掘，或通过“第四天灾”等经营元素与诸天碰撞，提升订阅留存。"
+  },
+  "悬疑灵异": {
+   "new_books": [],
+   "new_count": 0,
+   "dropped_books": [],
+   "dropped_count": 0,
+   "top_movers": [
+    {
+     "rank": 13,
+     "title": "伪像报告",
+     "author": "须尾俱全",
+     "rankChange": 1,
+     "metric": 499,
+     "metricGrowth": 105,
+     "metricLabel": "月票",
+     "momentum": 11.1
+    },
+    {
+     "rank": 15,
+     "title": "天官赐邪",
+     "author": "幻梦猎人",
+     "rankChange": 2,
+     "metric": 413,
+     "metricGrowth": 51,
+     "metricLabel": "月票",
+     "momentum": 10.4
+    },
+    {
+     "rank": 2,
+     "title": "重生97，我在市局破悬案",
+     "author": "贫道信佛",
+     "rankChange": 1,
+     "metric": 3699,
+     "metricGrowth": 582,
+     "metricLabel": "月票",
+     "momentum": 9.6
+    },
+    {
+     "rank": 10,
+     "title": "屠魔快刀",
+     "author": "狐夫",
+     "rankChange": 1,
+     "metric": 553,
+     "metricGrowth": 75,
+     "metricLabel": "月票",
+     "momentum": 8.9
+    },
+    {
+     "rank": 4,
+     "title": "噩梦使徒",
+     "author": "温柔劝睡师",
+     "rankChange": 1,
+     "metric": 2052,
+     "metricGrowth": 272,
+     "metricLabel": "月票",
+     "momentum": 8.8
+    },
+    {
+     "rank": 1,
+     "title": "1997：罪案追凶",
+     "author": "姜煮茶",
+     "rankChange": 0,
+     "metric": 7217,
+     "metricGrowth": 1297,
+     "metricLabel": "月票",
+     "momentum": 8.2
+    },
+    {
+     "rank": 8,
+     "title": "活人成双",
+     "author": "坏掉的拳头",
+     "rankChange": 0,
+     "metric": 620,
+     "metricGrowth": 100,
+     "metricLabel": "月票",
+     "momentum": 7.7
+    },
+    {
+     "rank": 9,
+     "title": "超级警探",
+     "author": "勤奋的关关",
+     "rankChange": 0,
+     "metric": 602,
+     "metricGrowth": 98,
+     "metricLabel": "月票",
+     "momentum": 7.7
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "1997：罪案追凶",
+     "growth": 1297
+    },
+    {
+     "title": "重生97，我在市局破悬案",
+     "growth": 582
+    },
+    {
+     "title": "神秘复苏",
+     "growth": 361
+    },
+    {
+     "title": "噩梦使徒",
+     "growth": 272
+    },
+    {
+     "title": "谁说这里有怪谈的？",
+     "growth": 241
+    },
+    {
+     "title": "玩家请上车",
+     "growth": 227
+    },
+    {
+     "title": "伪像报告",
+     "growth": 105
+    },
+    {
+     "title": "活人成双",
+     "growth": 100
+    }
+   ],
+   "first_day": false,
+   "summary": "悬疑榜“年代+刑侦”成统治级题材，头部断层明显。姜煮茶以近双倍票数领跑，证明“怀旧滤镜+硬核破案”精准击中读者爽点。规则怪谈虽存量大，但增长乏力。建议作者：避开同质化诡异流，深挖“刑侦+时代背景”的钩子，强化案件的逻辑闭环与年代沉浸感，这是当下悬疑破局的最优解。"
+  },
+  "轻小说": {
+   "new_books": [
+    {
+     "rank": 30,
+     "title": "谁说我做的魔法卡牌有问题？",
+     "author": "我真不会飞",
+     "subCategory": "原生幻想"
+    }
+   ],
+   "new_count": 1,
+   "dropped_books": [
+    {
+     "title": "东京1996，从警校生开始",
+     "subCategory": "原生幻想"
+    }
+   ],
+   "dropped_count": 1,
+   "top_movers": [
+    {
+     "rank": 12,
+     "title": "我绑定了夏弥",
+     "author": "鸭嘴兽不考虑灭绝",
+     "rankChange": 3,
+     "metric": 6492,
+     "metricGrowth": 2714,
+     "metricLabel": "月票",
+     "momentum": 19.2
+    },
+    {
+     "rank": 11,
+     "title": "冬日重现",
+     "author": "雪梨炖茶",
+     "rankChange": 0,
+     "metric": 8267,
+     "metricGrowth": 2579,
+     "metricLabel": "月票",
+     "momentum": 11.3
+    },
+    {
+     "rank": 9,
+     "title": "东京：崇华的我竟成了日娱之王",
+     "author": "96捞鱼费舍尔",
+     "rankChange": 0,
+     "metric": 12446,
+     "metricGrowth": 2688,
+     "metricLabel": "月票",
+     "momentum": 9.2
+    },
+    {
+     "rank": 10,
+     "title": "诳言法师的十三试炼",
+     "author": "王子2326",
+     "rankChange": 0,
+     "metric": 8653,
+     "metricGrowth": 1883,
+     "metricLabel": "月票",
+     "momentum": 9.2
+    },
+    {
+     "rank": 19,
+     "title": "轮回乐园",
+     "author": "那一只蚊子",
+     "rankChange": 1,
+     "metric": 3707,
+     "metricGrowth": 455,
+     "metricLabel": "月票",
+     "momentum": 8.4
+    },
+    {
+     "rank": 3,
+     "title": "还不起学贷的我只好兼职猎魔",
+     "author": "小夕岁",
+     "rankChange": 0,
+     "metric": 22997,
+     "metricGrowth": 4127,
+     "metricLabel": "月票",
+     "momentum": 8.2
+    },
+    {
+     "rank": 2,
+     "title": "姐姐，我也要一起当女仆吗？",
+     "author": "电子熊猫",
+     "rankChange": 0,
+     "metric": 24557,
+     "metricGrowth": 4291,
+     "metricLabel": "月票",
+     "momentum": 8.1
+    },
+    {
+     "rank": 17,
+     "title": "我在乱世开无双",
+     "author": "不会飞的笔",
+     "rankChange": 0,
+     "metric": 3940,
+     "metricGrowth": 500,
+     "metricLabel": "月票",
+     "momentum": 6.6
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "姐姐，我也要一起当女仆吗？",
+     "growth": 4291
+    },
+    {
+     "title": "还不起学贷的我只好兼职猎魔",
+     "growth": 4127
+    },
+    {
+     "title": "神宠供应商",
+     "growth": 3285
+    },
+    {
+     "title": "我绑定了夏弥",
+     "growth": 2714
+    },
+    {
+     "title": "东京：崇华的我竟成了日娱之王",
+     "growth": 2688
+    },
+    {
+     "title": "冬日重现",
+     "growth": 2579
+    },
+    {
+     "title": "以一龙之力打倒整个世界！",
+     "growth": 2136
+    },
+    {
+     "title": "诳言法师的十三试炼",
+     "growth": 1883
+    }
+   ],
+   "first_day": false,
+   "summary": "【月票榜·轻小说】1 本新上榜；1 本掉榜；《我绑定了夏弥》动能 19.2 分领跑；《姐姐，我也要一起当女仆吗？》指标 +4291。"
+  },
+  "VIP新作": {
+   "new_books": [
+    {
+     "rank": 13,
+     "title": "仙蜕",
+     "author": "南朝陈",
+     "subCategory": "古典仙侠"
+    },
+    {
+     "rank": 22,
+     "title": "被女仆买下后，寿命论系统来了？",
+     "author": "爱吃橘猫的砂糖橘",
+     "subCategory": "原生幻想"
+    }
+   ],
+   "new_count": 2,
+   "dropped_books": [
+    {
+     "title": "说好恋爱模拟，我才全CG收集",
+     "subCategory": "恋爱日常"
+    },
+    {
+     "title": "火影：天才宇智波，但开局仙人体",
+     "subCategory": "衍生同人"
+    }
+   ],
+   "dropped_count": 2,
+   "top_movers": [
+    {
+     "rank": 11,
+     "title": "我的超能道具随机刷新",
+     "author": "一片雪饼",
+     "rankChange": 2,
+     "metric": 1044,
+     "metricGrowth": 366,
+     "metricLabel": "月票",
+     "momentum": 16.0
+    },
+    {
+     "rank": 10,
+     "title": "篮坛GOAT算什么，我体坛之王",
+     "author": "四仰化三铁",
+     "rankChange": 1,
+     "metric": 1187,
+     "metricGrowth": 369,
+     "metricLabel": "月票",
+     "momentum": 13.3
+    },
+    {
+     "rank": 9,
+     "title": "入赘百年，我大限将至",
+     "author": "雨下的好大",
+     "rankChange": 0,
+     "metric": 1306,
+     "metricGrowth": 418,
+     "metricLabel": "月票",
+     "momentum": 11.5
+    },
+    {
+     "rank": 5,
+     "title": "这一定不是克苏鲁！",
+     "author": "烟火成城",
+     "rankChange": 1,
+     "metric": 2101,
+     "metricGrowth": 445,
+     "metricLabel": "月票",
+     "momentum": 11.1
+    },
+    {
+     "rank": 8,
+     "title": "谢邀，人在箱庭，刚成主角",
+     "author": "皮球不是球",
+     "rankChange": 0,
+     "metric": 1565,
+     "metricGrowth": 445,
+     "metricLabel": "月票",
+     "momentum": 10.8
+    },
+    {
+     "rank": 4,
+     "title": "天咒",
+     "author": "无极书虫",
+     "rankChange": 0,
+     "metric": 3696,
+     "metricGrowth": 1026,
+     "metricLabel": "月票",
+     "momentum": 10.6
+    },
+    {
+     "rank": 19,
+     "title": "养老从六十年代开始",
+     "author": "摇摇-欲坠",
+     "rankChange": 1,
+     "metric": 375,
+     "metricGrowth": 43,
+     "metricLabel": "月票",
+     "momentum": 8.1
+    },
+    {
+     "rank": 7,
+     "title": "LOL：出了峡谷才知道杀人犯法",
+     "author": "五分想象",
+     "rankChange": 0,
+     "metric": 1872,
+     "metricGrowth": 228,
+     "metricLabel": "月票",
+     "momentum": 6.4
+    }
+   ],
+   "metric_growth": [
+    {
+     "title": "神宠供应商",
+     "growth": 3285
+    },
+    {
+     "title": "夜夜行歌",
+     "growth": 1839
+    },
+    {
+     "title": "天咒",
+     "growth": 1026
+    },
+    {
+     "title": "报告祖国，我穿越了！",
+     "growth": 994
+    },
+    {
+     "title": "这一定不是克苏鲁！",
+     "growth": 445
+    },
+    {
+     "title": "谢邀，人在箱庭，刚成主角",
+     "growth": 445
+    },
+    {
+     "title": "入赘百年，我大限将至",
+     "growth": 418
+    },
+    {
+     "title": "篮坛GOAT算什么，我体坛之王",
+     "growth": 369
+    }
+   ],
+   "first_day": false,
+   "summary": "【月票榜·VIP新作】2 本新上榜；2 本掉榜；《我的超能道具随机刷新》动能 16.0 分领跑；《神宠供应商》指标 +3285。"
+  }
+ },
+ "category_heat": [
+  {
+   "name": "全部",
+   "count": 30,
+   "metric_total": 946014,
+   "heat": 946014
+  },
+  {
+   "name": "玄幻",
+   "count": 30,
+   "metric_total": 464913,
+   "heat": 464913
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 280170,
+   "heat": 280170
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 275182,
+   "heat": 275182
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 251287,
+   "heat": 251287
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 149056,
+   "heat": 149056
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 109143,
+   "heat": 109143
+  },
+  {
+   "name": "VIP新作",
+   "count": 30,
+   "metric_total": 84095,
+   "heat": 84095
+  },
+  {
+   "name": "奇幻",
+   "count": 30,
+   "metric_total": 62472,
+   "heat": 62472
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 43021,
+   "heat": 43021
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 38449,
+   "heat": 38449
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 28936,
+   "heat": 28936
+  },
+  {
+   "name": "武侠",
+   "count": 30,
+   "metric_total": 22322,
+   "heat": 22322
+  },
+  {
+   "name": "体育",
+   "count": 30,
+   "metric_total": 19430,
+   "heat": 19430
+  },
+  {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 10794,
+   "heat": 10794
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 1414,
+   "heat": 1414
+  }
+ ],
+ "keyword_heat": [
+  {
+   "keyword": "穿越",
+   "count": 105
+  },
+  {
+   "keyword": "系统",
+   "count": 26
+  },
+  {
+   "keyword": "重生",
+   "count": 18
+  },
+  {
+   "keyword": "诸天",
+   "count": 16
+  },
+  {
+   "keyword": "修仙",
+   "count": 14
+  },
+  {
+   "keyword": "历史",
+   "count": 13
+  },
+  {
+   "keyword": "谍战",
+   "count": 8
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
+  },
+  {
+   "keyword": "灵异",
+   "count": 7
+  },
+  {
+   "keyword": "种田",
+   "count": 5
+  },
+  {
+   "keyword": "工业",
+   "count": 5
+  },
+  {
+   "keyword": "无敌",
+   "count": 5
+  }
+ ],
+ "author_power": [
+  {
+   "author": "爱潜水的乌贼",
+   "books": 3,
+   "top10": 2,
+   "bestRank": 2,
+   "titles": [
+    "剑烛大荒",
+    "诡秘之主",
+    "宿命之环"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏",
+    "怪谈游戏设计师"
+   ]
+  },
+  {
+   "author": "远瞳",
+   "books": 3,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "异度旅社",
+    "黎明之剑",
+    "深海余烬"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 1,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
+   ]
+  },
+  {
+   "author": "鹤守月满池",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 4,
+   "titles": [
+    "让仙门再次伟大",
+    "苟在初圣魔门当人材"
+   ]
+  },
+  {
+   "author": "一片苏叶",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "清光宝鉴",
+    "剑出大唐"
+   ]
+  },
+  {
+   "author": "风月",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 6,
+   "titles": [
+    "天命之上",
+    "天启预报"
+   ]
+  },
+  {
+   "author": "眉师娘",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 1,
+   "titles": [
+    "万物希声",
+    "奔腾年代——向南向北"
+   ]
+  },
+  {
+   "author": "三天两觉",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "盖世双谐",
+    "惊悚乐园"
+   ]
+  },
+  {
+   "author": "卖报小郎君",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "临圣",
+    "灵境行者"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "廓晋",
+    "绍宋"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "date": "2026-08-19",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 55827
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 49418
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 37616
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-20",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 60260
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 54675
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 43979
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-21",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 60607
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 55175
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 44645
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-22",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 63520
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 57646
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 47570
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-23",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 65649
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 61257
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 54969
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-24",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 67826
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 63986
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 57491
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-25",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 70638
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 66318
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 60175
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-26",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 75971
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 70504
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 63803
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-27",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 80211
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 73915
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 66849
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-28",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 89476
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 78400
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 72922
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-29",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 102451
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 91588
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 84243
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-30",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 117924
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 110249
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 97835
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-08-31",
+   "top3": [
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 137153
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 123988
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 111016
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-01",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 5095
+    },
+    {
+     "title": "我在永夜打造庇护所",
+     "author": "中世纪的兔子",
+     "metric": 3336
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 3284
+    }
+   ],
+   "total_books": 462
+  },
+  {
+   "date": "2026-09-02",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 11371
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 10300
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 9694
+    }
+   ],
+   "total_books": 474
+  },
+  {
+   "date": "2026-09-03",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 14099
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 13450
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 12722
+    }
+   ],
+   "total_books": 478
+  },
+  {
+   "date": "2026-09-04",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 16720
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 15321
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 15046
+    }
+   ],
+   "total_books": 479
+  },
+  {
+   "date": "2026-09-05",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 18861
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 16720
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 16222
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-06",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 20384
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 17984
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 17302
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-07",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 21941
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 19373
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 18640
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-08",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 23490
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 20831
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 20118
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-09",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 25052
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 22283
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 21247
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-10",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 26643
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 23685
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 22429
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-11",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 28170
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 24943
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 23467
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-12",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 30011
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 26266
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 24513
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-13",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 31942
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 27246
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 25300
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-14",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 33522
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 28334
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 26213
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-15",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 35421
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 29992
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 27174
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-16",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 38293
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 32259
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 28494
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-17",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 40880
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 34023
+    },
+    {
+     "title": "捞尸人",
+     "author": "纯洁滴小龙",
+     "metric": 29547
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-18",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 43470
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 35754
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 33829
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-19",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 46185
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 42797
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 37449
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-20",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 48490
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 45062
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 39257
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-21",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 51194
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 49871
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 41339
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-22",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 54089
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 51879
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 43958
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-23",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 56501
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 53275
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 46134
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-24",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 59137
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 54741
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 48707
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-25",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 62179
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 56069
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 51879
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-26",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 64935
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 57556
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 54259
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-27",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 67192
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 59015
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 56526
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-28",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 93837
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 75283
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 70805
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-09-29",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 141795
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 128629
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 92046
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-01",
+   "top3": [
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 16210
+    },
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": 13456
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 12060
+    }
+   ],
+   "total_books": 464
+  },
+  {
+   "date": "2026-10-02",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": 28946
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-03",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 48610
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 40050
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 33884
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-04",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 53484
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 46296
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 37204
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-05",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 57250
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 52718
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 41148
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-06",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 61386
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 58890
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": 44898
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-07",
+   "top3": [
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 65036
+    },
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 63448
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 50298
+    }
+   ],
+   "total_books": 480
+  },
+  {
+   "date": "2026-10-08",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 70458
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 69258
+    },
+    {
+     "title": "武道！",
+     "author": "田隶",
+     "metric": 56531
+    }
+   ],
+   "total_books": 480
+  }
+ ]
+}

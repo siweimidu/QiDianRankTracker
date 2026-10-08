@@ -1,105 +1,105 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "category_heat": [
   {
    "name": "全部",
    "count": 30,
-   "metric_total": 230162,
-   "heat": 230162
+   "metric_total": 337746,
+   "heat": 337746
   },
   {
    "name": "玄幻",
    "count": 30,
-   "metric_total": 136743,
-   "heat": 136743
+   "metric_total": 200920,
+   "heat": 200920
   },
   {
    "name": "仙侠",
    "count": 30,
-   "metric_total": 80522,
-   "heat": 80522
+   "metric_total": 117259,
+   "heat": 117259
   },
   {
    "name": "都市",
    "count": 30,
-   "metric_total": 69626,
-   "heat": 69626
+   "metric_total": 100981,
+   "heat": 100981
   },
   {
    "name": "轻小说",
    "count": 30,
-   "metric_total": 60412,
-   "heat": 60412
+   "metric_total": 86634,
+   "heat": 86634
   },
   {
    "name": "历史",
    "count": 30,
-   "metric_total": 45614,
-   "heat": 45614
+   "metric_total": 67505,
+   "heat": 67505
   },
   {
    "name": "科幻",
    "count": 30,
-   "metric_total": 37378,
-   "heat": 37378
+   "metric_total": 53572,
+   "heat": 53572
   },
   {
    "name": "奇幻",
    "count": 30,
-   "metric_total": 18294,
-   "heat": 18294
+   "metric_total": 26909,
+   "heat": 26909
   },
   {
    "name": "诸天无限",
    "count": 30,
-   "metric_total": 17275,
-   "heat": 17275
+   "metric_total": 25030,
+   "heat": 25030
   },
   {
    "name": "游戏",
    "count": 30,
-   "metric_total": 14504,
-   "heat": 14504
+   "metric_total": 21050,
+   "heat": 21050
   },
   {
    "name": "悬疑灵异",
    "count": 30,
-   "metric_total": 14158,
-   "heat": 14158
+   "metric_total": 20605,
+   "heat": 20605
   },
   {
    "name": "武侠",
    "count": 30,
-   "metric_total": 12801,
-   "heat": 12801
+   "metric_total": 18298,
+   "heat": 18298
   },
   {
    "name": "体育",
    "count": 30,
-   "metric_total": 9411,
-   "heat": 9411
+   "metric_total": 13605,
+   "heat": 13605
   },
   {
    "name": "军事",
    "count": 30,
-   "metric_total": 5789,
-   "heat": 5789
+   "metric_total": 8562,
+   "heat": 8562
   },
   {
    "name": "现实",
    "count": 30,
-   "metric_total": 1973,
-   "heat": 1973
+   "metric_total": 2999,
+   "heat": 2999
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 88
+   "count": 85
   },
   {
    "keyword": "系统",
-   "count": 26
+   "count": 27
   },
   {
    "keyword": "重生",
@@ -107,7 +107,7 @@
   },
   {
    "keyword": "诸天",
-   "count": 17
+   "count": 18
   },
   {
    "keyword": "修仙",
@@ -122,23 +122,23 @@
    "count": 9
   },
   {
-   "keyword": "灵异",
+   "keyword": "诡异",
    "count": 8
   },
   {
-   "keyword": "诡异",
-   "count": 7
-  },
-  {
-   "keyword": "无敌",
-   "count": 6
+   "keyword": "灵异",
+   "count": 8
   },
   {
    "keyword": "三国",
    "count": 5
   },
   {
-   "keyword": "工业",
+   "keyword": "副本",
+   "count": 5
+  },
+  {
+   "keyword": "无限流",
    "count": 5
   }
  ],
@@ -176,16 +176,6 @@
    ]
   },
   {
-   "author": "一醉风雨",
-   "books": 2,
-   "top10": 1,
-   "bestRank": 1,
-   "titles": [
-    "执白",
-    "风华年代"
-   ]
-  },
-  {
    "author": "三天两觉",
    "books": 2,
    "top10": 1,
@@ -193,6 +183,16 @@
    "titles": [
     "盖世双谐",
     "惊悚乐园"
+   ]
+  },
+  {
+   "author": "一醉风雨",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 2,
+   "titles": [
+    "风华年代",
+    "执白"
    ]
   },
   {
@@ -226,23 +226,23 @@
    ]
   },
   {
-   "author": "榴弹怕水",
-   "books": 2,
-   "top10": 0,
-   "bestRank": 11,
-   "titles": [
-    "廓晋",
-    "绍宋"
-   ]
-  },
-  {
    "author": "我吃西红柿",
    "books": 2,
-   "top10": 0,
-   "bestRank": 11,
+   "top10": 1,
+   "bestRank": 10,
    "titles": [
     "吞噬星空2起源大陆",
     "吞噬星空"
+   ]
+  },
+  {
+   "author": "榴弹怕水",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 12,
+   "titles": [
+    "廓晋",
+    "绍宋"
    ]
   }
  ],
@@ -1272,6 +1272,27 @@
      "title": "玄鉴仙族",
      "author": "季越人",
      "metric": 14987
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-10-08",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": 50157
+    },
+    {
+     "title": "剑烛大荒",
+     "author": "爱潜水的乌贼",
+     "metric": 26412
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": 22084
     }
    ],
    "total_books": 450
