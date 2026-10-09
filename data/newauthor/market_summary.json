@@ -1,5 +1,5 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-09",
  "category_heat": [
   {
    "name": "全部",
@@ -33,6 +33,18 @@
   },
   {
    "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -74,71 +86,59 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 27,
-   "metric_total": 0,
-   "heat": 2700
-  },
-  {
    "name": "体育",
-   "count": 16,
+   "count": 23,
    "metric_total": 0,
-   "heat": 1600
-  },
-  {
-   "name": "军事",
-   "count": 14,
-   "metric_total": 0,
-   "heat": 1400
+   "heat": 2300
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 59
+   "count": 65
   },
   {
    "keyword": "系统",
-   "count": 31
+   "count": 34
   },
   {
    "keyword": "重生",
+   "count": 27
+  },
+  {
+   "keyword": "修仙",
    "count": 20
   },
   {
    "keyword": "末世",
-   "count": 15
-  },
-  {
-   "keyword": "修仙",
-   "count": 13
+   "count": 14
   },
   {
    "keyword": "诡异",
-   "count": 10
+   "count": 12
   },
   {
    "keyword": "诸天",
-   "count": 9
+   "count": 11
   },
   {
-   "keyword": "副本",
-   "count": 8
+   "keyword": "无敌",
+   "count": 10
   },
   {
    "keyword": "科技",
    "count": 6
   },
   {
-   "keyword": "异能",
+   "keyword": "天才",
    "count": 6
   },
   {
-   "keyword": "历史",
-   "count": 5
+   "keyword": "副本",
+   "count": 6
   },
   {
-   "keyword": "无敌",
+   "keyword": "灵异",
    "count": 5
   }
  ],
@@ -710,6 +710,27 @@
     }
    ],
    "total_books": 417
+  },
+  {
+   "date": "2026-10-09",
+   "top3": [
+    {
+     "title": "苟在乱世，我的功法无限升级",
+     "author": "月下李太白",
+     "metric": null
+    },
+    {
+     "title": "玄鉴：鸿雪仙宗",
+     "author": "淮水沧澜",
+     "metric": null
+    },
+    {
+     "title": "神秘复苏之七号世界",
+     "author": "多高算高手",
+     "metric": null
+    }
+   ],
+   "total_books": 443
   }
  ]
 }

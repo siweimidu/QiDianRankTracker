@@ -1,5 +1,5 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "category_heat": [
   {
    "name": "全部",
@@ -21,62 +21,160 @@
   },
   {
    "name": "武侠",
-   "count": 20,
+   "count": 30,
    "metric_total": 0,
-   "heat": 2000
+   "heat": 3000
+  },
+  {
+   "name": "仙侠",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "都市",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "科幻",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "诸天无限",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "悬疑灵异",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "轻小说",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "军事",
+   "count": 29,
+   "metric_total": 0,
+   "heat": 2900
+  },
+  {
+   "name": "体育",
+   "count": 27,
+   "metric_total": 0,
+   "heat": 2700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 23
+   "count": 87
   },
   {
    "keyword": "系统",
-   "count": 13
-  },
-  {
-   "keyword": "修仙",
-   "count": 5
-  },
-  {
-   "keyword": "悬疑",
-   "count": 3
-  },
-  {
-   "keyword": "玄幻",
-   "count": 3
-  },
-  {
-   "keyword": "天才",
-   "count": 2
-  },
-  {
-   "keyword": "都市",
-   "count": 2
-  },
-  {
-   "keyword": "炼丹",
-   "count": 2
+   "count": 47
   },
   {
    "keyword": "重生",
-   "count": 2
+   "count": 24
   },
   {
-   "keyword": "宗门",
-   "count": 2
+   "keyword": "修仙",
+   "count": 21
   },
   {
-   "keyword": "大明",
-   "count": 2
+   "keyword": "诸天",
+   "count": 17
   },
   {
-   "keyword": "热血",
-   "count": 2
+   "keyword": "无敌",
+   "count": 11
+  },
+  {
+   "keyword": "玄幻",
+   "count": 7
+  },
+  {
+   "keyword": "历史",
+   "count": 7
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
+  },
+  {
+   "keyword": "种田",
+   "count": 6
+  },
+  {
+   "keyword": "天才",
+   "count": 6
+  },
+  {
+   "keyword": "异能",
+   "count": 6
   }
  ],
- "author_power": [],
+ "author_power": [
+  {
+   "author": "摸鱼海绵宝宝",
+   "books": 4,
+   "top10": 1,
+   "bestRank": 8,
+   "titles": [
+    "重生03：这个新秀有点强",
+    "重生之我靠天赋打穿NBA",
+    "NBA：队友杜兰特！破防就变强"
+   ]
+  },
+  {
+   "author": "我吃葵花籽",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 5,
+   "titles": [
+    "四合院之从何大清截胡秦淮茹开始",
+    "四合院之从小小中医开始"
+   ]
+  },
+  {
+   "author": "末世之天地",
+   "books": 2,
+   "top10": 0,
+   "bestRank": 13,
+   "titles": [
+    "武极锦衣",
+    "诸天种界"
+   ]
+  }
+ ],
  "timeline": [
   {
    "date": "2026-08-19",
@@ -980,6 +1078,27 @@
     }
    ],
    "total_books": 110
+  },
+  {
+   "date": "2026-10-09",
+   "top3": [
+    {
+     "title": "我，勇者，全网公敌",
+     "author": "秋后问斩中",
+     "metric": null
+    },
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "超绝难度的地下城人气太低了",
+     "author": "亦枫雪",
+     "metric": null
+    }
+   ],
+   "total_books": 446
   }
  ]
 }
