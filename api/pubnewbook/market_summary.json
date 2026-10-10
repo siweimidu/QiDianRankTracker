@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "category_heat": [
   {
    "name": "全部",
@@ -44,6 +44,12 @@
    "heat": 3000
   },
   {
+   "name": "军事",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
    "count": 30,
    "metric_total": 0,
@@ -80,66 +86,60 @@
    "heat": 3000
   },
   {
-   "name": "军事",
+   "name": "体育",
    "count": 29,
    "metric_total": 0,
    "heat": 2900
-  },
-  {
-   "name": "体育",
-   "count": 27,
-   "metric_total": 0,
-   "heat": 2700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 87
+   "count": 79
   },
   {
    "keyword": "系统",
-   "count": 47
+   "count": 43
   },
   {
    "keyword": "重生",
-   "count": 24
+   "count": 23
   },
   {
    "keyword": "修仙",
-   "count": 21
+   "count": 22
   },
   {
    "keyword": "诸天",
-   "count": 17
+   "count": 16
   },
   {
    "keyword": "无敌",
    "count": 11
   },
   {
-   "keyword": "玄幻",
-   "count": 7
-  },
-  {
    "keyword": "历史",
-   "count": 7
+   "count": 8
   },
   {
    "keyword": "诡异",
    "count": 7
   },
   {
+   "keyword": "玄幻",
+   "count": 6
+  },
+  {
+   "keyword": "大明",
+   "count": 6
+  },
+  {
    "keyword": "种田",
-   "count": 6
+   "count": 5
   },
   {
-   "keyword": "天才",
-   "count": 6
-  },
-  {
-   "keyword": "异能",
-   "count": 6
+   "keyword": "悬疑",
+   "count": 5
   }
  ],
  "author_power": [
@@ -147,9 +147,9 @@
    "author": "摸鱼海绵宝宝",
    "books": 4,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 9,
    "titles": [
-    "重生03：这个新秀有点强",
+    "NBA重生03：这个新秀有点强",
     "重生之我靠天赋打穿NBA",
     "NBA：队友杜兰特！破防就变强"
    ]
@@ -157,8 +157,8 @@
   {
    "author": "我吃葵花籽",
    "books": 2,
-   "top10": 2,
-   "bestRank": 5,
+   "top10": 1,
+   "bestRank": 6,
    "titles": [
     "四合院之从何大清截胡秦淮茹开始",
     "四合院之从小小中医开始"
@@ -168,7 +168,7 @@
    "author": "末世之天地",
    "books": 2,
    "top10": 0,
-   "bestRank": 13,
+   "bestRank": 14,
    "titles": [
     "武极锦衣",
     "诸天种界"
@@ -1099,6 +1099,27 @@
     }
    ],
    "total_books": 446
+  },
+  {
+   "date": "2026-10-10",
+   "top3": [
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "我，勇者，全网公敌",
+     "author": "秋后问斩中",
+     "metric": null
+    },
+    {
+     "title": "战锤：火蜥蜴的锻造之王",
+     "author": "作家sihhZ8",
+     "metric": null
+    }
+   ],
+   "total_books": 449
   }
  ]
 }

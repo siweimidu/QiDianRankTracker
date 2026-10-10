@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "category_heat": [
   {
    "name": "全部",
@@ -69,21 +69,21 @@
   },
   {
    "name": "武侠",
-   "count": 26,
+   "count": 22,
    "metric_total": 0,
-   "heat": 2600
+   "heat": 2200
   },
   {
    "name": "悬疑灵异",
-   "count": 21,
+   "count": 20,
    "metric_total": 0,
-   "heat": 2100
+   "heat": 2000
   },
   {
    "name": "军事",
-   "count": 16,
+   "count": 17,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1700
   },
   {
    "name": "现实",
@@ -95,22 +95,22 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 93
+   "count": 96
   },
   {
    "keyword": "系统",
-   "count": 27
+   "count": 28
   },
   {
    "keyword": "重生",
-   "count": 18
-  },
-  {
-   "keyword": "修仙",
-   "count": 13
+   "count": 16
   },
   {
    "keyword": "诸天",
+   "count": 14
+  },
+  {
+   "keyword": "修仙",
    "count": 13
   },
   {
@@ -123,14 +123,10 @@
   },
   {
    "keyword": "无敌",
-   "count": 6
-  },
-  {
-   "keyword": "天才",
    "count": 5
   },
   {
-   "keyword": "工业",
+   "keyword": "天才",
    "count": 5
   },
   {
@@ -139,6 +135,10 @@
   },
   {
    "keyword": "灵异",
+   "count": 5
+  },
+  {
+   "keyword": "副本",
    "count": 5
   }
  ],
@@ -1214,6 +1214,27 @@
     }
    ],
    "total_books": 398
+  },
+  {
+   "date": "2026-10-10",
+   "top3": [
+    {
+     "title": "白衣卿相",
+     "author": "王梓钧",
+     "metric": null
+    },
+    {
+     "title": "哨响之前",
+     "author": "北咎初妆身是客",
+     "metric": null
+    },
+    {
+     "title": "廓晋",
+     "author": "榴弹怕水",
+     "metric": null
+    }
+   ],
+   "total_books": 394
   }
  ]
 }
