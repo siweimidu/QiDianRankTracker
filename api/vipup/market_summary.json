@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "category_heat": [
   {
    "name": "全部",
@@ -50,6 +50,12 @@
    "heat": 3000
   },
   {
+   "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "游戏",
    "count": 30,
    "metric_total": 0,
@@ -84,53 +90,39 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "历史",
-   "count": 25,
-   "metric_total": 0,
-   "heat": 2500
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 137
+   "count": 135
   },
   {
    "keyword": "系统",
-   "count": 44
+   "count": 49
+  },
+  {
+   "keyword": "重生",
+   "count": 25
   },
   {
    "keyword": "修仙",
    "count": 20
   },
   {
-   "keyword": "重生",
+   "keyword": "诸天",
    "count": 20
   },
   {
-   "keyword": "诸天",
-   "count": 18
-  },
-  {
    "keyword": "万界",
-   "count": 10
-  },
-  {
-   "keyword": "历史",
-   "count": 9
-  },
-  {
-   "keyword": "天才",
-   "count": 9
-  },
-  {
-   "keyword": "副本",
-   "count": 9
+   "count": 12
   },
   {
    "keyword": "诡异",
+   "count": 8
+  },
+  {
+   "keyword": "副本",
    "count": 8
   },
   {
@@ -138,7 +130,15 @@
    "count": 7
   },
   {
-   "keyword": "灵异",
+   "keyword": "天才",
+   "count": 7
+  },
+  {
+   "keyword": "科技",
+   "count": 7
+  },
+  {
+   "keyword": "历史",
    "count": 7
   }
  ],
@@ -146,32 +146,12 @@
   {
    "author": "佚名",
    "books": 4,
-   "top10": 2,
-   "bestRank": 2,
+   "top10": 1,
+   "bestRank": 8,
    "titles": [
     "武逆焚天",
-    "房屋求生？我有门神，百鬼不侵",
-    "劫天运"
-   ]
-  },
-  {
-   "author": "山隐水迢迢",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 2,
-   "titles": [
-    "斗罗：转生神主日，多米尼克斯！",
-    "斗破：落地掌天瓶，开局韩天尊！"
-   ]
-  },
-  {
-   "author": "眉师娘",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 7,
-   "titles": [
-    "万物希声",
-    "云去山如画"
+    "蒸汽纪元：大疫百年后的幸存者",
+    "房屋求生？我有门神，百鬼不侵"
    ]
   }
  ],
@@ -1267,6 +1247,27 @@
     }
    ],
    "total_books": 445
+  },
+  {
+   "date": "2026-10-11",
+   "top3": [
+    {
+     "title": "我立的flag都成真了？",
+     "author": "纯情小热狗",
+     "metric": null
+    },
+    {
+     "title": "鬼灭：骗人，你这不是水之呼吸",
+     "author": "铠甲神be",
+     "metric": null
+    },
+    {
+     "title": "斗罗龙王：都封号斗罗了才来系统",
+     "author": "一只阿白",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }

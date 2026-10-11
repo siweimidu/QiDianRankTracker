@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "category_heat": [
   {
    "name": "全部",
@@ -95,7 +95,7 @@
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 96
+   "count": 97
   },
   {
    "keyword": "系统",
@@ -103,7 +103,7 @@
   },
   {
    "keyword": "重生",
-   "count": 21
+   "count": 22
   },
   {
    "keyword": "修仙",
@@ -115,7 +115,11 @@
   },
   {
    "keyword": "历史",
-   "count": 11
+   "count": 12
+  },
+  {
+   "keyword": "谍战",
+   "count": 8
   },
   {
    "keyword": "灵异",
@@ -126,15 +130,11 @@
    "count": 7
   },
   {
-   "keyword": "谍战",
-   "count": 7
+   "keyword": "科技",
+   "count": 4
   },
   {
    "keyword": "工业",
-   "count": 5
-  },
-  {
-   "keyword": "科技",
    "count": 4
   },
   {
@@ -149,8 +149,8 @@
    "top10": 4,
    "bestRank": 1,
    "titles": [
-    "剑烛大荒",
     "诡秘之主",
+    "剑烛大荒",
     "宿命之环"
    ]
   },
@@ -158,22 +158,11 @@
    "author": "远瞳",
    "books": 4,
    "top10": 3,
-   "bestRank": 5,
+   "bestRank": 6,
    "titles": [
     "异度旅社",
     "黎明之剑",
     "深海余烬"
-   ]
-  },
-  {
-   "author": "眉师娘",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 3,
-   "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "茫茫白昼漫游"
    ]
   },
   {
@@ -213,7 +202,7 @@
    "author": "我会修空调",
    "books": 3,
    "top10": 1,
-   "bestRank": 8,
+   "bestRank": 7,
    "titles": [
     "我有一座冒险屋",
     "我的治愈系游戏",
@@ -231,13 +220,23 @@
    ]
   },
   {
-   "author": "穿黄衣的阿肥",
+   "author": "温柔劝睡师",
    "books": 2,
    "top10": 2,
    "bestRank": 2,
    "titles": [
-    "活人深处",
-    "我的细胞监狱"
+    "噩梦使徒",
+    "噩梦惊袭"
+   ]
+  },
+  {
+   "author": "囧囧哟",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 3,
+   "titles": [
+    "诡秘：罗塞尔，叫我女皇陛下",
+    "诡秘：善魔女"
    ]
   },
   {
@@ -251,30 +250,20 @@
    ]
   },
   {
-   "author": "温柔劝睡师",
+   "author": "眉师娘",
    "books": 2,
    "top10": 2,
    "bestRank": 3,
    "titles": [
-    "噩梦使徒",
-    "噩梦惊袭"
-   ]
-  },
-  {
-   "author": "一片苏叶",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 4,
-   "titles": [
-    "剑出大唐",
-    "清光宝鉴"
+    "万物希声",
+    "奔腾年代——向南向北"
    ]
   },
   {
    "author": "柳岸花又明",
    "books": 2,
    "top10": 2,
-   "bestRank": 4,
+   "bestRank": 5,
    "titles": [
     "重生高考前99天",
     "我真没想重生啊"
@@ -288,6 +277,16 @@
    "titles": [
     "盖世双谐",
     "惊悚乐园"
+   ]
+  },
+  {
+   "author": "一片苏叶",
+   "books": 2,
+   "top10": 2,
+   "bestRank": 7,
+   "titles": [
+    "清光宝鉴",
+    "剑出大唐"
    ]
   },
   {
@@ -1375,6 +1374,27 @@
   },
   {
    "date": "2026-10-10",
+   "top3": [
+    {
+     "title": "请勿高考时渡劫",
+     "author": "最白的乌鸦",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "没钱修什么仙？",
+     "author": "熊狼狗",
+     "metric": null
+    }
+   ],
+   "total_books": 450
+  },
+  {
+   "date": "2026-10-11",
    "top3": [
     {
      "title": "请勿高考时渡劫",

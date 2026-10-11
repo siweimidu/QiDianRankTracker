@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "category_heat": [
   {
    "name": "全部",
@@ -62,6 +62,12 @@
    "heat": 3000
   },
   {
+   "name": "体育",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "科幻",
    "count": 30,
    "metric_total": 0,
@@ -84,53 +90,43 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
-  },
-  {
-   "name": "体育",
-   "count": 29,
-   "metric_total": 0,
-   "heat": 2900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 79
+   "count": 77
   },
   {
    "keyword": "系统",
-   "count": 43
+   "count": 42
   },
   {
    "keyword": "重生",
-   "count": 23
+   "count": 25
   },
   {
    "keyword": "修仙",
-   "count": 22
+   "count": 21
   },
   {
    "keyword": "诸天",
-   "count": 16
+   "count": 17
   },
   {
    "keyword": "无敌",
-   "count": 11
+   "count": 10
   },
   {
    "keyword": "历史",
-   "count": 8
+   "count": 10
   },
   {
    "keyword": "诡异",
-   "count": 7
+   "count": 8
   },
   {
    "keyword": "玄幻",
-   "count": 6
-  },
-  {
-   "keyword": "大明",
    "count": 6
   },
   {
@@ -140,6 +136,10 @@
   {
    "keyword": "悬疑",
    "count": 5
+  },
+  {
+   "keyword": "科技",
+   "count": 5
   }
  ],
  "author_power": [
@@ -147,7 +147,7 @@
    "author": "摸鱼海绵宝宝",
    "books": 4,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 8,
    "titles": [
     "NBA重生03：这个新秀有点强",
     "重生之我靠天赋打穿NBA",
@@ -168,7 +168,7 @@
    "author": "末世之天地",
    "books": 2,
    "top10": 0,
-   "bestRank": 14,
+   "bestRank": 13,
    "titles": [
     "武极锦衣",
     "诸天种界"
@@ -1120,6 +1120,27 @@
     }
    ],
    "total_books": 449
+  },
+  {
+   "date": "2026-10-11",
+   "top3": [
+    {
+     "title": "洪荒种田：开天第一道光",
+     "author": "滴茶",
+     "metric": null
+    },
+    {
+     "title": "我，勇者，全网公敌",
+     "author": "秋后问斩中",
+     "metric": null
+    },
+    {
+     "title": "战锤：火蜥蜴的锻造之王",
+     "author": "作家sihhZ8",
+     "metric": null
+    }
+   ],
+   "total_books": 450
   }
  ]
 }
