@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "category_heat": [
   {
    "name": "全部",
@@ -38,25 +38,7 @@
    "heat": 3000
   },
   {
-   "name": "现实",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "军事",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
    "name": "历史",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -86,60 +68,78 @@
    "heat": 3000
   },
   {
-   "name": "体育",
-   "count": 25,
+   "name": "游戏",
+   "count": 11,
    "metric_total": 0,
-   "heat": 2500
+   "heat": 1100
+  },
+  {
+   "name": "体育",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
+  },
+  {
+   "name": "现实",
+   "count": 8,
+   "metric_total": 0,
+   "heat": 800
+  },
+  {
+   "name": "军事",
+   "count": 6,
+   "metric_total": 0,
+   "heat": 600
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 70
+   "count": 66
   },
   {
    "keyword": "系统",
-   "count": 35
-  },
-  {
-   "keyword": "重生",
-   "count": 27
+   "count": 39
   },
   {
    "keyword": "修仙",
-   "count": 16
+   "count": 25
   },
   {
-   "keyword": "末世",
-   "count": 13
-  },
-  {
-   "keyword": "无敌",
-   "count": 11
+   "keyword": "重生",
+   "count": 15
   },
   {
    "keyword": "诸天",
    "count": 10
   },
   {
-   "keyword": "诡异",
+   "keyword": "末世",
    "count": 10
   },
   {
    "keyword": "科技",
+   "count": 9
+  },
+  {
+   "keyword": "诡异",
+   "count": 7
+  },
+  {
+   "keyword": "丧尸",
    "count": 6
   },
   {
-   "keyword": "三国",
-   "count": 6
-  },
-  {
-   "keyword": "副本",
-   "count": 6
+   "keyword": "无敌",
+   "count": 5
   },
   {
    "keyword": "历史",
    "count": 5
+  },
+  {
+   "keyword": "都市",
+   "count": 4
   }
  ],
  "author_power": [],
@@ -752,6 +752,27 @@
     }
    ],
    "total_books": 445
+  },
+  {
+   "date": "2026-10-12",
+   "top3": [
+    {
+     "title": "半岛：什么叫你们都在一个团啊",
+     "author": "柯明夏",
+     "metric": null
+    },
+    {
+     "title": "蹩脚修仙之遍地都是存钱罐",
+     "author": "胜利在前方",
+     "metric": null
+    },
+    {
+     "title": "重生，他只做创一代",
+     "author": "自在的梦呓",
+     "metric": null
+    }
+   ],
+   "total_books": 364
   }
  ]
 }

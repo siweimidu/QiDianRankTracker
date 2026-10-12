@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "category_heat": [
   {
    "name": "全部",
@@ -69,9 +69,9 @@
   },
   {
    "name": "军事",
-   "count": 16,
+   "count": 15,
    "metric_total": 0,
-   "heat": 1600
+   "heat": 1500
   },
   {
    "name": "悬疑灵异",
@@ -99,7 +99,7 @@
   },
   {
    "keyword": "系统",
-   "count": 25
+   "count": 24
   },
   {
    "keyword": "重生",
@@ -115,10 +115,14 @@
   },
   {
    "keyword": "历史",
-   "count": 9
+   "count": 8
   },
   {
    "keyword": "三国",
+   "count": 6
+  },
+  {
+   "keyword": "大明",
    "count": 6
   },
   {
@@ -126,19 +130,15 @@
    "count": 6
   },
   {
-   "keyword": "末世",
-   "count": 5
-  },
-  {
    "keyword": "副本",
-   "count": 5
+   "count": 6
   },
   {
-   "keyword": "工业",
+   "keyword": "种田",
    "count": 4
   },
   {
-   "keyword": "万界",
+   "keyword": "工业",
    "count": 4
   }
  ],
@@ -1256,6 +1256,27 @@
     }
    ],
    "total_books": 376
+  },
+  {
+   "date": "2026-10-12",
+   "top3": [
+    {
+     "title": "夜无疆",
+     "author": "辰东",
+     "metric": null
+    },
+    {
+     "title": "玄鉴仙族",
+     "author": "季越人",
+     "metric": null
+    },
+    {
+     "title": "青山",
+     "author": "会说话的肘子",
+     "metric": null
+    }
+   ],
+   "total_books": 375
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "category_heat": [
   {
    "name": "全部",
@@ -33,12 +33,6 @@
   },
   {
    "name": "都市",
-   "count": 30,
-   "metric_total": 0,
-   "heat": 3000
-  },
-  {
-   "name": "现实",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -90,79 +84,74 @@
    "count": 30,
    "metric_total": 0,
    "heat": 3000
+  },
+  {
+   "name": "现实",
+   "count": 9,
+   "metric_total": 0,
+   "heat": 900
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 109
-  },
-  {
-   "keyword": "重生",
-   "count": 29
+   "count": 125
   },
   {
    "keyword": "系统",
-   "count": 28
+   "count": 31
+  },
+  {
+   "keyword": "重生",
+   "count": 31
   },
   {
    "keyword": "修仙",
-   "count": 15
+   "count": 17
   },
   {
    "keyword": "诸天",
-   "count": 14
-  },
-  {
-   "keyword": "历史",
-   "count": 10
+   "count": 15
   },
   {
    "keyword": "灵异",
-   "count": 8
+   "count": 9
   },
   {
    "keyword": "大明",
-   "count": 8
+   "count": 9
   },
   {
    "keyword": "诡异",
+   "count": 8
+  },
+  {
+   "keyword": "历史",
    "count": 6
   },
   {
-   "keyword": "万界",
-   "count": 6
+   "keyword": "谍战",
+   "count": 5
   },
   {
    "keyword": "无限流",
-   "count": 6
+   "count": 5
   },
   {
-   "keyword": "种田",
-   "count": 5
+   "keyword": "直播",
+   "count": 4
   }
  ],
  "author_power": [
   {
    "author": "眉师娘",
-   "books": 6,
+   "books": 4,
    "top10": 4,
-   "bestRank": 6,
+   "bestRank": 4,
    "titles": [
-    "万物希声",
-    "奔腾年代——向南向北",
-    "说吧，秘密"
-   ]
-  },
-  {
-   "author": "爱潜水的乌贼",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 1,
-   "titles": [
-    "剑烛大荒",
-    "诡秘之主",
-    "宿命之环"
+    "虎爸豹妈",
+    "云去山如画",
+    "梅城"
    ]
   },
   {
@@ -171,31 +160,9 @@
    "top10": 3,
    "bestRank": 3,
    "titles": [
-    "廓晋",
     "绍宋",
+    "廓晋",
     "覆汉"
-   ]
-  },
-  {
-   "author": "卖报小郎君",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 4,
-   "titles": [
-    "临圣",
-    "大奉打更人",
-    "灵境行者"
-   ]
-  },
-  {
-   "author": "我吃西红柿",
-   "books": 3,
-   "top10": 3,
-   "bestRank": 5,
-   "titles": [
-    "九鼎记",
-    "吞噬星空",
-    "吞噬星空2起源大陆"
    ]
   },
   {
@@ -205,76 +172,45 @@
    "bestRank": 2,
    "titles": [
     "异度旅社",
-    "深海余烬",
-    "黎明之剑"
+    "黎明之剑",
+    "深海余烬"
    ]
   },
   {
-   "author": "我会修空调",
-   "books": 3,
-   "top10": 2,
-   "bestRank": 7,
-   "titles": [
-    "我有一座冒险屋",
-    "我的治愈系游戏",
-    "怪谈游戏设计师"
-   ]
-  },
-  {
-   "author": "柳岸花又明",
+   "author": "卖报小郎君",
    "books": 2,
    "top10": 2,
-   "bestRank": 2,
+   "bestRank": 4,
    "titles": [
-    "重生高考前99天",
-    "我真没想重生啊"
-   ]
-  },
-  {
-   "author": "雪映红梅",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 3,
-   "titles": [
-    "王牌律师",
-    "律师本色"
-   ]
-  },
-  {
-   "author": "猪头七",
-   "books": 2,
-   "top10": 2,
-   "bestRank": 6,
-   "titles": [
-    "东方既白",
-    "我的谍战岁月"
+    "临圣",
+    "灵境行者"
    ]
   },
   {
    "author": "最白的乌鸦",
    "books": 2,
-   "top10": 1,
-   "bestRank": 3,
+   "top10": 2,
+   "bestRank": 5,
    "titles": [
     "请勿高考时渡劫",
     "谁让他修仙的！"
    ]
   },
   {
-   "author": "和晓",
+   "author": "白担心",
    "books": 2,
-   "top10": 1,
-   "bestRank": 7,
+   "top10": 2,
+   "bestRank": 6,
    "titles": [
-    "上海凡人传",
-    "浓情绮梦坊"
+    "亮剑：谁敢叫我程瞎子？",
+    "亮剑：蓝星工业杀疯了"
    ]
   },
   {
    "author": "温柔劝睡师",
    "books": 2,
-   "top10": 1,
-   "bestRank": 7,
+   "top10": 2,
+   "bestRank": 8,
    "titles": [
     "噩梦使徒",
     "噩梦惊袭"
@@ -284,20 +220,80 @@
    "author": "一片苏叶",
    "books": 2,
    "top10": 1,
-   "bestRank": 9,
+   "bestRank": 1,
    "titles": [
-    "剑出大唐",
-    "清光宝鉴"
+    "清光宝鉴",
+    "剑出大唐"
+   ]
+  },
+  {
+   "author": "三天两觉",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 4,
+   "titles": [
+    "盖世双谐",
+    "惊悚乐园"
+   ]
+  },
+  {
+   "author": "新安君",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "穿越天龙：天南我为尊",
+    "穿越神雕：我为西狂"
+   ]
+  },
+  {
+   "author": "猪头七",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 5,
+   "titles": [
+    "东方既白",
+    "我的谍战岁月"
    ]
   },
   {
    "author": "辰东",
    "books": 2,
    "top10": 1,
-   "bestRank": 10,
+   "bestRank": 7,
    "titles": [
     "夜无疆",
     "遮天"
+   ]
+  },
+  {
+   "author": "我会修空调",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 7,
+   "titles": [
+    "我有一座冒险屋",
+    "我的治愈系游戏"
+   ]
+  },
+  {
+   "author": "爱潜水的乌贼",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "剑烛大荒",
+    "诡秘之主"
+   ]
+  },
+  {
+   "author": "柳岸花又明",
+   "books": 2,
+   "top10": 1,
+   "bestRank": 10,
+   "titles": [
+    "重生高考前99天",
+    "我真没想重生啊"
    ]
   }
  ],
@@ -1414,6 +1410,27 @@
     }
    ],
    "total_books": 450
+  },
+  {
+   "date": "2026-10-12",
+   "top3": [
+    {
+     "title": "夜夜行歌",
+     "author": "关关公子",
+     "metric": null
+    },
+    {
+     "title": "神宠供应商",
+     "author": "轻泉流响",
+     "metric": null
+    },
+    {
+     "title": "原来我是仙道天骄",
+     "author": "醋六香",
+     "metric": null
+    }
+   ],
+   "total_books": 429
   }
  ]
 }
