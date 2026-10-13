@@ -1,5 +1,5 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "category_heat": [
   {
    "name": "全部",
@@ -38,7 +38,19 @@
    "heat": 3000
   },
   {
+   "name": "现实",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
    "name": "历史",
+   "count": 30,
+   "metric_total": 0,
+   "heat": 3000
+  },
+  {
+   "name": "游戏",
    "count": 30,
    "metric_total": 0,
    "heat": 3000
@@ -68,77 +80,65 @@
    "heat": 3000
   },
   {
-   "name": "游戏",
-   "count": 11,
+   "name": "军事",
+   "count": 22,
    "metric_total": 0,
-   "heat": 1100
+   "heat": 2200
   },
   {
    "name": "体育",
-   "count": 9,
+   "count": 17,
    "metric_total": 0,
-   "heat": 900
-  },
-  {
-   "name": "现实",
-   "count": 8,
-   "metric_total": 0,
-   "heat": 800
-  },
-  {
-   "name": "军事",
-   "count": 6,
-   "metric_total": 0,
-   "heat": 600
+   "heat": 1700
   }
  ],
  "keyword_heat": [
   {
    "keyword": "穿越",
-   "count": 66
+   "count": 65
   },
   {
    "keyword": "系统",
-   "count": 39
-  },
-  {
-   "keyword": "修仙",
-   "count": 25
+   "count": 43
   },
   {
    "keyword": "重生",
-   "count": 15
+   "count": 26
+  },
+  {
+   "keyword": "修仙",
+   "count": 23
   },
   {
    "keyword": "诸天",
-   "count": 10
+   "count": 12
   },
   {
    "keyword": "末世",
    "count": 10
   },
   {
-   "keyword": "科技",
+   "keyword": "三国",
    "count": 9
   },
   {
+   "keyword": "科技",
+   "count": 8
+  },
+  {
    "keyword": "诡异",
+   "count": 8
+  },
+  {
+   "keyword": "无敌",
    "count": 7
   },
   {
    "keyword": "丧尸",
-   "count": 6
-  },
-  {
-   "keyword": "无敌",
    "count": 5
   },
   {
    "keyword": "历史",
-   "count": 5
-  },
-  {
-   "keyword": "都市",
    "count": 4
   }
  ],
@@ -773,6 +773,27 @@
     }
    ],
    "total_books": 364
+  },
+  {
+   "date": "2026-10-13",
+   "top3": [
+    {
+     "title": "半岛：什么叫你们都在一个团啊",
+     "author": "柯明夏",
+     "metric": null
+    },
+    {
+     "title": "蹩脚修仙之遍地都是存钱罐",
+     "author": "胜利在前方",
+     "metric": null
+    },
+    {
+     "title": "从美食抽奖开始",
+     "author": "魏籁可期",
+     "metric": null
+    }
+   ],
+   "total_books": 429
   }
  ]
 }
